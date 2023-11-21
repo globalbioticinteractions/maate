@@ -1,0 +1,395 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="7b1ab46e-b03e-47db-b0fb-2ae856a0ce2b/v1.23" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>7b1ab46e-b03e-47db-b0fb-2ae856a0ce2b</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=amphibians_of_ecuador</alternateIdentifier>
+  <title xml:lang="spa">Amphibians of Ecuador/Anfibios de Ecuador</title>
+      <creator>
+    <individualName>
+        <givenName>Luis A.</givenName>
+      <surName>Coloma</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Director</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>coloma.l@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibioswebecuador.ec/</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Néstor A.</givenName>
+      <surName>Acosta-Buenaño</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Investigador Asociado</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>593-9-95921980</phone>
+    <electronicMailAddress>sylvaticus.nab@gmail.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Luis A.</givenName>
+      <surName>Coloma</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Director</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>coloma.l@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibioswebecuador.ec/</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Nestor A.</givenName>
+      <surName>Acosta-Buenaño</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Investigador Asociado</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>593-9-95921980</phone>
+    <electronicMailAddress>sylvaticus.nab@gmail.com</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Néstor</givenName>
+      <surName>Acosta Buenaño</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente</organizationName>
+    <positionName>Node Manager, GBIF Ecuador</positionName>
+    <address>
+        <deliveryPoint>Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2-3987600 ext. 1422</phone>
+    <electronicMailAddress>nestor.acosta@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+    <role>custodianSteward</role>
+      </associatedParty>
+  <pubDate>
+      2022-11-30
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Ecuador ocupa el cuarto lugar en el mundo con la mayor diversidad de anfibios (600 especies, 276 endémicas), después de Brasil, Colombia y Perú. Sin embargo, entre estos países megadiversos, Ecuador es el más diverso si se considera su número de especies por unidad de superficie (0.002 especies por kilómetro cuadrado ). Es decir, Ecuador alberga en su territorio 3 veces más especies por kilómetro cuadrado que Colombia y 21 veces más que Brasil.</para>
+    <para>Esta inmensa diversidad numérica va de la mano de la diversidad genómica, proteómica, morfológica, ecológica, etológica, de formas de vida, de belleza estética, de usos biomédicos potenciales, de conocimientos ancestrales, de valores económicos, e innumerables otras razones, las cuales por si solas o en conjunto justifican por demás que esta riqueza anfibia sea considerada un patrimonio natural de la humanidad y por ende su investigación y conservación sean prioritarias. No cabe duda que el Buen Vivir depende de lo que las generaciones actuales y futuras hagan por este grupo de animales que enfrentan una crisis global de extinción, pues los anfibios son un termómetro y las primeras víctimas de nuestra dañina huella ecológica.</para>
+    <para>Los esfuerzos globales y locales por ayudar a los anfibios son por ahora casi insignificantes y distan de lograr sus objetivos. Las disminuciones y extinciones catastróficas de anfibios en la región andina de Ecuador, las cuales se reportan de mediados de los años ochenta (Coloma &amp; Lombeida, 1992), son ejemplo de un fenómeno que no se pudo predecir ni ha sido solucionado. Actualmente, no menos del 28 % (188 especies) de anfibios ecuatorianos están en categorías de riesgo de extinción, y de entre ellos 13 especies ya están posiblemente extintas (ver Lista Roja en http://www.anfibiosecuador.ec/index.php?lr,10). Por otra parte, los datos son insuficientes para establecer el estatus de conservación de 152 especies.</para>
+    <para>La complejidad de entender la extinción anfibia al igual que lo problemático de detener la marcha de este desastre requiere de acciones proactivas de enorme magnitud. Nuevas amenazas a la diversidad (cambio climático global, patógenos emergentes) se suman a las ya conocidas como destrucción de hábitat, contaminación, especies introducidas, y otras. Por tanto, es substancial que la investigación académica y prácticas conservacionistas se fortalezcan y renueven acorde a las nuevas amenazas. En tal sentido, es esencial el desarrollo de nuevas tecnologías y el uso vanguardista de aquellas disponibles. Por ejemplo, es necesario el desarrollo de métodos de preservación criogénica de células germinales de anfibios, el desarrollo de tecnologías para la cría de anfibios ex situ, etc. Por su parte, la bioinformática permite ahora disponer de información veraz y actualizada —con la participación de la comunidad (ciencia ciudadana)—, como una herramienta útil para tomar decisiones y ejecutar acciones rápidas y apropiadas.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+            <keyword>Amphibians</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Ecuador</keyword>
+            <keyword>Nombres Vernáculos</keyword>
+            <keyword>Vernacular Names</keyword>
+            <keyword>Centro Jambatu</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Sapos</keyword>
+            <keyword>Ranas</keyword>
+            <keyword>Salamandras</keyword>
+            <keyword>Ilulos</keyword>
+            <keyword>Nombre común</keyword>
+            <keyword>Sapopedia</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Inventorythematic</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.anfibiosecuador.ec</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>This list includes all the amphibian species recorded from Ecuador to date (11 june 2019).
+
+Esta lista incluye todas las especies de anfibioss registradas hasta la presente fecha (11 de junio 2019) en Ecuador.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.211</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.037</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.472</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.091</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2019-06-11</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2019-06-11</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Ecuadorian amphibians are classified in 74 genera of 19 families. 276 species are endemic to the country. 188 species are in some category of red list threat according to Coloma, et. al. 2015. More information at http://www.anfibiosecuador.ec/index.php?aw,2
+
+Los anfibios de Ecuador se encuentran clasificados en 74 géneros de 19 familias. 276 especies son endémicas para el país. 188 especies se encuentran en alguna categoría de amenaza de lista roja de acuerdo a Coloma, et. al. 2015. Más información en http://www.anfibiosecuador.ec/index.php?aw,2</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Amphibia</taxonRankValue>
+                  <commonName>Sapos, Ranas, Ilulos, Salamandras</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Anura</taxonRankValue>
+                  <commonName>Sapos, Ranas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Caudata</taxonRankValue>
+                  <commonName>Salamadras</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Gymnophiona</taxonRankValue>
+                  <commonName>Ilulos, Cecilias</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Bufonidae</taxonRankValue>
+                  <commonName>Sapos, osornosapos, ranas arlequin</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Caeciliidae</taxonRankValue>
+                  <commonName>Cecilias</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Centrolenidae</taxonRankValue>
+                  <commonName>Ranas de cristal</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Ceratophryidae</taxonRankValue>
+                  <commonName>Sapos bocones</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Craugastoridae</taxonRankValue>
+                  <commonName>Ranas de lluvia</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Dendrobatidae</taxonRankValue>
+                  <commonName>Ranas venenosas, nodrizas, cohete</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Eleutherodactylidae</taxonRankValue>
+                  <commonName>Ranas martillito</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hemiphractidae</taxonRankValue>
+                  <commonName>Ranas incubadoras, marsupiales</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hylidae</taxonRankValue>
+                  <commonName>Ranas arbóreas, torrentícolas, de charco, de casco, dorsiespinosas, croadoras, laguneras, gladiadoras, bueyera</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Leptodactylidae</taxonRankValue>
+                  <commonName>Ranas selváticas, sapitos bullangueros, vaquita</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Microhylidae</taxonRankValue>
+                  <commonName>Ranitas hocicudas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Phyllomedusidae</taxonRankValue>
+                  <commonName>Ranas hoja, mono</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Pipidae</taxonRankValue>
+                  <commonName>Sapos de uña</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Plethodontidae</taxonRankValue>
+                  <commonName>Salamandras</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Ranidae</taxonRankValue>
+                  <commonName>Ranas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Rhinatrematidae</taxonRankValue>
+                  <commonName>Otongoritos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Siphonopidae</taxonRankValue>
+                  <commonName>Microcecilias e ilulos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Strabomantidae</taxonRankValue>
+                  <commonName>Cutines</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Telmatobiidae</taxonRankValue>
+                  <commonName>Ucos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Typhlonectidae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Luis A.</givenName>
+      <surName>Coloma</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Director</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>coloma.l@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibioswebecuador.ec/</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+  <project id="CESP2018-011">
+    <title>SapoPediaEcuador: Enciclopedia electrónica de los Anfibios de Ecuador</title>
+      <personnel>
+        <individualName>
+            <givenName>Luis A.</givenName>
+          <surName>Coloma</surName>
+        </individualName>
+              <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+        <role>editor</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Néstor A.</givenName>
+          <surName>Acosta-Buenaño</surName>
+        </individualName>
+        <role>metadataProvider</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Luis A.</givenName>
+          <surName>Coloma</surName>
+        </individualName>
+              <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+        <role>metadataProvider</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Néstor A.</givenName>
+          <surName>Acosta-Buenaño</surName>
+        </individualName>
+        <role>contentProvider</role>
+      </personnel>
+      <abstract>
+        <para>Sapopedia is an e-publication (on-line) of the Jambatu Center to make available, to the scientific and global community, information related to the taxonomy and natural history of the Amphibians of Ecuador. This work is carried out thanks to the support of different research sources and participation in national and / or regional projects, as described below:
+
+-GBIF CESP 2018-011 Project will build on the experiences from the GBIF nodes of Argentina, Brazil, Colombia, Chile, Ecuador, Guatemala, Mexico, Peru and Uruguay with the associations CyTeD and Andino NET, to conduct a regional project defining consensus procedures for the development of national species checklists. A focus will be placed on achieving compatibility of databases with existing ones. Aiming a for a broad coverage of users, outcomes will be published in Spanish, Portuguese and English. 
+
+Sapopedia es una publicación electrónica (en línea) del Centro Jambatu para poner a disposición, de la comunidad científica y global, información relacionada a la taxonomía e historia natural de los Anfibios de Ecuador. Este trabajo se realiza gracias al apoyo de diferentes fuentes de investigación y la participación en proyectos nacionales y/o regionales, como se describe a continuación:
+
+-El proyecto GBIF CESP 2018-011 se basa en las experiencias de los nodos GBIF de Argentina, Brasil, Colombia, Chile, Ecuador, Guatemala, México, Perú y Uruguay y con las asociaciones CyTeD y Andino NET, para llevar a cabo un proyecto regional que defina procedimientos de consenso para el desarrollo de listas de verificación de especies nacionales. Se centrará en lograr la compatibilidad de las bases de datos con las existentes. Con el objetivo de una amplia cobertura de usuarios, los resultados se publicarán en español, portugués e inglés.</para>
+      </abstract>
+      <funding>
+        <para>Wikiri (http://wikiri.com.ec);
+Saint Louis Zoo;
+Ministerio de Ambiente del Ecuador (Proyecto 00094106): Conservación de la Biodiversidad de Anfibios Ecuatorianos y Uso Sostenible de sus Recursos Genéticos; 
+GBIF CESP Programe – CESP 2018-011: Increasing capacities to develop National Species Checklists in the Latin America and the Caribbean Region (https://www.gbif.org/project/1tM8FmqzlyGMmUiIMaaSsI/increasing-capacities-to-develop-national-species-checklists-in-the-latin-america-and-the-caribbean-region)</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Ecuador</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2017-03-04T12:56:41.924+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="http://www.anfibiosecuador.ec/index.php?aw,2">Centro Jambatu. 2011–2019. Anfibios de Ecuador. Base de datos electróncia disponible en &lt;http://www.anfibiosecuador.ec/index.php?aw,2&gt;. Fundación Otonga. Quito, Ecuador. [Consulta: fecha].</citation>
+          <bibliography>
+                <citation>Coloma, L. A., &amp; D. Lombeida. 1992. La extinción desconocida. Diario El Comercio. Revista Familia, Abril: pp. 16–17.</citation>
+                <citation>Coloma, L. A. y Guayasamin, J. M. 2011–2017. Nombres vernáculos de Anfibios de Ecuador, SapoPediaEcuador. Base de datos electrónica disponible en http://www.anfibioswebecuador.ec/index.php?nc,11. Fundación Otonga, Quito, Ecuador.</citation>
+                <citation>Coloma, L. A., S. Lötters, W. E. Duellman, &amp; A. Miranda-Leiva. 2007. A taxonomic revision of Atelopus pachydermus, and description of two new (extinct?) species of Atelopus from Ecuador (Anura: Bufonidae). Zootaxa 1557: 1–32.</citation>
+                <citation>Frost, D. R. 2011. Amphibian Species of the World: an Online Reference. Version 5.5 (31 January, 2011). Electronic Database accessible at http://research.amnh.org/vz/herpetology/amphibia/ American Museum of Natural History, New York, USA.</citation>
+                <citation>Hutter, C. R. y Guayasamin, J. M. 2012. A new cryptic species of glassfrog (Centrolenidae: Nymphargus) from Reserva Las Gralarias, Ecuador. Zootaxa 3257:1–21.</citation>
+                <citation>IUCN. 2001. Red list categories: version 3.1. UICN Species Survival Comission, Gland 30 pp. &lt; http://www.iucnredlist.org/apps/redlist/static/categories_criteria_3_1&gt;</citation>
+                <citation>IUCN Standards and Petitions Subcommittee. 2010. Guidelines for Using the IUCN Red List Categories and Criteria. Version 8.1. Prepared by the Standards and Petitions Subcommittee in March 2010. Downloadable from http://intranet.iucn.org/webfiles/doc/SSC/RedList/RedListGuidelines.pdf</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=amphibians_of_ecuador</resourceLogoUrl>
+          <dc:replaces>7b1ab46e-b03e-47db-b0fb-2ae856a0ce2b/v1.23.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

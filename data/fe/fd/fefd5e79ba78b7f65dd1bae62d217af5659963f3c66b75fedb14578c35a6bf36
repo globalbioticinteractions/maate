@@ -1,0 +1,769 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="3ec884f2-a462-405e-8a1f-d55c462a04de/v1.29" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>https://doi.org/10.15468/jb2s6c</alternateIdentifier>
+                <alternateIdentifier>3ec884f2-a462-405e-8a1f-d55c462a04de</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-tortugas-2020-2021</alternateIdentifier>
+                <title xml:lang="spa">Monitoreo en playas de anidación de tortugas marinas en Ecuador continental</title>
+                    <creator>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593996896661</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://ww.ambiente.gob.ec</onlineUrl>
+                    <userId directory="http://orcid.org/">0000-0002-6430-1422</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Esther</givenName>
+                <surName>Palomino</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <city>Esmeraldas</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>esther.palomino@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Maria</givenName>
+                <surName>Fernandez-Correa</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>concepcion.fernandez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Billy</givenName>
+                <surName>Soto</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>johnny.soto@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Pedro</givenName>
+                <surName>Cañola-Angulo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>pedro.canola@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ana</givenName>
+                <surName>Semisterra-Lugo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ana.semisterra@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Joel</givenName>
+                <surName>Ruano-Nazareno</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>cesar.ruano@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Tatiana</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>helen.caicedo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Andrea</givenName>
+                <surName>Sosa</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>andrea.sosa@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Elvis</givenName>
+                <surName>Chavez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>elvis.chavez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ander</givenName>
+                <surName>Gracia</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ander.gracia@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Iliana</givenName>
+                <surName>Solorzano</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>iliana.solorzano@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Leonardo</givenName>
+                <surName>Alonzo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>leonardo.alonzo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ángel</givenName>
+                <surName>López</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>angel.lopez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ronald</givenName>
+                <surName>Pincay</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ronald.pincay@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Roberto</givenName>
+                <surName>Rosado</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>roberto.rosado@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Andrés</givenName>
+                <surName>Taffur</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>gustavo.taffur@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Sebastián</givenName>
+                <surName>Alvarado</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>demetrio.alvarado@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Verónica</givenName>
+                <surName>Chipe</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>veronica.chipe@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Beatriz</givenName>
+                <surName>Ladines</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>beatriz.ladines@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Raúl</givenName>
+                <surName>Coronel</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>alexis.coronel@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jennifer</givenName>
+                <surName>Montoya</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jennifer.montoya@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>José</givenName>
+                <surName>Murillo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jose.murillo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Miguel</givenName>
+                <surName>Pilay</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>miguel.pilay@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Nadia</givenName>
+                <surName>Quintero</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>nadia.quintero@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Hector</givenName>
+                <surName>Rodriguez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>hector.rodriguez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Alex</givenName>
+                <surName>Cevallos</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>alex.cevallos@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Donato</givenName>
+                <surName>España</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+            </address>
+            <electronicMailAddress>donato.espana@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jorge</givenName>
+                <surName>Villacrés</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jorge.villacres@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Karina</givenName>
+                <surName>Casierra</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>marina.casierra@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Raul</givenName>
+                <surName>Pinargote</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>raul.pinargote@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Marquéz</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Oficina Técnica Muisne</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>victor.marquez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Carlos</givenName>
+                <surName>Erazo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>carlos.erazo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Olmer</givenName>
+                <surName>Bass</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>francisco.bass@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Bayron</givenName>
+                <surName>Mosquera</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>bayron.mosquera@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>María</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>Comunidad de Galerita</organizationName>
+            <positionName>Voluntario</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Tejedor-Galera</surName>
+            </individualName>
+            <organizationName>CUSUMBI</organizationName>
+            <positionName>Voluntario</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Mabel</givenName>
+                <surName>Tuala</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <city>Puerto Lopez</city>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>mabel.tuala@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Nery</givenName>
+                <surName>Vera</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <city>Puerto López</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>nery.vera@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593996896661</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://ww.ambiente.gob.ec</onlineUrl>
+                    <userId directory="http://orcid.org/">0000-0002-6430-1422</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                <surName>Ministerio del Ambiente, Agua y Transición Ecológica</surName>
+            </individualName>
+            <organizationName>Subsecretaría de Patrimonio Natural</organizationName>
+            <positionName>Autoridad Ambiental Nacional</positionName>
+            <address>
+                    <deliveryPoint>Madrid 1159 y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59323987600</phone>
+            <electronicMailAddress>info.tortugas@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+            <role>owner</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-11-16
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Según la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza (UICN) la mayoría de las especies de tortugas marinas se encuentran en alguna categoría de amenaza.</para>
+                            <para>Por ser las tortugas marinas especies altamente migratorias,son consideradas en la política internacional como “recursos compartidos”, puesto que durante su ciclo de vida permanecen en varios ambientes de varios países.</para>
+                            <para>En Ecuador se tiene registros de anidación de las siguientes especies:</para>
+                            <para>- Tortuga Golfina (Lepidochelys olivacea)</para>
+                            <para>- Tortuga Verde(Chelonia mydas)</para>
+                            <para>- Tortuga Laúd (Dermochelys coriacea)</para>
+                            <para>- Tortuga Carey (Eretmochelys imbricata)</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Ecuador</keyword>
+                                    <keyword>tortugas marinas</keyword>
+                                    <keyword>anidación</keyword>
+                                    <keyword>exhumación</keyword>
+                                    <keyword>monitoreo</keyword>
+                                    <keyword>playas índice</keyword>
+                                    <keyword>Esmeraldas</keyword>
+                                    <keyword>Manabí</keyword>
+                                    <keyword>Santa Elena</keyword>
+                                    <keyword>Pacífico Sur</keyword>
+                                    <keyword>in situ</keyword>
+                                    <keyword>ex situ</keyword>
+                            <keywordThesaurus>Ministerio del Ambiente, Agua y Transición Ecológica, 2021</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <additionalInfo>
+                    <para>Existe información sobre exhumación de nidos disponible bajo solicitud.</para>
+                </additionalInfo>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://www.ambiente.gob.ec/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Zonas de anidación de tortugas marinas en Ecuador continental</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-81.277</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.321</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.121</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.778</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>Especies que anidan en Ecuador continental</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Lepidochelys olivacea</taxonRankValue>
+                                                <commonName>Tortuga Golfina</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Chelonia mydas</taxonRankValue>
+                                                <commonName>Tortuga Verde</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Dermochelys coriacea</taxonRankValue>
+                                                <commonName>Tortuga Laúd</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Eretmochelys imbricata</taxonRankValue>
+                                                <commonName>Tortuga Carey</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>Este set de datos se compone del reporte hecho por el personal del Ministerio del Ambiente, Agua y Transición Ecológica hecho desde territorio.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>Se actualiza la información frecuentemente.</para>
+                    </description>
+                    <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593996896661</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://ww.ambiente.gob.ec</onlineUrl>
+                    <userId directory="http://orcid.org/">0000-0002-6430-1422</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Monitoreo y control de playas de anidación.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Identificación de organismos que van a desobar o sus huellas.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Identificación y protección de nidadas.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Rehubicación de nidos a viveros en caso de encontrarse en zonas de riesgo.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Exhumación de nidadas segun la metodología.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Toma de datos, tabulación y reporte.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>El monitoreo se desarrolla periodicamente en playas dónde se tiene registros de anidaciones de tortugas marinas.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Para este proceso se usa como referencia principal el Manual sobre Técnicas de Manejo para la Conservación de las Tortugas Marinas en Playas de Anidación de la Convención Interamericana para la Protección y Conservación de las Tortugas Marinas</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2021-09-24T09:41:12.958+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Chocho V, Palomino E, Fernandez-Correa M, Soto B, Cañola-Angulo P, Semisterra-Lugo A, Ruano-Nazareno J, Caicedo T, Sosa A, Chavez E, Gracia A, Solorzano I, Alonzo L, López Á, Pincay R, Rosado R, Taffur A, Alvarado S, Chipe V, Ladines B, Coronel R, Montoya J, Murillo J, Pilay M, Quintero N, Rodriguez H, Cevallos A, España D, Villacrés J, Casierra K, Pinargote R, Marquéz V, Erazo C, Bass O, Mosquera B, Caicedo M, Tejedor-Galera D, Tuala M, Vera N (2023). Monitoreo en playas de anidación de tortugas marinas en Ecuador continental. Version 1.29. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Samplingevent dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-tortugas-2020-2021&amp;v=1.29</citation>
+                            <bibliography>
+                                        <citation identifier="https://www.ambiente.gob.ec/wp-content/uploads/downloads/2021/01/resolucion_plan-de-accion-tortugas-marinas.pdf">MAAE, WildAid, GIZ. (2020). Plan de Acción para la Conservación de las Tortugas Marinas 2020 - 2030. Ministerio del Ambiente y Agua de Ecuador, WildAid Inc., Cooperación Técnica Alemana – GIZ. Proyecto Conservación de Tortugas Marinas en la Costa de Ecuador. Guayaquil, Ecuador.</citation>
+                                        <citation>MAATE, WildAid, GIZ. (2021). Agenda de prioridades en Investigación de tortugas marinas en la Costa Continental del Ecuador, WildAid Inc., Cooperación Técnica Alemana – GIZ. Proyecto Conservación de tortugas marinas en la Costa de Ecuador. Quito, Ecuador.</citation>
+                                        <citation>Convención Interamericana para la Protección y Conservación de las Tortugas Marinas (CIT). 2011. Manual Sobre Técnicas de Manejo para la Conservación de las Tortugas Marinas en Playas de Anidación. CIT-CC8-2011-Tec.2. 52 pp.</citation>
+                                        <citation>MAATE, WildAid, GIZ. (2021). Protocolo Operativo Estándar para la Protección, Manejo y Monitoreo de Nidos de Tortugas Marinas en la Costa Continental del Ecuador, WildAid Inc., Cooperación Técnica Alemana – GIZ. Proyecto Conservación de Tortugas Marinas en la Costa de Ecuador. Guayaquil, Ecuador.</citation>
+                            </bibliography>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=monitoreo-tortugas-2020-2021</resourceLogoUrl>
+                                <formationPeriod>2020 - Presente</formationPeriod>
+                            <dc:replaces>3ec884f2-a462-405e-8a1f-d55c462a04de/v1.29.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

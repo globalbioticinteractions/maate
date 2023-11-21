@@ -1,0 +1,216 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mutpl-o/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-o</alternateIdentifier>
+  <title xml:lang="eng">MUTPL Bird Collection</title>
+      <creator>
+    <individualName>
+        <givenName>Leonardo</givenName>
+      <surName>Ordóñez-Delgado</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>lyordonez2@utpl.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4593-1728</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Leonardo</givenName>
+      <surName>Ordóñez-Delgado</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>lyordonez2@utpl.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4593-1728</userId>
+      </metadataProvider>
+  <pubDate>
+      2023-02-01
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The bird collection of the Museo de Zoología, Universidad Técnica Particular de Loja currently consists of more than 100 specimens (by the end of 2022) corresponding to 67 species, 22 families and 9 orders. Mostly skins, but there is also a small collection of eggs and nests. Most of the existing material comes from the provinces of El Oro, Loja and Zamora Chinchipe, southern Ecuador.</para>
+    <para>La colección de aves del Museo de Zoología de la Universidad Técnica Particular de Loja consta de más de 100 especímenes (al fin del 2022) correspondientes 67 especies, 22 familias y 9 órdenes. En su mayoría pieles, pero también se cuenta con una pequeña colección de huevos y nidos. La mayor cantidad del material existente para la taxa aves en el museo proviene de las provincias de El Oro, Loja y Zamora Chinchipe, sur de Ecuador.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keyword>birds</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.utpl.edu.ec/index.php</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Ecuador, but most of the specimens are from southern Ecuador, from El Oro, Loja, and Zamora Chinchipe provinces.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-80.947</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.103</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.494</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.091</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2021-02-17</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-09-23</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Bird specimens, mostly from Southern Ecuador, generally identified at species levels.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Aves</taxonRankValue>
+                  <commonName>birds</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Accipitriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Apodiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                  <commonName>nightjars</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Columbiformes</taxonRankValue>
+                  <commonName>pigeons</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+                  <commonName>passerines</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pelecaniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Piciformes</taxonRankValue>
+                  <commonName>woodpeckers</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Strigiformes</taxonRankValue>
+                  <commonName>owls</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Tinamiformes</taxonRankValue>
+                  <commonName>tinamous</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Leonardo</givenName>
+      <surName>Ordóñez-Delgado</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>lyordonez2@utpl.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4593-1728</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Paul</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Responsable del museo</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>jpszekely@utpl.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9252-1596</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-01-17T12:47:04.415+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Ordóñez-Delgado L (2023): MUTPL Bird Collection. v1.1. Museo de Zoología, Universidad Técnica Particular de Loja. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-o&amp;v=1.1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mutpl-o</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                  <collectionIdentifier>caa2788c-55f4-4b86-96ef-5adc469bb5bb</collectionIdentifier>
+                <collectionName>MUTPL Bird Collection</collectionName>
+              </collection>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mutpl-o/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,9 @@
+{ 
+  "format": "rss",
+  "_citation": "Montenegro M, Gallardo L, Ponce D, Pantoja M, Fuentes S, Mosquera Ordoñez F, Espinoza W, Medina G, Acuña González M, Morillo D, Iñiguez L, Juela F, Carrera R, Naranjo D, Carrera A, Calle G, León L M, Astudillo M, Onofa J, Tapie J, Macías S, Salazar W, Castillo H, Cevallos S, Andi Y, Chicaiza R, Alomoto K, Aulestia P (2023). Registros de conflicto humano-fauna en Ecuador desde el año 2009 al 2022. Ministerio del Ambiente, Agua y Transición Ecológica de Ecuador - MAATE.",
+  "citation": "Ministerio del Ambiente, Agua y Transición Ecológica de Ecuador - MAATE.",
+  "url": "http://patrimonio.ambiente.gob.ec/iptmae/rss.do",
+  "_url": "http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=humano-fauna",
+  "hasDependencies": true,
+  "shouldResolveReferences": true
+}

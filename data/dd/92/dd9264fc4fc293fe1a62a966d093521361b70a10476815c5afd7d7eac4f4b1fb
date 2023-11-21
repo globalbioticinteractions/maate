@@ -1,0 +1,158 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=paisajes-primates/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/kcju1e</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=paisajes-primates</alternateIdentifier>
+                <title xml:lang="spa">Resultados de la implementación del Protocolo de colección de datos para el muestreo de primates y guacamayo verde mayor en la Costa ecuatoriana</title>
+                    <creator>
+            <individualName>
+                    <givenName>Viviana</givenName>
+                <surName>Narváez</surName>
+            </individualName>
+            <organizationName>WCS Ecuador</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Galo</givenName>
+                <surName>Zapata-Ríos</surName>
+            </individualName>
+            <organizationName>WCS Ecuador</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <associatedParty>
+            <individualName>
+                    <givenName>GBIF</givenName>
+                <surName>Ecuador</surName>
+            </individualName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>biodiversidad@ambiente.gob.ec</electronicMailAddress>
+            <role>pointOfContact</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-06-14
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>El protocolo se diseñó para el monitoreo de los primates de la Costa ecuatoriana (cuatro especies) y el guacamayo verde mayor. En cada muestreo se buscaba detectar y registrar las especies de interés.</para>
+                            <para>Este set de datos comparte los resultados de los monitoreos realizados por parte del Proyecto Paisajes Vida Silvestre.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Costa de Ecuador</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.893</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-78.722</eastBoundingCoordinate>
+                                <northBoundingCoordinate>0.848</northBoundingCoordinate>
+                                <southBoundingCoordinate>-3.573</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2016-10-15</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2018-03-14</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Galo</givenName>
+                <surName>Zapata-Ríos</surName>
+            </individualName>
+            <organizationName>WCS Ecuador</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Los censos se realizarán durante cinco días consecutivos.
+</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Se harán los recorridos entre las 6h30 y las 10h30; y entre las 15h30 y las 17h30. Para que inicies el trabajo puntualmente, toma en cuenta el tiempo que necesitas para llegar al punto de inicio del sendero.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para> Los muestreos de la mañana y de la tarde se deben hacer en senderos diferentes, alejados al menos 500 m el uno del otro.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Costa de Ecuador</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Para estimar las tasas de encuentro (abundancia relativa) de los primates o guacamayos se hacen recorridos por senderos de reconocimiento. Se selecciona los senderos existentes en la zona, aprovechando el conocimiento previo de los guardaparques y de la gente local. La longitud de cada sendero debe ser de al menos 2 km si las condiciones del sitio de muestreo lo permiten. No se debe repetir los recorridos por los mismos senderos, el objetivo es cubrir la mayor parte del área posible. Para cada sendero recorrido (1, 2, 3… n) se debe escribir en el formulario OB: el punto GPS de inicio del recorrido, el punto final del recorrido y el total de km recorridos.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="Proyecto Paisajes – Vida Silvestre">
+                    <title>Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial</title>
+                        <abstract>
+                            <para>El proyecto “Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial” (i.e. Proyecto Paisajes – Vida Silvestre) propuso a través de diferentes iniciativas, cambiar el paradigma de conservación, integrando las áreas protegidas en la matriz circundante y viceversa. El enfoque de paisajes se desarrolla a través de la planificación de estrategias de conservación y gestión territorial dentro de paisajes predefinidos, reconocidos como áreas espacialmente heterogéneas, con grandes extensiones que incluyen la presencia de especies silvestres, áreas naturales y el desarrollo de actividades humanas diferentes a la conservación (Sanderson et al. 2002; Plumptre et al. 2007). De esta manera, el Proyecto Paisajes – Vida Silvestre busca integrar los requerimientos biológicos espacio-temporales de especies paisaje priorizadas, a través de la conectividad funcional para articular la conservación de la vida silvestre con actividades productivas sostenibles y la consecuente reducción de amenazas y presiones antropogénicas.</para>
+                        </abstract>
+                        <funding>
+                            <para>Este proyecto fue financiado por el Fondo para el Medio Ambiente Mundial (GEF)
+Additional Metadata</para>
+                        </funding>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-06-14T17:01:40.138+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/kcju1e">Narváez V, Zapata-Ríos G (2023). Resultados de la implementación del Protocolo de colección de datos para el muestreo de primates y guacamayo verde mayor en la Costa ecuatoriana. Version 1.0. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Occurrence dataset. https://doi.org/10.60545/kcju1e</citation>
+                            <bibliography>
+                                        <citation>Arias, G. M., O. Chassot, O. Ramírez, I. A. Zelaya, A. Figueroa, and D. Brenes. 2012. Temporada de nidificación 2009 de Ara ambiguus y Ara macao en el Sureste de Nicaragua y Norte de Costa Rica. Zeledonia 16:3-14.</citation>
+                                        <citation>Monge-Arias, G., O. Chassot, G. V. Powell, S. Palminteri, U. Alemán-Zelaya, and P. Wright. 2003. Ecología de la lapa verde (Ara ambigua) en Costa Rica. Zeledonia (Costa Rica). 7:4-12.</citation>
+                                        <citation>Ridgely, R. S., and P. J. Greenfield. 2001. The birds of Ecuador. Vol. 1: status, distribution and taxonomy. Cornell University Press, New York.</citation>
+                                        <citation>Tirira, D. G. 2017. Guía de campo de los mamíferos del Ecuador. Asociación Ecuatoriana de Mastozoología y Editorial Murciélago Blanco. Publicación especial sobre los mamíferos del Ecuador 11, Quito.</citation>
+                            </bibliography>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=monitoreo-primates</resourceLogoUrl>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

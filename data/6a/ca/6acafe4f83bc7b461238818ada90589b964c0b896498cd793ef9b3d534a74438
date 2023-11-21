@@ -1,0 +1,261 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="abc38fc1-b9fe-4675-8887-2c4f4e2a5d35/v2.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/fenzag</alternateIdentifier>
+                <alternateIdentifier>https://doi.org/10.15468/nxz8an</alternateIdentifier>
+                <alternateIdentifier>abc38fc1-b9fe-4675-8887-2c4f4e2a5d35</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=utcec-vasculares</alternateIdentifier>
+                <title xml:lang="spa">Colección de Plantas Vasculares del Herbario UTCEC</title>
+                    <creator>
+            <individualName>
+                    <givenName>CARLOS</givenName>
+                <surName>VALENCIA</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD TECNICA DE COTOPAXI</organizationName>
+            <positionName>ADMINISTRADOR</positionName>
+            <address>
+                    <deliveryPoint>SALACHE BAJO CAMPUS SALACHE</deliveryPoint>
+                    <city>LATACUNGA</city>
+                    <administrativeArea>COTOPAXI</administrativeArea>
+                    <postalCode>050101</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0969042065</phone>
+            <electronicMailAddress>carlos.valencia@utc.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.utc.edu.ec/</onlineUrl>
+                    <userId directory="http://scholar.google.com/citations?user=">032 266 164</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>ALINA</givenName>
+                <surName>FREIRE-FIERRO</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD TÉCNICA DE COTOPAXI</organizationName>
+            <positionName>CURATOR</positionName>
+            <address>
+                    <deliveryPoint>SALACHE BAJO CAMPUS SALACHE</deliveryPoint>
+                    <city>LATACUNGA</city>
+                    <administrativeArea>COTOPAXI</administrativeArea>
+                    <postalCode>050101</postalCode>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>alina.freire@utc.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.utc.edu.ec/</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-6079-4346</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>CARLOS</givenName>
+                <surName>VALENCIA</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD TECNICA DE COTOPAXI</organizationName>
+            <positionName>ADMINISTRADOR</positionName>
+            <address>
+                    <deliveryPoint>SALACHE BAJO CAMPUS SALACHE</deliveryPoint>
+                    <city>LATACUNGA</city>
+                    <administrativeArea>COTOPAXI</administrativeArea>
+                    <postalCode>050101</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0969042065</phone>
+            <electronicMailAddress>carlos.valencia@utc.edu.ec</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">032 266 164</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <organizationName>Universidad Técnica de Cotopaxi</organizationName>
+            <positionName>Facultad de Ingeniería</positionName>
+            <address>
+                    <administrativeArea>Cotopaxi</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>http://www.utc.edu.ec</onlineUrl>
+                    <userId directory="http://www.wikidata.org/entity/">Q24306461</userId>
+            <role>custodianSteward</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-08-02
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>El trabajo de identificación de las especies se inició en el año 2006, aprovechando que impartimos las cátedras de Biología y botánica general y sistemática, estableciendo el área inicial de los alrededores del centro experimental y de producción SALACHE, en la cual funciona la Facultad de Ciencias Agropecuarias, Veterinarias y ambientales.</para>
+                            <para>Actualmente tenemos especies recolectadas, montadas e identificadas de acuerdo a la tecnología y códigos utilizados por herbarios nacionales e internacionales; entre plantas medicinales, ornamentales, malezas, hortalizas y otras</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Plantas no vasculares</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Plantas vasculares</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Plantae</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Ecuador</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Investigación</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Conservación</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://www.utc.edu.ec/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>El Herbario UTCEC es una colección importante como base de obtención de información, centro de investigación y apoyo al desarrollo de otras instituciones y personas que realizan investigación botánica, conservación y manejo de áreas naturales, remanentes de bosques. Las colecciones se recolectan de todo el Ecuador y engloba a todas sus regiones.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-92.725</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-74.927</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.45</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.091</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <purpose>
+                    <para>Nuestro Herbario constituye un patrimonio porque resguardan especímenes de la diversidad la flora del Ecuador,  el conjunto de muestras botánicas almacenadas y preservadas, es una fuente de primera mano para la educación, el desarrollo científico de estudiantes y científicos, proveer información en proyectos enfocados en la conservación e investigación científica.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>En el mantenimiento de la colección del Herbario UTCEC participan el responsable del Herbario, el analista de laboratorio, los curadores de la colección y los investigadores asociados.</para>
+                    </description>
+                    <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>CARLOS</givenName>
+                <surName>VALENCIA</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD TECNICA DE COTOPAXI</organizationName>
+            <positionName>Administrador</positionName>
+            <address>
+                    <deliveryPoint>SALACHE BAJO CAMPUS SALACHE</deliveryPoint>
+                    <city>LATACUNGA</city>
+                    <administrativeArea>COTOPAXI</administrativeArea>
+                    <postalCode>050101</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0969042065</phone>
+            <electronicMailAddress>carlos.valencia@utc.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.utc.edu.ec/</onlineUrl>
+                    <userId directory="http://scholar.google.com/citations?user=">032 266 164</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Los métodos de colección varían dependiendo de las características de las familias botánicas.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Utilizaremos los materiales como, GPS, binoculares,, cámara de fotos, podadoras terrestres y aéreas, libro de campo, periódicos, fundas plásticas, equipos personales de campo, prensas, ropa personal de campo, etc.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>-El tratamiento de las muestras tiene 3 actividades principales: Acomodo de cada muestra en el papel periódico, el prensado ubicando las muestras en las prensas utilizadas y en secado en las hornillas del secador durante el tiempo necesario para la deshidratación de cada una de ellas.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>-La catalogación, durante el arreglo de las muestras en los periódicos, se numerará cada colección botánica, tanto en el borde del periódico, así como en el catálogo o libro de campo, utilizando lápiz de papel o de cera que no se borran con el alcohol o agua, evitando el uso de esferográficos o marcadores.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Las especies que ingresan al Herbario UTCEC son producto de una investigación científica, un proyecto de titulación, por intercambios o por una donación.&lt;br&gt;
+El área de estudio es Ecuador.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>El muestreo botánico depende del objetivo del proyecto.</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>El control de calidad inicia evaluando la calidad de las colecciones que van a ingresar al Herbario UTCEC. Los criterios que sigue el UTCEC para aceptar colecciones son: -Que cumpla lo estipulado por la misión del Herbario UTCEC. -Que su colección sea justificada, es decir, que cumpla las necesidades o requerimientos de la investigación científica dentro de la cual se realiza la colección. &lt;br&gt;
+- Que sea útil para propósitos educativos. &lt;br&gt;
+- Que venga acompañada de una etiqueta de Herbario donde consten todos los datos del colector, localidad de colección y datos ecológicos, entre otros.
+&lt;br&gt;&lt;br&gt; Al ser aceptadas las muestras estas pasan por un proceso de cuarentena para que ingresen en un estado adecuado a la colección. Una vez dentro las muestras son montadas e ingresadas a la base de datos. Al ingresar la colección se realiza una revisión constante de los especímenes y su índice de salud para poder mantener en buen estado la colección del Herbario QCA. Se realiza fumigaciones semestrales con el fin de precautelar la salud de las colecciones.</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+                <project id="UTCEC">
+                    <title>HERBARIO UTCEC</title>
+                        <abstract>
+                            <para>El proyecto original fue aprobado en el año 2006 por el Honorable Consejo Universitario cuyo objetivo es el contribuir a la conservación y uso sostenible de la biodiversidad a través de la documentación de especies de flora vascular y no vascular del país y la provincia de Cotopaxi</para>
+                        </abstract>
+                        <funding>
+                            <para>UTC</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Ecuador, intercambios y colaboraciones a nivel mundial</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Proyecto de trabajo continúo</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-04-20T00:00:00.904+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/fenzag">VALENCIA C, FREIRE-FIERRO A (2023). Colección de Plantas Vasculares del Herbario UTCEC. Version 2.0. Herbario de Botánica Aplicada - Universidad Técnica de Cotopaxi - UTCEC. Occurrence dataset. https://doi.org/10.60545/fenzag</citation>
+                                <physical>
+                                    <objectName>Symbiota Portal: Neotropical Flora</objectName>
+                                    <characterEncoding>UTF-8</characterEncoding>
+                                    <dataFormat>
+                                        <externallyDefinedFormat>
+                                            <formatName>Darwin Core Archive</formatName>
+                                        </externallyDefinedFormat>
+                                    </dataFormat>
+                                    <distribution>
+                                        <online>
+                                            <url function="download">https://serv.biokic.asu.edu/neotrop/plantae/collections/misc/collprofiles.php?collid=145</url>
+                                        </online>
+                                    </distribution>
+                                </physical>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=prueba1herbarioutcec</resourceLogoUrl>
+                                    <collection>
+                                        <collectionName>Plantas Vasculares</collectionName>
+                                    </collection>
+                                <formationPeriod>2006 - Actualidad</formationPeriod>
+                                    <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+                                    <specimenPreservationMethod>deepFrozen</specimenPreservationMethod>
+                            <dc:replaces>abc38fc1-b9fe-4675-8887-2c4f4e2a5d35/v2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,272 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="2585fcc6-647f-4fb7-a25a-07c515c9d079/v2.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/ixyczp</alternateIdentifier>
+                <alternateIdentifier>2585fcc6-647f-4fb7-a25a-07c515c9d079</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=pambilar-ct</alternateIdentifier>
+                <title xml:lang="spa">Registro de Cámaras Trampa del Refugio de Vida Silvestre Pambilar</title>
+                    <creator>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Tacuri</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transicion Ecologica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre el Pambilar</positionName>
+            <address>
+                    <city>Quininde</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>victor.tacuri@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>José</givenName>
+                <surName>Bonilla</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre Pambilar</positionName>
+            <address>
+                    <city>Quinindé</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jose.bonilla@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Edgar</givenName>
+                <surName>Pianchiche</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transicion Ecologica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre el Pambilar</positionName>
+            <address>
+                    <city>Quinindé</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>edgar.pianchiche@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Daniel</givenName>
+                <surName>García</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Administrador, Refugio de Vida Silvestre Pambilar</positionName>
+            <address>
+                    <city>Quinindé</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>daniel.garcia@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Alex</givenName>
+                <surName>Garófalo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre Pambilar</positionName>
+            <address>
+                    <city>Quinindé</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>alex.garofalo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Marcos</givenName>
+                <surName>Salinas</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre Pambilar</positionName>
+            <address>
+                    <city>Quinidé</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>marcos.salinas@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Teresa</givenName>
+                <surName>Guananga</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transicion Ecologica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre el Pambilar</positionName>
+            <address>
+                    <city>Quininde</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>elba.guananga@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico, Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>+593996896661</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-6430-1422</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Francini</givenName>
+                <surName>Taco</surName>
+            </individualName>
+            <organizationName>Escuela Politécnica Nacional</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>francini.taco@epn.edu.ec</electronicMailAddress>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Paul</givenName>
+                <surName>Aulestia</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico, Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>paul.aulestia@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico, Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>+593996896661</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-6430-1422</userId>
+                    </metadataProvider>
+            <pubDate>
+                    2023-07-04
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Este set de datos se deriva del trabajo realizado por el personal del Refugio de Vida Silvestre El Pambilar, la cual forma parte del subsistema Estatal del Sistema Nacional de Áreas Protegidas de Ecuador</para>
+                            <para>Las cámaras trampa fueron colocadas para el monitoreo de valores de conservación del área protegida con la finalidad de que estos datos puedan servir para la toma de decisiones para la gestión del área protegida.</para>
+                            <para>Los datos fueron subidos a la plataforma &lt;a href=&quot;https://agouti.eu&quot;&gt;Agouti.eu&lt;/a&gt; para su estandarización; el Ministerio de Ambiente, Agua y Transición Ecológica agradece a Wageningen University y el Research Institute for Nature and Forest (INBO) por la implementación de la plataforma.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">http://www.ambiente.gob.ec</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Refugio de Vida Silvestre Pambilar</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-79.2</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.16</eastBoundingCoordinate>
+                                <northBoundingCoordinate>0.67</northBoundingCoordinate>
+                                <southBoundingCoordinate>0.61</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2016-01-01</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2018-12-01</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Tacuri</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transicion Ecologica</organizationName>
+            <positionName>Guardaparque, Refugio de Vida Silvestre el Pambilar</positionName>
+            <address>
+                    <city>Quininde</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>victor.tacuri@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-05-18T01:38:57.900+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/ixyczp">Tacuri V, Bonilla J, Pianchiche E, García D, Garófalo A, Salinas M, Guananga T, Chocho V, Taco F, Aulestia P (2023). Registro de Cámaras Trampa del Refugio de Vida Silvestre Pambilar. Version 2.0. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Occurrence dataset. https://doi.org/10.60545/ixyczp</citation>
+                            <bibliography>
+                                        <citation identifier="http://doi.org/10.3897/biss.3.46690">Casaer J, Milotic T, Liefting Y, Desmet P, Jansen P (2019) Agouti: A platform for processing and archiving of camera trap images. Biodiversity Information Science and Standards 3: e46690. https://doi.org/10.3897/biss.3.46690</citation>
+                            </bibliography>
+                            <resourceLogoUrl>https://i.imgur.com/gJPCGwH.jpg</resourceLogoUrl>
+                            <dc:replaces>2585fcc6-647f-4fb7-a25a-07c515c9d079/v2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

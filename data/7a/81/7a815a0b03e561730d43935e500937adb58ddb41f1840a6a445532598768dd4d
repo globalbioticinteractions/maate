@@ -1,0 +1,286 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=japu-masto-dry/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/5hgm2a</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-masto-dry</alternateIdentifier>
+                <title xml:lang="eng">Mastofauna of the Bosque Protector Cerro Blanco during the dry season</title>
+                    <creator>
+            <individualName>
+                    <givenName>Silvia</givenName>
+                <surName>Vela</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-6847-2720</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Manuel</givenName>
+                <surName>Chiquito</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0001-5379-6784</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Pamela</givenName>
+                <surName>León</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-3253-0156</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Abel</givenName>
+                <surName>Gallo-Pérez</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-1338-0068</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.20</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>090204</postalCode>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-9205-5396</userId>
+                    </creator>
+            <pubDate>
+                    2023-07-20
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>In the study, a total of 43 species were recorded in the dry season including micro-, meso- and macromammals. Twenty bat species were recorded, representing 62.5% of the species reported for the BPCB. In addition, species in some category of concern were reported, such as the Critically Endangered Machin Monkey (Cebus aequatorialis), Critically Endangered Howler Monkey (Aloutta palliata) and White-tailed Deer (Odocoileus peruvianus), Endangered Guanta (Cuniculus paca), Ocelot (Leopardus pardalis) and Peccary (Pecari tajacu) in the Threatened category and the Vulnerable Mate&apos;s-headed (Eira barbara). 
+</para>
+                            <para>In addition, individuals of domestic species were found in the feral state of the domestic dog (Canis lupus familiaris). The area with the highest diversity was the area adjacent to the Jaguar hut to the west of the study area, while the lowest diversity was found in the area referred to in this study as 507.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Bosque Protector Cerro Blanco</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.093</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.978</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.126</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.182</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-09-23</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2021-11-16</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Phyllostomidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Didelphimorphia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Rodentia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Procyonidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Didelphidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Carnivora</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Sciuridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Chiroptera</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lagomorpha</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Leporidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cricetidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Vespertilionidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Atelidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Mammalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dasyproctidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Primates</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Observation traps, sherman and tomahawk traps, and mist nets.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>4 study areas in the Cerro Blanco BP</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>&lt;b&gt;Mist nets &lt;/b&gt;&lt;br&gt;
+For the capture of flying micromammals, 10 mist nets of 12m by 3m were used, located every 20 m in an approximate transect of 200 m (Rizo, 2015). Sampling will be carried out during eight nights, from 18h00 to 23h00 (eight days/five hours/ten nets), achieving a total sampling effort of 1600 hours/net for the 4 sub-areas of study. Nets will be checked in time periods of 15 to 30 minutes depending on capture intensity.&lt;br&gt;
+&lt;b&gt;Sherman traps &lt;/b&gt;&lt;br&gt;
+Traps were placed along a 450 m linear transect, with trapping stations every ten metres. The first station starts with four Sherman traps and the next station with a single Tomahawk trap. The process is repeated until a total of 45 stations (80 Sherman and 20 Tomahawk) are completed. Each trap should be baited, which consisted of a mixture of: peanut butter, tuna, vanilla essence and oat flakes. The baits should be changed every three days (Peru. Ministerio del Ambiente, 2015). The traps were checked every 24h for 8 days.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project >
+                    <title>Mastofauna of the Bosque Protector Cerro Blanco during the dry season</title>
+                        <abstract>
+                            <para>In the study, a total of 43 species were recorded in the dry season including micro-, meso- and macromammals. Twenty bat species were recorded, representing 62.5% of the species reported for the BPCB. In addition, species in some category of concern were reported, such as the Critically Endangered Machin Monkey (Cebus aequatorialis), Critically Endangered Howler Monkey (Aloutta palliata) and White-tailed Deer (Odocoileus peruvianus), Endangered Guanta (Cuniculus paca), Ocelot (Leopardus pardalis) and Peccary (Pecari tajacu) in the Threatened category and the Vulnerable Mate&apos;s-headed (Eira barbara).  In addition, individuals of domestic species were found in the feral state of the domestic dog (Canis lupus familiaris). The area with the highest diversity was the area adjacent to the Jaguar hut to the west of the study area, while the lowest diversity was found in the area referred to in this study as 507.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Bosque Protector Cerro Blanco, 4 zonas</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>&lt;b&gt;Field Phase&lt;/b&gt;&lt;br&gt;
+The data collection for the mastofauna component was carried out using three different methodologies: camera traps, mist nets and Sherman/Tomahawk traps. The methodology may be adjusted and adapted according to the limitations and specifications found in the field.&lt;br&gt;
+&lt;b&gt;Quantitative sampling&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;Mist nets&lt;/b&gt; &lt;br&gt;
+For the capture of flying micromammals, 10 mist nets of 12m by 3m were used, located every 20 m in an approximate transect of 200 m (Rizo, 2015). Sampling will be carried out during eight nights, from 18h00 to 23h00 (eight days/five hours/ten nets), achieving a total sampling effort of 1600 hours/net for the 4 sub-areas of study. Nets will be checked in time periods of 15 to 30 minutes depending on capture intensity.&lt;br&gt;
+&lt;b&gt;Sherman traps&lt;/b&gt; &lt;br&gt;
+Traps were placed along a 450 m linear transect, with trapping stations every ten metres. The first station starts with four Sherman traps and the next station with a single Tomahawk trap. The process is repeated until a total of 45 stations (80 Sherman and 20 Tomahawk) are completed. Each trap should be baited, which consisted of a mixture of: peanut butter, tuna, vanilla essence and oat flakes. The baits should be changed every three days (Peru. Ministerio del Ambiente, 2015). The traps were checked every 24h for 8 days.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-19T22:58:54.741+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/5hgm2a">Vela S, Chiquito M, León P, Gallo-Pérez A, Barros-Diaz C, Pérez-Correa J (2023). Mastofauna of the Bosque Protector Cerro Blanco during the dry season. Version 1.0. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/5hgm2a</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=mastoseco-cb</resourceLogoUrl>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

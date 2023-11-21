@@ -1,0 +1,472 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="bfd9dbff-4581-4dcb-980b-1473ced21cb2/v1.1" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/7tr7ff</alternateIdentifier>
+                <alternateIdentifier>bfd9dbff-4581-4dcb-980b-1473ced21cb2</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=checklist-anfibios</alternateIdentifier>
+                <title xml:lang="spa">Lista Roja Nacional de Anfibios de Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>H. Mauricio</givenName>
+                <surName>Ortega-Andrade</surName>
+            </individualName>
+            <organizationName>Universidad Regional Amazónica Ikiam</organizationName>
+            <address>
+                    <city>Tena</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0001-9464-3688</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Marina</givenName>
+                <surName>Roldes Blanco</surName>
+            </individualName>
+            <organizationName>Universidad Regional Amazónica Ikiam</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Diego F.</givenName>
+                <surName>Cisneros-Heredia</surName>
+            </individualName>
+            <organizationName>Universidad San Francisco de Quito USFQ</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-6132-2738</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Nereida</givenName>
+                <surName>Guerra Arévalo</surName>
+            </individualName>
+            <organizationName>Universidad Regional Amazónica Ikiam</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <phone>996896661</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Karina</givenName>
+                <surName>López de Vargas-Machuca</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-3726-6817</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Juan C.</givenName>
+                <surName>Sánchez-Nivicela</surName>
+            </individualName>
+            <organizationName>Universidad San Francisco de Quito USFQ</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Armijos-Ojeda</surName>
+            </individualName>
+            <organizationName>Universidad Técnica Particular de Loja</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>José Francisco</givenName>
+                <surName>Cáceres Andrade</surName>
+            </individualName>
+            <organizationName>ETAPA EP</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Carolina</givenName>
+                <surName>Reyes-Puig</surName>
+            </individualName>
+            <organizationName>Universidad San Francisco de Quito USFQ</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-7828-8698</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Amanda</givenName>
+                <surName>Quezada Riera</surName>
+            </individualName>
+            <organizationName>Universidad del Azuay</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Paul</givenName>
+                <surName>Székely</surName>
+            </individualName>
+            <organizationName>Universidad Técnica Particular de Loja</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Octavio</givenName>
+                <surName>Rojas Soto</surName>
+            </individualName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Diana</givenName>
+                <surName>Székely</surName>
+            </individualName>
+            <organizationName>Universidad Técnica Particular de Loja</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Juan M.</givenName>
+                <surName>Guayasamin</surName>
+            </individualName>
+            <organizationName>Universidad San Francisco de Quito USFQ</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Fausto</givenName>
+                <surName>Siavichay</surName>
+            </individualName>
+            <organizationName>Centro de Conservacio´n de Anfibios AMARU</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Luis</givenName>
+                <surName>Amador</surName>
+            </individualName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Raquel</givenName>
+                <surName>Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Salomón</givenName>
+                <surName>Ramiréz-Jaramillo</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Bruno</givenName>
+                <surName>Timbe-Borja</surName>
+            </individualName>
+            <organizationName>Universidad del Azuay</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Miguel</givenName>
+                <surName>Gómez</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Juan Fernando</givenName>
+                <surName>Webster</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Luis</givenName>
+                <surName>Oayagata</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Daniel</givenName>
+                <surName>Chávez</surName>
+            </individualName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Valentina</givenName>
+                <surName>Posse</surName>
+            </individualName>
+            <organizationName>Universidad Técnica Particular de Loja</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>carlos</givenName>
+                <surName>Valle-Piñuela</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Daniel</givenName>
+                <surName>Padilla</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Juan</givenName>
+                <surName>Reyes-Puig</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Andrea</givenName>
+                <surName>Terán-Valdez</surName>
+            </individualName>
+            <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Luis A.</givenName>
+                <surName>Coloma</surName>
+            </individualName>
+            <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ma. Beatriz</givenName>
+                <surName>Pérez Lara</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Sofía</givenName>
+                <surName>Carvajal-Endara</surName>
+            </individualName>
+            <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Miguel</givenName>
+                <surName>Urgilés</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Mario</givenName>
+                <surName>Yánez Muñoz</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+            <pubDate>
+                    2023-10-18
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Ecuador es uno de los países con mayor biodiversidad del mundo, pero se enfrenta a graves presiones y amenazas para sus ecosistemas naturales. Numerosas especies han disminuido y requieren ser evaluadas y cuantificadas objetivamente, como un paso hacia el desarrollo de estrategias de conservación.</para>
+                            <para>En este recurso se presenta una evaluación actualizada de la Lista Roja Nacional para las especies de anfibios de Ecuador. Basados en metodologías estandarizadas que integran trabajo taxonómico, análisis espaciales y modelación de nichos ecológicos, se evaluó el riesgo de extinción para todos los anfibios nativos ecuatorianos (635 especies), utilizando las Categorías y Criterios de la Lista Roja de la UICN. </para>
+                            <para>Esta evaluación revela que el 57% (363 especies) están categorizadas como Amenazadas, el 12% (78 especies) como Casi Amenazadas, el 4% (26 especies) como Datos Insuficientes, y el 27% (168 especies) como Preocupación Menor.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Checklist</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Inventorythematic</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://doi.org/10.1371/journal.pone.0251027</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Ecuador continental</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-82.002</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.234</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.801</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.266</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Strabomantidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Aromobatidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Leptodactylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Bufonidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Anura</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Hylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Eleutherodactylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Amphibia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dendrobatidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>H. Mauricio</givenName>
+                <surName>Ortega-Andrade</surName>
+            </individualName>
+            <organizationName>Universidad Regional Amazónica Ikiam</organizationName>
+            <address>
+                    <city>Tena</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0001-9464-3688</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-08-25T21:11:43.120+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/7tr7ff">Ortega-Andrade H M, Roldes Blanco M, Cisneros-Heredia D F, Guerra Arévalo N, López de Vargas-Machuca K, Sánchez-Nivicela J C, Armijos-Ojeda D, Cáceres Andrade J F, Reyes-Puig C, Quezada Riera A, Székely P, Rojas Soto O, Székely D, Guayasamin J M, Siavichay F, Amador L, Betancourt R, Ramiréz-Jaramillo S, Timbe-Borja B, Gómez M, Webster J F, Oayagata L, Chávez D, Posse V, Valle-Piñuela C, Padilla D, Reyes-Puig J, Terán-Valdez A, Coloma L A, Pérez Lara M B, Carvajal-Endara S, Urgilés M, Yánez Muñoz M (2023). Lista Roja Nacional de Anfibios de Ecuador. Version 1.0. No organisation. Checklist dataset. http://patrimonio.ambiente.gob.ec/iptmae_test/resource?r=checklist-anfibios&amp;v=1.0</citation>
+                                <formationPeriod>2021</formationPeriod>
+                            <dc:replaces>bfd9dbff-4581-4dcb-980b-1473ced21cb2/v1.1.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

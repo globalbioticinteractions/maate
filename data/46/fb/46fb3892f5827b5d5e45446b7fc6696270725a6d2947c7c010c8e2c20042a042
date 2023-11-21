@@ -1,0 +1,159 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maae-arsfc-2021-1621/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/r5whpf</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2021-1621</alternateIdentifier>
+                <title xml:lang="spa">Micromamíferos no voladores de tres zonas de protección de la Cordillera del Cóndor Amazonía Sur del Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Yuleidy</givenName>
+                <surName>Yuleidy Castro</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <positionName>Tesista</positionName>
+            <address>
+                    <deliveryPoint>C. Teniente Hugo Ortiz</deliveryPoint>
+                    <city>Zamora</city>
+                    <administrativeArea>Zamora Chinchipe</administrativeArea>
+                    <postalCode>190102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0992276387</phone>
+            <electronicMailAddress>jecl1998_@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6303-1520</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jhandry</givenName>
+                <surName>Guaya</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <positionName>Tesista</positionName>
+            <address>
+                    <deliveryPoint>C. Teniente Hugo Ortiz</deliveryPoint>
+                    <city>Cumbaratza</city>
+                    <administrativeArea>Zamora Chinchipe</administrativeArea>
+                    <postalCode>190104</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0997389341</phone>
+            <electronicMailAddress>jhandry.paul@hotmail.com</electronicMailAddress>
+                    <userId directory="https://www.linkedin.com/profile/view?id=">jhandry-pauil-guaya-251b75160/</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Mario</givenName>
+                <surName>Ávila</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <positionName>Tutor</positionName>
+            <address>
+                    <deliveryPoint>Gualaquiza</deliveryPoint>
+                    <city>Gualaquiza</city>
+                    <administrativeArea>Morona Santiago</administrativeArea>
+                    <postalCode>140401</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0993479641</phone>
+            <electronicMailAddress>marioandresavila@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4349-7024</userId>
+                    </creator>
+                    <associatedParty>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>biodiversidad@ambiente.gob.ec</electronicMailAddress>
+                    <userId directory="http://www.wikidata.org/entity/">Q22045587</userId>
+            <role>publisher</role>
+                    </associatedParty>
+                    <associatedParty>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="http://www.wikidata.org/entity/">Q2001178</userId>
+            <role>custodianSteward</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-09-13
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Los resultados obtenidos a partir de este estudio pueden generar conocimiento sobre la identidad de los micromamíferos de la cordillera del Cóndor, específicamente en los tres sitios de estudio: la Reserva Biológica El Quimi (RBEQ), el Refugio de Vida Silvestre El Zarza (RVSEZ) y en el sector Pachikutza-cordillera del Cóndor (SPCC), fomentando el uso de trabajos de inventarios y colecciones científicas. Asimismo, facilitando de información valiosa para implementarse en planes de conservación.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Este estudio se efectuó en tres sitios de la cordillera del Cóndor: Reserva Biológica El Quimi (RBEQ), Refugio de Vida Silvestre El Zarza (RVSEZ) y en el sector Pachikutza Cordillera del Cóndor (SPCC)</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Yuleidy</givenName>
+                <surName>Castro</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <positionName>Tesista</positionName>
+            <address>
+                    <deliveryPoint>C. Teniente Hugo Ortiz</deliveryPoint>
+                    <city>Zamora</city>
+                    <administrativeArea>Zamora Chinchipe</administrativeArea>
+                    <postalCode>190102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0992276387</phone>
+            <electronicMailAddress>jecl1998_@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6303-1520</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+                <project id="maae-arsfc-2021-1621">
+                    <title>Micromamíferos no voladores de tres zonas de protección de la Cordillera del Cóndor Amazonía sur del Ecuador</title>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-09-13T18:54:25.122+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/r5whpf">Yuleidy Castro Y, Guaya J, Ávila M (2023). Micromamíferos no voladores de tres zonas de protección de la Cordillera del Cóndor Amazonía Sur del Ecuador. Version 1.0. Universidad Estatal Amazónica. Occurrence dataset. https://doi.org/10.60545/r5whpf</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=maae-arsfc-2021-1621</resourceLogoUrl>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

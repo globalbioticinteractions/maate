@@ -1,0 +1,299 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="2b3bbaa2-219e-4a76-ab0d-3b2bf6d531b8/v1.4" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/zwkugm</alternateIdentifier>
+                <alternateIdentifier>2b3bbaa2-219e-4a76-ab0d-3b2bf6d531b8</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-mamiferos</alternateIdentifier>
+                <title xml:lang="eng">Record of medium and large mammals from the Bosque Protector Cerro Blanco during the rainy season</title>
+                    <creator>
+            <individualName>
+                    <givenName>Silvia</givenName>
+                <surName>Vela</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6847-2720</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimp</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Manuel</givenName>
+                <surName>Chiquito</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimp</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59398183434</phone>
+                    <userId directory="https://orcid.org/">0000-0001-5379-6784</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Pamela</givenName>
+                <surName>León</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-3253-0156</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Daniela</givenName>
+                <surName>Guamán</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.20</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.20</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>090204</postalCode>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-9205-5396</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Silvia</givenName>
+                <surName>Vela</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6847-2720</userId>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimp</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </metadataProvider>
+            <pubDate>
+                    2023-07-17
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>The species of medium and large mampifera in the forest were recorded by casual observation in 2022, for two months.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Sampling will be carried out in the following localities: Condor stream, Guitar stream, Pigío upper part, Pigío lower part, Canoa stream, Cusumbo top and Cerro 507.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.089</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.978</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.13</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.181</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2022-04-08</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2022-05-28</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lagomorpha</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Leporidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>ANIMALIA</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Cingulata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Rodentia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Atelidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Mammalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cebidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dasyproctidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dasypodidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Sciuridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Primates</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Camera, binoculars and field guides were used.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>We worked in 4 sites (Caseta Jaguar, Caseta Pigío, Zona Turística and 507); and in each site 13 sampling points were carried out; these sampling points had different types of ecosystems in order to cover as many ecosystems as possible.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Qualitative data collection was based on casual observations where direct (visual and auditory) and indirect (tracks such as faeces, footprints and burrows) records were made.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project >
+                    <title>Record of medium and large mammals from the Bosque Protector Cerro Blanco during the rainy season</title>
+                        <abstract>
+                            <para>Casual observations of medium and large mammals in the BP CB during the rainy season.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>We worked in 4 sites (Caseta Jaguar, Caseta Pigío, Zona Turística and 507); and in each site 13 sampling points were carried out; these sampling points had different types of ecosystems in order to cover as many ecosystems as possible.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Qualitative data collection was based on casual observations where direct (visual and auditory) and indirect (tracks such as faeces, footprints and burrows) records were made.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-10T17:00:59.735+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/zwkugm">Vela S, Barros-Diaz C, Chiquito M, León P, Guamán D, Pérez-Correa J (2023). Record of medium and large mammals from the Bosque Protector Cerro Blanco during the rainy season. Version 1.4. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/zwkugm</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=mamiferosmedianosygrandes-cb</resourceLogoUrl>
+                            <dc:replaces>2b3bbaa2-219e-4a76-ab0d-3b2bf6d531b8/v1.4.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

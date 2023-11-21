@@ -1,0 +1,406 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="d3209204-de4f-4680-957e-6523f5a4447c/v1.4" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>d3209204-de4f-4680-957e-6523f5a4447c</alternateIdentifier>
+  <alternateIdentifier>https://doi.org/10.15468/f7es5w</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-fcce-2020-2021</alternateIdentifier>
+  <title xml:lang="spa">Monitoreo de anidación de tortugas marinas en la zona costera de Portoviejo y Sucre de la provincia de Manabí, Ecuador.</title>
+      <creator>
+    <individualName>
+        <givenName>Juan Fernando</givenName>
+      <surName>Pesántez-Muñoz</surName>
+    </individualName>
+    <organizationName>Fundación Contamos Contigo Ecuador</organizationName>
+    <positionName>Miembro Fundador|Director de Área Marina</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria, Calle Edulfo Cedeño</deliveryPoint>
+        <city>Portoviejo</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <postalCode>130103</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 992365180</phone>
+    <electronicMailAddress>jf.pesantezmunoz@contamoscontigoecuador.org</electronicMailAddress>
+    <onlineUrl>https://www.linkedin.com/in/jf-microplastic-seaturtle/</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-4598-4931</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Kerly Gissela</givenName>
+      <surName>Briones Cedeño</surName>
+    </individualName>
+    <organizationName>Fundación Contamos Contigo Ecuador</organizationName>
+    <positionName>Miembro Fundador|Vicepresidenta</positionName>
+    <address>
+        <deliveryPoint>Malecón y calle 53 S/N, Crucita, Manabí – Ecuador</deliveryPoint>
+        <city>Portoviejo</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <postalCode>130153</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593999505641</phone>
+    <electronicMailAddress>k.briones@contamoscontigoecuador.org</electronicMailAddress>
+          <userId directory="https://www.linkedin.com/profile/view?id=">kerly-briones-tortugasmarinas/</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Cecibel Monserrate</givenName>
+      <surName>Tenelema Delgado</surName>
+    </individualName>
+    <organizationName>Fundación Contamos Contigo Ecuador</organizationName>
+    <positionName>Miembro activo</positionName>
+    <address>
+        <deliveryPoint>Calle Chimborazo y AVE Rocafuerte, Montecristi, Manabí, Ecuador</deliveryPoint>
+        <city>Montecristi</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <postalCode>130209</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593987945528</phone>
+    <electronicMailAddress>c.tenelema@contamoscontigoecuador.org</electronicMailAddress>
+          <userId directory="https://www.linkedin.com/profile/view?id=">cecibel-monserrate-tenelema-delgado-4b8158172/</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Juan Fernando</givenName>
+      <surName>Pesántez-Muñoz</surName>
+    </individualName>
+    <organizationName>Fundación Contamos Contigo Ecuador</organizationName>
+    <positionName>Miembro Fundador|Director de Área Marina</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria, Calle Edulfo Cedeño</deliveryPoint>
+        <city>Portoviejo</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <postalCode>130103</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 992365180</phone>
+    <electronicMailAddress>jf.pesantezmunoz@contamoscontigoecuador.org</electronicMailAddress>
+    <onlineUrl>https://www.linkedin.com/in/jf-microplastic-seaturtle/</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-4598-4931</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Fundación Contamos Contigo Ecuador</givenName>
+      <surName>FCCE</surName>
+    </individualName>
+    <organizationName>Legalmente constituida en el Ecuador</organizationName>
+    <positionName>Organización para la investigación y conservación de tortugas marinas</positionName>
+    <address>
+        <deliveryPoint>Malecón y calle 53 S/N, Crucita, Manabí – Ecuador</deliveryPoint>
+        <city>Crucita</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <postalCode>130153</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593982466101</phone>
+    <electronicMailAddress>notificaciones@contamoscontigoecuador.org</electronicMailAddress>
+    <onlineUrl>https://fundacion.contamoscontigoecuador.org/</onlineUrl>
+          <userId directory="https://www.linkedin.com/profile/view?id=">company/fundacion-contamos-contigo-ecuador/</userId>
+    <role>owner</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Victor</givenName>
+      <surName>Chocho</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Técnico</positionName>
+    <address>
+        <deliveryPoint>Madrid y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593996896661</phone>
+    <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+          <userId directory="http://orcid.org/">https://orcid.org/my-orcid?orcid=0000-0002-6430-1422</userId>
+    <role>pointOfContact</role>
+      </associatedParty>
+  <pubDate>
+      2023-01-05
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La Fundación Contamos Contigo Ecuador (FCCE) trabaja en temas de investigación, conservación, protección, educación y divulgación en la temática de tortugas marinas. El presente proyecto maneja anidación, eclosión, varamientos y distribución de tortugas marinas desde la playa de Crucita hasta la Punta de Bahía de Caráquez, Manabí, Ecuador.</para>
+    <para>Se obtuvieron varios resultados como FCCE, entre los más importantes: nuevos reportes de anidación de tortuga golfina en zonas de dificil acceso; se reportó 4 anidaciones de tortuga laúd las cuales custodiamos como FCCE las 24 horas durante su tiempo de eclosión; tuvimos éxito en la eclosión de las 4 nidadas de forma natural teniendo como FCCE el primer reporte de neonatos de laúd en el Ecuador; y, gracias a todo e esfuerzo se fundó el primer Campamento Tortuguero &quot;Reina Laúd&quot; del Ecuador con instalaciones para voluntarios y así realizar monitoreo y control (diurno y nocturno) de anidación y eclosión de tortugas marinas; y, charlas y capacitaciones a las comunidades y academia.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Investigación</keyword>
+            <keyword>conservación</keyword>
+            <keyword>tortugas marinas</keyword>
+            <keyword>Dermochelys coriacea</keyword>
+            <keyword>Lepidochelys olivacea</keyword>
+            <keyword>anidación</keyword>
+            <keyword>eclosión</keyword>
+        <keywordThesaurus>Fundación Contamos Contigo Ecuador</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>La Fundación “Contamos Contigo Ecuador” es una institución sin fines de lucro que trabaja como grupo desde el 2017, legalmente constituida y fundada el 31 de octubre de 2019 en Crucita, Manabí, Ecuador.
+
+Dedica sus principales esfuerzos a la conservación, protección e investigación de la fauna marina autóctona de Ecuador, principalmente tortugas marinas, así como de su entorno natural. Trabaja para proteger al ambiente de la contaminación antrópica (principalmente plásticos, microplásticos y otros residuos), además crea conciencia, mediante educación marina y divulgación científica a diferentes sectores para que hagan un uso sostenible de los recursos del planeta.
+
+En la Fundación Contamos Contigo Ecuador sabemos que la defensa del Medio Ambiente y la Fauna Marina debe ser realizada a todos los niveles, es por ello que nuestras actividades abarcan un amplio espectro de acción, generando sinergias que hagan confluir todos nuestros esfuerzos para alcanzar la meta de una mejora de nuestro entorno ambiental. Trabajamos en conjunto con las comunidades, redes ambientales, ONG´s, academias, instituciones públicas y privadas.
+
+Organizamos conversatorios, talleres, cursos, conferencias y cualquier tipo de actividades de promoción, divulgación, asesoría, protección e investigación. Comunicamos y difundimos los resultados de investigaciones, con la finalidad de aumentar el conocimiento sobre especies de flora y fauna amenazadas o en peligro de extinción. Brindamos capacitaciones y monitoreos con respecto a la información o reportes de especies y ecosistemas con importancia para la conservación.
+
+Además, desde Fundación Contamos Contigo Ecuador nos suscribimos a los 17 Objetivos de Desarrollo Sostenible promulgados por la Organización de las Naciones Unidas, comprometiéndonos en su cumplimiento y divulgación.</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Zona costera de los cantones Portoviejo y Sucre de la provincia de Manabí, Ecuador.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-80.601</westBoundingCoordinate>
+          <eastBoundingCoordinate>-80.424</eastBoundingCoordinate>
+          <northBoundingCoordinate>-0.596</northBoundingCoordinate>
+          <southBoundingCoordinate>-0.939</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2020-07-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-06-30</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2021-04-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-12-01</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Todas las especies de tortugas marinas fueron identificadas al mínimo taxón posible.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Lepidochelys olivacea</taxonRankValue>
+                  <commonName>Tortuga Golfina</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Dermochelys coriacea</taxonRankValue>
+                  <commonName>Tortuga Laúd</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Chelonia mydas</taxonRankValue>
+                  <commonName>Tortuga verde</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Eretmochelys imbricata</taxonRankValue>
+                  <commonName>Tortuga carey</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Dentro de la Lista Roja de la UICN, la tortuga golfina y la tortuga laúd se encuentran en categoría vulnerable, además, están incluidas en el apéndice I de la Convención Internacional de Especies en Peligro de Fauna y Flora CITES (CITES, 2019). Por lo que hay que realizar esfuerzos de conservación eficientes para que sus poblaciones no se hallen en peligro crítico de extinción como ocurre con otras especies de tortugas marinas.
+
+En el perfil costero donde se realiza la investigación, una de las principales amenazas es la degradación de la playa, debido a las actividades de extracción de arena, circulación de vehículos, uso de la playa por actividades de esparcimiento y deficiente planificación urbanística del desarrollo turístico, cada vez hay menos zonas en donde las tortugas puedan poner sus huevos sin ser perturbadas, y en innumerables ocasiones ha sucedido que algunos especímenes llegan a la playa a buscar un sitio para anidar y al encontrar presencia humana no realizan el desove y regresan al mar.
+
+La contaminación lumínica y los perros son una amenaza para los neonatos de tortugas, cuando estos emergen a la superficie las crías, que pueden llegar a ser de 40 a más de 100 individuos, pueden ser atacadas por los perros callejeros que se han convertido en sus principales depredadores en la playa. Mientras que, por las noches, debido al alumbrado público y las luminarias de viviendas y locales turísticos, los neonatos se confunden, se van en dirección contraria al mar y terminan siendo atropellados por coches que pasan justo en el perfil de la playa.
+
+Otro aspecto negativo para la conservación de esta especie está relacionado con el hecho de que en la zona costera de los cantones Portoviejo y Sucre la pesca continúa siendo una de las principales actividades económicas, esto hace que las amenazas para las tortugas marinas se den también en alta mar, que es el hábitat donde se alimentan y desarrollan. Un alto índice de mortalidad se da al quedar ellas enredadas en los trasmallos o al ser golpeadas por las embarcaciones pesqueras. Entonces no solo hay que precautelar sus huevos y crías en la zona de anidación, también hay que protegerlas en el océano, que es el ecosistema donde permanecen más tiempo y teniendo en cuenta que una de las formas de conocer las migraciones de manera más precisa es la radio-telemetría y la telemetría por satélite.
+Es indispensable emplear estas técnicas ya que permiten dar seguimiento a las tortugas durante sus movimientos migratorios entre las playas de desove y las zonas de alimentación. Además, proveen información sobre sus comportamientos en los hábitats de interdesove y de forrajeo.
+
+La contaminación por desechos sólidos, en especial por plásticos de un solo uso, es otra de las amenazas en los ecosistemas marinos, muchas de las especies de tortugas marinas se alimentan de medusas, ellas las confunden con las fundas o bolsas que flotan en el mar y las ingieren, esto les causa una muerte lenta por asfixia.
+
+Es necesario un mayor control y la constante preparación técnica, el objeto más importante de la presente investigación es salvaguardar las tortugas marinas, además, se pretende fomentar una mayor conciencia ambiental con énfasis en la conservación y generar interés en los habitantes de la parroquia para que sean ellos los que, con conocimientos sobre esta actividad, se sumen al monitoreo y protección de las tortugas marinas.
+
+La factibilidad de este proyecto se verá reflejada en el fortalecimiento del trabajo que se ha venido desarrollando y será viable porque servirá para realizar alianzas estratégicas y establecer formas de colaboración entre organismos competentes, organizaciones no gubernamentales, la academia, empresas privadas y demás entes involucrados en temas de conservación.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Juan Fernando</givenName>
+      <surName>Pesántez-Muñoz</surName>
+    </individualName>
+    <organizationName>Fundación Contamos Contigo Ecuador</organizationName>
+    <positionName>Miembro Fundador|Director de Área Marina</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria, Calle Edulfo Cedeño</deliveryPoint>
+        <city>Portoviejo</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <postalCode>130103</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 992365180</phone>
+    <electronicMailAddress>jf.pesantezmunoz@contamoscontigoecuador.org</electronicMailAddress>
+    <onlineUrl>https://www.linkedin.com/in/jf-microplastic-seaturtle/</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-4598-4931</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Monitoreo y control de playas de anidación.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Identificación de organismos que van a desobar o sus huellas.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Identificación y protección de nidadas.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Montaje de campamento y atención a eclosiones de nidadas.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Exhumación de nidadas segun la metodología.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Educación ambiental, campañas y otras actividades de concientización a las comunidades, redes ambientales, academia, turistas, entre otros.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Toma de datos, tabulación y análisis de cada punto anteriormente mencionado para la base de datos, dashboard y gráfica científica.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El área de estudio está comprendida por la zona costera de los cantones Portoviejo y Sucre, provincia de Manabí, Ecuador.
+• Playas de Portoviejo: Crucita, Los Arenales, Los Ranchos, Las Gilces y La Boca de Crucita.
+• Playas de Sucre: San Jacinto, San Clemente, El Bálsamo, Chirije, Pajonal, Punta Gorda y Punta Bellaca.
+
+Los monitoreos se realizan por la mañana y la noche:
+Crucita	            2 personas|7 días a la semana|2 horas diarias
+Los Arenales	    2 personas|7 días a la semana|2 horas diarias
+Los Ranchos	    2 personas|1 día a la semana|2 horas diarias
+La Gilces	    2 personas|1 día a la semana|2 horas diarias
+La Boca de Crucita  2 personas|7 días a la semana|2 horas diarias
+San Jacinto	    2 personas|7 días a la semana|2 horas diarias
+San Clemente	    2 personas|7 días a la semana|8 horas diarias
+El Balsamo	    2 personas|7 días a la semana|8 horas diarias
+Chirije	            2 personas|1 día a la semana|2 horas diarias
+Pajonal	            2 personas|1 día a la semana|2 horas diarias
+Punta Gorda	    2 personas|3 días a la semana|2 horas diarias
+Punta Bellaca	    2 personas|1 día a la semana|2 horas diarias
+Bellavista          2 personas|1 día a la semana|2 horas diarias</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>La investigación se basó en los protocolos establecidos por la Convención Interamericana para la Protección y Conservación de las Tortugas Marinas (CIT, 2011); el Protocolo de respuesta a varamientos de especies marinas (Cetáceos, Pinnípedos, Tortugas Marinas, Tiburones Ballena y Mantarrayas) (MAE, 2018); y el Proyecto Conservación de tortugas marinas en la Costa de Ecuador (MAATE, WildAid y GIZ, 2021). Además se basó en protocolos establecidos por la FCCE en base a los resultados obtenidos en cada playa.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Monitoreo de anidación, eclosión, varamiento y distribución de las tortugas marinas en la zona costera de Portoviejo y Sucre de la provincia de Manabí, Ecuador.</title>
+      <personnel>
+        <individualName>
+            <givenName>Juan Fernando</givenName>
+          <surName>Pesántez-Muñoz</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-4598-4931</userId>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Kerly Gissela</givenName>
+          <surName>Briones Cedeño</surName>
+        </individualName>
+              <userId directory="https://www.linkedin.com/profile/view?id=">kerly-briones-tortugasmarinas/</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Cecibel Monserrate</givenName>
+          <surName>Tenelema Delgado</surName>
+        </individualName>
+              <userId directory="https://www.linkedin.com/profile/view?id=">cecibel-monserrate-tenelema-delgado-4b8158172/</userId>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Alejandro Octavio</givenName>
+          <surName>Vicario Pérez</surName>
+        </individualName>
+              <userId directory="https://www.linkedin.com/profile/view?id=">alejandro-vicario-p%C3%A9rez-63676b31/</userId>
+        <role>user</role>
+      </personnel>
+      <abstract>
+        <para>La Fundación Contamos Contigo Ecuador (FCCE) trabaja en temas de investigación, conservación, protección, educación y divulgación en la temática de tortugas marinas. El presente proyecto maneja anidación, eclosión, varamientos y distribución de tortugas marinas desde la playa de Crucita hasta la Punta de Bahía de Caráquez, Manabí, Ecuador. Se obtuvieron varios resultados como FCCE, entre los más importantes: nuevos reportes de anidación de tortuga golfina en zonas de dificil acceso; se reportó 4 anidaciones de tortuga laúd las cuales custodiamos como FCCE las 24 horas durante su tiempo de eclosión; tuvimos éxito en la eclosión de las 4 nidadas de forma natural teniendo como FCCE el primer reporte de neonatos de laúd en el Ecuador; y, gracias a todo e esfuerzo se fundó el primer Campamento Tortuguero &quot;Reina Laúd&quot; del Ecuador con instalaciones para voluntarios y así realizar monitoreo y control (diurno y nocturno) de anidación y eclosión de tortugas marinas; y, charlas y capacitaciones a las comunidades y academia.</para>
+      </abstract>
+      <funding>
+        <para>El trabajo realizado en la investigación es de la Fundación Contamos Contigo Ecuador, una organización ecuatoriana sin fines de lucro que es la entidad encargada de ejecutar el presente proyecto mediante profesionales de campo y voluntarios de la comunidad y academia, grupos denominados &quot;Patrulla Golfina&quot; en cada sector.
+Los materiales para protección de nidadas fueron entregados por WildAid Latinoamérica.
+El permiso de investigación fue aprobado por la autoridad ambiental (MAATE).</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>El área de estudio está comprendida por la zona costera de los cantones Portoviejo y Sucre, provincia de Manabí, Ecuador.
+Algunas playas son de alta incidencia turística y otras son de dificil acceso y donde no hay comunidades. Además todas las playas presentan una gran cantidad de contaminación por residuos sólidos, principalmente plásticos, donde la mayor cantidad observada es en la desembocadura del Río Portoviejo.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>El objetivos general fue analizar los aspectos biológicos y de comportamiento de las tortugas marinas y su relación con los parámetros ambientales y antrópicos.
+Los objetivos específicos fueron:
+• Determinar el éxito de eclosión de las nidadas por temporadas.
+• Determinar las principales afectaciones antrópicas en las tortugas marinas.
+• Determinar la distribución y la frecuencia de nidificación de las tortugas marinas de Crucita mediante marcaje satelital y tag´s INCONEL.
+• Establecer la tendencia de la abundancia espacio temporal de anidación de las tortugas marinas.
+• Fomentar el involucramiento activo de las comunidades costeras en las labores de protección, conservación y educación ambiental.
+
+Se siguió la metodología establecida en el Manual sobre técnicas de manejo para la conservación de tortugas marinas en playas de anidación (Convención Interamericana para la Protección y Conservación de las Tortugas Marinas (CIT), 2011) y el Protocolo de respuesta de varamientos de especies
+marinas (Ministerio de Ambiente, 2018). Se colectaron datos de anidación, eclosión, distribución y varamientos de tortugas marinas obtenidos de monitoreos, controles y reportes que fueron ingresados en la base de datos de FCCE para su análisis.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-07-06T09:23:36.807+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Pesántez-Muñoz J F, Briones Cedeño K G, Tenelema Delgado C M (2021): Monitoreo de anidación de tortugas marinas en la zona costera de Portoviejo y Sucre de la provincia de Manabí, Ecuador.. v1.4. Contamos Contigo Ecuador Foundation. Dataset/Samplingevent. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-fcce-2020-2021&amp;v=1.4</citation>
+          <bibliography>
+                <citation>Convención Interamericana para la Protección y Conservación de las Tortugas Marinas (CIT). 2011. Manual Sobre Técnicas de Manejo para la Conservación de las Tortugas Marinas en Playas de Anidación. CIT-CC8-2011-Tec.2. 52 pp.</citation>
+                <citation>Ministerio del Ambiente. (2018). Protocolo de respuesta a varamientos de especies marinas (Cetáceos, Pinnípedos, Tortugas Marinas, Tiburones Ballena y Mantarrayas) (Issue December 2018, p. 93). Deutsche Gesellschaft für Internationale Zusammenarbeit – GIZ Ecuador.</citation>
+                <citation>MAATE, WildAid, GIZ. (2021). Agenda de prioridades en Investigación de tortugas marinas en la Costa Continental del Ecuador, WildAid Inc., Cooperación Técnica Alemana – GIZ. Proyecto Conservación de tortugas marinas en la Costa de Ecuador. Quito, Ecuador.</citation>
+                <citation>MAATE, WildAid, GIZ. (2021). Protocolo Operativo Estándar para la Protección, Manejo y Monitoreo de Nidos de Tortugas Marinas en la Costa Continental del Ecuador, WildAid Inc., Cooperación Técnica Alemana – GIZ. Proyecto Conservación de Tortugas Marinas en la Costa de Ecuador. Guayaquil, Ecuador.</citation>
+                <citation>MAATE, WildAid, GIZ. (2021). Agenda de prioridades en Investigación de tortugas marinas en la Costa Continental del Ecuador, WildAid Inc., Cooperación Técnica Alemana – GIZ. Proyecto Conservación de tortugas marinas en la Costa de Ecuador. Quito, Ecuador.</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=monitoreo-fcce-2020-2021</resourceLogoUrl>
+          <dc:replaces>d3209204-de4f-4680-957e-6523f5a4447c/v1.4.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

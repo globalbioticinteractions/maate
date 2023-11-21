@@ -1,0 +1,535 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=herbario_icai/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario_icai</alternateIdentifier>
+  <title xml:lang="spa">Catálogo de especies registradas en el Herbario ICAI</title>
+      <creator>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>López</surName>
+    </individualName>
+    <organizationName>Herbario ICAI</organizationName>
+    <positionName>Jefe responsable del Herbario_Curadora_Coordinadora de vinculación con la comunidad</positionName>
+    <address>
+        <deliveryPoint>Av. Jorge Guzmán Rueda y Av. Padre Aurelio Espinosa Polit, Ibarra 100112</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100112</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>06 2645-500 / 0998325499</phone>
+    <electronicMailAddress>mflopez2@pucesi.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.pucesi.edu.ec</onlineUrl>
+          <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maria_Lopez133/stats/report/weekly/2020-12-06</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>López</surName>
+    </individualName>
+    <organizationName>Herbario ICAI</organizationName>
+    <positionName>Jefe responsable del Herbario_Curadora_Coordinadora de vinculación con la comunidad</positionName>
+    <address>
+        <deliveryPoint>Av. Jorge Guzmán Rueda y Av. Padre Aurelio Espinosa Polit, Ibarra 100112</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100112</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>06 2645-500 / 0998325499</phone>
+    <electronicMailAddress>mflopez2@pucesi.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.pucesi.edu.ec</onlineUrl>
+          <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maria_Lopez133/stats/report/weekly/2020-12-06</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>López</surName>
+    </individualName>
+    <organizationName>Herbario ICAI</organizationName>
+    <positionName>Jefe responsable del Herbario_Curadora_Coordinadora de vinculación con la comunidad</positionName>
+    <address>
+        <deliveryPoint>Av. Jorge Guzmán Rueda y Av. Padre Aurelio Espinosa Polit, Ibarra 100112</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100112</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>06 2615-500 / 0998325499</phone>
+    <electronicMailAddress>mflopez2@pucesi.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.pucesi.edu.ec/webs2/</onlineUrl>
+          <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maria_Lopez133/stats/report/weekly/2020-12-06</userId>
+    <role>pointOfContact</role>
+      </associatedParty>
+  <pubDate>
+      2022-09-28
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Se presenta un catálogo actualizado de las especies presentes en el Herbario ICAI</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keyword>pteridaceae</keyword>
+            <keyword>musgos</keyword>
+            <keyword>hongos</keyword>
+            <keyword>líquenes</keyword>
+            <keyword>magnoliopsidas</keyword>
+            <keyword>liliopsidas</keyword>
+            <keyword>catálogo</keyword>
+            <keyword>registro</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>A continuación se presenta el listado de publicaciones que han usado los datos del herbario:
+
+- “Crio-conservación de variedades del género Phaseolus mediante la viabilidad en la Parroquia Quiroga, Cantón Cotacachi”
+- Cultivo In-Vitro y Crioconservación de polineos del género Epidendrum en la Provincia de Imbabura.
+- Bioprospección del grupo Orchidaceae y su interacción con abejas colectoras de perfume Euglossini (Hymenoptera-Apidae)
+- Sintesis verde de nanoparticulas de plata usando el extracto acuoso de las hojas de ajo (Allium sativum)
+- LAS ABEJAS DE LAS ORQUÍDEAS: LA TRIBU EUGLOSSINI, (HYMENOPTERA, APIDAE)  PRIMEROS REGISTROS  EN EL VALLE DE LOS MANDURIACUS, CANTÓN COTACACHI, PROVINCIA DE IMBABURA.
+AGENDA ESTRATÉGICA EN AGROTURISMO Y POTENCIAL TURÍSTICO DE LA COMUNIDAD CHILCAPAMBA EN EL CANTÓN COTACACHI - IMBABURA. 
+- Imbabura - Plants of the forest remnants of La Carbonería &quot;Two new species of Lepanthes (Pleurothallidinae; Orchidaceae) from Andean forest remnants in Ibarra, Ecuador&quot; Synthesis of Silver Nanoparticles Using Aqueous  Leaf Extract of Mimosa albida (Mimosoideae):  Characterization and Antioxidant Activity
+- USO ETNOBOTÁNICO Y PRINCIPIOS ACTIVOS DE Monnina crassifolia KUNTH; POLYGALACEAE
+- Levantamiento de la cobertura vegetal y etnobotánica en la comunidad de Fakcha Llakta
+Total Phenolic Composition and Antioxidant Activity of Silver Nanoparticles using Aqueous Extract of Chilca Leaves (Baccharis latifolia)
+- Three new endemic species of Lepanthes (Orchidaceae, Pleurothallidinae) from the highlands of Ecuador</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.pucesi.edu.ec/herbariopucesi/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Las muestras colectadas pertenecen en su mayoría a todo el Ecuador continental. Sin embargo, existen especímenes pertenecientes a otros países.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.255</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.081</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.516</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.091</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1685-08-26</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020-10-10</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Liliopsidas</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+                  <commonName>Plantas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Liliopsida</taxonRankValue>
+                  <commonName>monocotiledoneas</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Magnoliopsidas</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+                  <commonName>plantas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>magnoliopsidas</taxonRankValue>
+                  <commonName>dicotiledoneas</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Líquenes</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Fungi</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Agaricomycetes</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Phragmobasidiomycetes</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Peltigerales</taxonRankValue>
+                  <commonName>Lìquenes</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Hongos</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Fungi</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Agaricomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Basidiomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Pezizomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Dothideomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Homobasidiomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Sordariomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Himenoascomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Leotiomycetes</taxonRankValue>
+                  <commonName>hongos</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Musgos</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+                  <commonName>plantas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Anthocerotopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Andreaeopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Jungermannipsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Polytrichopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Bryopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Sphagnopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Marchantiopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Takakiopsida</taxonRankValue>
+                  <commonName>musgos</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Pteridaceae</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+                  <commonName>plantas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Polypodiopsida</taxonRankValue>
+                  <commonName>helechos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                  <commonName>helechos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Equisetopsida</taxonRankValue>
+                  <commonName>cola de caballo</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>El objetivo de la creación de la base de datos, es poder socializar lo que se tiene en el Herbario ICAI, para que con esto se pueda realizar asociaciones con investigadores y otros herbarios, y consolidar los conocimientos que se adquieren por medio de las muestras botánicas de las diferentes partes del Ecuador y de otros países. Ademas, las personas pueden acceder con mayor facilidad a la información de la colección de plantas que se encuentra dentro de los registros del Herbario, apoyando a la ciencia ciudadana.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>La frecuencia de mantenimiento de este recurso se va a realizar una vez al año, actualizando datos, ingresando nuevos datos, etc.</para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>María Fernanda</givenName>
+      <surName>López</surName>
+    </individualName>
+    <organizationName>Herbario ICAI</organizationName>
+    <positionName>Jefe responsable del Herbario_Curadora_Coordinadora de vinculación con la comunidad</positionName>
+    <address>
+        <deliveryPoint>Av. Jorge Guzmán Rueda y Av. Padre Aurelio Espinosa Polit, Ibarra 100112</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100112</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>06 2645-500 / 0998325499</phone>
+    <electronicMailAddress>mflopez2@pucesi.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.pucesi.edu.ec</onlineUrl>
+          <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maria_Lopez133/stats/report/weekly/2020-12-06</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>1. Procedencia de ejemplares botánicos: La selección del sitio se da según los intereses personales del investigador o recolector, o acorde a un programa establecido de inventario de sitios.
+2. Procesamiento de ejemplares botánicos: Las notas o información de campo deben seguir un orden recomendado, con el fin de no omitir detalles importantes y necesarios para una posterior identificación de la colección. 
+3. Prensado y secado: El prensado de plantas en campo se hace inmediatamente después de la recolección de la muestra , para ello se debe portar una prensa botánica de madera con un par de cartones, con piezas de periódico y un par de cuerdas para amarrar. El proceso de secado y prensado de las muestras sirve para eliminar el agua dentro de
+ellas, es seguramente la parte más delicada en la confección de un herbario y que
+condicionará su longevidad, así como la calidad del mismo, ya que es el primer paso para
+evitar su descomposición y destrucción por parte de agentes infectivos (insectos, mohos y bacterias). 
+4. Montaje: Quiere decir pegar una muestra botánica con goma blanca en una cartulina (29x41cm),además deberán acompañar la etiqueta en el lado inferior derecho, el sello del Herbario en el lado superior derecho y un sobre pequeño en el lado superior izquierdo.
+Después se cocerá las partes más gruesas o leñosas para sujetar la muestra
+5. Sellado y numeración de cartulinas de herbario: El sellado y No. del colector: corresponde al número único cada cada colector. En el supuesto caso que exista mala numeración por parte del colector, el Herbario de la Pontificia Universidad Católica del Ecuador sede Ibarra , se procederá a incluir un sufijo al número original, creando de esta manera un número único de muestra de cada colector.
+6. Pre-archivo y archivo: Una vez montadas las muestras, se realizará el pre-archivo alfabético de las muestras por Familias, para luego ser depositados en sus respectivos casilleros de Familia, Género y especie según el caso.
+7. Cuarentena: Se efectúa introduciendo el material en un congelador, cuyo tamaño depende de la cantidad de material que se procesa (un tamaño adecuado es de 226 x 76 x 85 cm); además debe alcanzar una temperatura recomendada de -20˚C. Las muestras
+deberán estar dentro de bolsas plásticas, con una etiqueta en el exterior, indicando fecha y persona responsable.  
+8. Almacenamiento y arreglo de los pliegos botánicos: Existe un sistema de ubicación que consta de los siguientes criterios: área de colecciones, colecciones húmedas, distribución externa, distribución interna.
+9. Determinación taxonómica: Actualmente se consideran las siguientes categorías taxonómicas: Dominio&gt; Reino&gt; Filo o División&gt; Clase&gt; Orden&gt; Familia&gt; Género&gt; Especie. En algunos casos existen categorías intermedias por debajo o por encima de un determinado taxón.
+10. Estándares de curaduría taxonómica: El Curador se encarga de la administración de las listas de valor de especies y localidades de colección de la bases a la base de datos permanente del Herbario.
+11. Índice de salud de las colecciones: Se realiza un monitoreo períodico de la colección y cuando se encuentra algún espécimen con algún ataque de plagas o enfermedades, se retira de la colección para someterle a congelación y luego se lo limpia con alcohol estas novedades no son muy frecuentes, por tanto el indice de salud es alto.
+12. Remoción y eliminación de ejemplares: La remoción de un espécimen debe hacerse de manera bien informada y basada en un entendimiento de los asuntos legales y éticos del museo. Pueden considerarse como formas de remoción, además de la separación de especímenes de la colección, el traspaso del espécimen al Herbario de estudiantes o su destrucción. 
+13. Préstamos de especímenes: El préstamo y la reserva son dos modalidades de uso de material botánico del Herbario que permiten a un investigador disponer del material de manera exclusiva por un período de tiempo definido. El préstamo involucra la salida del material del Herbario. La reserva implica la permanencia del material dentro de dichos recintos en muebles asignados especialmente, a los cuales tendrá acceso la persona a la que se le ha concedido la reserva y a los que los que otros investigadores no tendrán acceso durante el tiempo establecido, posteriormente se puede tramitar un préstamo si es necesario.
+14. Preservación de los ejemplares: Todos los especímenes del herbario antes de ingresar a la colección se someten a proceso de cuarentena, y las condiciones medio ambientales garantiza la preservación de los especímenes.
+La documentación asociada al herbario existe en forma de:
+- Registros electrónicos de la información individual de los ejemplares en una base
+de datos electrónica.
+- Etiquetas de identificación asociadas a cada ejemplar.
+- Documentos actualizados de la Patente de Manejo de vida Silvestre otorgada por
+el Ministerios del Ambiente, Agua y Transición Ecológica y respaldos de patentes
+de años anteriores.
+- Permisos de investigación y guías de movilización otorgados por el Ministerio del
+Ambiente.
+- Permisos de importación y exportación generados por el Herbario firmados por el
+Director de la institución involucrada.
+- Documentación relacionada a los préstamos salientes y entrantes entre instituciones. Esta documentación incluye solicitudes, cartas, recibos de envío (correo nacional, couries).
+- Cartas de donación de especímenes.
+- Acuerdos de acceso y uso de especímenes y materiales.
+- Documentación relacionada con la remoción de ejemplares.
+- Inventarios de materiales o equipos
+
+Base de datos de las colecciones
+
+Para el sistema de registro de datos se cuenta con un archivo en formato EXCEL, donde se
+registra todos los especímenes ingresados a la colección.
+
+Resguardo y seguridad de la información
+
+Periódicamente se resguarda la información en un drive.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Previamente a la salida al campo, se hace una selección del sitio donde se quiere llevar a cabo las labores de recolección. La selección del sitio se da según los intereses personales del investigador o recolector, o acorde a un programa establecido de inventario de sitios.
+Algunos criterios que se toman en consideración para este fin son:
+-Importancia florística del lugar.
+-Ausencia de información o actividades de inventario previas.
+-Búsqueda de material fértil de alguna especie, previamente recolectada en el mismo
+lugar.
+-Desarrollo de más actividades de inventario en el sitio.
+-Toma de fotografías de especies particulares</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Las notas o información de campo deben seguir un orden recomendado, con el fin de no
+omitir detalles importantes y necesarios para una posterior identificación de la colección.
+Además, este orden permite realizar el proceso de digitalización e introducción en la base de datos de forma más rápida.
+La información de la libreta de campo se puede dividir en dos grandes categorías:
+1. Información de la localidad: aplica para todas aquellas recolecciones que se hacen en un mismo sitio durante un día o varios.
+2. Información del ejemplar: corresponde al número de recolección y a sus duplicados.
+La información de la localidad debe contener:
+1. División política: país, estado/provincia, distrito, cantón, municipio, etc.
+2. Ubicación geográfica: información o datos sobre el sitio de recolección, aportando el
+mayor grado de detalles.
+3. Descripción del hábitat: se recomienda utilizar terminología uniforme o estándar (por
+ej., bosque húmedo, bosque secundario, tacotales, bosque ripario, etc.).
+4. Latitud y longitud: preferiblemente utilizar un GPS o geoposicionador.
+5. Elevación: preferentemente la indicada por un altímetro; de lo contrario, la que se
+extrae de una carta topográfica o aquella que indica el GPS.
+La información del ejemplar debe contener:
+1. Información taxonómica del ejemplar: normalmente contiene la taxonomía, producto
+de la identificación directa y rápida en campo que hace el mismo recolector, en la mayoría de los casos a nivel de familia u otros, dependiendo del conocimiento del recolector y
+grado de complejidad de la muestra.
+2. Número de recolecta.
+3. Det. (“o determinado por:”): es útil reservar en la libreta de notas una línea para esta información. Aquí se anota la identificación definitiva del ejemplar, incluido el nombre de la persona que hace la identificación, día, mes y año.
+4. Descripción de la planta: aquellas características que no serán evidentes antes de que la muestra esté seca. Por ejemplo:
+- Hábito: árbol, arbusto, hierba, epífita, etc.
+- Tamaño: dimensiones de la planta. Proveer medidas de frutos frescos es una buena
+- práctica (raras veces se proporcionan y la mayoría de las medidas son tomadas del
+- material seco).
+- Colores: de flores y frutos.
+- Olores o aromas: si se considera de utilidad.
+5. Para las briofitas es importante el sustrato, porque allí están las esporas y son muy
+importantes para el banco de esporas. Y si son cortisícolas, a qué altura del árbol se
+colectó. Y si es una rama grande o una del dosel o una rama caída, es importante para
+saber el tipo de distribución que tiene la briofita. Si tiene algún olor y el color, ya que éste puede cambiar, además si ven algún insecto, anotarlo, la elevación, la altura a la que se toma la muestra, y si se conoce el árbol, ya que esto da más información.
+6. En cuanto al etiquetado, es importante si la planta es epífita, señalar si está creciendo sobre un alga, sobre parte de una planta acuática, roca u otro. Y por otro lado también en el caso de las algas microscópicas, pero que pueden verse cuando estan agrupadas, verse hasta cierto punto, por ejemplo, especies de Cladófora de agua dulce o de agua salada. En esos casos se puede colectar la muestra. Hay en muchos libros una metodología en donde proponen suspender el espécimen en una lámina de papel, directamente debajo del agua y se trata de levantar y sacar de ese medio tal cual ella va quedando. La idea es que quede lo más natural posible. Con este espécimen también se puede utilizar papel encerado, sobre todo cuando es muy delicada para que no se adhiera al periódico o a un paño de tela.
+7. Información adicional: es importante incluir notas sobre abundancia, usos de las
+plantas, historia natural, etc.
+8. Número de duplicados: es de gran importancia proveer el número de duplicados hechos en cada recolección; esta información es requerida al momento de elaborar las respectivas etiquetas. Además, ayuda a planificar el resto de las fases del proceso de
+manejo de los especímenes.
+9. Acompañantes: es una buena costumbre anotar las personas que acompañan al recolector principal durante la recolección del material. En una eventual relocalización del sitio y del material adicional de la especie, los acompañantes podrían ser claves para llevar a cabo el proceso.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Se entiende como documentación a toda evidencia física o en archivos electrónicos que
+sustenta la proveniencia, identificación, historia, uso y valor de los especímenes. La documentación asociada a los especímenes debe ser clara, simple, comprensible, organizada e idealmente redundante. La documentación en papel debe ser archivada de manera que se asegure su permanencia en el tiempo. La razón principal de administrar y proteger adecuadamente los documentos asociados a los especímenes es mejorar el acceso a la información y especímenes de la colección del Herbario PUCE-SI.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="PUCESI-HERBARIO-ICAI">
+    <title>HERBARIO</title>
+      <personnel>
+        <individualName>
+            <givenName>María Fernanda</givenName>
+          <surName>López</surName>
+        </individualName>
+              <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maria_Lopez133/stats/report/weekly/2020-12-06</userId>
+        <role>pointOfContact</role>
+      </personnel>
+      <abstract>
+        <para>Herbario ICAI desarrolla, fomenta y apoyr el desarrollo de investigación y actividades que conlleven al conocimiento de la flora ecuatoriana, con producción de material didáctico para su estudio; extensionismo, realizando asesorías internas y externas, talleres para la creación y manejo de herbarios didácticos, así también, realiza el intercambio de las muestras con otros herbarios, apoyando y fortaleciendo el desarrollo de capacidades, promoviendo y factibilizando alianzas estratégicas a todo nivel, a través de las investigaciones científicas de los recursos se flora de los ecosistemas andinos finalmente proveera de información en proyectos enfocados en la conservación e investigación científica; constituyendo de esta manera una fuente de información para la elaboración de publicaciones.</para>
+      </abstract>
+      <funding>
+        <para>Los investigadores asociados al Herbario, ya sea en científicos nacionales o extranjeros llevan a cabo investigaciones sobre diferentes temas relacionados a la flora del Ecuador. Tienen la responsabilidad de apoyar las investigaciones del Herbario y asesorar a los estudiantes y personal de proyectos de investigación.
+Finalmente, el Herbario PUCE-SI cuenta con un financiamiento propio.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Previamente a la salida al campo, se hace una selección del sitio donde se quiere llevar a cabo las labores de recolección. La selección del sitio se da según los intereses personales del investigador o recolector, o acorde a un programa establecido de inventario de sitios.
+Algunos criterios que se toman en consideración para este fin son:
+-Importancia florística del lugar.
+-Ausencia de información o actividades de inventario previas.
+-Búsqueda de material fértil de alguna especie, previamente recolectada en el mismo
+lugar.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Objetivo General
+
+- Contribuir a la generación de conocimiento y conservación sobre la flora y su
+biodiversidad a través de la documentación de especies de flora vascular y no vascular
+de la zona norte del País.
+
+Objetivos específicos
+
+- Contribuir a la investigación y al desarrollo de los proyectos mediante el uso de la
+colección.
+- Ser un instrumento de educación y divulgación de la flora ecuatoriana para los pobladores de la región.
+- Rescatar los valores ancestrales y medicinales de las especies endémicas de la región.
+- Conservar y mantener la colección botánica de especies vasculares y no vasculares.
+- Desarrollar investigación científica sobre la flora de la zona norte del Ecuador en los aspectos: taxonómico, sistemático, ecológico, etnobotánicos y de conservación.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-06-07T02:52:15.862+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="PUCESI-HERBARIO-ICAI">López M F (2022): Catálogo de especies registradas en el Herbario ICAI. v1.0. No organisation. Dataset/Occurrence. PUCESI-HERBARIO-ICAI</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=herbario_icai</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>https://www.gbif.org/es/grscicoll/institution/79cce11a-be46-4788-b93f-20c2a3b66115</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/collection/0a35d02c-f4d9-4072-8c5d-d204d3b0055c</collectionIdentifier>
+                <collectionName>Herbario ICAI de la PUCE - SEDE IBARRA</collectionName>
+              </collection>
+                <specimenPreservationMethod>mounted</specimenPreservationMethod>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+                <specimenPreservationMethod>other</specimenPreservationMethod>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

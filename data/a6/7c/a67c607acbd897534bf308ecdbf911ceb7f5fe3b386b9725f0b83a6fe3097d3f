@@ -1,0 +1,258 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mae-dnb-cm-2020-0130/v2.0" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/sbpk0b</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mae-dnb-cm-2020-0130</alternateIdentifier>
+                <title xml:lang="eng">Obtención de los códigos de barras genéticos de ADN de especies de arácnidos en los ecosistemas forestales de montaña del Ecuador organizados en una plataforma digital a través de una aplicación web para estudios de biodiversidad.</title>
+                    <creator>
+            <individualName>
+                    <givenName>Nadine</givenName>
+                <surName>Dupérré</surName>
+            </individualName>
+            <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+            <positionName>Collection Manager-Arachnology</positionName>
+            <address>
+                    <country>DE</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-2195-878X</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Veronica</givenName>
+                <surName>Crespo-Pérez</surName>
+            </individualName>
+            <organizationName>Museo de Zoologia-QCAZ</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Danilo</givenName>
+                <surName>Harms</surName>
+            </individualName>
+            <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                    <country>DE</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Elicio</givenName>
+                <surName>Tapia</surName>
+            </individualName>
+            <organizationName>OTONGA foundation</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Quandt</givenName>
+                <surName>Dietmar</surName>
+            </individualName>
+            <organizationName>Nees Institute for Plant Biodiversity, University of Bonn.</organizationName>
+            <positionName>Professor</positionName>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Nadine</givenName>
+                <surName>Duperre</surName>
+            </individualName>
+            <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+            <positionName>Collection Manager-Arachnology</positionName>
+            <electronicMailAddress>n.duperre@leibniz-lib.de</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-2195-878X</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Nadine</givenName>
+                <surName>Duperre</surName>
+            </individualName>
+            <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+            <address>
+                    <country>DE</country>
+            </address>
+            <electronicMailAddress>n.duperre@leibniz-lib.de</electronicMailAddress>
+            <role>principalInvestigator</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Verónica</givenName>
+                <surName>Crespo-Pérez</surName>
+            </individualName>
+            <organizationName>QCAZ</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <role>principalInvestigator</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-11-10
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>BIO-GEEC: GERMAN-ECUADORIAN BIODIVERSITY CONSORTIUM&lt;br&gt;
+Establishing barcoding pipelines for biological systems of public and economic relevance.
+&lt;br&gt;&lt;br&gt;
+Ecuador is a megadiverse country and all ecoregions of the country belong to one of the “hottest” global biodiversity hotspots, meaning that the very high levels of species endemism contrast with extreme levels of habitat destruction. Major challenges will be to restore the biodiversity and ecosystem functioning in lost or disturbed habitats of human relevance, especially in the Andean mountain ecosystems (e. g. cloud forests or páramos). The páramo, for example, serves as a major carbon storage medium and provided drinking water for Ecuador’s human population. In this project, four German institutions and four Ecuadorian universities (17 scientists in total) are forming the German-Ecuadorian Biodiversity Consortium (BIO-GEEC) that has three major objectives. 
+&lt;br&gt;&lt;br&gt;
+First, we will develop a rapid pipeline for the genetic identification and characterization of organismic groups with public and/or economic relevance. We establish the physical infrastructure, databases, IT protocols and a Web App (EcBioDiv) for a comprehensive barcoding workflow, and transfer the skills and tools available in Germany to our partnering institutions in Ecuador. 
+&lt;br&gt;&lt;br&gt;
+Second, we will implement and test this infrastructure in four sub-projects (SP) that address patterns of biodiversity in taxa and tissue of high relevance: seed plants (tissue, seeds &amp; pollen), pollinating insects, venomous arachnids, and soil microorganisms. Third, we will generate an international network for reciprocal training and exchange. This is particularly aimed at early career researchers that will transfer these skills to practical enterprises and careers in research, government bodies, and industry. Within the SPs, we will be analyzing important aspects of microbiomes diversity (SP6) and seed biology (SP3), thereby paving the way to practical rehabilitation programs, but also providing a foundation for commercial enterprises such as plant nurseries (SP3) or biomedical research (SP6). 
+&lt;br&gt;&lt;br&gt;
+We will also compile a comprehensive library of palm pollinators and palm floral visitors and thus establish a complete network of palm species, their pollinators, and pollen for practical agriculture, farming and bioprospecting (SP4). We will further barcode venomous arachnids to allow for improved human health services and venom bioprospection (SP5). To achieve this in a collaborative effort, we selected a specific transect near Tena (Napo Province) that allows coordinated research in all subprojects in one transect, ranging from tropical rain forest at low elevation to páramo habitats in high altitudes. 
+&lt;br&gt;&lt;br&gt;
+Several joint activities (e.g. a summer school and joint thesis supervision) will foster the nascent network. Once the molecular routines and informatic pipeline components have been established in Ecuador, BIO-GEEC will facilitate the biodiversity research for the Ecuadorian partners and the German institutions, since barriers for material and data exchange will be significantly lowered. German partners will benefit from the resources in terms of new project design, biodiversity analyses, biomonitoring and modelling.
+&lt;br&gt;&lt;br&gt;
+Ecuadorian partners will benefit from the physical infrastructure, new molecular skills and methodologies, and international training. We will implement BIO-GEEC to serve as an umbrella for future biodiversity research projects in Ecuador involving molecular data. Once implemented and functional, the network will be expanded to further facilitate exchange, data access and collaborative research across institutions and country borders. BIO-GEEC is also intended to serve as a stepping stone for a larger joint research project on Ecuadorian biodiversity with our new partners, and generate the necessary data and infrastructure to compete for funding from other (e.g. the Deutsche Forschungsgemeinschaft, DFG) sources after this call has ended.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Spider</keyword>
+                                    <keyword>diversity</keyword>
+                                    <keyword>dna-barcoding</keyword>
+                                    <keyword>Taxonomy</keyword>
+                                    <keyword>Ecuador</keyword>
+                            <keywordThesaurus>Metadata</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Metadata</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://bioweb.puce.edu.ec/QCAZ/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Ecuador</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-82</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75</eastBoundingCoordinate>
+                                <northBoundingCoordinate>2</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2020-12-11</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2023-12-11</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Nadine</givenName>
+                <surName>Dupérré</surName>
+            </individualName>
+            <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+            <positionName>Collection Manager-Arachnology</positionName>
+            <address>
+                    <country>DE</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-2195-878X</userId>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>Veronica</givenName>
+                <surName>Crespo-Pérez</surName>
+            </individualName>
+            <organizationName>Museo de Zoologia-QCAZ</organizationName>
+            <positionName>Curator</positionName>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Specimens were studied under a microscope for identification. The third leg on the left side was detached and sent for sequencing.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Pitfalls were set in the Paramo en Colonso-Chalupas. The trap were emptied every 10 days for 2 months.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Samples were collected by pitfall trap in propylene-glycol and ethanol. All Arachnids were sorted and stored in 100% ethanol for DNA studies.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="MAE-DNB-CM-2020-0130">
+                    <title>Obtención de los códigos de barras genéticos de ADN de especies de arácnidos en los ecosistemas forestales de montaña del Ecuador organizados en una plataforma digital a través de una aplicación web para estudios de biodiversidad.</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Elicio</givenName>
+                                <surName>Tapia</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0001-9005-5328</userId>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Danilo</givenName>
+                                <surName>Harms</surName>
+                            </individualName>
+                            <role>principalInvestigator</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Dietmar</givenName>
+                                <surName>Quandt</surName>
+                            </individualName>
+                            <role>principalInvestigator</role>
+                        </personnel>
+                        <abstract>
+                            <para>Establishing barcoding pipelines for biological systems of public and economic relevance.</para>
+                        </abstract>
+                        <funding>
+                            <para>DAAD</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Ecuador</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-03-22T09:19:24.078+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/sbpk0b">Dupérré N, Crespo-Pérez V, Harms D, Tapia E, Dietmar Q, Duperre N (2023). Obtención de los códigos de barras genéticos de ADN de especies de arácnidos en los ecosistemas forestales de montaña del Ecuador organizados en una plataforma digital a través de una aplicación web para estudios de biodiversidad.. Version 2.0. Museo de Zoología QCAZ de la PUCE. Occurrence dataset. https://doi.org/10.60545/sbpk0b</citation>
+                                    <collection>
+                                        <collectionName>QCAZ</collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mae-dnb-cm-2020-0130/v2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

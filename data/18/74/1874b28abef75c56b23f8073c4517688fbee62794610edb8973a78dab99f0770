@@ -1,0 +1,527 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mfs-montufar-2023/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mfs-montufar-2023</alternateIdentifier>
+  <title xml:lang="eng">Lista de Especies del Museo de fauna Silvestre del Cantón Montúfar, Provincia del Carchi</title>
+      <creator>
+    <individualName>
+        <givenName>Rocio</givenName>
+      <surName>Imbaquingo</surName>
+    </individualName>
+    <organizationName>Asociación de Turismo Mindalae Adventure</organizationName>
+    <positionName>Curadora</positionName>
+    <address>
+        <deliveryPoint>Calle Olmedo y Carrera</deliveryPoint>
+        <city>San Gabriel</city>
+        <administrativeArea>Carchi</administrativeArea>
+        <postalCode>593</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0988417950</phone>
+    <electronicMailAddress>rocioimbaquingo@hotmail.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>William Edmundo</givenName>
+      <surName>Defas Pillajo</surName>
+    </individualName>
+    <organizationName>Mindalae</organizationName>
+    <positionName>Tecnico</positionName>
+    <address>
+        <deliveryPoint>Felix Burbano y Gonzalo pozo</deliveryPoint>
+        <city>Tulcán</city>
+        <administrativeArea>Carchi</administrativeArea>
+        <postalCode>593</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0982291624</phone>
+    <electronicMailAddress>williandefas_m@yahoo.com</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Francisco Fabian</givenName>
+      <surName>Ponce Rosero</surName>
+    </individualName>
+    <organizationName>Asociación de Turismo Mindalae Adventure</organizationName>
+    <positionName>Representante Legal</positionName>
+    <address>
+        <deliveryPoint>Calle Olmedo y Carrera</deliveryPoint>
+        <city>San Gabriel</city>
+        <administrativeArea>Carchi</administrativeArea>
+        <postalCode>593</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0995945034</phone>
+    <electronicMailAddress>ceramistasdelcarchi@hotmail.com</electronicMailAddress>
+    <role>pointOfContact</role>
+      </associatedParty>
+  <pubDate>
+      2023-03-15
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Especies Museo Montúfar; es una lista de chequeo de especies de fauna silvestre animal (aves, mamíferos, reptiles), que fueron rescatados de instituciones educativas de la Ciudad de San Gabriel en el cantón Montúfar, Provincia del Carchi, para la implementación del Museo de fauna Silvestre de esta ciudad. La exhibición de estas especies disecadas (a través de procesos de taxidermia) junto con la infraestructura del museo es utilizada para sensibilizar la importancia de la conservación de la biodiversidad existente en la provincia del Carchi.</para>
+    <para>Actualmente el Museo de fauna Silvestre es administrado por la ASOCIACIÓN MINDALAE ADVENTURE a través de un convenio de comodato con el GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE MONTÚFAR y es el único en su tipo en la provincia del Carchi</para>
+    <para>Para que los especímenes ingresen al museo deben cumplir los siguientes pasos: 
+CUARENTENA.- Cuando los ejemplares ingresan a una colección (por primera vez o luego de un proceso de préstamo), deben pasar por un proceso de cuarentena o aislamiento preventivo, para poder cumplir con dicha actividad se debe: • Realizar la recepción del ejemplar por parte del técnico responsable • Realizar el debido mantenimiento, desinfección, fumigación y control de plagas durante 48 horas, para evitar de esa forma el desarrollo de agentes deteriorantes. • Llenar el formato de Cuarentena para llevar un registro del proceso.</para>
+    <para>DETERMINACIÓN TAXONÓMICA, ETIQUETADO Y CATALOGACIÓN.- • Etiquetado: Las etiquetas de los especímenes contienen toda la información del ejemplar y que nos permite conocer la identidad del registro biológico. • Catalogación: Se debe asignar a cada ejemplar que ingresa a la colección un número único consecutivo de acuerdo a los registros que se tengan (identidad del registro biológico). • Sistematización: Incluir en la base de datos de la colección toda la información que se tenga de cada uno de los ejemplares. • Determinación Taxonómica: La identificación taxonómica de los especímenes presentes en las diferentes salas del museo, se realiza por el personal técnico a esta dependencia, dicha actividad comprende etiquetado de colecciones.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>museo</keyword>
+            <keyword>san Gabriel</keyword>
+            <keyword>Carchi</keyword>
+            <keyword>Montufar</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://gadmontufar.gob.ec/noticias.php?id=295#:~:text=El%20museo%20de%20Fauna%20Silvestre%20posee%20cuatro%20murales%20y%20cuenta,Gobierno%20Aut%C3%B3nomo%20Descentralizado%20de%20Mont%C3%BAfar.</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Actualmente la colección del Museo de Fauna silvestre cuanta con especímenes rescatados de las instituciones educativas de la ciudad de San Gabriel, cantón Montúfar, provincia del Carchi, sin embargo a futuro se espera contar con especies de las provincias de Imbabura, Sucumbíos y Esmeraldas.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.552</westBoundingCoordinate>
+          <eastBoundingCoordinate>-77.695</eastBoundingCoordinate>
+          <northBoundingCoordinate>0.829</northBoundingCoordinate>
+          <southBoundingCoordinate>0</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2020-01-28</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2022-09-20</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta 58 especies de aves con 16 ordenes diferentes, con su nombre científico y común. Especies colectadas en varias localidades del Ecuador. Sin embargo, no se cuenta con información específica ya que los especímenes fueron rescatados de varios colegios de la ciudad de san Gabriel provincia del Carchi para la implementación del museo de fauna Silvestre del cantón Montúfar.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Columbiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Anseriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Apodiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Suliformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Apodiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Charadriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Apodiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pelecaniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pelecaniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pelecaniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pelecaniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pelecaniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Coraciiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Trogoniformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Piciformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Psittaciformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Tinamiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Tinamiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Columbiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Strigiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Chradriiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cathartiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cathartiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Piciformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Galliformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Galliformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Charadriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Piciformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Psittaciformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cuculiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cuculiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Strigiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Passeriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cathartiformes</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta 16 especies de mamíferos con 7 ordenes diferentes, con su nombre científico y común. Especies colectadas en varias localidades del Ecuador. Sin embargo, no se cuenta con información específica ya que los especímenes fueron rescatados de varios colegios de la ciudad de san Gabriel provincia del Carchi para la implementación del museo de fauna Silvestre del cantón Montúfar.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Artiodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cingulata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Artiodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Artiodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Didelphimorphia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Primates</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Primates</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pilosa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pilosa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Perissodactyla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se presenta 6 especies de reptiles correspondiente a 2 órdenes diferentes, con su nombre científico y común. Especies colectadas en varias localidades del Ecuador. Sin embargo, no se cuenta con información específica ya que los especímenes fueron rescatados de varios colegios de la ciudad de San Gabriel provincia del Carchi para la implementación del museo de fauna Silvestre del cantón Montúfar.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Testudines</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Testudines</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Testudines</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Squamata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Squamata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Squamata</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Los datos se consolidaron con el objetivo de ordenar la información existente en la Institución, mantener un registro de las especies en el Museo de fauna Silvestre y poder a través de la difusión ambiental sentar una conciencia de conservación de la fauna local de la provincia del Carchi</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>El registro de información se actualizará cada año, sin embargo, en el caso de recibir nuevos especímenes se actualizará de manera inmediata y de forma obligatoria al finaliza cada año.</para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Francisco Fabian</givenName>
+      <surName>Ponce Rosero</surName>
+    </individualName>
+    <organizationName>Asociación de Turismo Mindalae Adventure</organizationName>
+    <positionName>Representante Legal</positionName>
+    <address>
+        <deliveryPoint>Calle Olmedo y Carrera</deliveryPoint>
+        <city>San Gabriel</city>
+        <administrativeArea>Carchi</administrativeArea>
+        <postalCode>593</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0995945034</phone>
+    <electronicMailAddress>ceramistasdelcarchi@hotmail.com</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+  <project id="Museo de Fauna Silvestre Ciudad de San Gabriel">
+    <title>MUSEO DE VIDA SILVESTRE COMO EXPERIENCIA INNOVADORA PARA LA REACTIVACIÓN DEL TURISMO CIENTÍFICO Y COMUNITARIO EN EL CANTÓN MONTUFAR.</title>
+      <personnel>
+        <individualName>
+            <givenName>Willian Edmundo</givenName>
+          <surName>Defas Pillajo</surName>
+        </individualName>
+        <role>pointOfContact</role>
+      </personnel>
+      <abstract>
+        <para>Especies Museo Montúfar; es una lista de chequeo de especies de fauna silvestre animal (aves, mamíferos, reptiles), que fueron rescatados de instituciones educativas de la Ciudad de San Gabriel en el cantón Montúfar, Provincia del Carchi, para la implementación del Museo de fauna Silvestre de esta ciudad. La exhibición de estas especies disecadas (a través de procesos de taxidermia) junto con la infraestructura del museo es utilizada para sensibilizar la importancia de la conservación de la biodiversidad existente en la provincia del Carchi.
+
+Actualmente el Museo de fauna Silvestre es administrado por la ASOCIACIÓN MINDALAE ADVENTURE a través de un convenio de comodato con el GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE MONTÚFAR y es el único en su tipo en la provincia del Carchi.</para>
+      </abstract>
+      <funding>
+        <para>El proyecto fue financiado por el Gobierno Autónomo Descentralizado del Cantón Montúfar y a través de un comodato, el museo es entregado a la ASOCIACIÓN MINDALAE ADVENTURE, misma que mediante administración autónoma genera los recursos necesarios para sostener a largo plazo el mueso de fauna silvestre.</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>El Museo de Fauna silvestre está ubicado en la Ciudad San Gabriel (Calle Olmedo y Carrera. Rocafuerte), en el cantón Montúfar, Provincia del Carchi.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>No se cuenta con un diseño</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-02-10T03:03:37.097+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Imbaquingo R (2023): Lista de Especies del Museo de fauna Silvestre del Cantón Montúfar, Provincia del Carchi. v1.1. No organisation. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mfs-montufar-2023&amp;v=1.1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mfs-montufar-2023</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionName>Lista de especies del Museo de fauna Silvestre del Cantón Montúfar, Provincia del Carchi</collectionName>
+              </collection>
+                <specimenPreservationMethod>mounted</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mfs-montufar-2023/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

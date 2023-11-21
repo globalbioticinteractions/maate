@@ -1,0 +1,282 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="fb7f9f6a-8cf6-4be7-abfd-1b8ea04c0d2e/v1.4" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>https://doi.org/10.15468/qg8cxb</alternateIdentifier>
+                <alternateIdentifier>http://www.dspace.uce.edu.ec/handle/25000/28945</alternateIdentifier>
+                <alternateIdentifier>fb7f9f6a-8cf6-4be7-abfd-1b8ea04c0d2e</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2020-0988</alternateIdentifier>
+                <title xml:lang="spa">Determinación de la calidad de agua utilizando macroinvertebrados en la microcuenca del río Perípa de la parroquia Puerto Limón de Santo Domingo de los Tsáchilas Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Carolina</givenName>
+                <surName>Solórzano</surName>
+            </individualName>
+            <organizationName>UCE</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                    <deliveryPoint>Av. Mariscal Sucre S41-59 y S41</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>0991179550</phone>
+            <electronicMailAddress>cale.mc93@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.linkedin.com/in/carolina-solorzano-lozada-8142a7207/</onlineUrl>
+                    <userId directory="https://www.linkedin.com/profile/view?id=">1717908196</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Carolina</givenName>
+                <surName>Solórzano</surName>
+            </individualName>
+            <organizationName>UCE</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                    <deliveryPoint>Av. Mariscal Sucre S41-59 y S41</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>0991179550</phone>
+            <electronicMailAddress>cale.mc93@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.uce.edu.ec</onlineUrl>
+                    <userId directory="https://www.linkedin.com/profile/view?id=">1717908196</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                <surName>INABIO</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <positionName>Custodio</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichinca</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>http://www.biodiversidad.gob.ec</onlineUrl>
+            <role>custodianSteward</role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                <surName>Facultad de Ciencias Biológicas</surName>
+            </individualName>
+            <organizationName>Universidad Central del Ecuador</organizationName>
+            <positionName>Custodio</positionName>
+            <address>
+                    <deliveryPoint>El Dorado</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>https://www.uce.edu.ec/web/fcb</onlineUrl>
+            <role>publisher</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-05-23
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>La presente investigación limnologíca se realizó en el río Perípa de la parroquia Puerto Limón, Santo Domingo de los Tsáchilas-Ecuador. El objetivo principal fue determinar la calidad de agua, mediante la aplicación de los índices BMWP/Col y EPT% de diversidad de macroinvertebrados acuáticos. Para la recolección de datos se determinó cuatro puntos de muestreo en tres fechas junio, julio y agosto del 2021.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>LIMNOLOGÍA</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>MACROINVERTEBRADOS ACUATICÓS</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>CALIDAD DE AGUA</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>FACTORES AMBIENTALES</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>BMWP/COL</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>EPT%</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">http://www.uce.edu.ec</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Av. Quevedo km7 Parroquía Puerto Limón, Río Peripa</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-79.258</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.081</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-0.169</northBoundingCoordinate>
+                                <southBoundingCoordinate>-0.316</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-06-06</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2021-06-06</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-07-04</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2021-07-04</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-08-07</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2021-08-07</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Carolina</givenName>
+                <surName>Solórzano</surName>
+            </individualName>
+            <organizationName>UCE</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                    <deliveryPoint>Av. Mariscal Sucre S41-59 y S41</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>0991179550</phone>
+            <electronicMailAddress>cale.mc93@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.linkedin.com/in/carolina-solorzano-lozada-8142a7207/</onlineUrl>
+                    <userId directory="https://www.linkedin.com/profile/view?id=">1717908196</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>La colecta se realizo por dos horas, esta metodología delimita tres submuestras, una en el centro, otro subpunto 100 metros arriba del punto central y 100 metros abajo del mismo, esto se realizó en los 4 puntos de muestreo. Para la colecta, primero se obtuvo el permiso con el código de autorización MAAE-ARSFC-2020-0988 emitido por el Ministerio del Ambiente, Agua y Transición ecológica (MAE)seguido d esto se utilizó, la red Surbfer de 30 x 30 cm</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>La limpieza se llevo acabo en el laboratorio de la Facultad de Ciencias Biológicas. Se utilizo tinas blancas, pinzas entomologícas y alcohol.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Para la identificación y clasificación de las especies se basó en las guías y claves publicadas por Roldan (1996), Gonzáles et al. (2019), Domínguez E &amp; Fernández H (2009) y Gutiérrez-Fonseca et al. (2016) y la limpia e identificación se llevó a cabo en los laboratorios de la Facultad de Ciencias Biológicas.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>La presente investigación limnologíca se realizó en el río Perípa de la parroquia Puerto Limón, Santo Domingo de los Tsáchilas-Ecuador. Para la recolección de datos se determinó cuatro puntos de muestreo en tres fechas junio, julio y agosto del 2021.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Las muestras del proyecto de investigación fueron colectadas mediante la siguiente metodología: se delimitaron en total cuatro (4) puntos de muestreo en el rio ubicados aleatoriamente con el software QGis 3.22.5, para cada punto se procedió a la colecta a lo largo del día, se lo realizó una vez al mes en época seca, entre los meses junio, julio y agosto del 2021.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="maae-arsfc-2020-0988">
+                    <title>Determinación de la calidad de agua utilizando macroinvertebrados en la microcuenca del río Perípa de la parroquia Puerto Limón de Santo Domingo de los Tsáchilas Ecuador</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Carlos</givenName>
+                                <surName>Carrera</surName>
+                            </individualName>
+                                        <userId directory="https://www.linkedin.com/profile/view?id=">1708972169</userId>
+                            <role>reviewer</role>
+                        </personnel>
+                        <abstract>
+                            <para>La presente investigación limnologíca se realizó en el río Perípa de la parroquia Puerto Limón, Santo Domingo de los Tsáchilas-Ecuador. El objetivo principal fue determinar la calidad de agua, mediante la aplicación de los índices BMWP/Col y EPT% de diversidad de macroinvertebrados acuáticos. Para la recolección de datos se determinó cuatro puntos de muestreo en tres fechas junio, julio y agosto del 2021. 
+Se registro un total de 5325 de macroinvertebrados, de los cuales hubo un total de 84 géneros de macroinvertebrados, 16 órdenes y 48 familias a lo largo del río. Los órdenes más abundantes fueron Diptera, Ephemeroptera y Trichoptera y las familias son Leptophlebiidae, Chironomidae, Hidropsychidae, Philopotamidae, Baetidae, Leptohyphidae y Simuliidae, con respecto a la calidad de agua por el índice BMWP/Col los valores obtenidos de 77 a 176 puntos quiere decir aguas de calidad “aceptable a buena” y en EPT% los valores van de 22% a 79% teniendo calidad de agua regular a muy buena, en los parámetros físico-químicos se obtuvieron valores dentro de los limites permisibles. Los análisis realizados permitieron establecer que el río está en buenas condiciones y buena calidad ambiental a pesar de los daños ocasionados a lo largo del tiempo.</para>
+                        </abstract>
+                        <funding>
+                            <para>Personal</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>El estudio se realizó en la parroquia Puerto Limón de Santo Domingo de los Tsáchilas en la microcuenca del río Perípa, la parroquia está ubicada en el Centro Este de la provincia, que la misma se encuentra a una altura de 244 msnm y la temperatura promedio varia de 23°C a 16°C, tiene una precipitación mínima 100mm en agosto y máxima a 600mm en julio y su ecosistema es Bosque siempre verde de tierra bajas, según el Sistema de Clasificación de los Ecosistemas del Ecuador Continental; cuenta con una superficie de 238,40km2 y 8.833 habitantes. El rio Perípa pertenece a la cuenca del rio Guayas y a la subcuenca del rio Daule (GAD Parroquial de Puerto Limón 2015), el río pasa por el margen derecho del pueblo, se establecieron cuatro puntos para el muestreo. El punto 1 (Entrada al pueblo), se encuentra un desvió a mano derecha llegando al pueblo, a una distancia de 50 metro está el punto, el terreno es plano, al margen izquierdo se encuentra vegetación arbustiva y herbácea, con presencia de rocas grandes y arena, al margen derecho la vegetación es arbórea con fondo rocoso y hojarasca; el punto 2 (Los Guayacanes)este punto ya se encuentra influenciada por actividades antrópicas, por lo que ya se encuentra en la parte central del pueblo en el balneario que lleva el nombre de Los Guayacanes, el punto de muestreo se encuentra a 30 metros de la entrada al balneario, el terreno es plano, al margen izquierdo se puede observar vegetación herbácea, arena y lodo, al margen izquierdo vegetación arbórea; el punto 3 (El estadio) el terreno es plano, en el margen izquierdo cuenta con poca vegetación predominando la herbácea, con poca profundidad, rocas y lodo, en el marguen derechos la vegetación es arbórea y el fondo es rocoso; y por último el punto 4 (El camal) se encuentra al final del pueblo, el marguen izquierdo al igual que los anteriores predomina la vegetación herbácea y el fondo es rocoso, el margen derecho igualmente la vegetación es arbórea y el fondo es barro. Vale recalcar que en los puntos 2 y 4 se encuentran los filtros que descargan las aguas residuales, aguas debajo de los puntos de muestreo.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>El diseño metodológico del presente trabajo de titulación permitió controlar la variabilidad de los datos y responder la pregunta de investigación, este estudio corresponde a un diseño observacional, longitudinal, ya que no hay manipulación de las variables (no hay causa-efecto), también se lo relaciona, a un estudio de tipo ecológico, debido a que la unidad que se va a analizar es la abundancia, tolerancia y sensibilidad de los macroinvertebrados en una determinada área geográfica, el mismo que tendrá un enfoque cuantitativo, ya que mediante la recolección de las muestras nos permitió clasificar el estado del agua en criterios, desde muy crítica a buena/excelente, según los índices que se aplicó.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-05-27T01:52:03.626+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Solórzano C (2023). Determinación de la calidad de agua utilizando macroinvertebrados en la microcuenca del río Perípa de la parroquia Puerto Limón de Santo Domingo de los Tsáchilas Ecuador. Version 1.4. Universidad Central del Ecuador. Samplingevent dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2020-0988&amp;v=1.4</citation>
+                            <bibliography>
+                                        <citation>GAD Parroquial de Puerto Limón. 2015. Diagnóstico Preliminar Actualización PDOT parroquial de Puerto Limón 2015-2030. :1–13.</citation>
+                                        <citation>Roldán-Pérez G. 1996. Guía para el estudio de los macroinvertebrados acuáticos del Departamento de Antioquia. ISBN 958-9129.04-8.</citation>
+                                        <citation>Ministerio del Ambiente. 2012. Sistema de clasificación de los ecosistemas del Ecuador continental. Quito, Ecuador</citation>
+                                        <citation>Gutiérrez-Fonseca P, Alonso-Rodriguez A &amp; Ramírez. 2016. Macroinvertebrados acuáticos de Puerto Rico como bioindicadores de calidad ambiental. Universidad de Puerto Rico, Río Piedras.</citation>
+                                        <citation>Gonzáles H, Crespo A, Acosta C &amp; Hampel H. 2018. Guía rápida para la identificación de macroinvertebrados de los ríos altoandinos del Cantón Cuenca. Etapa EP. Cuenca. 156 pp.</citation>
+                            </bibliography>
+                                <physical>
+                                    <objectName>Evaluación de la calidad de agua utilizando macroinvertebrados en la microcuenca del río Perípa de la parroquia Puerto Limón de Santo Domingo de los Tsáchilas-Ecuador.</objectName>
+                                    <characterEncoding>Trabajo de titulación</characterEncoding>
+                                    <dataFormat>
+                                        <externallyDefinedFormat>
+                                            <formatName>PDF</formatName>
+                                                <formatVersion>2022</formatVersion>
+                                        </externallyDefinedFormat>
+                                    </dataFormat>
+                                    <distribution>
+                                        <online>
+                                            <url function="download">http://www.dspace.uce.edu.ec/bitstream/25000/28945/1/FCB-CB-SOLORZANO%20ALEJANDRA.pdf</url>
+                                        </online>
+                                    </distribution>
+                                </physical>
+                            <resourceLogoUrl>https://upload.wikimedia.org/wikipedia/commons/4/41/Escudo_de_la_Universidad_Central_del_Ecuador_-_Andr%C3%A9s_Agual.png</resourceLogoUrl>
+                            <dc:replaces>fb7f9f6a-8cf6-4be7-abfd-1b8ea04c0d2e/v1.4.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

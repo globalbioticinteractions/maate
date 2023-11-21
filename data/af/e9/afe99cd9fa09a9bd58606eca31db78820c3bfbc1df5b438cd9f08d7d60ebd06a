@@ -1,0 +1,208 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="884de5ad-81d2-40e0-a454-171c2d246708/v1.8" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>884de5ad-81d2-40e0-a454-171c2d246708</alternateIdentifier>
+  <alternateIdentifier>https://doi.org/10.15468/e5ijd1</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cj_bancovida_museo</alternateIdentifier>
+  <title xml:lang="spa">Banco de Vida/ CJ Museum/ Amphibian collection</title>
+      <creator>
+    <individualName>
+        <givenName>Luis A.</givenName>
+      <surName>Coloma</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Director</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>coloma.l@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibiosecuador.ec</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Luis A.</givenName>
+      <surName>Coloma</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Director</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>coloma.l@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibioswebecuador.ec</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Andrea</givenName>
+      <surName>Terán</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Administrador Banco de Vida</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael/Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>andreateran84@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibiosecuador.ec</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Néstor A.</givenName>
+      <surName>Acosta-Buenaño</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente</organizationName>
+    <positionName>Node Manager</positionName>
+    <address>
+        <deliveryPoint>Madrid 1159 y Andalucía</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593-2-3987600</phone>
+    <electronicMailAddress>nestor.acosta@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+    <role>custodianSteward</role>
+      </associatedParty>
+  <pubDate>
+      2021-03-02
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El Museo del Banco de Vida &quot;Arca de los Sapos&quot; del Centro Jambatu es un programa de manejo ex situ que incluye anfibios preservados con fines de investigación y conservación.</para>
+    <para>En el Museo del Arca de los Sapos se almacenan: Animales enteros en etanol 75%, Huevos y renacuajos en formol 10%, Esqueletos en glicerina, Tejidos en etanol 99% (criopreservados), Extractos moleculares liofilizados de pieles.</para>
+    <para>El material almacenado en el Museo del Centro Jambatu está disponible para uso científico por parte de investigadores nacionales y extranjeros.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.anfibiosecuador.ec/index.php?as,15</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>This publication provide a list of specimens of amphibians collected from Ecuador and stored at the Museum collection of Centro Jambatu de Conservación e Investigación de Anfibios of Fundación Otonga.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.211</westBoundingCoordinate>
+          <eastBoundingCoordinate>-74.971</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.538</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.441</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2005-06-10</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2016-09-17</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Specimens were identified to family or species.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Amphibia</taxonRankValue>
+                  <commonName>Sapos, Ranas, Ilulos, Salamandras</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Anura</taxonRankValue>
+                  <commonName>Sapos, Ranas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Caudata</taxonRankValue>
+                  <commonName>Salamandras</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Gymnophiona</taxonRankValue>
+                  <commonName>Ilulos, Cecilias</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Luis A.</givenName>
+      <surName>Coloma</surName>
+    </individualName>
+    <organizationName>Centro Jambatu de Investigación y Conservación de Anfibios/Fundación Otonga</organizationName>
+    <positionName>Director</positionName>
+    <address>
+        <deliveryPoint>Giovanni Farina 566 y Baltra</deliveryPoint>
+        <city>San Rafael, Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170503</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593 2 2869688</phone>
+    <electronicMailAddress>coloma.l@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.anfibiosecuador.ec</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">ZEE3C6IAAAAJ</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2017-03-10T09:21:16.212+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="https://doi.org/10.15468/e5ijd1">Coloma L A (2017): Banco de Vida/ CJ Museum/ Amphibian collection. v1.8. Centro Jambatu. Dataset/Occurrence. https://doi.org/10.15468/e5ijd1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=cj_bancovida_museo</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                  <collectionIdentifier>EC:CJ</collectionIdentifier>
+                <collectionName>Banco de Vida</collectionName>
+              </collection>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+          <dc:replaces>884de5ad-81d2-40e0-a454-171c2d246708/v1.8.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

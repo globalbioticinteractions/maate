@@ -1,0 +1,237 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=aves-isla-plata/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=aves-isla-plata</alternateIdentifier>
+  <title xml:lang="spa">Monitoreo de anidación de aves marinas en la Isla de la Plata dentro del Parque Nacional Machalilla, Manabí -  Ecuador</title>
+      <creator>
+    <individualName>
+        <givenName>Nery</givenName>
+      <surName>Vera</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Parque Nacional Machalilla, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Manta</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>Pto. Lopez</phone>
+    <electronicMailAddress>nery.vera@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Mabel</givenName>
+      <surName>Tuala</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Parque Nacional Machalilla, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Pto. Lopez</city>
+        <administrativeArea>Manabí</administrativeArea>
+    </address>
+    <electronicMailAddress>mabel.tuala@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Victor</givenName>
+      <surName>Chocho</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Técnico, Dirección de Biodiversidad</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593996896661</phone>
+    <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+          <userId directory="http://orcid.org/">https://orcid.org/0000-0002-6430-1422</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Víctor</givenName>
+      <surName>Chocho</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Técnico, Dirección de Biodiversidad</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593996896661</phone>
+    <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+      <surName>Parque Nacional Machalilla</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Manta</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>nery.vera@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+    <role>contentProvider</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+      <surName>Ministerio del Ambiente, Agua y Transición Ecológica</surName>
+    </individualName>
+    <organizationName>Subsecretaría de Patrimonio Natural</organizationName>
+    <positionName>Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+    <role>owner</role>
+      </associatedParty>
+  <pubDate>
+      2021-11-11
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La isla de la Plata, se encuentra dentro de la jurisdicción del Parque Nacional Machalilla ocupa un área de 14,2 Km2 y está considerada como una de las principales áreas de anidación de aves marinas de la costa ecuatoriana. En el año 1990 se incorporó a la lista de humedales de importancia internacional, conocida como la lista de sitios RAMSAR, en el área se desarrollan importantes actividades de turismo de naturaleza (caminatas por senderos), turismo marino (snorkeling y Buceo) e investigación.</para>
+    <para>La condición de conservación de esta isla, favorece la presencia de sitios de anidación de ciertas especies de aves marinas como lo són: fragata (Fregata magnificens), pájaro tropical (Phaethon aethereus), albatros de Galápagos (Phoebastria irrorata), siendo esta última la única población de albatros que anida fuera del archipiélago de Galápagos y se encuentra en peligro crítico de extinción BirdLife (UICN 2007).</para>
+    <para>El Piquero de Nazca, Sula granti, se encuentra distribuido en el Pacífico Este Tropical; sus colonias reproductoras se encuentran solamente en algunas islas dentro de la placa Nazca. Las Islas más importantes para su reproducción se encuentran dentro del Archipiélago de las Galápagos (Ecuador) y Malpelo (Colombia), seguidas por las islas La Plata (Ecuador), Clipperton (Colombia),San Benedicto (México) y Lobos de Afuera (Perú) (García &amp; López-Victoria, 2007; Vanderwerf et al., 2008).</para>
+    <para>Para el Piquero de Patas Azules (Sula nebouxii) la Isla de La Plata representa uno de los pocos sitios de anidación en el Ecuador Continental, junto con la Isla Santa Clara en Machala, donde está la colonia de mayor tamaño en Ecuador (Valle 1997, 1998).</para>
+    <para>El Piquero de Patas Rojas (Sula sula), es una especia oceánica pan-tropical (Nelson, 1969; López-Victoria &amp; García, 2010). En el Pacífico Oriental anida, siempre sobre árboles y arbustos, en las Islas Galápagos (Ecuador), la Isla del Coco (Costa Rica), la Isla Malpelo (Colombia) y en la Isla de La Plata (Ecuador) (Escalante &amp; Sandoval, 2007)</para>
+  </abstract>
+      <keywordSet>
+            <keyword>aves marinas</keyword>
+            <keyword>anidación</keyword>
+            <keyword>monitoreo</keyword>
+            <keyword>aves migratorias</keyword>
+        <keywordThesaurus>Ministerio del Ambiente, Agua y Transición Ecológica</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.ambiente.gob.ec/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Isla de la Plata, Parque Nacional Machalilla, Manabí - Ecuador</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.098</westBoundingCoordinate>
+          <eastBoundingCoordinate>-81.042</eastBoundingCoordinate>
+          <northBoundingCoordinate>-1.251</northBoundingCoordinate>
+          <southBoundingCoordinate>-1.295</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Phoebastria irrorata</taxonRankValue>
+                  <commonName>Albatros de las Galápagos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Sula granti</taxonRankValue>
+                  <commonName>Piquero de Nazca</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Sula nebouxii</taxonRankValue>
+                  <commonName>Piquero de patas azules</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Conocer la dinámica poblacional de aves marinas en la Isla de la plata y factores naturales o antropogénicos que intervengan en estas</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>Se actualiza conforme se reporten datos de anidación desde territorio.</para>
+    </description>
+    <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Nery</givenName>
+      <surName>Vera</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Parque Nacional Machalilla, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <administrativeArea>Manabí</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>nery.vera@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Se registra el número de nidos, número de huevos, número de nacidos vivos, número de huevos abandonados, y estado de desarrollo de las crías (cuando ya existen nidos eclosionados)</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Se marca cada nido con tapas con alambre en las cuales se escribe una codificación, la cual sirve como marcador indicando el número de nido.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Se toman las coordenadas de cada nido mediante el uso de un GPS.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El monitoreo se realizó en las especies más susceptibles de aves marinas; Sula nebouxii, Sula granti, Sula sula, Phaethom aethereus, Phoebastria irrorata. La priorización de estas especies se la hizo en base al estado de conservación, susceptibilidad por diferentes causas de manejo, (humanas, naturales) y por constituir especies indicadoras.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Los sitios monitoreados hasta el momento han sido los sectores de Acantalidos, Punta machete y sendero fragatas en el sector de Punta escalera.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-11-03T05:25:59.098+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Vera N, Tuala M, Chocho V (2021): Monitoreo de anidación de aves marinas en la Isla de la Plata dentro del Parque Nacional Machalilla, Manabí -  Ecuador. v1.1. Ministerio del Ambiente - Ecuador. Dataset/Samplingevent. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=aves-isla-plata&amp;v=1.1</citation>
+          <bibliography>
+                <citation>Escalante, I., &amp; Sandoval, L. 2007. Primeros registros del Piquero Patirrojo (Sula sula)  en  las  costas  del  Pacífico  norte  y  del  Caribe  de  Costa  Rica.  Boletín SAO Vol. XVII: 138–140.</citation>
+                <citation>García,  S.,  &amp;  López-Victoria,  M.  2007.  Ecología  Trófica  del  Piquero  de  Nazca Sula  granti  (Aves:  Sulidae)  en  la  Isla  Malpelo,  Colombia.  Bol.  Invest.  Mar. Cost. 36: 9 – 32.</citation>
+                <citation>López-Victoria,  M.  &amp;  García,  S.  2010.  Anotaciones  sobre  la  dieta  del  Piquero Patirrojo  (Sula  sula)  en  la  isla  Malpelo,  Pacífico  Colombiano.  SE-  Aves Marinas en Colombia. 42-45.</citation>
+                <citation>Nelson,  J.,  B.  1969.  The  breeding  behavior  of  the  red  footed  booby  Sula  sula. Ibis, 111(3): 357-385.</citation>
+                <citation>Valle, C. A. 1997.  Monitoreo de las poblaciones de aves marinas de Isla Santa Clara,  Ecuador.  Reporte  interno  presentado  al  Ministerio  del  Ambiente  de Ecuador.  Quito, Ecuador.</citation>
+                <citation>Valle,  C.  A.  1998.    Isla  Santa  Clara-estudio  de  su  ambiente  terrestre  y  el establecimiento de un sistema de monitoreo para las aves marinas. Reporte interno presentado al Ministerio del Ambiente de Ecuador.  Quito, Ecuador.</citation>
+                <citation>Vanderwerf, E., Becker, B. L., Eijzenga, J., Eijzenga, H. 2008. Nazca Booby Sula Granti  and  Brewster’s  Brown  Boobie  Sula  Leucogaster  Brewsteri  in  the Hawaiian Islands and Johnston and Palmyra Atolls.  Marine Ornithology 36: 67 -71.</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=aves-isla-plata</resourceLogoUrl>
+            <formationPeriod>2021 - presente</formationPeriod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=aves-isla-plata/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,155 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maae-arsfc-2022-2101/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/vmcsqu</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2022-2101</alternateIdentifier>
+                <title xml:lang="spa">Monitoreos del proyecto construcción operación mantenimiento cierre y abandono del dragado de profundización y mantenimiento del canal de acceso a las terminales portuarias marítimas y fluviales públicas y privadas de Guayaquil</title>
+                    <creator>
+            <individualName>
+                    <givenName>Eduardo</givenName>
+                <surName>Rebolledo Monsalve</surName>
+            </individualName>
+            <organizationName>Pontificia Universidad Católica del Ecuador</organizationName>
+            <address>
+                    <city>Esmeraldas</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <postalCode>08-01-0065</postalCode>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>edurebolledo@yahoo.com</electronicMailAddress>
+            <onlineUrl>http://www.pucese.edu.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-2596-0636</userId>
+                    </creator>
+            <pubDate>
+                    2023-06-13
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>Monitoreo del estado ecológico de las comunidades acuáticas asociadas a maniobras de dragado en el Estero Salado del Río Guayas</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Dragados Estero Salado</keyword>
+                                    <keyword>Phytoplancton</keyword>
+                                    <keyword>Bentos</keyword>
+                            <keywordThesaurus>PUCE</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://www.canaldeguayaquil.com/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Estero Salado, Mar abierto sector Los Goles y Rio Guayas</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.29</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.87</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.28</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.75</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Eduardo</givenName>
+                <surName>Rebolledo Monsalve</surName>
+            </individualName>
+            <organizationName>Pontificia Universidad Católica del Ecuador</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Esmeraldas</city>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>edurebolledo@yahoo.com</electronicMailAddress>
+            <onlineUrl>http://www.pucese.edu.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-2596-0636</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Fitoplancton:
+&lt;br&gt;
+Muestreo de agua con botella Van Dorn, fijación de la muestra con formol al 37%, decantación en columnas de utermohl por 24 horas (10-25-50ml), observación con microscopía invertida a 600X.
+&lt;br&gt;
+Procedimiento Operativo Estándar para el Análisis de Fitoplancton, LG401 USEPA 2011.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Bentos:
+&lt;br&gt;
+3 posos colocados en un cubo de 20 litros, tamizados a 300 micras con agua abundante, en el laboratorio se limpian las muestras y se extraen los individuos observables a simple vista para ser identificados y contados utilizando un microscopio digital Dinolite hasta 200x.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Muestreo bimensual en Estero Salado y Río Guayas</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Muestreo normalizado por sitios que varían en función del desplazamiento de las maniobras de dragado. Cuantificación del fitoplancton de muestras discretas de un litro por el método de Utermohl, análisis de los ensamblajes bentónicos, 3 dragados por sitio tamizados a 300 micras. Estudio de descripciones ecológicas e índices de diversidad y calidad marina AMBI</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>Se siguen las directrices de muestreo de los protocolos internacionales (USEPA, marco europeo del agua)</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+                <project id="MAAE-ARSFC-2022-2101">
+                    <title>Monitoreos del proyecto construcción operación mantenimiento cierre y abandono del dragado de profundización y mantenimiento del canal de acceso a las terminales portuarias marítimas y fluviales públicas y privadas de Guayaquil</title>
+                        <abstract>
+                            <para>Monitoreo del estado ecológico de las comunidades acuáticas asociadas a maniobras de dragado en el Estero Salado t Río Guayas</para>
+                        </abstract>
+                        <funding>
+                            <para>Este proyecto es Financiado por Canal de Guayaquil CGU S.A.</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Mar abierto, Estero Salado y Rio Guayas, Golfo de Guayaquil</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Estudio de indicadores ecológicos de muestras normalizadas de fitoplancton (Utermohl) y ensamblajes bentónicos.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-06-13T20:30:15.182+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/vmcsqu">Rebolledo Monsalve E (2023). Monitoreos del proyecto construcción operación mantenimiento cierre y abandono del dragado de profundización y mantenimiento del canal de acceso a las terminales portuarias marítimas y fluviales públicas y privadas de Guayaquil. Version 1.0. Canal De Guayaquil CGU S.A.. Occurrence dataset. https://doi.org/10.60545/vmcsqu</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec:8080/iptmae_permisos/logo.do?r=maae-arsfc-2022-2101</resourceLogoUrl>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,281 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="0d0d656e-2bef-456e-a011-c890293a0379/v1.4" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>0d0d656e-2bef-456e-a011-c890293a0379</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ecuamz</alternateIdentifier>
+  <title xml:lang="spa">Colección especímenes del herbario amazónico del Ecuador (ECUAMZ)</title>
+      <creator>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Gutiérrez del Pozo</surName>
+    </individualName>
+    <organizationName>Universidad Estatal Amazónica</organizationName>
+    <positionName>curador administrativo</positionName>
+    <address>
+        <deliveryPoint>Centro de Experimentación Investigación  y Producción Amazónica (CEIPA) Km 44 vía Puyo – Tena</deliveryPoint>
+        <city>Carlos Julio Arosemena Tola</city>
+        <administrativeArea>Napo</administrativeArea>
+        <postalCode>150105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>dgutierrez@uea.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.uea.edu.ec/web/?page_id=11460</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">UZvZwlYAAAAJ&amp;hl=es</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>David A.</givenName>
+      <surName>Neill</surName>
+    </individualName>
+    <organizationName>Universidad Estatal Amazónica</organizationName>
+    <positionName>curador taxonómico</positionName>
+    <address>
+        <deliveryPoint>Centro de Experimentación Investigación  y Producción Amazónica (CEIPA) Km 44 vía Puyo – Tena</deliveryPoint>
+        <city>Carlos Julio Arosemena Tola</city>
+        <administrativeArea>Napo</administrativeArea>
+        <postalCode>150105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>dneill@uea.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.uea.edu.ec/web/?page_id=11460</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">7p07ILgAAAAJ</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Gutiérrez del Pozo</surName>
+    </individualName>
+    <organizationName>Universidad Estatal Amazónica</organizationName>
+    <positionName>Professsor and administrative curator</positionName>
+    <address>
+        <deliveryPoint>Cantón Arosemena Tola, km 44 Puyo-Tena road, San Vicente sector</deliveryPoint>
+        <city>Carlos Julio Arosemena Tola</city>
+        <administrativeArea>Napo</administrativeArea>
+        <postalCode>150105</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>032 892 118</phone>
+    <electronicMailAddress>dgutierrez@uea.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3611-7932</userId>
+    <role>curator</role>
+      </associatedParty>
+  <pubDate>
+      2023-04-04
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El Herbario ECUAMZ aloja, clasifica y conserva colectas botánicas de plantas vasculares y no vasculares según estándares oficiales y reúne especímenes botánicos procedentes de diversos ecosistemas ecuatorianos y especialmente de la región amazónica conservando más de 60 Tipos entre Holotipos e Isotipos de nuevas especies. El símbolo del Herbario ECUAMZ es la flor de Meriania pastazana Wurdack (familia Melastomataceae), una planta de especial belleza que es endémica de esta región del país. El acrónimo ECUAMZ significa Ecuador Amazónico, y fue registrado 2012 en el índice de Herbarios del Mundo, Index Herbariorum. Periódicamente los datos referentes a dichas colecciones se ingresan en la base de datos tropicos.org donde los expertos pueden acceder a la información de campo e imágenes existentes.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>ECUAMZ</keyword>
+            <keyword>PLANTAS AMAZÓNICAS</keyword>
+            <keyword>ENDEMISMO</keyword>
+            <keyword>FLORA NATIVA</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.uea.edu.ec/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>La institución reúne y custodia muestras de especímenes botánicos, que permiten sin recorrer grandes distancias un acercamiento a la flora ecuatoriana con una buena representación de la región amazónica.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.299</westBoundingCoordinate>
+          <eastBoundingCoordinate>-74.795</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.318</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.003</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1983-10-17</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>1983-10-17</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Familias de Angiospermas</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Annonaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Araceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Araliaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Arecaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Celastraceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chloranthaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cucurbitaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Dioscoreaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Elaeocarpaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Fabaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Heliconiaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lauraceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Malpighiaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Marantaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Meliaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Moraceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Myristicaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Phyllanthaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Piperaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Poaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Polygalaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Primulaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Rubiaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Sapotaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Siparunaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Vochysiaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Zamiaceae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>El Herbario-Centro de Documentación y Registro de la Biodiversidad de la Universidad Estatal Amazónica (ECUAMZ) tiene como misión propiciar y mantener el flujo de información científica e institucional en cooperación mutua, para promover el conocimiento, catalogación y conservación de las plantas basada en la investigación, educación y difusión de conocimientos florísticos y de los valores culturales de la flora ecuatoriana.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Gutiérrez del Pozo</surName>
+    </individualName>
+    <organizationName>Universidad Estatal Amazónica</organizationName>
+    <positionName>curador administrativo</positionName>
+    <address>
+        <deliveryPoint>Centro de Experimentación Investigación  y Producción Amazónica (CEIPA) Km 44 vía Puyo – Tena</deliveryPoint>
+        <city>Carlos Julio Arosemena Tola</city>
+        <administrativeArea>Napo</administrativeArea>
+        <postalCode>150105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>dgutierrez@uea.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.uea.edu.ec/web/?page_id=11460</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">UZvZwlYAAAAJ&amp;hl=es</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-01-18T10:33:18.979+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Neill D, Asanza M, Gutiérrez del Pozo D (2022): colección especímenes del herbario amazónico del Ecuador (ECUAMZ). v1.1. No organisation. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae_test/resource?r=ecuamz&amp;amp;v=1.1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=ecuamz</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>af6b8d8a-0610-4b47-a8d5-eca0a2a1f497</collectionIdentifier>
+                <collectionName>Colección especímenes del herbario amazónico del Ecuador (ECUAMZ)</collectionName>
+              </collection>
+                <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+          <dc:replaces>0d0d656e-2bef-456e-a011-c890293a0379/v1.4.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

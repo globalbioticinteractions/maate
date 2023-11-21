@@ -1,0 +1,216 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mutpl-m/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-m</alternateIdentifier>
+  <title xml:lang="eng">MUTPL Mammal Collection</title>
+      <creator>
+    <individualName>
+        <givenName>Víctor</givenName>
+      <surName>Romero</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>vpromero@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-1875-5906</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Víctor</givenName>
+      <surName>Romero</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>vpromero@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-1875-5906</userId>
+      </metadataProvider>
+  <pubDate>
+      2023-02-01
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The mammal collection of the Museo de Zoología, Universidad Técnica Particular de Loja (MUTPL-M) consists of approximately 620 specimens (at the end of 2022) corresponding to 158 species, grouped into 82 genera, 28 families, and 12 orders. The specimens in the collection are preserved as dried skins, skeletons, and whole specimens preserved in alcohol. The vast majority of the collection is made up of small mammals, mainly bats, cricetid rodents and opossums, with a small representation of medium and large mammals. Most of the specimens are from the provinces of Azuay, El Oro, Loja and Zamora Chinchipe, in southern Ecuador.</para>
+    <para>La colección de mamíferos del Museo de Zoología, Universidad Técnica Particular de Loja (MUTPL-M) consta de aproximadamente 620 especímenes (al cierre de 2022) correspondientes a 158 especies, agrupadas en 82 géneros, 28 familias y 12 órdenes. Los especímenes de la colección se conservan como pieles secas, esqueletos y especímenes enteros conservados en alcohol. La gran mayoría de la colección está compuesta por pequeños mamíferos, principalmente murciélagos, roedores cricétidos y zarigüeyas, con una pequeña representación de mamíferos medianos y grandes. La mayoría de los ejemplares son de las provincias de Azuay, El Oro, Loja y Zamora Chinchipe, en el sur de Ecuador.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keyword>Mammalia</keyword>
+            <keyword>Chiroptera</keyword>
+            <keyword>Didelphimorphia</keyword>
+            <keyword>Rodentia</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.utpl.edu.ec/index.php</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Ecuador, but most of the specimens are from southern Ecuador, from Azuay, El Oro, Loja, Morona Santiago and Zamora Chinchipe provinces.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.035</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.015</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.67</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.135</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2005-10-09</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2022-09-29</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Mammal specimens, mostly from Southern Ecuador, generally identified at species levels.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Mammalia</taxonRankValue>
+                  <commonName>mammals</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Artiodactyla</taxonRankValue>
+                  <commonName>even-toed ungulates</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Carnivora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Chiroptera</taxonRankValue>
+                  <commonName>bats</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cingulata</taxonRankValue>
+                  <commonName>armadillos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Didelphimorphia</taxonRankValue>
+                  <commonName>opossums</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Eulipotyphla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Lagomorpha</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Paucituberculata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Pilosa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Rodentia</taxonRankValue>
+                  <commonName>rodents</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Víctor</givenName>
+      <surName>Romero</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>vpromero@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0003-1875-5906</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Paul</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Responsable del museo</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>jpszekely@utpl.edu.ec</electronicMailAddress>
+    <onlineUrl>https://www.utpl.edu.ec/index.php</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-9252-1596</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-01-16T12:42:33.613+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Romero V (2023): MUTPL Mammal Collection. v1.1. Museo de Zoología, Universidad Técnica Particular de Loja. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-m&amp;v=1.1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mutpl-m</resourceLogoUrl>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mutpl-m/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

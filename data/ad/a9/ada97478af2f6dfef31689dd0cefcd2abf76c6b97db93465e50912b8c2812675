@@ -1,0 +1,115 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="19103684-fb81-4af4-9449-ef2781d01eab/v2.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/nvnhst</alternateIdentifier>
+                <alternateIdentifier>19103684-fb81-4af4-9449-ef2781d01eab</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=oologia</alternateIdentifier>
+                <title xml:lang="spa">Colección de Oología del Instituto Nacional de Biodiversidaddel Ecuador (INABIO)</title>
+                    <creator>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <positionName>Director de Gestión de Información</positionName>
+            <address>
+                    <deliveryPoint>Pje. Rumipamba N. 341 y Av. de los Shyris (Parque La Carolina)</deliveryPoint>
+                    <city>Quito</city>
+                    <postalCode>170135</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59322449824</phone>
+            <electronicMailAddress>pablo.sanchez@biodiversidad.gob.ec</electronicMailAddress>
+            <onlineUrl>http://inabio.biodiversidad.gob.ec/</onlineUrl>
+                    </creator>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <positionName>Director de Gestión de Información</positionName>
+            <address>
+                    <deliveryPoint>Pje. Rumipamba N. 341 y Av. de los Shyris (Parque La Carolina)</deliveryPoint>
+                    <city>Quito</city>
+                    <postalCode>170135</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59322449824</phone>
+            <electronicMailAddress>pablo.sanchez@biodiversidad.gob.ec</electronicMailAddress>
+            <onlineUrl>https://inabio.biodiversidad.gob.ec</onlineUrl>
+            <role>user</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-05-29
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Colección de Oología del Instituto Nacional de Biodiversidaddel Ecuador (INABIO), ex Museo Nacional de Ciencias Naturales (MECN).</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Especímenes encontrados en Ecuador</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-90.354</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.721</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-0.377</northBoundingCoordinate>
+                                <southBoundingCoordinate>-4.137</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Glenda</givenName>
+                <surName>Pozo</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <positionName>Asistente de Gestión de Información</positionName>
+            <address>
+                    <deliveryPoint>Pje. Rumipamba N. 341 y Av. de los Shyris (Parque La Carolina)</deliveryPoint>
+                    <city>Quito</city>
+                    <postalCode>170135</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59322449824</phone>
+            <electronicMailAddress>glenda.pozo@biodiversidad.gob.ec</electronicMailAddress>
+            <onlineUrl>http://inabio.biodiversidad.gob.ec/</onlineUrl>
+                    </contact>
+                <project >
+                    <title>Colección de Oología del Instituto Nacional de Biodiversidaddel Ecuador (INABIO), ex Museo Nacional de Ciencias Naturales (MECN).</title>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-05-15T15:35:59.335+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/nvnhst">Sánchez P (2023). Colección de Oología del Instituto Nacional de Biodiversidaddel Ecuador (INABIO). Version 2.0. Instituto Nacional de Biodiversidad. Occurrence dataset. https://doi.org/10.60545/nvnhst</citation>
+                            <dc:replaces>19103684-fb81-4af4-9449-ef2781d01eab/v2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

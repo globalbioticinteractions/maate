@@ -1,0 +1,597 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="bca5525d-977b-4531-9c2d-63d4546221f9/v1.10" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>bca5525d-977b-4531-9c2d-63d4546221f9</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=especies_vasculares_xiloteca_espoch</alternateIdentifier>
+  <title xml:lang="spa">Especies Vasculares  Herbario Xiloteca Espoch</title>
+      <creator>
+    <individualName>
+        <givenName>Jorge</givenName>
+      <surName>Caranqui</surName>
+    </individualName>
+    <organizationName>Herbario ESPOCH</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>Panamericana Sur km 1 1/2</deliveryPoint>
+        <city>Riobamba</city>
+        <administrativeArea>Chimborazo</administrativeArea>
+        <postalCode>EC060155</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593(03) 2998-200</phone>
+    <electronicMailAddress>jcaranqui@espoch.edu.ec</electronicMailAddress>
+    <onlineUrl>https://herbario.espoch.edu.ec/mostrardetalle.php?variable1=3852</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7555-1294</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jorge</givenName>
+      <surName>Caranqui</surName>
+    </individualName>
+    <organizationName>Herbario ESPOCH</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <city>Riobamba</city>
+        <administrativeArea>Chimborazo</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>jcaranqui@espoch.edu.ec</electronicMailAddress>
+    <onlineUrl>https://herbario.espoch.edu.ec/mostrardetalle.php?variable1=3852</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7555-1294</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jorge</givenName>
+      <surName>Caranqui</surName>
+    </individualName>
+    <organizationName>Herbario Espoch</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <deliveryPoint>Panamericana Sur km 1 1/2</deliveryPoint>
+        <city>Riobamba</city>
+        <administrativeArea>Chimborazo</administrativeArea>
+        <postalCode>EC060155</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593(03) 2998-200</phone>
+    <electronicMailAddress>jcaranqui@espoch.edu.ec</electronicMailAddress>
+    <onlineUrl>https://herbario.espoch.edu.ec/</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7555-1294</userId>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Eduardo </givenName>
+      <surName>Salazar</surName>
+    </individualName>
+    <organizationName>ESPOCH</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>Panamericana Sur km 1 1/2</deliveryPoint>
+        <city>Riobamba</city>
+        <administrativeArea>Chimborazo</administrativeArea>
+        <postalCode>EC060155</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593(03) 2998-200</phone>
+    <electronicMailAddress>eduardo.salazar@espoch.edu.ec</electronicMailAddress>
+    <onlineUrl>https://herbario.espoch.edu.ec/</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">Eduardo Salazar</userId>
+    <role>principalInvestigator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Victor</givenName>
+      <surName>Espinoza</surName>
+    </individualName>
+    <organizationName>ESPOCH</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>Panamericana Sur km 1 1/2</deliveryPoint>
+        <city>Riobamba</city>
+        <administrativeArea>Chimborazo</administrativeArea>
+        <postalCode>EC060155</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593(03) 2998-200</phone>
+    <electronicMailAddress>victor.espinoza@espoch.edu.ec</electronicMailAddress>
+    <onlineUrl>https://herbario.espoch.edu.ec/</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">Victor Espinoza</userId>
+    <role>principalInvestigator</role>
+      </associatedParty>
+  <pubDate>
+      2023-04-04
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Producir información técnica y científica de las especies maderables del Ecuador, que permita contribuir con información para la toma de decisiones en el uso, manejo forestal.</para>
+    <para>Determinar las propiedades físicas, organolépticas, mecánicas, trabajabilidad, y anatómicas de la madera de las especies seleccionadas.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence
+Xiloteca
+Especies forestales
+Herbario
+Espoch</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://herbario.espoch.edu.ec/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Muestras nativas de madera principalmente de la Amazonía y de la Costa</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.035</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.938</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.274</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.653</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1997-06-02</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>1997-06-02</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Especies de madera de la Amazonía y la Costa.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cecropia marginalis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cordia alliodora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Calycophyllum spruceanum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Jacaranda copaia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ochroma pyramidale</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Miconia rivalis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Syzygium jambos</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Piptocoma discolor</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Inga edulis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Piptademia flava</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Grias neuberthii</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Bixa platycarpa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Vochysia braceliniae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Pouteria glomerata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cabralea canjereana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Triplaris cumingiana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Roseodendron donnell-smithii</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Chimarrhis glabriflora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ruagea glabra</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Sorocea sarcocarpa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ochroma pyramidale</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Gmelina arborea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Trichospermum galeottii</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Guarea pterorhachis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Minquartia guianensis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Jacaranda copaia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Schizolobium parahyba</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Hyeronima alchorneoides</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Inga coruscans</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Virola sebifera</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cabralea canjerana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra obtusata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Matisia obliquifolia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Inga edulis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Inga spectabilis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Psidium guajava</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Pouteria bilocularis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Jacaratia digitata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Pourouma tomentosa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra laurel</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Centrolobium ochroxylum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Carapa guianensis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Triplaris cumingiana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cinchona pubescens</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Senna macrophylla</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Tectona grandis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Leucaena trichodes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Guarea kunthiana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ceiba insignis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ficus maxima</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Croton lechleri</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Myroxylon balsamum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Protium fimbriatum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Brunellia acostae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra membranacea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Dacryodes peruviana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Croton lechleri</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Apeiba membranacea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Virola glycycarpa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Apeiba membranacea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ocotea longifolia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Dacryodes peruviana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cedrela odorata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Otoba parvifolia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Juglans neotropica</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Clusia multiflora</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Pouteria lucuma</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ruagea pubescens</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Croton</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Mauria suaveolens</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra membranacea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra obtusata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Myrcia fallax</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Alnus acuminata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Cinchona pubescens</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Delostoma integrifolium</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Oreopanax ecuadoriensis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Hyeronima macrocarpa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra reticulata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Freziera verrucosa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Erisma uncinatum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Parkia balslevii</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Jacaranda copaia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Eschweilera coriacea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Inga alba</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Nectandra obtusata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Dacryodes peruviana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Guarea kunthiana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Pouteria baehniana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Matisia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Grias neuberthii</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Myroxylon balsamum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Guarea guidonia</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jorge</givenName>
+      <surName>Caranqui</surName>
+    </individualName>
+    <organizationName>Herbario ESPOCH</organizationName>
+    <positionName>Curador</positionName>
+    <address>
+        <deliveryPoint>Panamericana Sur km 1 1/2, Riobamba-Ecuador</deliveryPoint>
+        <city>Riobamba</city>
+        <administrativeArea>Chimborazo</administrativeArea>
+        <postalCode>EC060155</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>593(03) 2998-200</phone>
+    <electronicMailAddress>jcaranqui@espoch.edu.ec</electronicMailAddress>
+    <onlineUrl>https://herbario.espoch.edu.ec/mostrardetalle.php?variable1=3852</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-7555-1294</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Recolección, herborización</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Ecuador</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Inventario</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>--------</para>
+        </description>
+      </qualityControl>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-03-08T06:55:11.887+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Caranqui J (2023): Especies Vasculares  Herbario Xiloteca Espoch. v1.10. Herbario CHEP. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=especies_vasculares_xiloteca_espoch&amp;v=1.10</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=especies_vasculares_xiloteca_espoch</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>CHEP</parentCollectionIdentifier>
+                  <collectionIdentifier>54dbb5b1-608c-4994-958d-36caf08ab7c7</collectionIdentifier>
+                <collectionName>Herbarium - Herbario de la Escuela Superior Politécnica del Chimborazo</collectionName>
+              </collection>
+                <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+          <dc:replaces>bca5525d-977b-4531-9c2d-63d4546221f9/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

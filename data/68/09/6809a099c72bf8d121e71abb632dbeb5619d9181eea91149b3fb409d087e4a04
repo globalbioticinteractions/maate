@@ -1,0 +1,261 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="f65cca4a-a2e6-4268-b80c-d8c3828cc0b7/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>f65cca4a-a2e6-4268-b80c-d8c3828cc0b7</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-a</alternateIdentifier>
+  <title xml:lang="eng">MUTPL Amphibian Collection</title>
+      <creator>
+    <individualName>
+        <givenName>Paul</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Responsable del museo</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>jpszekely@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-9252-1596</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Diana</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>dszekely@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-3786-3729</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Armijos-Ojeda</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Docente - investigador</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>darmijos1@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3685-7631</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Paul</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Responsable del museo</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>jpszekely@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-9252-1596</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Diana</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>dszekely@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-3786-3729</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Armijos-Ojeda</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Docente - investigador</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>darmijos1@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3685-7631</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Paul</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Responsable del museo</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>museozoologia@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-9252-1596</userId>
+    <role>pointOfContact</role>
+      </associatedParty>
+  <pubDate>
+      2023-02-01
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The amphibian collection of the Museo de Zoología, Universidad Técnica Particular de Loja consist of approximately 1,400 specimens (by the end of 2022) preserved in alcohol. The majority of the specimens are from Azuay, El Oro, Loja, Morona Santiago and Zamora Chinchipe provinces, Southern Ecuador. The vast majority of the collection consists of frogs and toads (representing 13 families), with a small collection of salamanders and caecilians.</para>
+    <para>La colección de anfibios del Museo de Zoología de la Universidad Técnica Particular de Loja consta de aproximadamente 1400 especímenes (a finales de 2022) conservados en alcohol. La mayoría de los ejemplares son de las provincias de Azuay, El Oro, Loja, Morona Santiago y Zamora Chinchipe, sur de Ecuador. La gran mayoría de la colección consiste en ranas y sapos (desde 13 familias), con una pequeña colección de salamandras y cecilias.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Anura</keyword>
+            <keyword>Caudata</keyword>
+            <keyword>Gymnophiona</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.utpl.edu.ec/index.php</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Ecuador, but most of the specimens are from southern Ecuador, from Azuay, El Oro, Loja, Morona Santiago and Zamora Chinchipe provinces.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.079</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.234</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.362</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.091</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2016-04-04</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2022-11-09</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Amphibian specimens, mostly from Southern Ecuador, generally identified at species levels.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Amphibia</taxonRankValue>
+                  <commonName>amphibians</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Anura</taxonRankValue>
+                  <commonName>frogs and toads</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Caudata</taxonRankValue>
+                  <commonName>salamanders</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Gymnophiona</taxonRankValue>
+                  <commonName>caecilians</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Paul</givenName>
+      <surName>Székely</surName>
+    </individualName>
+    <organizationName>MUTPL</organizationName>
+    <positionName>Responsable del museo</positionName>
+    <address>
+        <deliveryPoint>San Cayetano Alto, Calle Paris s/n</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110107</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+ 593 (7) 370 1444 ext. 3089</phone>
+    <electronicMailAddress>jpszekely@utpl.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-9252-1596</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-11-09T01:19:15.575+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Székely P, Székely D, Armijos-Ojeda D (2022): MUTPL Amphibian Collection. v1.1. Museo de Zoología, Universidad Técnica Particular de Loja. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-a&amp;v=1.1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mutpl-a</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                  <collectionIdentifier>c2e5b188-f73b-4913-a38e-2b2a4109d610</collectionIdentifier>
+                <collectionName>MUTPL Amphibian Collection</collectionName>
+              </collection>
+          <dc:replaces>f65cca4a-a2e6-4268-b80c-d8c3828cc0b7/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

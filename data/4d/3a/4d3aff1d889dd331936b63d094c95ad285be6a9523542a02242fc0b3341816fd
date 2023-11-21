@@ -1,0 +1,208 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=lounaz_invertebrados/v1.9" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=lounaz_invertebrados</alternateIdentifier>
+  <title xml:lang="eng">Scarabaeidae of the Museo de Zoología LOUNAZ-UNL</title>
+      <creator>
+    <individualName>
+        <givenName>Christian Alberto</givenName>
+      <surName>Mendoza León</surName>
+    </individualName>
+    <organizationName>Museo de zoología, Universidad Nacional de Loja LOUNAZ</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria “Guillermo Falconí Espinosa”, Av. Pío Jaramillo Alvarado y Reinaldo Espinosa, La Argelia.</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110111</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 9 59603786</phone>
+    <electronicMailAddress>camendoza85@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5621-0785</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Christian Alberto</givenName>
+      <surName>Mendoza León</surName>
+    </individualName>
+    <organizationName>Museo de zoología, Universidad Nacional de Loja LOUNAZ</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria “Guillermo Falconí Espinosa”, Av. Pío Jaramillo Alvarado y Reinaldo Espinosa, La Argelia.</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110111</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 9 59603786</phone>
+    <electronicMailAddress>camendoza85@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0001-5621-0785</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Aura</givenName>
+      <surName>Paucar Cabrera</surName>
+    </individualName>
+    <organizationName>Museo de zoología, Universidad Nacional de Loja LOUNAZ</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria “Guillermo Falconí Espinosa”, Av. Pío Jaramillo Alvarado y Reinaldo Espinosa, La Argelia.</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110111</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 9 59603786</phone>
+    <electronicMailAddress>aurapaucar@gmail.com</electronicMailAddress>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2023-03-24
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>The Scarabaeidae collecion at the Museo de Zoología de la Universidad Nacional de Loja, LOUNAZ, is a collection that started in 2019 as part of an undergrad thesis that was developed under a larger museum project on invertebrates, birds and bats. The museum has been increasing its Scarabaeidae collection through on-going research on dung beetles in association with microbial consortia as potential soil regeneration agents. The collecting has been conducted in conservation areas and its surroundings within Loja and Zamora Chinchipe provinces, such as Reserva El Madrigal del Podocarpus and Reserva Tapichalaca, among others.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Scarabaeidae</keyword>
+            <keyword>Coleoptera</keyword>
+            <keyword>Southern Ecuador</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://unl.edu.ec/museo-zoologia-lounaz</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>The southern region known as Zona de Planificación 7, which also includes reserves and national parks within the government system called Sistema Nacional de Áreas Protegidas.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.738</westBoundingCoordinate>
+          <eastBoundingCoordinate>-77.168</eastBoundingCoordinate>
+          <northBoundingCoordinate>-2.285</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.617</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>The LOUNAZ invertebrate collection holds specimens in the class Insecta, identified to order, genera and species level.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Insecta</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>The LOUNAZ invertebrate collection and the ongoing collecting efforts are the pillars for research and biodiversity conservation in southern Ecuador. It has the objective to generate information to determine the composition and structure of invertebrate populations, to evaluate temporal dynamics, richness, abundance and ecological patterns. Besides the collections contribute to the inventory of the species in southern Ecuador and has the potential to report new species to science.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Aura</givenName>
+      <surName>Paucar Cabrera</surName>
+    </individualName>
+    <organizationName>Museo de zoología, Universidad Nacional de Loja LOUNAZ</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Ciudadela Universitaria “Guillermo Falconí Espinosa”, Av. Pío Jaramillo Alvarado y Reinaldo Espinosa, La Argelia.</deliveryPoint>
+        <city>Loja</city>
+        <administrativeArea>Loja</administrativeArea>
+        <postalCode>110111</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 9 59603786</phone>
+    <electronicMailAddress>aurapaucar@gmail.com</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Before starting any sampling event, collecting permits by the Environmental Ministry in Ecuador are requested and granted.
+
+Students, technicians and researchers who do collecting are trained previously on what collecting data should be included in the labels. The training includes the use of a GPS (Gramin) to collect elevation data and coordinates where each individual trap was placed. Training is conducted by the invertebrate and vertebrate museum curators.
+
+Once the specimens are brought to the lab they are mounted and labeled. Each specimen receives a unique LOUNAZ identification number. A specialized taxonomist identifies the specimens to family and subfamily level to make sure they indeed belong to the Scarabaeidae (Coleoptera) taxonomic group (following general museum guidelines).
+
+Later, specimens are identified to species level using the taxonomic keys listed below. Identifications have been validated by Fernando Vaz de Mello, William Chamorro, and Aura Paucar-Cabrera. The identification data is entered in the database by locating the unique LOUNAZ id number. Specimens are identified to species level when genera revisions allow it, however not all species names are entered in this database as currently those species names have not been registered by the node administrator and haven´t been given a serial number to use in this system yet.
+
+Taxonomic keys:
+Chamorro, William, Marín-Armijos, Diego, Granda, Valeria, &amp; Vaz-de-Mello, Fernando Z.. (2018). Listado de especies y clave de géneros y subgéneros de escarabajos estercoleros (Coleoptera: Scarabaeidae: Scarabaeinae) presentes y presuntos para Ecuador. Revista Colombiana de Entomología, 44(1), 72-100. https://doi.org/10.25100/socolen.v44i1.6545
+
+Génier, F. 2009. Le genre Eurysternus Dalman, 1824 (Scarabaeidae: Scarabaeinae: Oniticellini), revision taxonomique et clés de determination illustrées. Sofia: Pensoft. 430 pp.
+
+Génier, F. 1996. A revision of the Neotropical genus Ontherus Erichson. Memoirs of the Entomological Society of Canada 170: 1-169.
+
+Sarmiento R, Amat G. Escarabajos del género Dichotomius Hope, 1838 (Scarabaeidae: Scarabaeinae) en Colombia. Fauna de Colombia, monografía No 4. Bogotá: Universidad Nacional de Colombia; 2014. 130p. Doi: http://dx.doi.org/10.13140/2.1.4692.9926.
+
+Silva, F.A.B., Louzada, J. &amp; Vaz-de-Mello, F.Z. A revision of the Deltochilum subgenus Aganhyboma Kolbe, 1893. Zootaxa 3925(4):451-504.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Collecting trips by the personnel of the Museo de Zoología de la Universidad Nacional de Loja (LOUNAZ) will be conducted in the southern region known as Zona de Planificación 7, which also includes reserves and national parks within the government system called Sistema Nacional de Áreas Protegidas.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>To collect dung beetles, three 250-meter linear transects were established in each vegetation type in the study areas. Five pitfall traps were placed, 50 meters apart, in each transect, baited with human feces and chicken viscera, intercalated. Transects were placed 100 meters apart from each other. For each locality, three independent sampling events were conducted (one per month). The traps were left opened for 72 hours, and checked every 24 hours. Also, every 24 hours the bait was checked and replaced if needed, in order to maintain the efficiency of the trap.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Collection of invertebrates from southern Ecuador</title>
+      <personnel>
+        <individualName>
+            <givenName>Christian Alberto</givenName>
+          <surName>Mendoza León</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0001-5621-0785</userId>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>The LOUNAZ invertebrate collection and the ongoing collecting efforts are the pillars for research and biodiversity conservation in southern Ecuador. It has the objective to generate information to determine the composition and structure of invertebrate populations, to evaluate temporal dynamics, richness, abundance and ecological patterns. Besides the collections contribute to the inventory of the species in southern Ecuador and has the potential to report new species to science.</para>
+      </abstract>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Collecting trips by the personnel of the Museo de Zoología de la Universidad Nacional de Loja (LOUNAZ) will be conducted in the southern region known as Zona de Planificación 7, which also includes reserves and national parks within the government system called Sistema Nacional de Áreas Protegidas.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-03-18T12:45:53.646+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Mendoza León C A (2022): Scarabaeidae of the Museo de Zoología LOUNAZ-UNL. v1.9. Museo de Zoología LOUNAZ. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=lounaz_invertebrados&amp;v=1.9</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=lounaz_invertebrados_1</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>LOUNAZ</parentCollectionIdentifier>
+                  <collectionIdentifier>LOUNAZ-I</collectionIdentifier>
+                <collectionName>LOUNAZ_INVERTEBRADOS</collectionName>
+              </collection>
+            <formationPeriod>2019-08-01</formationPeriod>
+                <specimenPreservationMethod>pinned</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=lounaz_invertebrados/v1.9.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

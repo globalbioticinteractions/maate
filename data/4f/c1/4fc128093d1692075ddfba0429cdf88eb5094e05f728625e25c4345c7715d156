@@ -1,0 +1,201 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=col_reffhgo/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=col_reffhgo</alternateIdentifier>
+  <title xml:lang="spa">Colección de Referencia de anfibios y reptiles de la Fundación Herpetológica Gustavo Orcés</title>
+      <creator>
+    <individualName>
+        <givenName>Andrea</givenName>
+      <surName>Fernández Liger</surName>
+    </individualName>
+    <organizationName>Fundación Herpetológica Gustavo Orcés</organizationName>
+    <positionName>Técnico en Manejo de Fauna</positionName>
+    <address>
+        <deliveryPoint>Av. Amazonas N34-12 y Rumipamba  (al interior del Parque La Carolina)</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170506</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>(+593) 97 897 9801</phone>
+    <electronicMailAddress>andreafernandezliger@gmail.com</electronicMailAddress>
+    <onlineUrl>https://vivarium.org.ec/</onlineUrl>
+          <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/andrea-fern%C3%A1ndez-liger-a32798138/</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Christian Mauricio</givenName>
+      <surName>Margarisca Mogro</surName>
+    </individualName>
+    <organizationName>Fundación Herpetológica Gustavo Orcés</organizationName>
+    <positionName>Responsable de la Coleccion de Referencia</positionName>
+    <address>
+        <deliveryPoint>Av. Amazonas N34-12 y Rumipamba  (al interior del Parque La Carolina)</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170506</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>(+593) 2 2271 799</phone>
+    <electronicMailAddress>mauriciommgr@gmail.com</electronicMailAddress>
+    <onlineUrl>https://vivarium.org.ec/</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>María Elena</givenName>
+      <surName>Barragán Paladines</surName>
+    </individualName>
+    <organizationName>Fundación Herpetológica Gustavo Orcés</organizationName>
+    <positionName>Directora Ejecutiva</positionName>
+    <address>
+        <deliveryPoint>Av. Amazonas N34-12 y Rumipamba  (al interior del Parque La Carolina)</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170506</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 99 516 8788</phone>
+    <electronicMailAddress>mbarraganp@vivarium.org.ec</electronicMailAddress>
+    <onlineUrl>https://vivarium.org.ec/</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>María Elena</givenName>
+      <surName>Barragán-Paladines</surName>
+    </individualName>
+    <organizationName>Fundación Herpetológica Gustavo Orcés</organizationName>
+    <positionName>Directora Ejecutiva</positionName>
+    <address>
+        <deliveryPoint>Av. Amazonas N34-12 y Rumipamba  (al interior del Parque La Carolina)</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170506</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 99 516 8788</phone>
+    <electronicMailAddress>mbarraganp@vivarium.org.ec</electronicMailAddress>
+    <onlineUrl>https://vivarium.org.ec/</onlineUrl>
+    <role>principalInvestigator</role>
+      </associatedParty>
+  <pubDate>
+      2023-03-14
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La Colección de Referencia, como parte de la Fundación Herpetológica Gustavo Orcés (FHGO), constituye un Museo especializado en colecciones húmedas de reptiles y anfibios del Ecuador. El Museo se creó en el año 1990, con la finalidad de ofrecer acceso a las colecciones científicas para que investigadores locales e internacionales puedan obtener información confiable sobre la herpetofauna nacional.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Espécimen</keyword>
+            <keyword>Registro biológico</keyword>
+            <keyword>anfibios</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>herpetofauna</keyword>
+            <keyword>FHGO</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://vivarium.org.ec/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Las especies que se mantienen en la Colección de Referencia de la Fundación Herpetológica Gustavo Orcés corresponden a ejemplares de anfibios y reptiles colectados a lo largo de todo el territorio Ecuatoriano desde 1990 a la actualidad.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-91.846</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.125</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.538</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.091</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se incluyen ejemplares de las clases Amphibia y Reptilia de Ecuador continental e insular.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Amphibia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Reptilia</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Se realiza la publicación de la primera versión de la base de datos de la Colección de Referencia de la Fundación Herpetológica Gustavo Orcés en formato DwC como aporte a los datos abiertos de biologia a nivel mundial, se actualizará periodicamente hasta incluir todos los ejemplares que reposan en la colección ubicada en el Vivarium de Quito desde 1990 a la actualidad.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Andrea</givenName>
+      <surName>Fernández Liger</surName>
+    </individualName>
+    <organizationName>Fundación Herpetológica Gustavo Orcés</organizationName>
+    <positionName>Técnico en Manejo de Fauna</positionName>
+    <address>
+        <deliveryPoint>Av. Amazonas N34-12 y Rumipamba  (al interior del Parque La Carolina)</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170506</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>(+593) 97 897 9801</phone>
+    <electronicMailAddress>andreafernandezliger@gmail.com</electronicMailAddress>
+    <onlineUrl>https://vivarium.org.ec/</onlineUrl>
+          <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/andrea-fern%C3%A1ndez-liger-a32798138/</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-05-05T06:53:06.781+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Fernández Liger A, Margarisca Mogro C M (2022): Colección de Referencia de anfibios y reptiles de la Fundación Herpetológica Gustavo Orcés. v1.2. Fundación Herpetológica Gustavo Orcés. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=col_reffhgo&amp;v=1.2</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=col_reffhgo</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/es/grscicoll/collection/f1474cbd-27c4-4038-ab38-7daff113d798</collectionIdentifier>
+                <collectionName>Colección de Referencia de la Fundación Herpetológica Gustavo Orcés</collectionName>
+              </collection>
+            <formationPeriod>1990-ACTUALIDAD</formationPeriod>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                <specimenPreservationMethod>formalin</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=col_reffhgo/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

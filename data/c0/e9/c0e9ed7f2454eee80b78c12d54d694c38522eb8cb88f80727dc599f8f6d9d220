@@ -1,0 +1,205 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="571765c5-307a-4927-83dc-1a032e2bff6c/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>571765c5-307a-4927-83dc-1a032e2bff6c</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=araneae_ec</alternateIdentifier>
+  <title xml:lang="spa">Araneae de Ecuador</title>
+      <creator>
+    <individualName>
+        <givenName>Nadine</givenName>
+      <surName>Dupérré</surName>
+    </individualName>
+    <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+    <positionName>Collection Manager-Arachnology</positionName>
+    <address>
+        <country>DE</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Patricia</givenName>
+      <surName>Romo</surName>
+    </individualName>
+    <organizationName>Universidad Central del Ecuador</organizationName>
+    <positionName>Egresada de biología</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>0983749631</phone>
+    <electronicMailAddress>patriciaromob.g@gmail.com</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Néstor</givenName>
+      <surName>Acosta</surName>
+    </individualName>
+    <organizationName>Centro Jambatu</organizationName>
+    <positionName>Investigador asociado</positionName>
+    <address>
+        <deliveryPoint>calle Geovanny Farina</deliveryPoint>
+        <city>San Rafael</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>593995921980</phone>
+    <electronicMailAddress>arcasapos@gmail.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Patricia</givenName>
+      <surName>Romo</surName>
+    </individualName>
+    <organizationName>Universidad Central del Ecuador</organizationName>
+    <positionName>Egresada de biología</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>0983749631</phone>
+    <electronicMailAddress>patriciaromob.g@gmail.com</electronicMailAddress>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Nadine</givenName>
+      <surName>Dupérré</surName>
+    </individualName>
+    <organizationName>Institute for the Analysis of Biodiversity Change</organizationName>
+    <positionName>Collection Manager</positionName>
+    <address>
+        <country>DE</country>
+    </address>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Nadine</givenName>
+      <surName>Dupérré</surName>
+    </individualName>
+    <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+    <positionName>Collection Manager-Arachnology</positionName>
+    <address>
+        <country>DE</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0003-2195-878X</userId>
+    <role>principalInvestigator</role>
+      </associatedParty>
+  <pubDate>
+      2022-11-25
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>Arácnidos de Ecuador es un catálogo que incluye una lista de todas las especies de Mygalomorphae y Araneomorphae registradas dentro de Ecuador, incluyendo las islas de Galápagos.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Checklist;Araneae; Mygalomorphae; Araneomorphae; Ecuador;arañas; Costa; Sierra; Oriente; Galápagos; Checklist; Lista de chequeo</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://aracnidos.otonga.org/index.html#</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El listado incluye las especies del orden araneae en el territorio ecuatoriano, Costa, Sierra, Oriente y Galápagos.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-92.065</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.103</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.67</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.178</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Registro taxonómico del orden Araneae</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Arachnida</taxonRankValue>
+                  <commonName>arácnidos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Araneae</taxonRankValue>
+                  <commonName>arañas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>infraorder</taxonRankName>
+                <taxonRankValue>Mygalomorphae</taxonRankValue>
+                  <commonName>mygalomorfos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>infraorder</taxonRankName>
+                <taxonRankValue>Araneomorphae</taxonRankValue>
+                  <commonName>araneomorfos</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Nadine</givenName>
+      <surName>Dupérré</surName>
+    </individualName>
+    <organizationName>LIB-Leibniz Institute for the Analysis of Biodiversity Change</organizationName>
+    <positionName>Collection Manager-Arachnology</positionName>
+    <address>
+        <country>DE</country>
+    </address>
+          <userId directory="http://orcid.org/">0000-0003-2195-878X</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+  <project >
+    <title>Lista taxonómica de arañas del Ecuador</title>
+      <personnel>
+        <individualName>
+            <givenName>Nadine</givenName>
+          <surName>Dupérré</surName>
+        </individualName>
+              <userId directory="http://orcid.org/">0000-0003-2195-878X</userId>
+        <role>author</role>
+      </personnel>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Ecuador tiene una superficie de 256.370 Km², se encuentra en el continente Sudamericano, limita al norte con el país Colombia, sur y este con Perú y oeste con el océano Pacífico. Está dividido por cuatro regiones Galápagos, Costa, Sierra y Amazonía. Presenta gran diversidad biológica, climática, paisajística debido a gradiente altitudinal. Es atravesado por la línea equinoccial y por el sistema montañoso de los Andes, la coordillera occidental en de menor tamaño de la oriental (Varela y Ron 2018).</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-07-06T06:39:43.005+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Dupérré N, Romo P, Acosta N (2022): Araneae de Ecuador. v1.2. Museo de Zoología QCAZ de la PUCE. Dataset/Checklist. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=araneae_ec&amp;v=1.2</citation>
+          <bibliography>
+                <citation>Varela A &amp; Ron S. 2018. Geografía y Clima. (Disponible en: https://bioweb.bio/geografiaClima.html. Consultado el 6 de jul. de 22)</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=araneae_ec</resourceLogoUrl>
+            <formationPeriod>2022</formationPeriod>
+          <dc:replaces>571765c5-307a-4927-83dc-1a032e2bff6c/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

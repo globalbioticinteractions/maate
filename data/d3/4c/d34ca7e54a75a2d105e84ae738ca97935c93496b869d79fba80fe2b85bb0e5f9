@@ -1,0 +1,641 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="7d6d539e-49ca-43d6-a360-ddb45190cab7/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>7d6d539e-49ca-43d6-a360-ddb45190cab7</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario_qca</alternateIdentifier>
+  <title xml:lang="spa">Colección de plantas vasculares y no vasculares del Herbario de la Universidad Católica del Ecuador (QCA)</title>
+      <creator>
+    <individualName>
+        <givenName>Susana</givenName>
+      <surName>León Yánez</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Coordinadora del HQCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0992746956</phone>
+    <electronicMailAddress>scleon@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Consuelo</givenName>
+      <surName>Hernández</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>chernandezr@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Priscilla</givenName>
+      <surName>Muriel</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>epmuriel@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Rommel</givenName>
+      <surName>Montúfar</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>rjmontufar@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Álvaro</givenName>
+      <surName>Pérez</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>ajperezc@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Catalina</givenName>
+      <surName>Quintana</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170413</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>cquintana@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Katya</givenName>
+      <surName>Romoleroux</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170413</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>kromoleroux@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Hugo</givenName>
+      <surName>Navarrete</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170413</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>hnavarrete@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Manuela</givenName>
+      <surName>Ormaza</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Asistente de Investigación del Herbario QCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>aormaza185@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0001-5206-985X</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Mayra</givenName>
+      <surName>Nacimba</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Asistente de Investigación del Herbario QCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>manacimba@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Susana</givenName>
+      <surName>León</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Coordinadora del HQCA, curadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0999248929</phone>
+    <electronicMailAddress>scleon@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Rommel</givenName>
+      <surName>Montufar</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>rjmontufar@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Álvaro</givenName>
+      <surName>Pérez</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>ajperezc@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Consuelo</givenName>
+      <surName>Hernández</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>chernandezr@puce.edu.ec</electronicMailAddress>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Priscilla</givenName>
+      <surName>Muriel</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>epmuriel@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Catalina</givenName>
+      <surName>Quintana</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>cquintanam@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Katya</givenName>
+      <surName>Romoleroux</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>kromoleroux@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/#inicio</onlineUrl>
+    <role>curator</role>
+      </associatedParty>
+  <pubDate>
+      2023-04-04
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La colección de especímenes botánicos del Herbario QCA constituye una referencia histórica de la flora del Ecuador. Las plantas conservadas en el Herbario son fuente de información valiosa para el desarrollo de diversos proyectos de investigación sobre los ecosistemas vegetales, los usos de las plantas, los cambios en la cobertura vegetal y para proyectos de conservación.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Plantas no vasculares</keyword>
+            <keyword>Plantas vasculares; Plantae</keyword>
+            <keyword>Ecuador</keyword>
+            <keyword>Conservación</keyword>
+            <keyword>Investigación</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://bioweb.bio/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El Herbario QCA es una colección importante a nivel mundial porque constituye una muestra representativa de la flora ecuatoriana, adicionalmente alberga especímenes botánicos de otras partes del mundo ya que mantiene colaboración frecuente con otros herbarios a través de los intercambios de especímenes y en la investigación con numerosas universidades y herbarios</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-180</westBoundingCoordinate>
+          <eastBoundingCoordinate>180</eastBoundingCoordinate>
+          <northBoundingCoordinate>90</northBoundingCoordinate>
+          <southBoundingCoordinate>-90</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>La colección abarca todo el reino Plantae.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Plantae</taxonRankValue>
+                  <commonName>Flora</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Preservar las colecciones científicas e históricas de la flora del Ecuador y divulgar el conocimiento sobre la misma entre científicos, conservacionistas y la sociedad e general. 
+
+Asistir en el desarrollo científico de estudiantes y científicos, proveer información en proyectos enfocados en la conservación e investigación científica; constituyendo de esa manera una fuente de información para la elaboración de publicaciones.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>En el mantenimiento de la colección del Herbario QCA participan la Coordinadora del Herbario, la Asistente de investigación, la Auxiliar de laboratorio, los curadores de la colección y los investigadores asociados.</para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Susana</givenName>
+      <surName>León Yánez</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora HQCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0992746956</phone>
+    <electronicMailAddress>scleon@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Manuela</givenName>
+      <surName>Ormaza</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Asistente de Investigación del Herbario QCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>aormaza185@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Consuelo</givenName>
+      <surName>Hernández</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora HQCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>chernandezr@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Rommel</givenName>
+      <surName>Montúfar</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador HQCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>rjmontufar@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Álvaro</givenName>
+      <surName>Pérez</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador HQCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>ajperezc@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Priscilla</givenName>
+      <surName>Muriel</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora HQCA</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>epmuriel@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Catalina</givenName>
+      <surName>Quintana</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e Investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>cquintanam@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Katya</givenName>
+      <surName>Romoleroux</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curadora e investigadora</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>kromoleroux@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Hugo</givenName>
+      <surName>Navarrete</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curador e investigador</positionName>
+    <address>
+        <deliveryPoint>12 de Octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170143</postalCode>
+    </address>
+    <phone>2991700</phone>
+    <electronicMailAddress>hnavarrete@puce.du.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCA/</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>1. Control de calidad de muestras secas que pretenden ingresar al HQCA.
+2. Cuarentena de los especímenes botánicos 
+3. Montaje de especímenes botánicos.
+4. Ingreso a base de datos BIOWEB, asignación de código de barras único para cada muestra, intercalación de muestras.
+5. Evaluación de índice de salud de los especímenes.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>La procedencia de los especímenes que ingresan al Herbario QCA son producto de una investigación científica, un proyecto o por una donación. Por lo que el área de estudio es principalmente Ecuador, pero también el Herbario abarca estudios de otras partes del mundo.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>El muestreo botánico depende del objetivo del proyecto.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>El control de calidad inicia evaluando la calidad de los especímenes que van a ingresar al Herbario QCA. Los criterios que sigue el HQCA para aceptar especímenes son:
+1. Que cumpla lo estipulado por la misión del Herbario QCA de la PUCE.
+2. Que su colección sea justificada, es decir, que cumpla las necesidades o requerimientos de la investigación científica dentro de la cual se realiza la colección.
+3. Que sea de relevancia científica.
+4. Que sea útil para propósitos educativos.
+5. Que pueda ser cuidado apropiadamente por el HQCA.
+6. Que sea una muestra completa o representativa. (IE. Con flores y frutos en el caso de las angiospermas) y que esté en buen estado.
+7. Que no sea una especie con muchos ejemplares colectados en la misma localidad. 
+8. Que venga acompañada de una etiqueta de Herbario donde consten todos los datos del colector, localidad de colección y datos ecológicos, entre otros.
+
+Al ser aceptadas las muestras estas pasan por un proceso de cuarentena para que ingresen en un estado idóneo a la colección. Una vez dentro las muestras son montadas e ingresadas a la base de datos BIOWEB.
+
+Al ingresar la colección se realiza una revisión constante de los especímenes y su índice de salud para poder mantener en buen estado la colección del Herbario QCA.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="QCA">
+    <title>Herbario QCA</title>
+      <personnel>
+        <individualName>
+            <givenName>Manuela</givenName>
+          <surName>Ormaza</surName>
+        </individualName>
+        <role>metadataProvider</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Mayra</givenName>
+          <surName>Nacimba</surName>
+        </individualName>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>El herbario QCA contiene alrededor de 250.000 especímenes botánicos. Su misión es conservar especímenes botánicos como un referente histórico de la Flora del Ecuador y de esta forma contribuir a la investigación y al desarrollo de los proyectos mediante el uso de la colección para que las muestras sirvan de fuente de información, proyectado a largo tiempo.</para>
+      </abstract>
+      <funding>
+        <para>PUCE</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Ecuador y colaboraciones a nivel mundial.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Proyecto continuo.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-03-17T03:25:14.488+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>León Yánez S, Hernández C, Muriel P, Montúfar R, Pérez Á, Quintana C, Romoleroux K, Navarrete H (2023): Colección de plantas vasculares y no vasculares del Herbario de la Universidad Católica del Ecuador (QCA). v1.3. Herbario QCA. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario_qca&amp;v=1.3</citation>
+          <bibliography>
+                <citation identifier="bioweb.bio">Pontificia Universidad Católica del Ecuador. 2021. Base de datos del Herbario QCA. Versión 2021.0. Disponible en &lt;https://bioweb.bio/portal/&gt; Consulta: 31 de enero 2021.</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=herbario_qca</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>https://www.gbif.org/grscicoll/institution/c212b9e8-6a27-4db1-8b5b-e0ebbb2f8eb2</parentCollectionIdentifier>
+                  <collectionIdentifier>https://www.gbif.org/grscicoll/collection/b54c7fd7-6045-42b8-85ec-fa1b592dff77</collectionIdentifier>
+                <collectionName>Colección de plantas vasculares y no vasculares del Herbario de la Universidad Católica del Ecuador (QCA)</collectionName>
+              </collection>
+            <formationPeriod>01/01/1971</formationPeriod>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+          <dc:replaces>7d6d539e-49ca-43d6-a360-ddb45190cab7/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

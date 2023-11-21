@@ -1,0 +1,272 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mzuti-invertebrados/v1.7" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/9pwbbr</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-invertebrados</alternateIdentifier>
+                <title xml:lang="spa">Colección de Invertebrados del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI)</title>
+                    <creator>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Salazar</surName>
+            </individualName>
+            <organizationName>Universidad Tecnólogica Indoamérica</organizationName>
+            <positionName>Curador de colección de Invertebrados</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>davidsalazar@uti.edu.ec</electronicMailAddress>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jordi</givenName>
+                <surName>Rivera</surName>
+            </individualName>
+            <organizationName>Universidad Tecnólogica Indoamérica</organizationName>
+            <positionName>Asistente técnico colección ictiológica del MZUTI</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Ibon</givenName>
+                <surName>Tobes</surName>
+            </individualName>
+            <organizationName>Universidad Tecnólogica Indoamérica</organizationName>
+            <positionName>Curador de colección de Invertebrados</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+                    </metadataProvider>
+            <pubDate>
+                    2023-05-31
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>La Colección de Invertebrados del Museo de Zoología de la Universidad Tecnológica Indoamérica cuenta con 5484 registros de invertebrados del Ecuador. Los especímenes contenidos se encuentran principalmente en Pichincha y unos pocos registros en Sucumbios y Azuay.</para>
+                            <para>La mayor parte de las muestras ha sido identificadas hasta nivel de género.
+</para>
+                            <para>Aquí se presenta un avance de la información contenida en la colección.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Invertebrados</keyword>
+                                    <keyword>Arácnidos</keyword>
+                                    <keyword>Escorpiones</keyword>
+                                    <keyword>Escarabajos</keyword>
+                                    <keyword>Cuyabeno</keyword>
+                                    <keyword>Insectos</keyword>
+                                    <keyword>Quito</keyword>
+                                    <keyword>Oña</keyword>
+                            <keywordThesaurus>MZUTI</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://indoamerica.edu.ec/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Los registros contenidos en la base de datos corresponden principalmente a la provincia de Pichincha, a penas 15 registros se encuentran en Sucumbios y 2 en Azuay.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-78.838</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.564</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-0.044</northBoundingCoordinate>
+                                <southBoundingCoordinate>-1.538</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>La totalidad de los registros biológicos se encuentran clasificados en 3 filos distintos 7 clases, 15 órdenes, 26 familias y 24 géneros diferentes.
+&lt;br&gt;
+La lista contiene 168 taxa disponibles, de los cuales 9 se encuentran catalogados hasta nivel de clase, 69 hasta rango de ordén, 61 identificados hasta familia y 3 género y 25 especies.</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Arachnida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Acrididae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Andrenidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Aphididae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Apidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Araneidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Calliphoridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cicadellidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cixiidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cleridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Coccinellidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Culicidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Curculionidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Drosophilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Formicidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Geometridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Lampyridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Miridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Nabidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Nymphalidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pentatomidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pieridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pompilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Scarabaeidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Syrphidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Tachinidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Tenebrionidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Salazar</surName>
+            </individualName>
+            <organizationName>Universidad Tecnólogica Indoamérica</organizationName>
+            <positionName>Curador de colección de Invertebrados</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>davidsalazar@uti.edu.ec</electronicMailAddress>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Los especímenes fijados se almacenan en una solución de etanol al 70% y los datos asociados a cada muestra son sistematizados y recopilados en una base de datos. </para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>La identificación taxonómica la realizan expertos de los distintos grupos taxonómicos de invertebrados y son aceptadas por el curador de la colección.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Antes de ingresar a la colección permanente todas las muestras pasan por un período de cuarentena para evitar contaminación de agentes biológicos ingresen en la colección general.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Los ejemplares colectados cuentan con una cobertura principalmente de tres parques urbanos de Quito, capital de Ecuador. Además, unos pocos registros de escarabajos de la Reserva de Producción de Fauna Cuyabeno y dos registros de escorpiones de Azuay.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Los ejemplares de invertebrados presentes en la colección fueron capturados mediante distintas técnicas de muestreo como: redes surber, trampas de luz, encuentro directo entre otras. Los especímenes son catalogados, sacrificados de acuerdo a las técnicas apropiadas para cada grupo taxonómico.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-02-01T11:03:55.734+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/9pwbbr">Salazar D, Rivera J, Tobes I (2023). Colección de Invertebrados del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI). Version 1.7. Museo de Zoología, Universidad Tecnológica Indoamérica (MZUTI). Occurrence dataset. https://doi.org/10.60545/9pwbbr</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mzuti-invertebrados</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>245db915-e96f-4970-a10b-5a53ee3fe8bc</collectionIdentifier>
+                                        <collectionName>Invertebrados del MZUTI</collectionName>
+                                    </collection>
+                                <formationPeriod>2018-Actualidad</formationPeriod>
+                                    <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mzuti-invertebrados/v1.7.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

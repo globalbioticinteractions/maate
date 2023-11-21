@@ -1,0 +1,425 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="2aebab7a-c0fb-4b40-a019-a01ce7f32336/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>2aebab7a-c0fb-4b40-a019-a01ce7f32336</alternateIdentifier>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=caracterizacion-remape</alternateIdentifier>
+  <title xml:lang="spa">Caracterización Submareal del Islote el Pelado</title>
+      <creator>
+    <individualName>
+        <givenName>Fernando</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Instituto Nazca de Investigaciones Marinas</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>fernandorivera60@gmail.com</electronicMailAddress>
+    <onlineUrl>https://institutonazca.org</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Monica</givenName>
+      <surName>Machuca</surName>
+    </individualName>
+    <organizationName>Comisión Permanente del Pacífico Sur</organizationName>
+    <positionName>Asistente</positionName>
+    <address>
+        <city>Guayaquil</city>
+        <administrativeArea>Guayas</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>mmachuca@cpps-int.org</electronicMailAddress>
+    <onlineUrl>http://cpps-int.org/</onlineUrl>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Victor</givenName>
+      <surName>Chocho</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Técnico, Dirección de Biodiversidad</positionName>
+    <address>
+        <deliveryPoint>Madrid y Andalucia</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593996896661</phone>
+    <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-6430-1422</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+      <surName>GIZ - Ecuador</surName>
+    </individualName>
+    <organizationName>Cooperación Técnica Alemana</organizationName>
+    <address>
+        <country>EC</country>
+    </address>
+    <phone>www.giz.de</phone>
+    <role></role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+      <surName>Ministerio del Ambiente, Agua y Transición Ecológica</surName>
+    </individualName>
+    <organizationName>Subsecretaría de Patrimonio Natural</organizationName>
+    <address>
+        <country>EC</country>
+    </address>
+    <role></role>
+      </associatedParty>
+  <pubDate>
+      2023-03-28
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El islote El Pelado constituye uno de los principales atractivos de la REMAPE y es conocido en Ecuador como un destino turístico para personas que practican el buceo Scuba, buceo de superficie (snorkel) y apnea o buceo libre. Su cercanía a la Bahía de Ayangue (4 Mn), las características de su entorno formado por bajos rocosos con parches coralinos, pináculos, paredes verticales, salientes, terrazas y fondos arenosos, su diversidad de especies, y las condiciones buenas de buceo que ofrece casi todo el año, lo convierten en un sitio favorito para buzos, tanto principiantes como avanzados. Todos estos atributos naturales del Pelado, han provocado que en los últimos años se desarrolle una creciente actividad turística, enfocada en promover el buceo en la REMAPE. Si bien esto favorece la economía de los pobladores de Ayangue y sus alrededores, que se benefician directamente con la creación de nuevas fuentes de trabajo, también
+aumenta las amenazas de los frágiles ecosistemas si las actividades no son manejadas de manera ordenada.</para>
+    <para>Esta base de datos con el registro de especies de marocroinvertebrados, peces y corales, se basa en la información obtenida dentro del estudio referente al proyecto de caracterización de los sitios de buceo del islote El Pelado, mediante el levantamiento de información de las condiciones naturales de los sitios de buceo recreativo y sus actividades, para luego proponer los diferentes usos, restricciones y/o manejo de los mismos.</para>
+    <para>Este estudio fue resultado de un proyecto de Cooperación Triangular entre los países del Ecuador (Ministerio Ambiente, Agua y Transición Ecológica), Costa Rica (Sistema de Áreas de Conservación – SINAC), ejecutado por la Cooperación Técnica Alemana a través de la GIZ Ecuador y GIZ Costa Rica</para>
+  </abstract>
+      <keywordSet>
+            <keyword>macroinvertebrados
+peces
+octocorales
+registro
+Islote El Pelado</keyword>
+        <keywordThesaurus>n.a.</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Observation</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>El área de estudio cubre una distancia aproximada de dos millas en la parte marina alrededor del islote El Pelado, en la REMAPE, sector donde se realizan actividades subacuáticas.
+
+Se evaluaron los nueve sitios de buceo más frecuentados en El Pelado: Bajo 40 a, Bajo 40 a1, El Cristo, El Laberinto, La Pared, El Rabo del viejo, San Ignacio, la Viejita y la Zona coralina.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-80.774</westBoundingCoordinate>
+          <eastBoundingCoordinate>-80.74</eastBoundingCoordinate>
+          <northBoundingCoordinate>-1.941</northBoundingCoordinate>
+          <southBoundingCoordinate>-1.964</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2018-10-31</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2018-11-02</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Diadematidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Holothuroidea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Mollusca</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Gobiiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Haemulidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Kurtiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Labrisomidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Neogastropoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Ostreida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cucumariidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cidaridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Blenniiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Animalia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Perciformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Dendrochirotida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Apogonidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Gobiidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Echinometridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Pomacentridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Ophidiasteridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Tetraodontiformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Cidaroida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Valvatida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Balistidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Chordata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Actinopteri</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Diadematoida</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Bivalvia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Pomacanthidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Ovalentaria incertae sedis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Gryphaeidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Serranidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Acanthuridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Labridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chaetodontidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Octopodidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Eupercaria incertae sedis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Acanthuriformes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Blenniidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Echinoidea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Diodontidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lutjanidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Cephalopoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Scaridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Camarodonta</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Muricidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Octopoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Gastropoda</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Asteroidea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Echinodermata</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Fernando</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Instituto Nazca de Investigaciones Marinas</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>fernandorivera60@gmail.com</electronicMailAddress>
+    <onlineUrl>https://institutonazca.org</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Para estimar la abundancia y diversidad de peces, el buzo se desplaza en forma lineal por el lapso de 45 minutos, desplazándose una distancia de 100 m, y cubriendo un área de 2.5 m a cada lado del buzo. Se registra todas las especies y la abundancia observada durante el recorrido</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Para estimar la abundancia y diversidad de macroinvertebrados, el buzo se desplaza en forma lineal por el lapso de
+45 minutos, desplazándose una distancia de 100 m, y cubriendo un área de 1 m a cada lado. Durante el recorrido se
+registran todas las especies y su abundancia.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>La estimación de cobertura de corales hermatípicos se realizó mediante el uso de una cámara de video y un transecto de 50 m. Para ello, se coloca el transecto sobre el área deseada y un buzo avanza por encima de la línea del transecto a un metro de altura filmando todo el trayecto.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>La cobertura que da la cámara es de 1 m a cada lado del transecto, dando un total de 100 m2.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Proyecto de cooperación Triangular Ecuador - Costa Rica - Alemania</title>
+      <personnel>
+        <individualName>
+            <givenName>Barbara Hess</givenName>
+          <surName>Hess</surName>
+        </individualName>
+        <role>pointOfContact</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Karin</givenName>
+          <surName>von Loebenstein</surName>
+        </individualName>
+        <role>pointOfContact</role>
+      </personnel>
+      <abstract>
+        <para>Estos estudios fueron el resultado de un proyecto de Cooperación Triangular entre los países del Ecuador (Ministerio Ambiente – MAE), Costa Rica (Sistema de Áreas de Conservación – SINAC) y Alemania (Gesellschaft für Internationale Zusammenarbeit – GIZ). Se transfirieron experiencias, metodologías y lecciones aprendidas del Proyecto “Biodiversidad Costera Marina de Costa Rica – Adaptación al Cambio Climático - SINAC-MINAE-GIZ”, el cual había sido financiado por el Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear (BMU) en el marco su Iniciativa Internacional de la Protección del Clima “IKI”. El proyecto de Cooperación Triangular fue financiado por el Ministerio de Cooperación Económica de la República de Alemania (BMZ), el Sistema de Áreas de Conservación (SINAC) de Costa Rica y el Ministerio de Ambiente (MAE) de la República del Ecuador.</para>
+      </abstract>
+      <funding>
+        <para>Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear (BMU) en el marco su Iniciativa Internacional de la Protección del Clima “IKI”</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Islote el Pelado en la Reserva Marina El Pelado</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2021-11-04T03:58:15.298+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Rivera F (2021): Caracterización Submareal del Islote el Pelado. v1.3. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Dataset/Samplingevent. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=caracterizacion-remape&amp;v=1.3</citation>
+          <bibliography>
+                <citation>2018. Fernando Rivera. Estudio de caracterización de sitios subacuáticos y propuesta de manejo de los mismos alrededor del Islote El Pelado (Reserva Marina El Pelado). Elaborado para MAE- GIZ.</citation>
+          </bibliography>
+          <dc:replaces>2aebab7a-c0fb-4b40-a019-a01ce7f32336/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

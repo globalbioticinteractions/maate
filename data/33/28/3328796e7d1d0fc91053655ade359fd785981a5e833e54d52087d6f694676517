@@ -1,0 +1,242 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="7b02f24c-44c1-4906-8284-ebbcfc1c2993/v1.5" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/o0tlqt</alternateIdentifier>
+                <alternateIdentifier>7b02f24c-44c1-4906-8284-ebbcfc1c2993</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-dbi-cm-2021-0149</alternateIdentifier>
+                <title xml:lang="spa">DIATOMEAS COMO BIOINDICADORAS DE DOS ECOSISTEMAS LÓTICOS DE LA PROVINCIA DEL AZUAY</title>
+                    <creator>
+            <individualName>
+                    <givenName>PAULA</givenName>
+                <surName>CORDERO</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD CATÓLICA DE CUENCA</organizationName>
+            <positionName>DOCENTE-INVESTIGADOR</positionName>
+            <address>
+                    <deliveryPoint>Paucarbamba 5-30. Y R. Torres</deliveryPoint>
+                    <city>CUENCA</city>
+                    <administrativeArea>AZUAY</administrativeArea>
+                    <postalCode>010107</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>593 998495230</phone>
+            <electronicMailAddress>pcorderoc@ucacue.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4510-3316</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>JAZMIN</givenName>
+                <surName>SALAZAR</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD CATÓLICA DE CUENCA</organizationName>
+            <positionName>CURADADORA DEL MUSEO DE MACROINVERTEBRADOS</positionName>
+            <address>
+                    <deliveryPoint>Vía Ricaurte Bibín frente a Plásticos Rival, parroquia Ricaurte</deliveryPoint>
+                    <city>Cuenca</city>
+                    <administrativeArea>Azuay</administrativeArea>
+                    <postalCode>010162</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593 992759483</phone>
+            <electronicMailAddress>jazmin.salazar@ucacue.edu.ec</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.es/citations?user=1y3wb8UAAAAJ&amp;hl=es&amp;oi=ao</userId>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>PAULA</givenName>
+                <surName>CORDERO</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD CATÓLICA DE CUENCA</organizationName>
+            <positionName>DOCENTE-INVESTIGADOR</positionName>
+            <address>
+                    <deliveryPoint>Paucarbamba 5-30. Y R. Torres</deliveryPoint>
+                    <city>CUENCA</city>
+                    <administrativeArea>AZUAY</administrativeArea>
+                    <postalCode>010107</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>593 998495230</phone>
+            <electronicMailAddress>pcorderoc@ucacue.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4510-3316</userId>
+                    </metadataProvider>
+            <pubDate>
+                    2023-05-31
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>&lt;p&gt;En este estudio se contemplan dos r&amp;iacute;os del cant&amp;oacute;n Cuenca: El Tarqui localizado en una zona ganadera y muy intervenido en su cauce y el Yanuncay menos intervenido pero, con producci&amp;oacute;n de pastos aleda&amp;ntilde;os e incluso piscicultura cercana.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Se tomaron en cuenta: la variabilidad espacial (distintos puntos de muestreo) y variabilidad temporal (&amp;eacute;poca seca y &amp;eacute;poca lluviosa) y, se levant&amp;oacute; informaci&amp;oacute;n de h&amp;aacute;bitat fluvial IHF, de calidad de ribera QBR, &amp;nbsp;par&amp;aacute;metros f&amp;iacute;sico-qu&amp;iacute;micos: temperatura, ox&amp;iacute;geno disuelto, pH, conductividad el&amp;eacute;ctrica, fosfatos, nitratos, DBO y, como biol&amp;oacute;gico: coliformes. Adem&amp;aacute;s, se recolectaron diatomeas epiliticas tanto para su reconocimiento morfol&amp;oacute;gico mediante microscopia, como molecular con la t&amp;eacute;cnica de metabarcoding.&lt;/p&gt;
+&lt;p&gt;Los resultados &amp;nbsp;de calidad del agua son: mala en el &amp;nbsp;Tarqui en &amp;eacute;poca seca (IPS de 1 a 4,8 y WQI de 42 ,56 especies de diatomeas) y regular en &amp;eacute;poca lluviosa (IPS de 12,4 &amp;nbsp;a 15,67 y WQI de 72 ,74 especies de diatomeas); Mala a deficiente en el Yanuncay en &amp;eacute;poca seca (IPS de 3,8 a 9 y WQI de 52 ,54 riqueza de diatomeas ) y buena en &amp;eacute;poca lluviosa (IPS de 13 a 16,9 y WQI de 79, 124 especies de diatomeas), se corroboran con los resultados metagen&amp;oacute;micos (61 especies de diatomeas reportadas)&lt;/p&gt;</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                                    <keyword>diatoms</keyword>
+                                    <keyword>water quality</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <additionalInfo>
+                    <para>ESTE PROYECTO ES AUSPICIADO POR LA UNIVERSIDAD CATÓLICA DE CUENCA Y LA UNIVERSIDAD SEK DENTRO DEL CONTRATO MARCO DE ACCESO AL RECURSO GENÉTICO MAAE-DBI-CM-2021-0149</para>
+                </additionalInfo>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>PROVINCIA DEL AZUAY</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-79.247</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-78.993</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.857</northBoundingCoordinate>
+                                <southBoundingCoordinate>-3.018</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                            <singleDateTime>
+                                                <calendarDate>2022-02-23</calendarDate>
+                                            </singleDateTime>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>Bacyllariophyta son una clase de Algas unicelulares microscópicas. Conocidas también como diatomeas, son uno de los más comunes tipos de fitoplancton. Pertenecen al reino Cromista y al dominio Eucarya</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                                                <commonName>DIATOMEAS</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>INFORMACIÓN TAXONÓMICA Y GENÉTICA DE ESPECIES DE DIATOMEAS DEL SUR EL ECUADOR</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>ESTA COLECCIÓN SE ENCUENTRA EN EL MUSEO DE MACROINVERTEBRADOS DEL CENTRO DE INVESTIGACIÓN E INOVACIÓN DE LA UNIVERSIDAD CATÓLICA DE CUENCA CITT, ESTÀ EN PLACAS DE PORTAOBJETOVS PERMANENTES CON NAPHRAX.</para>
+                    </description>
+                    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>PAULA</givenName>
+                <surName>CORDERO</surName>
+            </individualName>
+            <organizationName>UNIVERSIDAD CATÓLICA DE CUENCA</organizationName>
+            <positionName>DOCENTE-INVESTIGADOR</positionName>
+            <address>
+                    <deliveryPoint>Paucarbamba 5-30. Y R. Torres</deliveryPoint>
+                    <city>CUENCA</city>
+                    <administrativeArea>AZUAY</administrativeArea>
+                    <postalCode>010107</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>593 998495230</phone>
+            <electronicMailAddress>pcorderoc@ucacue.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4510-3316</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;p&gt;Para la determinaci&amp;oacute;n del estado ecol&amp;oacute;gico del r&amp;iacute;o se trabaj&amp;oacute; con los mismos 5 puntos de muestreo por cada ecosistema l&amp;oacute;tico: Tarqui y Yanuncay, se tomaron datos el estado calidad de ribera (QBR) y el estado del h&amp;aacute;bitat fluvial (IHF) de acuerdo a los protocolos (Acosta et al., 2014; Encalada et al., 2015; Pardo et al., 2010); en cuanto a la calidad del h&amp;aacute;bitat fluvial el objetivo &amp;nbsp;es evaluar las caracter&amp;iacute;sticas abi&amp;oacute;ticas y bi&amp;oacute;ticas m&amp;aacute;s importantes presentes en el cauce del r&amp;iacute;o que pueden estar influenciado en la presencia de las diatomeas epil&amp;iacute;ticas, de acuerdo al tipo de sustrato mineral del cauce y; en cuento a la calidad de ribera el objetivo es establecer el h&amp;aacute;bitat que influencia sobre la calidad del agua de los r&amp;iacute;os y por tanto sobre la presencia o ausencia de distintas comunidades de diatomeas epiliticas y su importancia como bioindicadoras de calidad del agua. Adem&amp;aacute;s, se tomaron muestras de agua para establecer sus par&amp;aacute;metros f&amp;iacute;sico-qu&amp;iacute;micos en todos los puntos de muestreo, se determinaron par&amp;aacute;metros in situ con la sonda multipar&amp;aacute;metrica port&amp;aacute;til: temperatura, ox&amp;iacute;geno disuelto, pH, conductividad y se recolectaron 30 muestras de cada r&amp;iacute;o de acuerdo a los protocolos de la Norma T&amp;eacute;cnica Ecuatoriana para Agua: Calidad del Agua (2013), se las analiz&amp;oacute; en el Hidrolab del CITT de la Universidad Cat&amp;oacute;lica de Cuenca, tomando en cuenta: demanda biol&amp;oacute;gica de ox&amp;iacute;geno (DBO5), nitratos y fosfatos, coliformes fecales y s&amp;oacute;lidos disueltos totales mediante (Standard Methods Committee, 2020)&lt;/p&gt;
+&lt;p&gt;Tambi&amp;eacute;n, se recolectaron muestras de las biopel&amp;iacute;culas de las piedras que est&amp;aacute;n debajo del agua mediante el raspado con cepillo de dientes (Castillejo et al., 2022; Lobo et al., 2016; Pardo et al., 2010) las mismas que se colocaron en botellas oscuras con agua destilada 60%, 30 % etanol y 10% de formol concentrado al 40% (Pardo et al., 2010). En laboratorio fueron oxidadas mediante per&amp;oacute;xido de hidr&amp;oacute;geno, &amp;aacute;cido clorh&amp;iacute;drico y dicromato de potasio para liberarlas de la materia org&amp;aacute;nica y montarlas como fr&amp;uacute;stulos permanentemente en portaobjetos con la resina Naphrax&amp;reg; &amp;nbsp;y cubreobjetos redondos (Cambra et al., 2005; Water Quality &amp;mdash; European Committee for Standardization, 2003; Pardo et al., 2010). La identificaci&amp;oacute;n taxon&amp;oacute;mica se realiz&amp;oacute; mediante en un microscopio con DIC (contraste de interface diferencial) Nikon Elipse E200 bajo un aumento de 100X. De esta forma, se registraron aleatoriamente las especies encontradas en cada campo para llegar, siempre que fue posible, a 400 individuos. En el caso de muestras cuya concentraci&amp;oacute;n no era la adecuada se realizaron barridos completos de la placa simulando un zig-zag. Para la identificaci&amp;oacute;n se utilizaron claves (Lobo et al., 2016; Metzelin &amp;amp; Lange-Bertalot, 2007; Rumrich et al., 2000).&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Para la extracci&amp;oacute;n de ADN metagen&amp;oacute;mico se tomaron muestras de biopel&amp;iacute;cula de las piedras a las cuales no se les coloc&amp;oacute; ning&amp;uacute;n aditivo, en el laboratorio se parti&amp;oacute; con un volumen inicial de 250 ml de cada punto de muestreo de los r&amp;iacute;os Yanuncay y Tarqui. Las muestras fueron homogenizadas y posteriormente, se colect&amp;oacute; 10 ml en tubos c&amp;oacute;nicos. Para concentrar la muestra se centrifug&amp;oacute; a 15000 rpm por 10 minutos, el sobrenadante fue descartado. El pellet que se form&amp;oacute; se resuspendi&amp;oacute; en 600&amp;mu;L del Lysis Buffer, volumen empleado para la extracci&amp;oacute;n del DNA siguiendo las instrucciones del protocolo de extracci&amp;oacute;n PureLink Microbiome (Thermo Scientific, USA), modificando la temperatura de incubaci&amp;oacute;n a 80&amp;deg;C por 15 minutos. El DNA obtenido fue diluido en 100 &amp;mu;L Elution Buffer.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;La calidad del ADN se determin&amp;oacute; mediante electroforesis en gel de agarosa al 1% y la cuantificaci&amp;oacute;n se realiz&amp;oacute; empleando un espect&amp;oacute;metro de microplacas Epoch TM con la finalidad de verificar la cantidad requerida para el an&amp;aacute;lisis molecular. Los an&amp;aacute;lisis de metabarcodificaci&amp;oacute;n de ADN fueron realizados por AllGenetics &amp;amp; Biology SL (&lt;a data-fr-linked=&quot;true&quot; href=&quot;//www.allgenetics.eu&quot;&gt;www.allgenetics.eu&lt;/a&gt;). De acuerdo a &amp;nbsp;Vasselon et al., (2017), se amplificaron regiones del gen de la rbcl (marcador cloropl&amp;aacute;stico) empleando los primers: Diat_rbcL_708F_1 (AGGTGAAGTAAAAGGTTCWTACTTAAA)&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Diat_rbcL_708F_2 (AGGTGAAGTTAAAGGTTCWTAYTTAAA) &amp;nbsp;y&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Diat_rbcL_708F_3 (AGGTGAAACTAAAGGTTCWTACTTAAA)&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Como forward primers, combinado con una mezcla equimolar de dos primers&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Diat_rbcL_R3_1 (CCTTCTAATTTACCWACWACTG) (Stoof-Leichsenring et al., 2015) and Diat_rbcL_R3_2 (CCTTCTAATTTACCWACAACAG) como reverse primers.&lt;/p&gt;
+&lt;p&gt;Estos cebadores tambi&amp;eacute;n inclu&amp;iacute;an las secuencias del cebador de secuenciaci&amp;oacute;n de Illumina unidas a sus extremos 5&amp;apos;.&lt;/p&gt;
+&lt;p&gt;Para el control de datos de secuenciaci&amp;oacute;n se evalu&amp;oacute; la calidad de los archivos FASTQ con el software FastQC ( Andrews, 2010) y se resumieron &amp;nbsp;resultados con MultiQC (Ewels et al., 2016). Las lecturas de amplic&amp;oacute;n se procesaron con QIIME 2 (versi&amp;oacute;n 2022) (Bolyen et al., 2019). En cuanto a la asignaci&amp;oacute;n taxon&amp;oacute;mica, se consult&amp;oacute; sus secuencias representativas en una instancia local de la base de datos GenBank del NCBI (actualizada por &amp;uacute;ltima vez en octubre de 2022) utilizando el algoritmo BLASTn v2.12.0+ (Camacho et al., 2009), y configurando los siguientes par&amp;aacute;metros: porcentaje de identidad del 97 %, e-value de 1e-05 y una cobertura m&amp;iacute;nima de aciertos del 80 %.&lt;/p&gt;</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Se escogieron dos ecosistemas lóticos de la provincia del Azuay que difieran en su estado trófico: río Tarqui y río Yanuncay, tributarios del río Cuenca</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Para el muestreo biótico de las diatomeas, calidad del agua, IHF Y QBR se escogieron 5 puntos de muestreo por cada ecosistema, en los cuales se colectaron en un total 6 muestras diferenciadas de diatomeas epilíticas:  tres en la época seca (julio, agosto y septiembre) y tres en la época lluviosa (marzo, abril y mayo) para tener datos de estacionalidad.</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>&lt;p&gt;Los datos sin procesar emparejados de Illumina para cada biblioteca consisten en lecturas directas (R1) e inversas (R2) almacenadas en archivos separados, que tambi&amp;eacute;n incluyen los puntajes de calidad de las lecturas. Eliminamos cualquier rastro potencial de d&amp;iacute;meros adaptadores utilizando Cutadapt v3.5 ( Martin, 2011 ) .&lt;/p&gt;
+&lt;p&gt;Se puede acceder a los archivos FASTQ despu&amp;eacute;s de la eliminaci&amp;oacute;n de los d&amp;iacute;meros del adaptador siguiendo el siguiente enlace:&lt;/p&gt;
+&lt;p&gt;Datos sin procesar&lt;/p&gt;
+&lt;p&gt;(md5: 6ce7dc35dbdb843d5f31f0683a28724f)&lt;/p&gt;
+&lt;p&gt;Evaluamos la calidad de los archivos FASTQ con el software FastQC ( Andrews, 2010 ) y resumimos el resultado con MultiQC ( Ewels et al., 2016 ) . Se puede acceder a los informes de control de calidad de las lecturas de R1 y R2 haciendo clic en los siguientes enlaces:&lt;/p&gt;
+&lt;p&gt;Informe de control de calidad R1&lt;/p&gt;
+&lt;p&gt;Informe de control de calidad R2&lt;/p&gt;
+&lt;p&gt;Nota: Ninguno de los controles negativos (BPCR1 y BPCR2) produjo lecturas durante la secuenciaci&amp;oacute;n (consulte la Tabla 1).&lt;/p&gt;</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+                <project id="MAAE-DBI-CM-2021-0149">
+                    <title>Diatomeas como bioindicadoras  de dos ecosistemas lóticos en la provincia del Azuay</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>PAULA</givenName>
+                                <surName>CORDERO</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">orcid.org/0000-0002-4510-3316</userId>
+                            <role>principalInvestigator</role>
+                        </personnel>
+                        <abstract>
+                            <para>En este estudio se contemplan dos ríos del cantón Cuenca: El Tarqui localizado en una zona ganadera y muy intervenido en su cauce y el Yanuncay menos intervenido pero, con producción de pastos aledaños e incluso piscicultura cercana. Se tomaron en cuenta: la variabilidad espacial (distintos puntos de muestreo) y variabilidad temporal (época seca y época lluviosa) y, se levantó información de hábitat fluvial IHF, de calidad de ribera QBR,  parámetros físico-químicos: temperatura, oxígeno disuelto, pH, conductividad eléctrica, fosfatos, nitratos, DBO y, como biológico: coliformes. Además, se recolectaron diatomeas epiliticas tanto para su reconocimiento morfológico mediante microscopia, como molecular con la técnica de metabarcoding. Los resultados  de calidad del agua son: mala en el  Tarqui en época seca (IPS de 1 a 4,8 y WQI de 42 ,56 especies de diatomeas) y regular en época lluviosa (IPS de 12,4  a 15,67 y WQI de 72 ,74 especies de diatomeas); Mala a deficiente en el Yanuncay en época seca (IPS de 3,8 a 9 y WQI de 52 ,54 riqueza de diatomeas ) y buena en época lluviosa (IPS de 13 a 16,9 y WQI de 79, 124 especies de diatomeas), se corroboran con los resultados metagenómicos (61 especies de diatomeas reportadas</para>
+                        </abstract>
+                        <funding>
+                            <para>UNIVERSIDAD CATÓLICA DE CUENCA-UNIVERSIDAD SEK DEL ECUADOR</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Se escogieron dos ecosistemas lóticos de la provincia del Azuay que difieran en su estado trófico: río Tarqui y río Yanuncay, localizados al sur del Ecuador y están localizados antes de la ciudad de Cuenca, tercera ciudad de Cuenca, con 500.000 habitantes. El estudio se realizó en la cuenca media y baja del Tanuncay entre 3304m.s.n.m y 2943 m.s.n.m y en el Tarqui la cuenca media y baja entre 2799 m.s.n.m  y 2555 m.s.n.m</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Para el muestreo biótico de las diatomeas, el hábitat fluvial IHF, la calidad de ribera WQI, y las muestras para calidad del agua se escogieron 5 puntos de muestreo por cada ecosistema, en los cuales se colectaron en un total 6 muestras diferenciadas de diatomeas epilíticas:  tres en la época seca (julio, agosto y septiembre) y tres en la época lluviosa (marzo, abril y mayo) para tener datos de estacionalidad.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-03-10T06:43:38.288+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/o0tlqt">CORDERO P, SALAZAR J (2023). DIATOMEAS COMO BIOINDICADORAS DE DOS ECOSISTEMAS LÓTICOS DE LA PROVINCIA DEL AZUAY. Version 1.5. Universidad Católica de Cuenca. Occurrence dataset. https://doi.org/10.60545/o0tlqt</citation>
+                            <bibliography>
+                                        <citation identifier=" www.unisc.br/edunisc">Lobo, E. A., Heinrich, C. G., Schuch, M., Düpont, A., Ben da Costa, A., Wetzel, C. E., &amp; Ector, L. (2016). Índice trófico de qualidade da água: guia ilustrado para sistemas lóticos subtropicais e temperados brasileiros. En Universidad Santa Cruz do Sul (EDUNISC).Lobo, E. A., Heinrich, C. G., Schuch, M., Düpont, A., Ben da Costa, A., Wetzel, C. E., &amp; Ector, L. (2016). Índice trófico de qualidade da água: guia ilustrado para sistemas lóticos subtropicais e temperados brasileiros. En Universidad Santa Cruz do Sul (EDUNISC). www.unisc.br/edunisc</citation>
+                                        <citation identifier="https://doi.org/10.1007/s10933-006-9042-5">Jones, V. D. Metzelin, H. Lange-Bertalot and Garcia-Rodriguez, Diatoms of Uruguay, Taxonomy, Biogeography and Diversity, H. Lange-Bertalot (ed), Iconographia diatomologica annotated diatom micrographs. Vol 15. Diatoms of Uruguay. J Paleolimnol 36, 441–442 (2006).</citation>
+                                        <citation>Rumrich, U., Lange-Bertalot, H. and Rumrich, M. (2000) Diatoms of the Andes. From Venezuela to Patagonia/Tierra del Fuego and two additional contributions. Lange-Bertalot, H. (ed.), Iconographia Diatomologica. Annotated Diatom Micrographs. Vol. 9. Phytogeography-Diversity-Taxonomy. Koeltz Scientific Books, Königstein, Germany, 9:673 pp.</citation>
+                                        <citation identifier="http://doi.org/10.15472/rddjgp">Montoya-Moreno, Y., Sala, S., Vouilloud, A., Aguirre, N &amp; Plata-Díaz, Y. (2013). Lista de las diatomeas de ambientes continentales de Colombia. 680 registros. Versión 2.1.</citation>
+                            </bibliography>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=maae-dbi-cm-2021-0149</resourceLogoUrl>
+                                    <collection>
+                                            <parentCollectionIdentifier>https://www.gbif.org/es/grscicoll/institution/f52ded1f-6ce3-4644-9bbf-4dd3cc70da17</parentCollectionIdentifier>
+                                            <collectionIdentifier>https://www.gbif.org/es/grscicoll/institution/f52ded1f-6ce3-4644-9bbf-4dd3cc70da17</collectionIdentifier>
+                                        <collectionName>DIATOMEAS DEL TARQUI Y YANUNCAY</collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>microscopicPreparation</specimenPreservationMethod>
+                                <jgtiCuratorialUnit>
+                                        <jgtiUnitType>PORTAOBJETOS PERMANENTES</jgtiUnitType>
+                                        <jgtiUnitRange>
+                                            <beginRange>60</beginRange>
+                                            <endRange>61</endRange>
+                                        </jgtiUnitRange>
+                                </jgtiCuratorialUnit>
+                            <dc:replaces>7b02f24c-44c1-4906-8284-ebbcfc1c2993/v1.5.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

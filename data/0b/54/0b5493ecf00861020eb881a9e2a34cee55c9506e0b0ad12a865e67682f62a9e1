@@ -1,0 +1,404 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="d8a88441-d76d-40da-bf82-d94b66ef66c4/v1.2" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/w8rd49</alternateIdentifier>
+                <alternateIdentifier>d8a88441-d76d-40da-bf82-d94b66ef66c4</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-flora-bpcb</alternateIdentifier>
+                <title xml:lang="eng">Community structure of flora biodiversity in the Bosque Protector Cerro Blanco</title>
+                    <creator>
+            <individualName>
+                    <givenName>Xavier</givenName>
+                <surName>Cornejo</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+            <phone>+59398183434</phone>
+                    <userId directory="https://orcid.org/">0000-0002-4081-4047</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Andres</givenName>
+                <surName>Espinoza-Maticurena</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+                    <userId directory="https://orcid.org/">0009-0009-2414-2277</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Kimberly</givenName>
+                <surName>Rizzo</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+            <phone>+59398183434</phone>
+                    <userId directory="https://orcid.org/">0000-0001-8696-9055</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Anahi</givenName>
+                <surName>Vargas</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0001-8324-5334</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0727-7996</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0002-9205-5396</userId>
+                    </creator>
+            <pubDate>
+                    2023-07-17
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>A total of 14 plots were sampled in the Cerro Blanco protection forest in 2022 during the rainy season.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>A total of 14 plots were sampled in the Cerro Blanco protection forest in 2022 during the rainy season.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.091</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.986</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.126</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.181</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2022-04-08</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2022-05-22</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>MALPIGHIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>URTICACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>DICHAPETALACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>PRIMULACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>PLANTAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>ASTERACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>APOCYNACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>MELIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>FABACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>CORDIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>PTERIDACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>POLYGONACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>VIOLACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>SOLANACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>ARACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>NYCTAGINACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>VITACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>MYRTACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>RUBIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>CELASTRACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>POLYGALACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>LECYTHIDACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>POACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>SMILACACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>MALVACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>OXALIDACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>CAPPARACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>ORCHIDACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>DIOSCOREACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>ANNONACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>LAMIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>MORACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>BLECHNACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>ANACARDIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>SAPINDACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>PASSIFLORACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>CUCURBITACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>PIPERACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>RUTACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>BIGNONIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>ACANTHACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>EUPHORBIACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>SAPOTACEAE</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Taxa identifications
+&lt;br&gt;
+For the identification and/or recognition of the taxa, photographic records of the main vegetative and/or reproductive characters were obtained in situ. The identity of the reported species is supported by collections held in the GUAY and QCNE herbaria. Previously collected species have been recognized and recorded, additional collections have been made only in cases of new records, these have been deposited in the GUAY herbarium of the Faculty of Natural Sciences of the University of Guayaquil. Taxonomic identifications were made by consulting the treatments and revisions provided in Flora of Ecuador (Harling &amp; Andersson eds. 1986-1998), and the Catálogo de las Plantas Vasculares de Ecuador (Jorgensen &amp; León 1999). For the Pteridophyta (represented in the study area by ferns) the classification system according to the PPG (2016) is followed, for the angiosperms, represented in the study area by flowering plants, the classification system according to the APG (Chase et al. 2016) is followed. In some cases, the taxonomic authorities of the MO, NY and US herbaria (all USA) have been consulted according to the respective taxonomic groups.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Eight sampling localities were established and visited during the rainy season, between 8 April and 22 May 2022 (Fig. 1, Table 1); temporary plots were established at each locality.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Sampling units
+&lt;br&gt;
+At each locality, temporary rectangular plots were established, each measuring 10 x 100 m, equivalent to an area of 10,000 m2.  Within each plot, plant species were quantified according to their respective habits (Table 2). To determine forest structure, all trees (estimated height in metres) and lianas 5 cm or more in diameter at breast height (DBH) were measured for both habits; species and individuals of shrub, herbaceous climber and epiphyte habits were also recorded; herbaceous species were recorded by percentage cover. 
+&lt;br&gt;
+3.	Characterization of the sampled localities
+&lt;br&gt;
+Each sampled locality has been characterized based on the observations and data obtained within the temporary plots, considering the most conspicuous floristic elements in terms of composition and structure. 
+&lt;br&gt;
+4.	Taxa identifications
+&lt;br&gt;
+For the identification and/or recognition of the taxa, photographic records of the main vegetative and/or reproductive characters were obtained in situ. The identity of the reported species is supported by collections held in the GUAY and QCNE herbaria. Previously collected species have been recognized and recorded, additional collections have been made only in cases of new records, these have been deposited in the GUAY herbarium of the Faculty of Natural Sciences of the University of Guayaquil. Taxonomic identifications were made by consulting the treatments and revisions provided in Flora of Ecuador (Harling &amp; Andersson eds. 1986-1998), and the Catálogo de las Plantas Vasculares de Ecuador (Jorgensen &amp; León 1999). For the Pteridophyta (represented in the study area by ferns) the classification system according to the PPG (2016) is followed, for the angiosperms, represented in the study area by flowering plants, the classification system according to the APG (Chase et al. 2016) is followed. In some cases, the taxonomic authorities of the MO, NY and US herbaria (all USA) have been consulted according to the respective taxonomic groups.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project >
+                    <title>Community structure of flora biodiversity in the Bosque Protector Cerro Blanco</title>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Eight sampling localities were established and visited during the rainy season, between 8 April and 22 May 2022; at each locality temporary plots were established.
+&lt;br&gt;
+The Cerro Blanco Protected Forest (BPCB) is a private reserve covering 6078 ha. It is located towards the southeastern end of the Chongón-Colonche mountain range, west of the city of Guayaquil. Biogeographically, it belongs to the Equatorial Pacific Dry Deciduous Forest and nationally it is part of the Jama-Zapotillo Lowland Deciduous Forest (MAE 2013). It has a native vegetation cover of semi-deciduous dry forest between 50 to 300 m with areas of transition to humid forest in the streams and above 300 m altitude. Its soils are limestone with good drainage (Moreira 2019). Its plant formations contain the last representatives of the original flora that existed in the city of Guayaquil, from where the first botanical explorations and discoveries were made on the coast of Ecuador since the end of the 18th century (Presl 1827). Today, this vegetation is under pressure from factors such as mining and urban expansion.
+&lt;br&gt;
+During the 1990s few floristic inventories have been carried out in the BPCB with descriptive approximations of its floristic composition. The most complete inventory has been carried out recently (Cornejo in JAPU 2021); however, it is necessary to obtain quantifiable data on their populations and distribution patterns, as well as on the factors that dominate the specific adaptations and interactions identified in the dry ecosystems, especially since for the BPCB 25% of species with various categories of endemism from the dry deciduous forest region of the Equatorial Pacific have been reported, which present specific evolutionary characteristics and whose susceptibility to climate change is still unknown (op. cit.).
+&lt;br&gt;
+The BPCB presents a scarcely studied vegetation community despite being one of the most important remnants for this region, as well as the main one for the nearest urban area such as the growing city of Guayaquil, of which there seems to be no study of the structure of its native vegetation. A baseline description of the floristic composition of the BPCB and data on the horizontal and vertical structure of its forest are essential for proper management.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Sampling units
+&lt;br&gt;
+At each locality, temporary rectangular plots were established, each measuring 10 x 100 m, equivalent to an area of 10,000 m2.  Within each plot, plant species were quantified according to their respective habits (Table 2). To determine forest structure, all trees (estimated height in metres) and lianas 5 cm or more in diameter at breast height (DBH) were measured for both habits; species and individuals of shrub, herbaceous climber and epiphyte habits were also recorded; herbaceous species were recorded by percentage cover. 
+&lt;br&gt;
+3. Characterisation of the sampled localities
+&lt;br&gt;
+Each sampled locality has been characterised based on the observations and data obtained within the temporary plots, considering the most conspicuous floristic elements in terms of composition and structure. 
+&lt;br&gt;
+4.	Taxa identifications
+&lt;br&gt;
+For the identification and/or recognition of the taxa, photographic records of the main vegetative and/or reproductive characters were obtained in situ. The identity of the reported species is supported by collections held in the GUAY and QCNE herbaria. Previously collected species have been recognized and recorded, additional collections have been made only in cases of new records, these have been deposited in the GUAY herbarium of the Faculty of Natural Sciences of the University of Guayaquil. Taxonomic identifications were made by consulting the treatments and revisions provided in Flora of Ecuador (Harling &amp; Andersson eds. 1986-1998), and the Catálogo de las Plantas Vasculares de Ecuador (Jorgensen &amp; León 1999). For the Pteridophyta (represented in the study area by ferns) the classification system according to the PPG (2016) is followed, for the angiosperms, represented in the study area by flowering plants, the classification system according to the APG (Chase et al. 2016) is followed. In some cases, the taxonomic authorities of the MO, NY and US herbaria (all USA) have been consulted according to the respective taxonomic groups.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-11T16:51:35.928+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/w8rd49">Cornejo X, Espinoza-Maticurena A, Rizzo K, Vargas A, Barros-Diaz C, Pérez-Correa J (2023). Community structure of flora biodiversity in the Bosque Protector Cerro Blanco. Version 1.2. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/w8rd49</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=flora-cerroblanco</resourceLogoUrl>
+                            <dc:replaces>d8a88441-d76d-40da-bf82-d94b66ef66c4/v1.2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,208 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="7d0cf7e0-8458-4cfd-a927-f1d4f88dbba8/v1.6" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>7d0cf7e0-8458-4cfd-a927-f1d4f88dbba8</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=inmase_ce</alternateIdentifier>
+                <title xml:lang="spa">Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Meta genómica para su uso en salud humana y animal</title>
+                    <creator>
+            <individualName>
+                    <givenName>Gabriela</givenName>
+                <surName>Agurto Rodríguez</surName>
+            </individualName>
+            <organizationName>Escuela Superior Politécnica del Litoral-CENAIM</organizationName>
+            <positionName>Responsable de base de datos</positionName>
+            <address>
+                    <deliveryPoint>San Pedro-Manglaralto-Santa Elena</deliveryPoint>
+                    <city>Santa Elena</city>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>agurtor@espol.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-9547-8020</userId>
+                    </creator>
+            <pubDate>
+                    2023-08-01
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Colección de Invertebrados marinos sésiles, los mismos que fueron colectados bajo el permiso de investigación N°005-17 IC-FAU-DPSE/MA.
+Esta colección es tomada de la Reserva Marina El Pelado (REMAPE).</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                                    <keyword>Arthropoda</keyword>
+                                    <keyword>Porifera</keyword>
+                                    <keyword>Chordata</keyword>
+                                    <keyword>Cnidaria</keyword>
+                                    <keyword>Echinodermata</keyword>
+                                    <keyword>Mollusca</keyword>
+                                    <keyword>REMAPE</keyword>
+                                    <keyword>CENAIM</keyword>
+                                    <keyword>ESPOL</keyword>
+                                    <keyword>sessile invertebrate</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">http://www.cenaim.espol.edu.ec/biodiversidad_REMAPE</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>La Reserva Marina el Pelado (REMAPE) forma parte del sistema nacional de áreas protegidas del Ecuador. La REMAPE comprende un área marina formada por un arrecife rocoso de 13 bajos submarinos con parches coralinos y el islote El Pelado, dos zonas de Manglar y los poblados costeros de Palmar, Ayangue, San Pedro y Valdivia. 
+(Reserva marina El Pelado. (2022, 28 de julio). Wikipedia, La enciclopedia libre. Fecha de consulta: 18:56, septiembre 20, 2022 desde https://es.wikipedia.org/w/index.php?title=Reserva_marina_El_Pelado&amp;oldid=145031544.)</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.818</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-80.723</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-1.928</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.027</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2015-08-07</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2019-06-12</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>Los registros de esta colección están comprendidos de 143 especies, 84 géneros, 58 familias, 31 ordenes, 8 clases y 6 filos.</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Arthropoda</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Chordata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Cnidaria</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Echinodermata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Mollusca</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Porifera</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Gabriela</givenName>
+                <surName>Agurto Rodríguez</surName>
+            </individualName>
+            <organizationName>Escuela Superior Politécnica del Litoral-CENAIM</organizationName>
+            <positionName>Responsable de base de datos</positionName>
+            <address>
+                    <deliveryPoint>San Pedro-Manglaralto-Santa Elena</deliveryPoint>
+                    <city>Santa Elena</city>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>agurtor@espol.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-9547-8020</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Las metodologías de muestreo en general, fue colección de especies solitarias y coloniales de tal manera de no afectar la biodiversidad.&lt;br&gt;
+La colecta fue realizada con ayuda de fundas zyploc y redes para transportar bajo el agua las respectivas fundas con las muestras.
+En el caso de los grupos de Cnidarios y Poríferos la ayuda de toma de muestra fue con una tijera, y en el caso de los Cordados con ayuda de cuchillos sin filo.&lt;br&gt;
+Las muestras eran fotografiadas in situ.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Una vez las muestras colectadas eran subidas a bote, para ser ubicadas en recipientes con agua de mar del sitio. Seguidamente eran trasladadas al laboratorio de Taxonomía ubicado en CENAIM-ESPOL.&lt;br&gt;
+En el laboratorio pasaban a ser separadas en recipientes con el agua de mar del sitio, fotografiadas, limpiar detritus y registradas en bitácora física.&lt;br&gt;
+En bitácora se registraba el código asignado con la respectiva descripción de sus características morfológicas y la observación de simbiontes en caso de haberlo. Además, se describía a los laboratorios que era designada parte de la muestra y en que sería preservada.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Las muestras de la colección se obtuvieron de bajos rocosos e intermareales de la Reserva Marina El Pelado (REMAPE). los sitios de colecta fueron.&lt;br&gt;
+Entre los bajos e intermareales muestreados estan: Acuario, Ayangue Bahía, Ayangue Costa, Ayangue intermareal, Ayangue Sur, Bajo 40, Bajo Tello, La Pared, La Viejita, Laberinto, Líneas de CENAIM, Palmar, Rabo del Viejo, San Pedro Intermareal, San Pedro Submareal y Zona protegida</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Los muestreos se realizaron en los bajos rocosos o intermareales, ya que las especies de mayor importancia son invertebrados sésiles. Las profundidades promedio de estas zonas submareales iba desde 2 a 30 metros.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="Colección de invertebrados sésiles marinos">
+                    <title>&quot;Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Meta genómica para su uso en salud humana y animal&quot;.</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Jenny</givenName>
+                                <surName>Rodríguez</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0002-4773-0700</userId>
+                            <role>principalInvestigator</role>
+                        </personnel>
+                        <abstract>
+                            <para>El Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM) buscó responder a los desafíos del programa nacional del buen vivir, el cual garantiza los derechos de la naturaleza promoviendo un ambiente sano y sustentable, mediante un proyecto que persigue la valorización y el uso sustentable de la biodiversidad, con aplicaciones en alimentación, salud, acuicultura y conservación. Siendo consistentes con la misión del centro y considerando los grandes vacíos que en este tópico hay en el país, el estudio de la biodiversidad marina se presenta como una oportunidad para el desarrollo científico y tecnológico a través del biodescubrimiento.</para>
+                        </abstract>
+                        <funding>
+                            <para>Financiada por la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (SENESCYT) a través del Proyecto PIC-14-CENAIM-001</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>La zona del frente ecuatorial está sometida a un fuerte gradiente termohalino, debido a la mezcla de aguas frías y cálidas y al afloramiento de aguas profundas ricas en nutrientes. Ella se caracteriza por su biodiversidad en especies y constituye un “hotspot” de biodiversidad funcional. (http://www.nature.com/news/new-measure-shifts-biodiversity-focus-1.13800). Dentro de esta zona se encuentra La Reserva Marina El Pelado (131 Km2), la misma que en octubre de 2012 fue incorporada al patrimonio Nacional de áreas protegidas (Registro oficial 802, acuerdo 118). La reserva está localizada en la Provincia de Santa Elena y abarca la zona de Playa del Palmar, Ayangue y Valdivia. En base a estas ventajas se la seleccionó como el escenario de trabajo del proyecto. Las condiciones oceanográficas y los ambientes rocosos garantizan diversidad funcional, complejas interacciones ecológicas entre los organismos y sus microrganismos y un amplio reservorio de metabolitos.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-09-20T03:09:25.930+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Agurto Rodríguez G (2023). Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Meta genómica para su uso en salud humana y animal. Version 1.6. Escuela Superior Politecnica del Litoral. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=inmase_ce&amp;v=1.6</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=inmase_ce</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>e1a04a30-b4e0-472c-9d36-816a8bd11fff</collectionIdentifier>
+                                        <collectionName>Colección de invertebrados sésiles marinos</collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                                    <specimenPreservationMethod>dried</specimenPreservationMethod>
+                                    <specimenPreservationMethod>formalin</specimenPreservationMethod>
+                            <dc:replaces>7d0cf7e0-8458-4cfd-a927-f1d4f88dbba8/v1.6.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

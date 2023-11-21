@@ -1,0 +1,247 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mem-ml/v1.1" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mem-ml</alternateIdentifier>
+                <title xml:lang="eng">Mashpi Entomology Museum</title>
+                    <creator>
+            <individualName>
+                    <givenName>Chiara</givenName>
+                <surName>Correa</surName>
+            </individualName>
+            <organizationName>Mashpi Lodge</organizationName>
+            <positionName>Resident Biologist</positionName>
+            <address>
+                    <deliveryPoint>Bosque Protector Mashpi, Parroquia de Pacto, Sector Pacto Loma</deliveryPoint>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 400-4100</phone>
+            <electronicMailAddress>ccorrea@mashpi.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Anderson</givenName>
+                <surName>Medina</surName>
+            </individualName>
+            <organizationName>Mashpi Lodge</organizationName>
+            <positionName>Parabiologist</positionName>
+            <address>
+                    <deliveryPoint>Bosque Protector Mashpi, Parroquia de Pacto, Sector Pacto Loma</deliveryPoint>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 400-4100</phone>
+            <electronicMailAddress>amedina@mashpi.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Chiara</givenName>
+                <surName>Correa</surName>
+            </individualName>
+            <organizationName>Mashpi Lodge</organizationName>
+            <positionName>Resident Biologist</positionName>
+            <address>
+                    <deliveryPoint>Bosque Protector Mashpi, Parroquia de Pacto, Sector Pacto Loma</deliveryPoint>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 400-4100</phone>
+            <electronicMailAddress>ccorrea@mashpi.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Anderson</givenName>
+                <surName>Medina</surName>
+            </individualName>
+            <organizationName>Mashpi Lodge</organizationName>
+            <positionName>Parabiologist</positionName>
+            <address>
+                    <deliveryPoint>Bosque Protector Mashpi, Parroquia de Pacto, Sector Pacto Loma</deliveryPoint>
+                    <administrativeArea>Pichincha</administrativeArea>
+            </address>
+            <phone>(02) 400-4100</phone>
+            <electronicMailAddress>amedina@mashpi.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    </metadataProvider>
+                    <associatedParty>
+            <organizationName>Mashpi Lodge</organizationName>
+            <address>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>150150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>59324004100</phone>
+            <electronicMailAddress>info@mashpilodge.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    <userId directory="http://www.wikidata.org/entity/">Q111415066</userId>
+            <role>custodianSteward</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-04-26
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>The Mashpi entomology museum has an entomological collection created and supported thanks to collaborations with experts and the different entomological studies developed in the Mashpi Protected Forest since 2017. The museum was born to impart environmental education through the collection, offering a better understanding and appreciation of invertebrate diversity and its importance to the forest. The collection is also open to interested scientists who wish to study it. Also, there are even great possibilities of finding new species for science that need to be described.</para>
+                            <para>The collection has more than 400 specimens collected within the reserve, with the Lepidoptera order being the most abundant in samples. The main reason is that, since 2017, butterflies&apos; long-term monitoring has been carried out in Mashpi in collaboration with Keith Willmott and Patricio Salazar, among other researchers.</para>
+                            <para> It should be noted that the geographic coordinates of each of the specimens are a reference based on the location of Mashpi Lodge. They do not correspond to the original collection site.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://www.mashpilodge.com/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Mashpi Protected Forest is located in the Pacto Loma sector, Pacto Parish, Pichincha Province, Ecuador. The reserve has around 2700 hectares of forest.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-78.9</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-78.88</eastBoundingCoordinate>
+                                <northBoundingCoordinate>0.18</northBoundingCoordinate>
+                                <southBoundingCoordinate>0.1</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>The collection has more than 400 specimens collected within the reserve, with the Lepidoptera order being the most abundant in samples. The main reason is that, since 2017, butterflies&apos; long-term monitoring has been carried out in Mashpi in collaboration with Keith Willmott and Patricio Salazar, among other researchers. </generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lepidoptera</taxonRankValue>
+                                                <commonName>Butterflies &amp; Moths</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Coleoptera</taxonRankValue>
+                                                <commonName>Beetles</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Arachnida</taxonRankValue>
+                                                <commonName>Spiders, scorpions, etc</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Hemiptera</taxonRankValue>
+                                                <commonName>True bugs</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Hymenoptera</taxonRankValue>
+                                                <commonName>Sawflies, wasps, bees and ants</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Mantodea</taxonRankValue>
+                                                <commonName>Mantises</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Megaloptera</taxonRankValue>
+                                                <commonName>Alderflies, dobsonflies and fishflies</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Odonata</taxonRankValue>
+                                                <commonName>Dragonflies and damselflies</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Orthoptera</taxonRankValue>
+                                                <commonName>Grasshoppers and allies</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Phasmatodea</taxonRankValue>
+                                                <commonName>Stick insects and allies</commonName>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Polydesmida</taxonRankValue>
+                                                <commonName>Millipedes</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>The specimen records are a fundamental part of biodiversity conservation, so Mashpi Lodge is happy to share this data set and contribute to the research and preservation of the species recorded in the Mashpi Protected Forest.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>The Mashpi Entomological Collection will be updated annually.</para>
+                    </description>
+                    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Chiara</givenName>
+                <surName>Correa</surName>
+            </individualName>
+            <organizationName>Mashpi Lodge</organizationName>
+            <positionName>Resident Biologist</positionName>
+            <address>
+                    <deliveryPoint>Bosque Protector Mashpi, Parroquia de Pacto, Sector Pacto Loma</deliveryPoint>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>+593 982 63 71 62</phone>
+            <electronicMailAddress>ccorrea@mashpi.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>Mateo </givenName>
+                <surName>Roldán</surName>
+            </individualName>
+            <organizationName>Mashpi Lodge</organizationName>
+            <positionName>Director of Research and Biology</positionName>
+            <address>
+                    <deliveryPoint>Bosque Protector Mashpi, Parroquia de Pacto, Sector Pacto Loma</deliveryPoint>
+                    <administrativeArea>Pichincha</administrativeArea>
+            </address>
+            <phone>(02) 400-4100</phone>
+            <electronicMailAddress>mroldan@mashpi.com</electronicMailAddress>
+            <onlineUrl>https://www.mashpilodge.com/</onlineUrl>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-04-20T19:35:08.349+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Correa C, Medina A (2023). Mashpi Entomology Museum. Version 1.1. Mashpi Lodge. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mem-ml&amp;v=1.1</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mem-ml</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>https://www.gbif.org/grscicoll/collection/5b0b6efb-0626-4268-abe6-de316cc9bb70</collectionIdentifier>
+                                        <collectionName>Colección Entomológica Mashpi</collectionName>
+                                    </collection>
+                                <formationPeriod>2015-Current</formationPeriod>
+                                    <specimenPreservationMethod>pinned</specimenPreservationMethod>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mem-ml/v1.1.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

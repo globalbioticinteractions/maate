@@ -1,0 +1,197 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="ec2e07d4-0408-4aa4-9b5f-fa5e99c31ec4/v1.3" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>ec2e07d4-0408-4aa4-9b5f-fa5e99c31ec4</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cnva_cirev_inspi-cz9</alternateIdentifier>
+                <title xml:lang="eng">COLECCIÓN NACIONAL DE VECTORES ARTRÓPODOS CIREV - CZ9-INSPI</title>
+                    <creator>
+            <individualName>
+                    <givenName>Varsovia</givenName>
+                <surName>Cevallos</surName>
+            </individualName>
+            <organizationName>Coordinación Zonal 9 - INSPI</organizationName>
+            <positionName>Responsable de la Gestión de Investigación, Desarrollo e Innovación </positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>varsoviacevallos@yahoo.com</electronicMailAddress>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>William Patricio </givenName>
+                <surName>Ponce Yaulema</surName>
+            </individualName>
+            <organizationName>Coordinación Zonal 9 - INSPI</organizationName>
+            <positionName>Experto en Investigación </positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>wpponcey@yahoo.com</electronicMailAddress>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jimmy Javier </givenName>
+                <surName>Gaibor Verdezoto</surName>
+            </individualName>
+            <organizationName>Coordinación Zonal 9 - INSPI</organizationName>
+            <positionName>Técnico Zonal</positionName>
+            <address>
+                    <city>QUITO</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jgaibor@inspi.gob.ec</electronicMailAddress>
+                    </creator>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Varsovia Enid </givenName>
+                <surName>Cevallos Viteri</surName>
+            </individualName>
+            <organizationName>Coordinacíón Zonal 9 - INSPI</organizationName>
+            <positionName>Responsable de la Gestión de Investigación, Desarrollo e Innovación </positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>varsoviacevallos@yahoo.com</electronicMailAddress>
+            <role>principalInvestigator</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-04-13
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>The National Collection of Arthropod Vectors (CNVA) of CIREV – INSPI LIP preserves specimens of arthropod vectors collected throughout Ecuador. The CNVA aims to preserve, maintain, identify and record taxonomic and ecological information of the arthropod vectors entered. In this way, through the use of information and study of the specimens of the collection Scientific studies character and publications to reduce the impact of diseases transmitted by arthropod vectors and developing early warning systems for the diseases they transmit.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">http://www.investigacionsalud.gob.ec/webs/cirev/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>The National Collection of Arthropod Vectors  of the Center for Research in Infectious and Vector Diseases preserves specimens of arthropod vectors collected around all of continental Ecuador and the islands.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Culicidae</taxonRankValue>
+                                                <commonName>Mosquitos/Zancudos</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>subfamily</taxonRankName>
+                                            <taxonRankValue>Triatominae</taxonRankValue>
+                                                <commonName>Triatomas </commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Siphonaptera</taxonRankValue>
+                                                <commonName>Pulgas</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Ixodidae</taxonRankValue>
+                                                <commonName>Garrapatas</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Psychodidae</taxonRankValue>
+                                                <commonName>Flebótomos</commonName>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Varsovia Enid</givenName>
+                <surName>Cevallos Viteri</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Investigación en Salud Pública CZ9-INSPI-LIP</organizationName>
+            <positionName>Responsable de la Gestión de Investigación, Desarrollo e Innovación</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>varsoviacevallos@yahoo.com</electronicMailAddress>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>William Patricio</givenName>
+                <surName>Ponce Yaulema</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Investigación en Salud Pública CZ9-INSPI-LIP</organizationName>
+            <positionName>Experto en Investigación</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>wpponcey@yahoo.com</electronicMailAddress>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>Jimmy Javier</givenName>
+                <surName>Gaibor Verdezoto</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Investigación en Salud Pública CZ9-INSPI-LIP</organizationName>
+            <positionName>Técnico Zonal</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jgaibor@inspi.gob.ec</electronicMailAddress>
+                    </contact>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-04-13T15:07:49.185+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Cevallos V, Ponce Yaulema W P, Gaibor Verdezoto J J (2023). COLECCIÓN NACIONAL DE VECTORES ARTRÓPODOS CIREV - CZ9-INSPI. Version 1.3. INSTITUTO NACIONAL DE INVESTIGACIÓN EN SALUD PÚBLICA-INSPI-LIP, CORDINACIÓN ZONAL 9. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cnva_cirev_inspi-cz9&amp;v=1.3</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=cnva_cirev_inspi-cz9</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>https://www.gbif.org/es/grscicoll/collection/2c45c3da-ecfe-405f-8010-94ba6dd79e26</collectionIdentifier>
+                                        <collectionName>COLECCIÓN NACIONAL DE VECTORES ARTRÓPODOS </collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>pinned</specimenPreservationMethod>
+                                    <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                                    <specimenPreservationMethod>microscopicPreparation</specimenPreservationMethod>
+                            <dc:replaces>ec2e07d4-0408-4aa4-9b5f-fa5e99c31ec4/v1.3.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

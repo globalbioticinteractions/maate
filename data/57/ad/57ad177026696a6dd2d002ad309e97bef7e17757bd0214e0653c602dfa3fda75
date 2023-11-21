@@ -1,0 +1,261 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="dcb318bb-567d-41f8-b24c-78f27ad896e2/v1.2" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>dcb318bb-567d-41f8-b24c-78f27ad896e2</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=simyh-mzoo</alternateIdentifier>
+                <title xml:lang="spa">Colección de mamíferos naturalizados del Museo Universitario de la Biodiversidad</title>
+                    <creator>
+            <individualName>
+                    <givenName>Juana</givenName>
+                <surName>Suárez</surName>
+            </individualName>
+            <organizationName>SIMYH-Museo Zoológico</organizationName>
+            <positionName>Educadora investigadora</positionName>
+            <address>
+                    <deliveryPoint>Ciudadela Universitaria</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>0962935573</phone>
+            <electronicMailAddress>jgsuarezr@uce.edu.ec</electronicMailAddress>
+            <onlineUrl>https://museozoouce.zyrosite.com/</onlineUrl>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Juana</givenName>
+                <surName>Suárez</surName>
+            </individualName>
+            <organizationName>SIMYH-Museo Zoológico</organizationName>
+            <positionName>Educadora investigadora</positionName>
+            <address>
+                    <deliveryPoint>Ciudadela Universitaria</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>0962935573</phone>
+            <electronicMailAddress>jgsuarezr@uce.edu.ec</electronicMailAddress>
+            <onlineUrl>https://museozoouce.zyrosite.com/</onlineUrl>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Juana Guadalupe</givenName>
+                <surName>Suarez Romero</surName>
+            </individualName>
+            <electronicMailAddress>jgsuarezr@uce.edu.ec</electronicMailAddress>
+            <role>user</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-10-06
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Este conjunto de datos incluye los ejemplares de Mamíferos naturalizados que se encuentran en la Colección de Vertebrados del Museo Zoológico adscrito al Sistema Integrado de Museos y Herbarios de la Universidad Central del Ecuador. Los datos se tratan como especímenes individuales y corresponden a ejemplares donados desde 1872 con los que inician las primeras colecciones de historia natural en el Ecuador.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Vertebrados
+Mamíferos
+Sistema Integrado de Museos y Herbarios
+Museo Zoológico</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://museozoouce.zyrosite.com/coleccion</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Los especímenes de mamíferos naturalizados del Museo Zoológico corrresponden principalmente a especies suraméricanas pero también se incluyen algunos especímenes de Norteamérica, Europa y África.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-81.914</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-74.707</eastBoundingCoordinate>
+                                <northBoundingCoordinate>2.285</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.791</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Echimyidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Aotidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Atelidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Bradypodidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Canidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Caviidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cebidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cercopithecidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cervidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cricetidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cyclopedidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dasypodidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dasyproctidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Didelphidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Elephantidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Erethizontidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Felidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Megalonychidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Mephitidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Mustelidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Myrmecophagidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Phocidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pitheciidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Procyonidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Sciuridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Suidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Tayassuidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Ursidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>El Museo Zoológico es un centro pedagógico y de investigación, que ejerce libertad de cuestionamiento y proposición en sus prácticas y discursos acerca del ambiente. Trabaja desde un uso crítico de la memoria y el patrimonio natural a partir del contexto local. Gestiona los procesos de conservación activa y preventiva en beneficio de las colecciones. Construye y activa la memoria universitaria con sus comunidades estudiantiles y audiencias. Igualmente, propone líneas de fuga para la resignificación de diferentes procesos socioambientales.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Juana</givenName>
+                <surName>Suárez</surName>
+            </individualName>
+            <organizationName>SIMYH-Museo Zoológico</organizationName>
+            <positionName>Educadora investigadora</positionName>
+            <address>
+                    <deliveryPoint>Ciudadela Universitaria</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <phone>0962935573</phone>
+            <electronicMailAddress>jgsuarezr@uce.edu.ec</electronicMailAddress>
+            <onlineUrl>https://museozoouce.zyrosite.com/</onlineUrl>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-01-26T04:32:46.731+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Suárez J (2023). Colección de mamíferos naturalizados del Museo Universitario de la Biodiversidad. Version 1.2. Museo Universitario de la Biodiversidad. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=simyh-mzoo&amp;v=1.2</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=simyh-mzoo</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>28bb584c-7e90-4cb5-819d-1a413c7cf6e2</collectionIdentifier>
+                                        <collectionName>Colección de mamíferos Naturalizados MZOO-SIMYH</collectionName>
+                                    </collection>
+                                <formationPeriod>1872-2022</formationPeriod>
+                                    <specimenPreservationMethod>other</specimenPreservationMethod>
+                            <dc:replaces>dcb318bb-567d-41f8-b24c-78f27ad896e2/v1.2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

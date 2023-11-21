@@ -1,0 +1,250 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mae-dnb-cm-2016-0042/v1.4" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mae-dnb-cm-2016-0042</alternateIdentifier>
+  <title xml:lang="spa">Caracterización de la diversidad biológica y genética de los mamíferos del Ecuador</title>
+      <creator>
+    <individualName>
+        <givenName>Santiago</givenName>
+      <surName>Burneo</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Católica del Ecuador. Museo de Zoología</organizationName>
+    <positionName>Curador de Mamíferos</positionName>
+    <address>
+        <deliveryPoint>Av. 12 de Octubre 1076</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+59322991700</phone>
+    <electronicMailAddress>sburneo@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCAZ/contenido/InicioMamiferos</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">0qg4_BUAAAAJ&amp;hl=es</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Santiago</givenName>
+      <surName>Burneo</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Católica del Ecuador. Museo de Zoología</organizationName>
+    <positionName>Curador de Mamíferos</positionName>
+    <address>
+        <deliveryPoint>Av. 12 de Octubre 1076</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+59322991700</phone>
+    <electronicMailAddress>sburneo@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCAZ/contenido/InicioMamiferos</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">0qg4_BUAAAAJ&amp;hl=es</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Santiago</givenName>
+      <surName>Burneo</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Católica del Ecuador. Museo de Zoología</organizationName>
+    <positionName>Curador de Mamíferos</positionName>
+    <address>
+        <deliveryPoint>Av. 12 de Octubre 1076</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+59322991700</phone>
+    <electronicMailAddress>sburneo@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCAZ/contenido/InicioMamiferos</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">0qg4_BUAAAAJ&amp;hl=es</userId>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2022-11-01
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El presente programa de investigación se basa en un proyecto general, Revisión de la taxonomía de especies de mamíferos del Ecuador y fortalecimiento de la colección de Mastozoología del Museo de Zoología de la PUCE, que se fortalece con proyectos particulares que se han definido al momento o se pueden definir durante la vigencia del presente Contrato Marco.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Especimen</keyword>
+            <keyword>Pontificia Universidad Católica del Ecuador</keyword>
+            <keyword>Museo de Zoología</keyword>
+            <keyword>QCAZ</keyword>
+            <keyword>Mammalia</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>Museo de Zoología, Colección Mastozoologia</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://bioweb.bio/faunaweb/mammaliaweb/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>La colección de mamíferos ocurre en todas las provincias del territorio continental del Ecuador.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.101</westBoundingCoordinate>
+          <eastBoundingCoordinate>-74.773</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.472</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.441</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2017-07-13</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020-07-22</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Mamíferos, principalmente micromamíferos no voladores (roedores, marsupiales conejos y musarañas) y voladores (murciélagos).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Mammalia</taxonRankValue>
+                  <commonName>Mamíferos</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Santiago</givenName>
+      <surName>Burneo</surName>
+    </individualName>
+    <organizationName>Pontificia Universidad Católica del Ecuador. Museo de Zoología</organizationName>
+    <positionName>Curador de Mamíferos</positionName>
+    <address>
+        <deliveryPoint>Av. 12 de Octubre 1076</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+59322991700</phone>
+    <electronicMailAddress>sburneo@puce.edu.ec</electronicMailAddress>
+    <onlineUrl>https://bioweb.puce.edu.ec/QCAZ/contenido/InicioMamiferos</onlineUrl>
+          <userId directory="http://scholar.google.com/citations?user=">0qg4_BUAAAAJ&amp;hl=es</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>No se usó metodología estandarizada</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Ecuador continental, colectas ocasionales asociadas a la disponibilidad de fondos de investigación.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Trabajo de campo
+
+Metodología de observación y recolección de especímenes de mamíferos
+
+En principio se necesita realizar un reconocimiento previo del área de estudio para evaluar el número mínimo de puntos de muestreo. La cantidad y ubicación de los puntos serán establecidas intentando cubrir la mayor variedad posible de hábitats sobre los cuales la instalación de facilidades pueda originar un impacto. También se establecerán sitios control. 
+El diseño del muestreo, es decir la cantidad de dispositivos de captura pasiva o activa utilizadas, su disposición en el área de estudio, la cantidad de días o noches de captura necesarias y las réplicas necesarias, dependerá de los objetivos del proyecto particular dentro del presente programa.
+La metodología se modificará de acuerdo a las condiciones de trabajo de los criterios de Wilson et al. (1996), Rodríguez-Tarrés (1987), Tirira (1999), Kunz (1988) y Rivera-Parra y Burneo (2013). A continuación se detallan las técnicas a ser utilizadas y los materiales requeridos para mamíferos agrupados en tres categorías principales: 
+-	Micromamíferos no voladores (algunos marsupiales y roedores); 
+-	Micromamíferos voladores (murciélagos); 
+-	Mesomamíferos (marsupiales, ciertos carnívoros, primates y roedores); y macromamíferos  (ungulados, edentados y ciertos carnívoros).
+Micromamíferos no voladores
+Se utilizarán trampas tipo Shermann®, Tomahawk® y de golpe repartidas en lugares apropiados de muestreo sobre uno o varios transectos o cuadrantes que se dispondrán en hábitats representativos de las zonas de estudio. Se utilizará como cebo una mezcla de avena, atún, mantequilla de maní, banano y esencia de vainilla, o semillas de girasol. 
+
+Micromamíferos voladores
+Se utilizarán redes de neblina entre las 18.00 y 02.00 durante las noches determinadas para cada punto de muestreo. La ubicación de las redes intentará incluir distintos tipos de hábitat para permitir la captura de diferentes agremiaciones alimenticias y de vuelo de murciélagos. 
+Durante el día se buscarán posibles refugios de los murciélagos como cuevas, troncos de árboles, ciertas hojas y construcciones humanas para la colecta de los animales con el uso de redes de mano.
+
+Meso y macromamíferos
+Se registrará la presencia de mesomamíferos en recorridos diarios (diurnos y nocturnos) por senderos y a horarios diferentes en cada recorrido; además se registrará cualquier encuentro incidental que ocurriere. Se intentará observar a los animales en su ambiente natural y en lo posible se intentará identificar sus relaciones con el entorno: preferencia de hábitat, recurso alimenticio, defensa frente a depredadores, comportamiento de huida, comunicación intra e interespecífica y comportamientos sociales. Durante los recorridos por los senderos de observación directa se buscarán huellas, vocalizaciones, madrigueras, huesos y fecas que puedan llevar a la identificación del animal que las originó. Las huellas obtenidas se compararán con las guías de Murie (1974), Carrillo et al. (1999) y Tirira (2007).
+Muchas de las especies de meso y macromamíferos no requieren colecciones para su identificación a nivel específico, pero se pueden colectar tejidos como piel, pelo y sangre, para su caracterización genética. En caso de encontrarse nuevas especies, se aplicarían técnicas de captura estandarizadas con el objetivo de describirlas siguiendo los parámetros científicos convencionales.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Se siguen los lineamientos de la Asociación Americana de Mastozoología: https://academic.oup.com/jmammal/article/97/3/663/2459909 y de la Asociación Ecuatoriana de Mastozoología: https://aem.mamiferosdelecuador.com/publica/lineamientos-%C3%A9ticos.html</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project id="MAE-DNB-CM-2016-0042">
+    <title>Programa de caracterización de la diversidad biológica y genética de los mamíferos del Ecuador</title>
+      <personnel>
+        <individualName>
+            <givenName>Santiago</givenName>
+          <surName>Burneo</surName>
+        </individualName>
+              <userId directory="http://scholar.google.com/citations?user=">0qg4_BUAAAAJ&amp;hl=es</userId>
+        <role>curator</role>
+      </personnel>
+      <abstract>
+        <para>El presente programa de investigación se basa en un proyecto general, Revisión de la taxonomía de especies de mamíferos del Ecuador y fortalecimiento de la colección de Mastozoología del Museo de Zoología de la PUCE, que se fortalece con proyectos particulares que se han definido al momento o se pueden definir durante la vigencia del presente Contrato Marco.</para>
+      </abstract>
+      <funding>
+        <para>Pontificia Universidad Católica del Ecuador</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Ecuador continental</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>El programa tendrá una duración de tres años e incluirá varios proyectos relacionados con la cuantificación y caracterización biológica y molecular de las especies de mamíferos del Ecuador. Se espera desarrollar estos proyectos en distintas partes del territorio nacional continental, haciendo énfasis en aquellas localidades menos muestreadas y poco accesibles, así como en aquellas donde estudios previos han estimado la ocurrencia de grupos muy biodiversos.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-10-28T05:13:44.979+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="N/A">Burneo S (2022): Caracterización de la diversidad biológica y genética de los mamíferos del Ecuador. v1.4. Museo de Zoología QCAZ de la PUCE. Dataset/Occurrence. N/A</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mae-dnb-cm-2016-0042</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>QCAZ</parentCollectionIdentifier>
+                  <collectionIdentifier>QCAZM</collectionIdentifier>
+                <collectionName>Colección de Mamíferos</collectionName>
+              </collection>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                <specimenPreservationMethod>dried</specimenPreservationMethod>
+                <specimenPreservationMethod>mounted</specimenPreservationMethod>
+            <jgtiCuratorialUnit>
+                <jgtiUnitType>Specimens</jgtiUnitType>
+                <jgtiUnits
+                        uncertaintyMeasure="1">646</jgtiUnits>
+            </jgtiCuratorialUnit>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mae-dnb-cm-2016-0042/v1.4.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

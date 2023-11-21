@@ -1,0 +1,344 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=monitoreo-remape-pnm-bc/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-remape-pnm-bc</alternateIdentifier>
+  <title xml:lang="spa">MONITOREO DE BIODIVERSIDAD DEL INTERMAREAL ROCOSO Reservas Marinas: El Pelado, Bajo Copé y Cantagallo – Machalilla</title>
+      <creator>
+    <individualName>
+        <givenName>Priscilla C. </givenName>
+      <surName>Martínez Panizo</surName>
+    </individualName>
+    <organizationName>Instituto Nazca</organizationName>
+    <positionName>Investigadora</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Fernado</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Instituto Nazca</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>frivera@institutonazca.org</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jimmy</givenName>
+      <surName>Peñaherrera</surName>
+    </individualName>
+    <organizationName>Instituto Nazca</organizationName>
+    <positionName>Asistente de campo</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Favio</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Instituto Nazca</organizationName>
+    <positionName>Asistente de campo</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Ibón</givenName>
+      <surName>Jácome</surName>
+    </individualName>
+    <organizationName>Instituto Nazca</organizationName>
+    <positionName>Asistente de campo</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Verónica</givenName>
+      <surName>Chipe</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>veronica.chipe@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Solange</givenName>
+      <surName>Bolaños</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>solange.bolanos@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Isaac</givenName>
+      <surName>Castro</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Pto. López</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>isaac.castro@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Elvia</givenName>
+      <surName>León</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+    <address>
+        <city>Pto. López</city>
+        <administrativeArea>Manabí</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>elvia.leon@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Victor</givenName>
+      <surName>Chocho</surName>
+    </individualName>
+    <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+    <positionName>Técnico, Dirección de Biodiversidad</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170525</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593996896661</phone>
+    <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+    <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-6430-1422</userId>
+      </metadataProvider>
+  <pubDate>
+      2022-05-24
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>El intermareal rocoso es la zona localizada entre los hábitats marinos y terrestres, extendiéndose entre el límite de la marea más alta y la marea más baja. A pesar de presentar un panorama agreste, es un ecosistema biológicamente muy diverso, habitado por organismos que han desarrollado adaptaciones fisiológicas, anatómicas y de comportamiento para poder sobrevivir allí. En esta zona los organismos están expuestos a condiciones físicas y disturbios extremos, como fluctuaciones de temperatura, humedad, radiación solar, oleaje y predadores tanto marinos como terrestres. 
+
+
+</para>
+    <para>Los ecosistemas intermareales rocosos son ecológicamente importantes porque son el hábitat de algas y animales marinos especialmente adaptados para ese medio, que, a su vez, sirven de alimento a muchos otros organismos marinos. La zona intermareal también es reconocida como una franja protectora que evita la erosión costera.</para>
+    <para>En la costa de Ecuador, las zonas intermareales rocosas proporcionan muchos bienes y servicios para los seres humanos. Por su accesibilidad, son áreas comúnmente recorridas por los habitantes de las poblaciones costeras, que las frecuentan tradicionalmente para la recolección de mariscos, tales como pulpos, ostras, peces, carnada para la pesca, entre otros, o como sitio de recreación y esparcimiento. En general, el intermareal ha proporcionado alimento y subsistencia a los habitantes de los poblados costeros desde la prehistoria (Branch et al.,2008).
+</para>
+    <para>Pero el intermareal es también uno de los ambientes más vulnerables, debido a que recibe la influencia de lo que ocurre tanto en el mar como en la tierra (Thompson et al. 2002). Esto incluye, desde la fragmentación de hábitat y sedimentación por el mal manejo de tierras adyacentes, el continuo pisoteo, la remoción de rocas y organismos, el arribo de especies invasoras y el aumento de basura que se acumula en esta zona. A estos efectos antrópicos, se unen las crecientes amenazas naturales, como el cambio climático y los severos y recurrentes eventos El Niño que afectan la costa ecuatoriana. Todos estos sucesos tienen impacto en el intermareal y lo vuelven cada vez más sensible a ser degradado.   </para>
+  </abstract>
+      <keywordSet>
+            <keyword>Evento</keyword>
+            <keyword>Reservas marinas</keyword>
+            <keyword>intermareal</keyword>
+            <keyword></keyword>
+        <keywordThesaurus>NAZCA</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Reserva Marina El Pelado
+reserva Marina Bajo Copé
+Reserva Marina Cantagallo Machalilla</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.513</westBoundingCoordinate>
+          <eastBoundingCoordinate>-80.848</eastBoundingCoordinate>
+          <northBoundingCoordinate>-1.236</northBoundingCoordinate>
+          <southBoundingCoordinate>-2.169</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2020-07-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020-07-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2020-11-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2020-11-30</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Fernado</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Instituto Nazca</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>frivera@institutonazca.org</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Para evaluar el estado de las comunidades de organismos sésiles del intermareal, se calculó el porcentaje de cobertura que representa la abundancia de un organismo en relación al porcentaje total del sustrato. </para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Los macroinvertebrados fueron inventariados utilizando cuadrantes de 1m2, colocados a lo largo de los mismos transectos de 30 m lineales, paralelos a la línea de costera: baja, media y alta, utilizados para los organismos sésiles, pero en este caso, los cuadrantes fueron colocados a intervalos de 5 m.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>El presente estudio se llevó a cabo en el intermareal rocoso de dos áreas protegidas de Ecuador: la Reserva Marina El Pelado (REMAPE) en la Provincia de Santa Elena y la Reserva Marina Cantagallo – Machalilla (RMCGM), ubicada en la Provincia de Manabí (Fig.2). Las dos reservas marinas se encuentran situadas en la costa central de Ecuador, en una zona de confluencia de aguas frías provenientes de la corriente de Costera Peruana (Humboldt) y aguas tropicales del flujo de Panamá, o corriente costera de El Niño (Glynn, 2003). Estas características oceanográficas contribuyen a que posean una rica diversidad de especies con influencia de aguas temperadas del sur y de aguas tropicales del norte.
+Para realizar este trabajo, buscamos sitios accesibles y que tuvieran una plataforma rocosa con inclinación gradual, a fin de poder obtener una zona representativa de las franjas de marea alta, media y baja.  En la REMAPE visitamos 2 sitios: Murilla Chica y Murilla Grande, ubicados en la punta noreste del pueblo de Ayangue, y en la RMCGM 5 sitios: Punta Ayampe, Punta Mala, Puerto López, Los Frailes y Frente a I. Sucre.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Los monitoreos de biodiversidad del intermareal se realizaron durante la estación seca de verano, entre los meses de julio y noviembre 2020. El trabajo de campo fue desarrollado en días apropiados para el muestreo, con los niveles de marea más bajos que coincidieron con luna llena o luna nueva, lo cual el fin de acceder al mayor espacio de la zona intermareal.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>MONITOREO DE BIODIVERSIDAD DEL INTERMAREAL ROCOSO Reservas Marinas: El Pelado y Cantagallo – Machalilla</title>
+      <personnel>
+        <individualName>
+            <givenName>Fernado</givenName>
+          <surName>Rivera</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Priscilla</givenName>
+          <surName>Martínez</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Jimmy</givenName>
+          <surName>Peñaherrea</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Favio</givenName>
+          <surName>Rivera</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Ibón</givenName>
+          <surName>Jácome</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Verónica</givenName>
+          <surName>Chipe</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Solagne</givenName>
+          <surName>Bolaños</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Isaac</givenName>
+          <surName>Castro</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Elvia</givenName>
+          <surName>León</surName>
+        </individualName>
+        <role>author</role>
+      </personnel>
+      <abstract>
+        <para>Evaluar y documentar el estado actual de comunidades representativas del intermareal rocoso de las Reservas Marinas El Pelado y Cantagallo Machalilla, con el fin de identificar amenazas y proporcionar recomendaciones de manejo para su conservación</para>
+      </abstract>
+      <funding>
+        <para>Cooperación Técnica Alemana - GIZ</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>El presente estudio se llevó a cabo en el intermareal rocoso de dos áreas protegidas de Ecuador: la Reserva Marina El Pelado (REMAPE) en la Provincia de Santa Elena y la Reserva Marina Cantagallo – Machalilla (RMCGM), ubicada en la Provincia de Manabí (Fig.2). Las dos reservas marinas se encuentran situadas en la costa central de Ecuador, en una zona de confluencia de aguas frías provenientes de la corriente de Costera Peruana (Humboldt) y aguas tropicales del flujo de Panamá, o corriente costera de El Niño (Glynn, 2003). Estas características oceanográficas contribuyen a que posean una rica diversidad de especies con influencia de aguas temperadas del sur y de aguas tropicales del norte.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Los monitoreos de biodiversidad del intermareal se realizaron durante la estación seca de verano, entre los meses de julio y noviembre 2020. El trabajo de campo fue desarrollado en días apropiados para el muestreo, con los niveles de marea más bajos que coincidieron con luna llena o luna nueva, lo cual el fin de acceder al mayor espacio de la zona intermareal .</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-05-24T07:39:30.307+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Martínez Panizo P C, Rivera F, Peñaherrera J, Rivera F, Jácome I, Chipe V, Bolaños S, Castro I, León E (2022): MONITOREO DE BIODIVERSIDAD DEL INTERMAREAL ROCOSO Reservas Marinas: El Pelado, Bajo Copé y Cantagallo – Machalilla. v1.0. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Dataset/Samplingevent. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-remape-pnm-bc&amp;v=1.0</citation>
+          <bibliography>
+                <citation identifier="https://doi.org/10.5281/zenodo.6578535">Martínez, Priscilla. (2021). MONITOREO DE BIODIVERSIDAD DEL INTERMAREAL ROCOSO Reservas Marinas: El Pelado y Cantagallo – Machalilla. Zenodo. https://doi.org/10.5281/zenodo.6578535</citation>
+          </bibliography>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

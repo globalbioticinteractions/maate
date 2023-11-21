@@ -1,0 +1,1296 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+	xmlns:ipt="http://ipt.gbif.org/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <channel>
+    <title>GBIF Ecuador - MAATE</title>
+    <link>http://patrimonio.ambiente.gob.ec/iptmae</link>
+    <atom:link href="http://patrimonio.ambiente.gob.ec/iptmae/rss.do" rel="self" type="application/rss+xml" />
+    <description>Resource metadata of GBIF Ecuador - MAATE</description>
+    <language>en-us</language>
+      <!-- RFC-822 date-time / Wed, 02 Oct 2010 13:00:00 GMT -->
+      <pubDate>Thu, 19 Oct 2017 19:31:43 +0000</pubDate>
+      <lastBuildDate>Thu, 16 Nov 2023 19:30:47 +0000</lastBuildDate>
+      <!-- UUID of the IPT making RSS feed available -->
+      <ipt:identifier>9df8109c-684d-416b-819b-7bc09adc500b</ipt:identifier>
+    <generator>GBIF IPT 2.7.3-rc4fb6c2</generator>
+      <webMaster>victor.chocho@ambiente.gob.ec (Victor Chocho Sánchez)</webMaster>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>15</ttl>
+      <geo:Point>
+        <geo:lat>-0.208129</geo:lat>
+        <geo:long>-78.486217</geo:long>
+      </geo:Point>
+      <item>
+        <title>Monitoreo en playas de anidación de tortugas marinas en Ecuador continental - Version 1.29</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-tortugas-2020-2021</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[Según la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza (UICN) la mayoría de las especies de tortugas marinas se encuentran en alguna categoría de amenaza., Por ser las tortugas marinas especies altamente migratorias,son consideradas en la política internacional como “recursos compartidos”, puesto que durante su ciclo de vida permanecen en varios ambientes de varios países., En Ecuador se tiene registros de anidación de las siguientes especies:, - Tortuga Golfina (Lepidochelys olivacea), - Tortuga Verde(Chelonia mydas), - Tortuga Laúd (Dermochelys coriacea), - Tortuga Carey (Eretmochelys imbricata)]</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=monitoreo-tortugas-2020-2021</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=monitoreo-tortugas-2020-2021</ipt:dwca>
+        <pubDate>Thu, 16 Nov 2023 19:30:59 +0000</pubDate>
+        <guid isPermaLink="false">3ec884f2-a462-405e-8a1f-d55c462a04de/v1.29</guid>
+      </item>
+      <item>
+        <title>Obtención de los códigos de barras genéticos de ADN de especies de arácnidos en los ecosistemas forestales de montaña del Ecuador organizados en una plataforma digital a través de una aplicación web para estudios de biodiversidad. - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mae-dnb-cm-2020-0130</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Contrato Marco mae-dnb-cm-2020-0130</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mae-dnb-cm-2020-0130</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mae-dnb-cm-2020-0130</ipt:dwca>
+        <pubDate>Fri, 10 Nov 2023 14:41:10 +0000</pubDate>
+        <guid isPermaLink="false">39c2d84a-4a44-4b19-afda-34124377957d/v2.0</guid>
+      </item>
+      <item>
+        <title>Riqueza y Abundancia de Reptiles Ofidios y Saurios en Bosque Protector Pablo López Oglán Alto Pastaza Ecuador - Version 2.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2023-2907</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[En el presente proyecto fueron registrados 60 individuos entre serpientes y saurios, pertenecientes a 9 familias, 18 géneros y 23 especies. Este recurso es parte del informe final del permiso &quot;MAAE-ARSFC-2023-2907&quot; del Ministerio del Ambiente Agua  y Transición Ecológica.]</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-arsfc-2023-2907</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-arsfc-2023-2907</ipt:dwca>
+        <pubDate>Wed, 08 Nov 2023 15:32:22 +0000</pubDate>
+        <guid isPermaLink="false">2b66b6c8-397c-430f-8f42-e4320563d7c7/v2.2</guid>
+      </item>
+      <item>
+        <title>Registros de conflicto humano-fauna en Ecuador desde el año 2009 al 2022 - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=humano-fauna</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[El presente set de datos corresponde a registros de interacciones o conflictos con vida silvestre que han sido atendidos por el personal de la Autoridad Ambiental Nacional a nivel desconcentrado.]</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=humano-fauna</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=humano-fauna</ipt:dwca>
+        <pubDate>Mon, 30 Oct 2023 15:10:43 +0000</pubDate>
+        <guid isPermaLink="false">def8c45c-c3c3-48cd-91ad-95cb0c45f575/v1.2</guid>
+      </item>
+      <item>
+        <title>Plantas Vasculares del Herbario ESPOCH - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=plantas_vasculares_herbario_espoch</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se añaden 412 nuevos registros</description>
+        <author>jcaranqui@espoch.edu.ec (Jorge Caranqui)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=plantas_vasculares_herbario_espoch</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=plantas_vasculares_herbario_espoch</ipt:dwca>
+        <pubDate>Wed, 25 Oct 2023 20:34:08 +0000</pubDate>
+        <guid isPermaLink="false">1e30d1bb-7034-4d72-a696-190746dc9603/v2.0</guid>
+      </item>
+      <item>
+        <title>Registro plantas vasculares Herbario Espoch - Version 1.10</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=especies_vasculares_xiloteca_espoch</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Cambios menores a metadatos</description>
+        <author>jcaranqui@espoch.edu.ec (Jorge Caranqui)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=especies_vasculares_xiloteca_espoch</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=especies_vasculares_xiloteca_espoch</ipt:dwca>
+        <pubDate>Tue, 04 Apr 2023 20:37:35 +0000</pubDate>
+        <guid isPermaLink="false">bca5525d-977b-4531-9c2d-63d4546221f9/v1.10</guid>
+      </item>
+      <item>
+        <title>Lista Roja Nacional de Anfibios de Ecuador - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=checklist-anfibios</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se incluye nombres comunes</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=checklist-anfibios</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=checklist-anfibios</ipt:dwca>
+        <pubDate>Wed, 18 Oct 2023 17:50:27 +0000</pubDate>
+        <guid isPermaLink="false">bfd9dbff-4581-4dcb-980b-1473ced21cb2/v1.1</guid>
+      </item>
+      <item>
+        <title>Lista Roja Nacional de peces de agua dulce de Ecuador - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=peces-redlist</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan el mapeo quitando los relacionados a las extensiones en fase de pruebas.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=peces-redlist</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=peces-redlist</ipt:dwca>
+        <pubDate>Wed, 18 Oct 2023 17:29:44 +0000</pubDate>
+        <guid isPermaLink="false">f2f92d57-e52e-42f7-aa68-16a03fd53063/v1.2</guid>
+      </item>
+      <item>
+        <title>Conservación ex-situ de plantas de bosque nublado en el Jardín Botánico de Quito - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maate-arsfc-2022-2517</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>maate-arsfc-2022-2517</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maate-arsfc-2022-2517</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maate-arsfc-2022-2517</ipt:dwca>
+        <pubDate>Wed, 18 Oct 2023 14:16:42 +0000</pubDate>
+        <guid isPermaLink="false">00cbf1a4-5437-4902-84c8-17643eac3c8c/v1.0</guid>
+      </item>
+      <item>
+        <title>Conservación y exhibición ex-situ de plantas de Bosque Nublado en el Jardín Botánico de Quito - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2022-2167</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>maae-arsfc-2022-2167</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-arsfc-2022-2167</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-arsfc-2022-2167</ipt:dwca>
+        <pubDate>Wed, 18 Oct 2023 01:51:47 +0000</pubDate>
+        <guid isPermaLink="false">54166004-73c4-46a4-9c89-012ea7ec1847/v1.0</guid>
+      </item>
+      <item>
+        <title>Colección de Herpetos Naturalizados del Museo Universitario de la Biodiversidad - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herpetosnaturalizados-mzoo</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[Se presentan la información de 15 registros depositados en la Colección de Herpetología del Museo Zoológico de la Universidad Central del Ecuador. Los órdenes más representativos son Testudines, Squamata y Crocodylia, colectados principalmente en el territorio nacional ecuatoriano.]</description>
+        <author>jgsuarezr@uce.edu.ec (Juana Guadalupe Suarez Romero)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=herpetosnaturalizados-mzoo</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=herpetosnaturalizados-mzoo</ipt:dwca>
+        <pubDate>Fri, 06 Oct 2023 15:01:28 +0000</pubDate>
+        <guid isPermaLink="false">fcbffbea-50f9-449b-9a25-624cf74f2169/v1.3</guid>
+      </item>
+      <item>
+        <title>Colección de mamíferos naturalizados del Museo Universitario de la Biodiversidad - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=simyh-mzoo</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza el código de colección a UCE-SIMYH:MUBIO:MN</description>
+        <author>jgsuarezr@uce.edu.ec (Juana Guadalupe Suarez Romero)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=simyh-mzoo</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=simyh-mzoo</ipt:dwca>
+        <pubDate>Fri, 06 Oct 2023 14:24:44 +0000</pubDate>
+        <guid isPermaLink="false">dcb318bb-567d-41f8-b24c-78f27ad896e2/v1.2</guid>
+      </item>
+      <item>
+        <title>Micromamíferos no voladores de tres zonas de protección de la Cordillera del Cóndor Amazonía Sur del Ecuador - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2021-1621</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>maae-arsfc-2021-1621</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-arsfc-2021-1621</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-arsfc-2021-1621</ipt:dwca>
+        <pubDate>Wed, 13 Sep 2023 19:01:24 +0000</pubDate>
+        <guid isPermaLink="false">346c9938-b731-4dfa-806d-710d0616be61/v1.0</guid>
+      </item>
+      <item>
+        <title>Registro de varamientos de megafauna marina en Ecuador continental - Version 2.10</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=varamientos-ecuador</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza con la información de julio de 2023</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=varamientos-ecuador</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=varamientos-ecuador</ipt:dwca>
+        <pubDate>Wed, 06 Sep 2023 17:14:30 +0000</pubDate>
+        <guid isPermaLink="false">cc6854e9-f045-4dab-ab7b-75fbf2e98717/v2.10</guid>
+      </item>
+      <item>
+        <title>Distribución nictemeral del zooplancton en la zona costera de la Isla de la Plata, Pto. López - Ecuador - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maate-arsfc-2022-2763</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[Los estudios del zooplancton en los últimos 25-30 años han permitido comprender procesos ecológicos, análisis de la diversidad marina con criterios morfológicos y moleculares, la estructura comunitaria, las relaciones tróficas y los cambios poblacionales. Por ende, este trabajo tuvo como objetivo principal evaluar la distribución nictemeral del zooplancton mediante arrastres superficiales considerando factores físicos y químicos en la influencia de diversidad y abundancia de la zona costera de la Isla de Plata., La metodología utilizada para el proyecto tuvo dos la fase; fase campo donde se utilizó una embarcación para los muestreos, mismo que se realizaron con el uso de una red cónica de 335 con un diámetro de boca de 35 cm, la muestras fueron extraídas de día y noche, almacenadas en frascos de 250 ml con formol al 4%, para la fase laboratorio se utilizó el Manuel de planctonologie Méditerranéenne de Maurice Rose para la identificación de zooplancton, la observación se realizó mediante un estereoscopio y conteo mediante una cámara de bogorov., El uso de programas bioestadístico ayudó para poder tener los resultados donde se determinó la abundancia de los tres meses, noviembre 22 la densidad poblacional registró un total de 737807 ind. siendo el mes de menor abundancia, mientras que para diciembre 22 se obtuvo un registro de 975002 ind. presentado la mayor abundancia, para el mes de enero 23 una población de 869935 ind. presentado una asimetría negativa, para los índices ecológicos de los tres meses, Shannon reveló una mayor diversidad por la noche, para Simpson, la dominancia se presentó en los copépodos calanoides y Pieulo, la equidad se mantuvo en ausencia de uniformidad tanto el día como la noche. La correlación de Pearson se usó para relacionar la abundancia y los parámetros donde se presentó el R2 como relación nula durante los tres meses de muestro.]</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maate-arsfc-2022-2763</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maate-arsfc-2022-2763</ipt:dwca>
+        <pubDate>Tue, 29 Aug 2023 17:28:27 +0000</pubDate>
+        <guid isPermaLink="false">57d7815e-5104-4c44-b388-fa0d7cd01216/v2.0</guid>
+      </item>
+      <item>
+        <title>Checklist de especies presentes en la Reserva Ecológica Arenillas - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=checklist-rear</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige mapeo</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=checklist-rear</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=checklist-rear</ipt:dwca>
+        <pubDate>Mon, 28 Aug 2023 16:06:53 +0000</pubDate>
+        <guid isPermaLink="false">accaeedb-7e50-4a42-8ac0-714073d05311/v1.3</guid>
+      </item>
+      <item>
+        <title>Checklist de especies presentes en el Parque Nacional Llanganates - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=checklist-pnll</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Checklist Parque Nacional Llanganates</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=checklist-pnll</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=checklist-pnll</ipt:dwca>
+        <pubDate>Fri, 25 Aug 2023 19:59:10 +0000</pubDate>
+        <guid isPermaLink="false">9ea9eb0a-b033-4920-83fb-78276477463b/v1.1</guid>
+      </item>
+      <item>
+        <title>HUTPL Vascular Plants - Version 1.12</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=hutpl</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza los campos CollectionID e InstitutionID</description>
+        <author>abjorge@utpl.edu.ec (Jorge Luis Armijos)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=hutpl</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=hutpl</ipt:dwca>
+        <pubDate>Wed, 16 Aug 2023 13:01:41 +0000</pubDate>
+        <guid isPermaLink="false">656934f9-7180-4c4e-b314-acb9cab221e8/v1.12</guid>
+      </item>
+      <item>
+        <title>Colección de Plantas Vasculares del Herbario UTCEC - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=utcec-vasculares</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza los datos y metadatos, a partir de ahora se subirá la información en base a las actualizaciones hechas en el portal de Symbiota.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=utcec-vasculares</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=utcec-vasculares</ipt:dwca>
+        <pubDate>Wed, 02 Aug 2023 20:09:55 +0000</pubDate>
+        <guid isPermaLink="false">abc38fc1-b9fe-4675-8887-2c4f4e2a5d35/v2.0</guid>
+      </item>
+      <item>
+        <title>Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Metagenómica para su uso en salud humana y animal - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=005-17-ic-fau-dpse-ma</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Correcciones menores en metadatos &quot;InstitutionID&quot;</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=005-17-ic-fau-dpse-ma</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=005-17-ic-fau-dpse-ma</ipt:dwca>
+        <pubDate>Wed, 02 Aug 2023 19:23:11 +0000</pubDate>
+        <guid isPermaLink="false">d9a71bab-ca20-45ca-ae55-f1e006a573b0/v1.1</guid>
+      </item>
+      <item>
+        <title>Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Meta genómica para su uso en salud humana y animal - Version 1.6</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=inmase_ce</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos</description>
+        <author>agurtor@espol.edu.ec (Maria Gabriela Agurto Rodriguez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=inmase_ce</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=inmase_ce</ipt:dwca>
+        <pubDate>Tue, 01 Aug 2023 20:02:25 +0000</pubDate>
+        <guid isPermaLink="false">7d0cf7e0-8458-4cfd-a927-f1d4f88dbba8/v1.6</guid>
+      </item>
+      <item>
+        <title>Colección biológica Reptiles del MZUA - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzua-reptiles</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Colecciones biológicas de reptiles del Museo MZUA</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mzua-reptiles</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mzua-reptiles</ipt:dwca>
+        <pubDate>Mon, 31 Jul 2023 21:31:31 +0000</pubDate>
+        <guid isPermaLink="false">047d726a-9d58-4a5f-9ffe-03ec50d4da13/v1.0</guid>
+      </item>
+      <item>
+        <title>Birds of Cerro Blanco: new records and richness update - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-ornito-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Aves del Bosque Protector Cerro Blanco</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-ornito-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-ornito-bpcb</ipt:dwca>
+        <pubDate>Wed, 26 Jul 2023 17:26:17 +0000</pubDate>
+        <guid isPermaLink="false">e6c43969-de1b-4f3a-b51e-1eb95df6438d/v1.0</guid>
+      </item>
+      <item>
+        <title>Museo de Entomología Escuela Superior Politécnica de Chimborazo - Version 1.11</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=museo_entomologia_espoch</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se añaden registros a los datos y se actualizan metadatos.</description>
+        <author>yesenia.campana@espoch.edu.ec (Yesenia Campaña)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=museo_entomologia_espoch</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=museo_entomologia_espoch</ipt:dwca>
+        <pubDate>Tue, 25 Jul 2023 20:47:50 +0000</pubDate>
+        <guid isPermaLink="false">10db4545-973a-4574-931a-8f5659e48849/v1.11</guid>
+      </item>
+      <item>
+        <title>Colección de plantas del Herbario Padre Luis Sodiro (QPLS) - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=qpls-plantae</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se da formato a metadatos.</description>
+        <author>despinel144@puce.edu.ec (David Espinel-Ortiz)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=qpls-plantae</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=qpls-plantae</ipt:dwca>
+        <pubDate>Fri, 21 Jul 2023 14:51:21 +0000</pubDate>
+        <guid isPermaLink="false">9f23be2d-ee86-4d72-892a-f8d0d4dc27e7/v1.4</guid>
+      </item>
+      <item>
+        <title>Mastofauna of the Bosque Protector Cerro Blanco during the dry season - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-masto-dry</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publican datos de la época seca.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-masto-dry</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-masto-dry</ipt:dwca>
+        <pubDate>Thu, 20 Jul 2023 15:39:30 +0000</pubDate>
+        <guid isPermaLink="false">ba798b86-ab60-40ee-9fc1-637d89908873/v1.0</guid>
+      </item>
+      <item>
+        <title>Monitoring turtle nesting in Las Tunas and influences of biotic and anthropological anthropological factors on the hatching success of Lepidochelys olivacea - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-tortugas</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen metadatos</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-tortugas</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-tortugas</ipt:dwca>
+        <pubDate>Tue, 18 Jul 2023 17:45:39 +0000</pubDate>
+        <guid isPermaLink="false">30bbf3e1-e335-4e94-b028-bb1403aa1c85/v1.4</guid>
+      </item>
+      <item>
+        <title>Herpetofauna of the protective forest Cerro blanco during the rainy season - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-herpeto-hum</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Datos herpetofauna época lluviosa BPCB.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-herpeto-hum</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-herpeto-hum</ipt:dwca>
+        <pubDate>Tue, 18 Jul 2023 17:36:08 +0000</pubDate>
+        <guid isPermaLink="false">7ba6a42a-21cc-4362-a17f-130b4eb28684/v1.0</guid>
+      </item>
+      <item>
+        <title>Record of medium and large mammals from the Bosque Protector Cerro Blanco during the rainy season - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-mamiferos</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige licencia de los datos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-mamiferos</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-mamiferos</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:19:59 +0000</pubDate>
+        <guid isPermaLink="false">2b3bbaa2-219e-4a76-ab0d-3b2bf6d531b8/v1.4</guid>
+      </item>
+      <item>
+        <title>Diversity and abundance of the ichthyofauna of the Cerro Blanco Protected Forest, Ecuador - Version 1.9</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-ictio-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige licencia de los datos</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-ictio-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-ictio-bpcb</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:11:44 +0000</pubDate>
+        <guid isPermaLink="false">2a16fbf2-318b-4163-94f7-a35b42a8c432/v1.9</guid>
+      </item>
+      <item>
+        <title>Diversity and abundance of the herpetofauna of the Bosque Protector Cerro Blanco, Ecuador during the dry season - Version 2.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herpetofauna_costa_ecuador</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige licencia de los datos.</description>
+        <author>rguanotoa@japufundacion.org (Robinson Guanotoa)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=herpetofauna_costa_ecuador</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=herpetofauna_costa_ecuador</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:10:59 +0000</pubDate>
+        <guid isPermaLink="false">dd08fb28-a073-4cb4-9029-ff046b51d518/v2.2</guid>
+      </item>
+      <item>
+        <title>Diversity and abundance of the entomofauna of the Bosque Protector Cerro Blanco, Ecuador - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-ento-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige licencia de los datos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-ento-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-ento-bpcb</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:08:01 +0000</pubDate>
+        <guid isPermaLink="false">61869cac-fb09-4ddf-89a7-f916b86b28ab/v1.3</guid>
+      </item>
+      <item>
+        <title>Diversity and abundance of non-flying micromammals of the rainy season in the Bosque Protector Cerro Blanco, Ecuador - Version 1.5</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-micromammals-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige licencia de los datos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-micromammals-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-micromammals-bpcb</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:06:12 +0000</pubDate>
+        <guid isPermaLink="false">30c7d16b-d9f7-4cd3-8917-5501b8e0fb3f/v1.5</guid>
+      </item>
+      <item>
+        <title>Diversity and abundance of macroinvertebrates in the Bosque Protector Cerro Blanco - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-macroinv-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige licencia de los datos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-macroinv-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-macroinv-bpcb</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:05:00 +0000</pubDate>
+        <guid isPermaLink="false">f79fd685-ec54-420c-a9d8-4a3ecea1f490/v1.3</guid>
+      </item>
+      <item>
+        <title>Diversity and abundance of bats in the rainy season in Bosque Protector Cerro Blanco, Ecuador - Version 1.9</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-bats-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige la licencia de los datos</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-bats-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-bats-bpcb</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:03:11 +0000</pubDate>
+        <guid isPermaLink="false">a7e9fdfd-ea09-4969-94f1-d8574ada4508/v1.9</guid>
+      </item>
+      <item>
+        <title>Community structure of flora biodiversity in the Bosque Protector Cerro Blanco - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-flora-bpcb</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige la licencia de los datos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=japu-flora-bpcb</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=japu-flora-bpcb</ipt:dwca>
+        <pubDate>Mon, 17 Jul 2023 14:01:46 +0000</pubDate>
+        <guid isPermaLink="false">d8a88441-d76d-40da-bf82-d94b66ef66c4/v1.2</guid>
+      </item>
+      <item>
+        <title>Registro de la especie Melanosuchus niger en la provincia de Orellana del año 2017 - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ppvs-caiman</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se comparte monitoreo realizado por el proyecto paisajes vida silvestre.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=ppvs-caiman</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=ppvs-caiman</ipt:dwca>
+        <pubDate>Fri, 07 Jul 2023 21:57:09 +0000</pubDate>
+        <guid isPermaLink="false">c00d50b7-17f1-4bbe-af32-3b1c4ff4c166/v1.2</guid>
+      </item>
+      <item>
+        <title>Registro de especie Arapaima gigas en la provincia de Orellana del 2017 - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ppvs-paiche</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se comparte monitoreo de paiche realizado por el Proyecto Paisajes Vida Silvestre</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=ppvs-paiche</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=ppvs-paiche</ipt:dwca>
+        <pubDate>Fri, 07 Jul 2023 21:26:53 +0000</pubDate>
+        <guid isPermaLink="false">79dab1d8-20ad-4498-ac0d-53f5de697589/v1.1</guid>
+      </item>
+      <item>
+        <title>Monitoreo biológico de especies de anfibios desarrollado por el proyecto PARG - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=parg-atelopus</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se comparten los datos del monitoreo de atelopus efectuado con el proyecto PARG</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=parg-atelopus</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=parg-atelopus</ipt:dwca>
+        <pubDate>Wed, 05 Jul 2023 16:37:45 +0000</pubDate>
+        <guid isPermaLink="false">3a9a0587-2790-4034-8860-57ce5ecad771/v1.3</guid>
+      </item>
+      <item>
+        <title>Registro de Cámaras Trampa del Refugio de Vida Silvestre Pambilar - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=pambilar-ct</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publican datos correspondientes al periodo 2016 - 2019</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=pambilar-ct</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=pambilar-ct</ipt:dwca>
+        <pubDate>Tue, 04 Jul 2023 13:30:17 +0000</pubDate>
+        <guid isPermaLink="false">2585fcc6-647f-4fb7-a25a-07c515c9d079/v2.0</guid>
+      </item>
+      <item>
+        <title>Composición florística del componente leñoso del bosque siempreverde montano bajo, del Refugio de Vida Silvestre El Zarza - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2022-2764</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige error en coordenadas.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-arsfc-2022-2764</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-arsfc-2022-2764</ipt:dwca>
+        <pubDate>Mon, 26 Jun 2023 15:10:54 +0000</pubDate>
+        <guid isPermaLink="false">13974c14-21ea-4ca9-b3ab-a450e292a978/v1.2</guid>
+      </item>
+      <item>
+        <title>Catalogue of type specimens deposited in the Herpetology Collection of the Natural History Museum Gustavo Orcés V. at Escuela Politécnica Nacional (Ecuador) - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=tipos_mepn-h</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Correcciones menores de datos y metadatos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=tipos_mepn-h</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=tipos_mepn-h</ipt:dwca>
+        <pubDate>Fri, 23 Jun 2023 22:11:01 +0000</pubDate>
+        <guid isPermaLink="false">e6459139-bddc-4f60-9f4e-957380450ee8/v1.3</guid>
+      </item>
+      <item>
+        <title>Resultados de la implementación del Protocolo de colección de datos para el muestreo de primates y guacamayo verde mayor en la Costa ecuatoriana - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=paisajes-primates</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se comparte la información del censo de primates realizado por el Proyecto Paisajes Vida Silvestre</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=paisajes-primates</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=paisajes-primates</ipt:dwca>
+        <pubDate>Wed, 14 Jun 2023 17:22:16 +0000</pubDate>
+        <guid isPermaLink="false">7be3bba3-4657-4410-9299-151e07a9368f/v1.0</guid>
+      </item>
+      <item>
+        <title>Lista Roja de Palmas del Ecuador - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=palmas-redlist</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publica la lista roja de palmas trabajada en el marco del proyecto paisajes vida silvestre.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=palmas-redlist</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=palmas-redlist</ipt:dwca>
+        <pubDate>Wed, 14 Jun 2023 15:25:17 +0000</pubDate>
+        <guid isPermaLink="false">dc4261e9-6a0e-492a-aa5e-f9e9e2135b5d/v1.0</guid>
+      </item>
+      <item>
+        <title>Monitoreos del proyecto construcción operación mantenimiento cierre y abandono del dragado de profundización y mantenimiento del canal de acceso a las terminales portuarias marítimas y fluviales públicas y privadas de Guayaquil - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2022-2101</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Monitoreos del proyecto construcción operación mantenimiento cierre y abandono del dragado de profundización y mantenimiento del canal de acceso a las terminales portuarias marítimas y fluviales públicas y privadas de Guayaquil, correspondientes a la autorización MAAE-ARSFC-2022-2101</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-arsfc-2022-2101</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-arsfc-2022-2101</ipt:dwca>
+        <pubDate>Tue, 13 Jun 2023 20:44:36 +0000</pubDate>
+        <guid isPermaLink="false">1fca4cbc-c737-4819-9e03-892022b02acb/v1.0</guid>
+      </item>
+      <item>
+        <title>Lista Roja de las Aves de Ecuador - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=aves-redlist</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publica lista roja de aves trabajada en el marco del proyecto Paisajes Vida Silvestre</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=aves-redlist</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=aves-redlist</ipt:dwca>
+        <pubDate>Tue, 13 Jun 2023 15:30:26 +0000</pubDate>
+        <guid isPermaLink="false">1a5a1475-6d5d-4c17-9692-feab928266e1/v1.0</guid>
+      </item>
+      <item>
+        <title>Herbario de Botánica Económica del Ecuador QUSF - Version 1.5</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=brassicaceaequsf</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigió la citación ya que estaba apagada la generación automática de citas. Ahora coincide con lo reportado en GBIF</description>
+        <author>rcortez@usfq.edu.ec (Belén Rebeca Cortez Zambrano)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=brassicaceaequsf</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=brassicaceaequsf</ipt:dwca>
+        <pubDate>Tue, 06 Jun 2023 21:00:34 +0000</pubDate>
+        <guid isPermaLink="false">7a7f3ce4-befd-4e19-9135-bed47e91e084/v1.5</guid>
+      </item>
+      <item>
+        <title>Colección plantas vasculares del Herbario Reinaldo Espinosa (Herbario LOJA) de la Universidad Nacional de Loja - Version 1.7</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=hebario_loja1</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen coordenadas y se actualizan campos en los registros.</description>
+        <author>angel.gutierrez@unl.edu.ec (Angel Marcelo Gutiérrez Riofrio)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=hebario_loja1</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=hebario_loja1</ipt:dwca>
+        <pubDate>Thu, 01 Jun 2023 19:56:14 +0000</pubDate>
+        <guid isPermaLink="false">b5a8e29d-cd8c-4e04-90b2-422d900caab6/v1.7</guid>
+      </item>
+      <item>
+        <title>Macrohongos registrados en los Parques Itchimbía y Armenia de la ciudad de Quito - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=inabio-macrohongos</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publica la colección de macrohongos</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=inabio-macrohongos</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=inabio-macrohongos</ipt:dwca>
+        <pubDate>Wed, 31 May 2023 20:53:01 +0000</pubDate>
+        <guid isPermaLink="false">265168bd-1654-45d0-83fe-b6a05f839512/v1.0</guid>
+      </item>
+      <item>
+        <title>DIATOMEAS COMO BIOINDICADORAS DE DOS ECOSISTEMAS LÓTICOS DE LA PROVINCIA DEL AZUAY - Version 1.5</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-dbi-cm-2021-0149</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige un error en la fecha y se añade el logo de la universidad</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-dbi-cm-2021-0149</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-dbi-cm-2021-0149</ipt:dwca>
+        <pubDate>Wed, 31 May 2023 17:01:30 +0000</pubDate>
+        <guid isPermaLink="false">7b02f24c-44c1-4906-8284-ebbcfc1c2993/v1.5</guid>
+      </item>
+      <item>
+        <title>Colección de Herpetología del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI) - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-herpetos</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publica la colección de herpetos del MZUTI</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mzuti-herpetos</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mzuti-herpetos</ipt:dwca>
+        <pubDate>Wed, 31 May 2023 16:40:00 +0000</pubDate>
+        <guid isPermaLink="false">d0d8a932-b0cd-43e9-9dc8-fdd9dc7a45a9/v1.3</guid>
+      </item>
+      <item>
+        <title>Colección de Invertebrados del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI) - Version 1.7</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-invertebrados</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publica la colección de Invertebrados del museo MZUTI</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mzuti-invertebrados</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mzuti-invertebrados</ipt:dwca>
+        <pubDate>Wed, 31 May 2023 16:23:26 +0000</pubDate>
+        <guid isPermaLink="false">6342f1ee-dd25-477f-a4e2-1c739f399a73/v1.7</guid>
+      </item>
+      <item>
+        <title>Monitoreo satelital de condor andino (Vultur gryphus) en Ecuador - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-condor</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan datos y metadatos.</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=monitoreo-condor</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=monitoreo-condor</ipt:dwca>
+        <pubDate>Tue, 30 May 2023 22:29:10 +0000</pubDate>
+        <guid isPermaLink="false">a20fc223-7e35-40f7-b6b9-c5d2bd7c119c/v2.0</guid>
+      </item>
+      <item>
+        <title>Arboles Patrimoniales del Distrito Metropolitano de Quito - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=arboles_patrimoniales</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se hace público el recurso y se registra en GBIF</description>
+        <author>pablo.sanchez@biodiversidad.gob.ec (Pablo Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=arboles_patrimoniales</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=arboles_patrimoniales</ipt:dwca>
+        <pubDate>Mon, 29 May 2023 21:54:49 +0000</pubDate>
+        <guid isPermaLink="false">21557052-a904-4fc2-ba9f-1ee50278e9a9/v2.0</guid>
+      </item>
+      <item>
+        <title>Colección de Ictiología de la Universidad Tecnológica Indoamérica (MZUTI) - Version 1.8</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-inv</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos y corrige mapeo DwC</description>
+        <author>lab_mzuti@outlook.com (Museo Zoología MZUTI)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mzuti-inv</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mzuti-inv</ipt:dwca>
+        <pubDate>Fri, 21 Apr 2023 17:47:02 +0000</pubDate>
+        <guid isPermaLink="false">4c027fd8-4e80-424d-a3c3-20c3e03be79b/v1.8</guid>
+      </item>
+      <item>
+        <title>Colección de Oología del Instituto Nacional de Biodiversidad del Ecuador (INABIO) - Version 2.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=oologia</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se registra la Colección de Oología del INABIO</description>
+        <author>pablo.sanchez@biodiversidad.gob.ec (Pablo Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=oologia</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=oologia</ipt:dwca>
+        <pubDate>Mon, 29 May 2023 16:37:50 +0000</pubDate>
+        <guid isPermaLink="false">19103684-fb81-4af4-9449-ef2781d01eab/v2.0</guid>
+      </item>
+      <item>
+        <title>Determinación de la calidad de agua utilizando macroinvertebrados en la microcuenca del río Perípa de la parroquia Puerto Limón de Santo Domingo de los Tsáchilas Ecuador - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2020-0988</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen metadatos</description>
+        <author>biodiversidad@ambiente.gob.ec (GBIF Ecuador)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=maae-arsfc-2020-0988</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=maae-arsfc-2020-0988</ipt:dwca>
+        <pubDate>Tue, 23 May 2023 14:51:22 +0000</pubDate>
+        <guid isPermaLink="false">fb7f9f6a-8cf6-4be7-abfd-1b8ea04c0d2e/v1.4</guid>
+      </item>
+      <item>
+        <title>Colecciones biológicas de Anfibios MZUA - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzua_anfibios</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos.</description>
+        <author>b.vasqueza@uazuay.edu.ec (Bernarda Vásquez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mzua_anfibios</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mzua_anfibios</ipt:dwca>
+        <pubDate>Tue, 09 May 2023 17:11:47 +0000</pubDate>
+        <guid isPermaLink="false">ca85ef9c-342c-40d8-8af3-23f9a3aa497f/v1.4</guid>
+      </item>
+      <item>
+        <title>Herbario MAT de la Universidad Politécnica Estatal del Carchi - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario-upec</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza código de la colección.</description>
+        <author>diego.caicedo@upec.edu.ec (Diego Caicedo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=herbario-upec</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=herbario-upec</ipt:dwca>
+        <pubDate>Thu, 04 May 2023 23:54:57 +0000</pubDate>
+        <guid isPermaLink="false">edfa66cb-1042-45bf-8979-03aac4068cf3/v1.2</guid>
+      </item>
+      <item>
+        <title>Mashpi Entomology Museum - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mem-ml</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen metadatos y coordenadas, se añade WKT</description>
+        <author>ccorrea@mashpi.com (Chiara Correa)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mem-ml</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mem-ml</ipt:dwca>
+        <pubDate>Wed, 26 Apr 2023 03:06:43 +0000</pubDate>
+        <guid isPermaLink="false">857de668-ce15-438f-8025-c70c88a5ea15/v1.1</guid>
+      </item>
+      <item>
+        <title>Registro de trampas cámara del monitoreo a escala de paisajes - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=proy_paisaje_trampas_camara</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza taxonomía</description>
+        <author>nestor.acosta@ambiente.gob.ec (Néstor Acosta Buenaño)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=proy_paisaje_trampas_camara</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=proy_paisaje_trampas_camara</ipt:dwca>
+        <pubDate>Tue, 25 Apr 2023 20:30:52 +0000</pubDate>
+        <guid isPermaLink="false">cb16fc5b-70b7-420c-ad10-e3c6b7baf184/v1.3</guid>
+      </item>
+      <item>
+        <title>Colección del Macroinvertebrados Acuáticos del MMCIITT - Version 1.9</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mmciitt</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan OccurrenceIDs</description>
+        <author>jazmin.salazar@ucacue.edu.ec (Jazmin Salazar)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mmciitt</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mmciitt</ipt:dwca>
+        <pubDate>Fri, 21 Apr 2023 21:08:56 +0000</pubDate>
+        <guid isPermaLink="false">6968128f-ede7-49f9-b7b1-805346c3f302/v1.9</guid>
+      </item>
+      <item>
+        <title>Plantas del Jardín Botánico Reinaldo Espinosa de la Universidad Nacional de Loja - Version 1.6</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=plantas_jbre</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen metadatos e información geográfica.</description>
+        <author>angel.gutierrez@unl.edu.ec (Angel Marcelo Gutiérrez Riofrio)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=plantas_jbre</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=plantas_jbre</ipt:dwca>
+        <pubDate>Thu, 20 Apr 2023 14:08:57 +0000</pubDate>
+        <guid isPermaLink="false">2fbc9433-5d8e-4c5b-a3a5-2cb85a6ba56d/v1.6</guid>
+      </item>
+      <item>
+        <title>Colección de Ornitología del Museo de Historia Natural Gustavo Orcés V. - Version 1.8</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mepn-o</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos</description>
+        <author>valentina.posse@epn.edu.ec (Valentina Posse)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mepn-o</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mepn-o</ipt:dwca>
+        <pubDate>Thu, 20 Apr 2023 02:38:57 +0000</pubDate>
+        <guid isPermaLink="false">7772ee44-b0a1-401d-b257-95c446979775/v1.8</guid>
+      </item>
+      <item>
+        <title>Moluscos terrestres del Museo de Historia Natural &quot;Gustavo Orcés V.&quot; - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=moluscos_mhngov</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos</description>
+        <author>valentina.posse@epn.edu.ec (Valentina Posse)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=moluscos_mhngov</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=moluscos_mhngov</ipt:dwca>
+        <pubDate>Thu, 20 Apr 2023 02:32:36 +0000</pubDate>
+        <guid isPermaLink="false">011e5fe1-3026-45ef-9b1f-c7adf03ac050/v1.2</guid>
+      </item>
+      <item>
+        <title>UNIVERSIDAD TÉCNICA DEL NORTE - MUSEO DE HISTORIA NATURAL - COLECCIÓN LEPIDOPTERA - Version 1.8</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=lepidoptera_utnmhn</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen metadatos y se añaden enlaces a GrSciColl</description>
+        <author>wfzamora@utn.edu.ec (Winston Zamora)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=lepidoptera_utnmhn</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=lepidoptera_utnmhn</ipt:dwca>
+        <pubDate>Thu, 20 Apr 2023 02:03:54 +0000</pubDate>
+        <guid isPermaLink="false">cc28b021-a988-4a0d-9cec-c3ef950e82a3/v1.8</guid>
+      </item>
+      <item>
+        <title>UNIVERSIDAD TÉCNICA DEL NORTE - MUSEO DE HISTORIA NATURAL - COLECCIÓN HYMENOPTERA - Version 1.9</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=lepidoptera-mhnutn</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrigen metadatos y coordenadas</description>
+        <author>wfzamora@utn.edu.ec (Winston Zamora)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=lepidoptera-mhnutn</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=lepidoptera-mhnutn</ipt:dwca>
+        <pubDate>Thu, 20 Apr 2023 01:49:27 +0000</pubDate>
+        <guid isPermaLink="false">78428548-2ecd-4c7d-9aff-4592b7767016/v1.9</guid>
+      </item>
+      <item>
+        <title>Coleópteros del Museo de Historia Natural de la Universidad Técnica del Norte - Version 1.9</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutn</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos</description>
+        <author>wfzamora@utn.edu.ec (Winston Zamora)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mutn</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mutn</ipt:dwca>
+        <pubDate>Thu, 13 Apr 2023 23:43:06 +0000</pubDate>
+        <guid isPermaLink="false">5c9f7acf-8ed5-4ae4-9a0d-5e6d6613cf8d/v1.9</guid>
+      </item>
+      <item>
+        <title>Obtención de los códigos de barras genéticos de ADN de especies de arácnidos en los ecosistemas forestales de montaña del Ecuador organizados en una plataforma digital a través de una aplicación web para estudios de biodiversidad. - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=spider_biogeec</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[BIO-GEEC: GERMAN-ECUADORIAN BIODIVERSITY CONSORTIUM
+Establishing barcoding pipelines for biological systems of public and economic relevance.
+
+Ecuador is a megadiverse country and all ecoregions of the country belong to one of the “hottest” global biodiversity hotspots, meaning that the very high levels of species endemism contrast with extreme levels of habitat destruction. Major challenges will be to restore the biodiversity and ecosystem functioning in lost or disturbed habitats of human relevance, especially in the Andean mountain ecosystems (e. g. cloud forests or páramos). The páramo, for example, serves as a major carbon storage medium and provided drinking water for Ecuador’s human population. In this project, four German institutions and four Ecuadorian universities (17 scientists in total) are forming the German-Ecuadorian Biodiversity Consortium (BIO-GEEC) that has three major objectives. First, we will develop a rapid pipeline for the genetic identification and characterization of organismic groups with public and/or economic relevance. We establish the physical infrastructure, databases, IT protocols and a Web App (EcBioDiv) for a comprehensive barcoding workflow, and transfer the skills and tools available in Germany to our partnering institutions in Ecuador. Second, we will implement and test this infrastructure in four sub-projects (SP) that address patterns of biodiversity in taxa and tissue of high relevance: seed plants (tissue, seeds &amp; pollen), pollinating insects, venomous arachnids, and soil microorganisms. Third, we will generate an international network for reciprocal training and exchange. This is particularly aimed at early career researchers that will transfer these skills to practical enterprises and careers in research, government bodies, and industry. Within the SPs, we will be analyzing important aspects of microbiomes diversity (SP6) and seed biology (SP3), thereby paving the way to practical rehabilitation programs, but also providing a foundation for commercial enterprises such as plant nurseries (SP3) or biomedical research (SP6). We will also compile a comprehensive library of palm pollinators and palm floral visitors and thus establish a complete network of palm species, their pollinators, and pollen for practical agriculture, farming and bioprospecting (SP4). We will further barcode venomous arachnids to allow for improved human health services and venom bioprospection (SP5). To achieve this in a collaborative effort, we selected a specific transect near Tena (Napo Province) that allows coordinated research in all subprojects in one transect, ranging from tropical rain forest at low elevation to páramo habitats in high altitudes. Several joint activities (e.g. a summer school and joint thesis supervision) will foster the nascent network. Once the molecular routines and informatic pipeline components have been established in Ecuador, BIO-GEEC will facilitate the biodiversity research for the Ecuadorian partners and the German institutions, since barriers for material and data exchange will be significantly lowered. German partners will benefit from the resources in terms of new project design, biodiversity analyses, biomonitoring and modelling. Ecuadorian partners will benefit from the physical infrastructure, new molecular skills and methodologies, and international training. We will implement BIO-GEEC to serve as an umbrella for future biodiversity research projects in Ecuador involving molecular data. Once implemented and functional, the network will be expanded to further facilitate exchange, data access and collaborative research across institutions and country borders. BIO-GEEC is also intended to serve as a stepping stone for a larger joint research project on Ecuadorian biodiversity with our new partners, and generate the necessary data and infrastructure to compete for funding from other (e.g. the Deutsche Forschungsgemeinschaft, DFG) sources after this call has ended.]</description>
+        <author>n.duperre@leibniz-lib.de (Nadine Duperre)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=spider_biogeec</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=spider_biogeec</ipt:dwca>
+        <pubDate>Tue, 25 Oct 2022 11:54:46 +0000</pubDate>
+        <guid isPermaLink="false">http://patrimonio.ambiente.gob.ec/iptmae/resource?id=spider_biogeec/v1.4</guid>
+      </item>
+      <item>
+        <title>COLECCIÓN NACIONAL DE VECTORES ARTRÓPODOS CIREV - CZ9-INSPI - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cnva_cirev_inspi-cz9</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualizan metadatos</description>
+        <author>jgaibor@inspi.gob.ec (Jimmy Javier Gaibor Verdezoto)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=cnva_cirev_inspi-cz9</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=cnva_cirev_inspi-cz9</ipt:dwca>
+        <pubDate>Thu, 13 Apr 2023 16:11:06 +0000</pubDate>
+        <guid isPermaLink="false">ec2e07d4-0408-4aa4-9b5f-fa5e99c31ec4/v1.3</guid>
+      </item>
+      <item>
+        <title>Colección Vertebrados Museo de Zoología de la USFQ - Version 1.6</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=zsfq_001_250</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se añadió el enlace correspondiente al registro grscicoll del museo en el campo collection id e institution id</description>
+        <author>creyesp@usfq.edu.ec (Carolina Reyes-Puig)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=zsfq_001_250</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=zsfq_001_250</ipt:dwca>
+        <pubDate>Fri, 07 Oct 2022 16:02:57 +0000</pubDate>
+        <guid isPermaLink="false">11ff708f-45e0-4133-a0c7-a152eef61a12/v1.6</guid>
+      </item>
+      <item>
+        <title>Colección Invertebrados Museo de Zoología de la USFQ - Version 1.7</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=zsfq_i001_252</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Cambios menores de metadatos</description>
+        <author>gramonc@usfq.edu.ec (Giovani Ramón)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=zsfq_i001_252</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=zsfq_i001_252</ipt:dwca>
+        <pubDate>Tue, 04 Apr 2023 20:54:30 +0000</pubDate>
+        <guid isPermaLink="false">dd44b7e1-8b69-4ee7-a4bd-11f3e19372ac/v1.7</guid>
+      </item>
+      <item>
+        <title>Colección de plantas vasculares y no vasculares del Herbario de la Universidad Católica del Ecuador (QCA) - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario_qca</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Cambios menores en metadatos</description>
+        <author>manacimba@puce.edu.ec (Mayra Nacimba)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=herbario_qca</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=herbario_qca</ipt:dwca>
+        <pubDate>Tue, 04 Apr 2023 20:53:19 +0000</pubDate>
+        <guid isPermaLink="false">7d6d539e-49ca-43d6-a360-ddb45190cab7/v1.3</guid>
+      </item>
+      <item>
+        <title>Colecciones Botánicas del Herbario Q-QAP de la Universidad Central del Ecuador - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=q-qap</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se está publicando una lista de especies de plantas vasculares del Ecuador continental depositadas en los herbarios Q-QAP, Universidad Central del Ecuador.</description>
+        <author>cirt87@hotmail.com (Carmita Reyes Tello)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=q-qap</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=q-qap</ipt:dwca>
+        <pubDate>Fri, 24 Mar 2023 14:02:45 +0000</pubDate>
+        <guid isPermaLink="false">55c24ff4-9133-4ffb-a3b7-ee707937e979/v1.4</guid>
+      </item>
+      <item>
+        <title>Colección especímenes del herbario amazónico del Ecuador (ECUAMZ) - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ecuamz</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Cambios menores de metadatos</description>
+        <author>dgutierrez@uea.edu.ec (Diego Guitiérrez del Pozo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=ecuamz</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=ecuamz</ipt:dwca>
+        <pubDate>Tue, 04 Apr 2023 20:41:23 +0000</pubDate>
+        <guid isPermaLink="false">0d0d656e-2bef-456e-a011-c890293a0379/v1.4</guid>
+      </item>
+      <item>
+        <title>Micoteca para la Conservación de la Biodiversidad Ruth Moore - Version 1.6</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=miconm_ciitt</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza error en correo electrónico</description>
+        <author>jazmin.salazar@ucacue.edu.ec (Jazmin Salazar)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=miconm_ciitt</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=miconm_ciitt</ipt:dwca>
+        <pubDate>Tue, 04 Apr 2023 14:02:37 +0000</pubDate>
+        <guid isPermaLink="false">690a6c22-6355-40aa-8a38-7014a43d0eb0/v1.6</guid>
+      </item>
+      <item>
+        <title>Herbario HUTI de la Universidad Tecnológica Indoamérica - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=huti</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Corrección de mapeo y actualización de datos</description>
+        <author>emiisanchez646@gmail.com (Enmily Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=huti</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=huti</ipt:dwca>
+        <pubDate>Fri, 31 Mar 2023 17:30:41 +0000</pubDate>
+        <guid isPermaLink="false">bce0d925-dd64-4f5f-988a-fb0b7736673d/v1.3</guid>
+      </item>
+      <item>
+        <title>Herbario Azuay de la Universidad del Azuay: Colección de plantas vasculares - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=bd_herbario_azuay</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se realizan cambios menores a los metadatos</description>
+        <author>dminga@uazuay.edu.ec (Danilo Minga)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=bd_herbario_azuay</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=bd_herbario_azuay</ipt:dwca>
+        <pubDate>Tue, 28 Mar 2023 22:23:44 +0000</pubDate>
+        <guid isPermaLink="false">f7a5c208-6d01-4e16-87ed-85353de0fbad/v1.3</guid>
+      </item>
+      <item>
+        <title>Caracterización Submareal del Islote el Pelado - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=caracterizacion-remape</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se actualiza la base de datos</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=caracterizacion-remape</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=caracterizacion-remape</ipt:dwca>
+        <pubDate>Tue, 28 Mar 2023 23:20:55 +0000</pubDate>
+        <guid isPermaLink="false">2aebab7a-c0fb-4b40-a019-a01ce7f32336/v1.3</guid>
+      </item>
+      <item>
+        <title>Scarabaeidae of the Museo de Zoología LOUNAZ-UNL - Version 1.9</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=lounaz_invertebrados</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Scarabaeidae of the Museo de Zoología LOUNAZ-UNL</description>
+        <author>aurapaucar@gmail.com (Aura Paucar)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=lounaz_invertebrados</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=lounaz_invertebrados</ipt:dwca>
+        <pubDate>Fri, 24 Mar 2023 23:13:57 +0000</pubDate>
+        <guid isPermaLink="false">708779d7-a962-45ff-ab11-f4eb4f1119ed/v1.9</guid>
+      </item>
+      <item>
+        <title>Registro de avistamientos de fauna durante recorridos de control y vigilancia en el Refugio de vida Silvestre Pambilar - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=smart-pambilar</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización a feb-2023</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=smart-pambilar</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=smart-pambilar</ipt:dwca>
+        <pubDate>Fri, 24 Mar 2023 22:26:23 +0000</pubDate>
+        <guid isPermaLink="false">112716aa-0f53-483d-9089-fd21494ecb66/v1.2</guid>
+      </item>
+      <item>
+        <title>Fungario QCAM - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=fungario_qcam</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[El Fungario QCAM forma parte de un grupo importante de museos y colecciones biológicas de la PUCE albergadas dentro de la Escuela de Ciencias Biológicas. La colección de hongos actualmente cuenta con cerca de 7700 especímenes casi exclusivamente ecuatorianos, representantes de varias localidades del país, haciendo a ésta la colección más grande de hongos del Ecuador.  También cuenta con colecciones vivas de cultivos de hongos y una colección de fitopatógenos criopreservados, las cuales constituyen un banco de genoma de invaluable importancia.  
+Los hongos ecuatorianos muestran gran diversidad que apenas se ha empezado a catalogar, y que es indispensable conocer para proteger y conservar los ecosistemas.]</description>
+        <author>ecaicedo203@puce.edu.ec (Erika Caicedo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=fungario_qcam</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=fungario_qcam</ipt:dwca>
+        <pubDate>Mon, 20 Mar 2023 17:14:59 +0000</pubDate>
+        <guid isPermaLink="false">c1d662a5-3275-4446-a486-47ff8a1b4e88/v1.3</guid>
+      </item>
+      <item>
+        <title>Lista de Especies del Museo de fauna Silvestre del Cantón Montúfar, Provincia del Carchi - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mfs-montufar-2023</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[Especies Museo Montúfar; es una lista de chequeo de especies de fauna silvestre animal (aves, mamíferos, reptiles), que fueron rescatados de instituciones educativas de la Ciudad de San Gabriel en el cantón Montúfar, Provincia del Carchi, para la implementación del Museo de fauna Silvestre de esta ciudad. La exhibición de estas especies disecadas (a través de procesos de taxidermia) junto con la infraestructura del museo es utilizada para sensibilizar la importancia de la conservación de la biodiversidad existente en la provincia del Carchi., Actualmente el Museo de fauna Silvestre es administrado por la ASOCIACIÓN MINDALAE ADVENTURE a través de un convenio de comodato con el GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE MONTÚFAR y es el único en su tipo en la provincia del Carchi, Para que los especímenes ingresen al museo deben cumplir los siguientes pasos: 
+CUARENTENA.- Cuando los ejemplares ingresan a una colección (por primera vez o luego de un proceso de préstamo), deben pasar por un proceso de cuarentena o aislamiento preventivo, para poder cumplir con dicha actividad se debe: • Realizar la recepción del ejemplar por parte del técnico responsable • Realizar el debido mantenimiento, desinfección, fumigación y control de plagas durante 48 horas, para evitar de esa forma el desarrollo de agentes deteriorantes. • Llenar el formato de Cuarentena para llevar un registro del proceso., DETERMINACIÓN TAXONÓMICA, ETIQUETADO Y CATALOGACIÓN.- • Etiquetado: Las etiquetas de los especímenes contienen toda la información del ejemplar y que nos permite conocer la identidad del registro biológico. • Catalogación: Se debe asignar a cada ejemplar que ingresa a la colección un número único consecutivo de acuerdo a los registros que se tengan (identidad del registro biológico). • Sistematización: Incluir en la base de datos de la colección toda la información que se tenga de cada uno de los ejemplares. • Determinación Taxonómica: La identificación taxonómica de los especímenes presentes en las diferentes salas del museo, se realiza por el personal técnico a esta dependencia, dicha actividad comprende etiquetado de colecciones.]</description>
+        <author>williandefas_m@yahoo.com (William Edmundo Defas Pillajo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mfs-montufar-2023</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mfs-montufar-2023</ipt:dwca>
+        <pubDate>Wed, 15 Mar 2023 20:37:29 +0000</pubDate>
+        <guid isPermaLink="false">8e8bebfd-9420-4ed4-acc4-16a834a41ac7/v1.1</guid>
+      </item>
+      <item>
+        <title>Colección de Referencia de anfibios y reptiles de la Fundación Herpetológica Gustavo Orcés - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=col_reffhgo</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[La Colección de Referencia, como parte de la Fundación Herpetológica Gustavo Orcés (FHGO), constituye un Museo especializado en colecciones húmedas de reptiles y anfibios del Ecuador. El Museo se creó en el año 1990, con la finalidad de ofrecer acceso a las colecciones científicas para que investigadores locales e internacionales puedan obtener información confiable sobre la herpetofauna nacional.]</description>
+        <author>andreafernandezliger@gmail.com (Andrea Fernández Liger)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=col_reffhgo</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=col_reffhgo</ipt:dwca>
+        <pubDate>Tue, 14 Mar 2023 20:55:52 +0000</pubDate>
+        <guid isPermaLink="false">edbddf15-18a7-4471-8ecd-6b72c43a7725/v1.2</guid>
+      </item>
+      <item>
+        <title>Colección de Invertebrados Terrestres Estación Científica Charles Darwin - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=iccdrs</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Carga inicial ICCDRS</description>
+        <author>francisco.martinez@fcdarwin.org.ec (Francisco Martínez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=iccdrs</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=iccdrs</ipt:dwca>
+        <pubDate>Tue, 14 Feb 2023 00:22:38 +0000</pubDate>
+        <guid isPermaLink="false">3a3a8c27-bcc3-44e2-ad5d-01beddb5e584/v1.1</guid>
+      </item>
+      <item>
+        <title>Herbario Estación Científica Charles Darwin - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cds</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Carga inicial Herbario ECCD</description>
+        <author>francisco.martinez@fcdarwin.org.ec (Francisco Martínez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=cds</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=cds</ipt:dwca>
+        <pubDate>Fri, 06 May 2022 20:37:57 +0000</pubDate>
+        <guid isPermaLink="false">211ace54-dcc2-4243-ad2b-a76f63494cc9/v1.0</guid>
+      </item>
+      <item>
+        <title>Colección de plantas vasculares del Herbario de la Universidad Técnica del Norte - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=utn-2022</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización de datos 2023</description>
+        <author>hoparedes@utn.edu.ec (Hugo Orlando Paredes)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=utn-2022</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=utn-2022</ipt:dwca>
+        <pubDate>Fri, 10 Feb 2023 22:05:08 +0000</pubDate>
+        <guid isPermaLink="false">b0a659d5-491e-4fd5-af08-f7225471f713/v1.1</guid>
+      </item>
+      <item>
+        <title>MUTPL Reptile Collection - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-r</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>1 version</description>
+        <author>museozoologia@utpl.edu.ec (Museo de Zoología UTPL)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mutpl-r</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mutpl-r</ipt:dwca>
+        <pubDate>Wed, 01 Feb 2023 13:52:44 +0000</pubDate>
+        <guid isPermaLink="false">8f87911a-0411-4068-a8d1-a175a8eefc9f/v1.1</guid>
+      </item>
+      <item>
+        <title>MUTPL Mammal Collection - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-m</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>1 version</description>
+        <author>museozoologia@utpl.edu.ec (Museo de Zoología UTPL)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mutpl-m</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mutpl-m</ipt:dwca>
+        <pubDate>Wed, 01 Feb 2023 14:07:29 +0000</pubDate>
+        <guid isPermaLink="false">f57dd6be-0b78-42c4-9758-d4e4960a3b8c/v1.1</guid>
+      </item>
+      <item>
+        <title>MUTPL Invertebrate Collection - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cisec</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>1 version</description>
+        <author>museozoologia@utpl.edu.ec (Museo de Zoología UTPL)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=cisec</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=cisec</ipt:dwca>
+        <pubDate>Wed, 01 Feb 2023 13:56:09 +0000</pubDate>
+        <guid isPermaLink="false">69fcbdcb-3b37-47a1-936d-d6e45f35f604/v1.1</guid>
+      </item>
+      <item>
+        <title>MUTPL Bird Collection - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-o</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>1 version</description>
+        <author>museozoologia@utpl.edu.ec (Museo de Zoología UTPL)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mutpl-o</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mutpl-o</ipt:dwca>
+        <pubDate>Wed, 01 Feb 2023 14:05:57 +0000</pubDate>
+        <guid isPermaLink="false">698c5075-6304-4d2d-9d4e-9312c4fc1552/v1.1</guid>
+      </item>
+      <item>
+        <title>MUTPL Amphibian Collection - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mutpl-a</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización de datos V2</description>
+        <author>museozoologia@utpl.edu.ec (Museo de Zoología UTPL)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mutpl-a</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mutpl-a</ipt:dwca>
+        <pubDate>Wed, 01 Feb 2023 13:58:08 +0000</pubDate>
+        <guid isPermaLink="false">f65cca4a-a2e6-4268-b80c-d8c3828cc0b7/v1.1</guid>
+      </item>
+      <item>
+        <title>Macroinvertebrate ocurrance data collection of the Laboratorio de Ecología Acuática of the Universidad de Cuenca - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mleauc_bd</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>first dataset published</description>
+        <author>henrietta.hampel@ucuenca.edu.ec (Henrietta Hampel)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mleauc_bd</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mleauc_bd</ipt:dwca>
+        <pubDate>Fri, 11 Feb 2022 17:03:12 +0000</pubDate>
+        <guid isPermaLink="false">635b96b6-4684-42e4-97d9-c969419d1248/v1.2</guid>
+      </item>
+      <item>
+        <title>Monitoreo de anidación de tortugas marinas en la zona costera de Portoviejo y Sucre de la provincia de Manabí, Ecuador. - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-fcce-2020-2021</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización con datos del 2022</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=monitoreo-fcce-2020-2021</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=monitoreo-fcce-2020-2021</ipt:dwca>
+        <pubDate>Thu, 05 Jan 2023 19:19:02 +0000</pubDate>
+        <guid isPermaLink="false">d3209204-de4f-4680-957e-6523f5a4447c/v1.4</guid>
+      </item>
+      <item>
+        <title>Amphibians of Ecuador/Anfibios de Ecuador - Version 1.23</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=amphibians_of_ecuador</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Vinculación de taxonomía con información de imagenes de fichas de especies</description>
+        <author>coloma.l@gmail.com (Luis A. Coloma R.)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=amphibians_of_ecuador</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=amphibians_of_ecuador</ipt:dwca>
+        <pubDate>Wed, 30 Nov 2022 17:39:19 +0000</pubDate>
+        <guid isPermaLink="false">7b1ab46e-b03e-47db-b0fb-2ae856a0ce2b/v1.23</guid>
+      </item>
+      <item>
+        <title>Mamíferos de Ecuador/ Mammals of Ecuador - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ecmam</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización</description>
+        <author>patriciaromob.g@gmail.com (Patricia Romo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=ecmam</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=ecmam</ipt:dwca>
+        <pubDate>Fri, 25 Nov 2022 21:35:25 +0000</pubDate>
+        <guid isPermaLink="false">05dc0c1b-6a83-43c6-b76a-c1f062da3e31/v1.1</guid>
+      </item>
+      <item>
+        <title>Bird checklist of the Jardín de los Sueños Reserve, in the ecuadorian Chocó - Version 1.6</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=birds_jdls</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización geográfica.</description>
+        <author>lab_mzuti@outlook.com (Museo Zoología MZUTI)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=birds_jdls</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=birds_jdls</ipt:dwca>
+        <pubDate>Fri, 25 Nov 2022 18:18:07 +0000</pubDate>
+        <guid isPermaLink="false">14b91ea5-49bb-4b2d-845d-f5eb24109d82/v1.6</guid>
+      </item>
+      <item>
+        <title>Araneae de Ecuador - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=araneae_ec</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización de la distribución</description>
+        <author>patriciaromob.g@gmail.com (Patricia Romo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=araneae_ec</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=araneae_ec</ipt:dwca>
+        <pubDate>Fri, 25 Nov 2022 12:04:01 +0000</pubDate>
+        <guid isPermaLink="false">571765c5-307a-4927-83dc-1a032e2bff6c/v1.2</guid>
+      </item>
+      <item>
+        <title>Colecciones Invertebrados, Anfibios, Reptiles y Mamíferos del Museo de Zoología QCAZ - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=013-vs-otq-dz2e-maate-2021</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Datos de la patente de manejo 013-VS-OTQ-DZ2E-MAATE-2021, Museo de Zoología - PUCE. 2021</description>
+        <author>sburneo@puce.edu.ec (Santiago Burneo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=013-vs-otq-dz2e-maate-2021</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=013-vs-otq-dz2e-maate-2021</ipt:dwca>
+        <pubDate>Tue, 08 Nov 2022 20:41:13 +0000</pubDate>
+        <guid isPermaLink="false">2e1792ba-1aeb-466e-a633-d92277efdf14/v1.3</guid>
+      </item>
+      <item>
+        <title>Caracterización de la diversidad biológica y genética de los mamíferos del Ecuador - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mae-dnb-cm-2016-0042</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>New version reviewed</description>
+        <author>sburneo@puce.edu.ec (Santiago Burneo)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mae-dnb-cm-2016-0042</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mae-dnb-cm-2016-0042</ipt:dwca>
+        <pubDate>Tue, 01 Nov 2022 14:47:45 +0000</pubDate>
+        <guid isPermaLink="false">http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mae-dnb-cm-2016-0042/v1.4</guid>
+      </item>
+      <item>
+        <title>Registro de avistamientos de fauna durante recorridos de control y vigilancia en la Reserva de Producción de Fauna Chimborazo - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=smart-chimborazo</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Corrección de nombres del equipo técnico</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=smart-chimborazo</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=smart-chimborazo</ipt:dwca>
+        <pubDate>Fri, 28 Oct 2022 19:17:53 +0000</pubDate>
+        <guid isPermaLink="false">af42469c-4a49-43ac-99da-b6ae68b3775c/v1.4</guid>
+      </item>
+      <item>
+        <title>Catálogo de especies registradas en el Herbario ICAI - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario_icai</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Primera carga de los datos para la obtención de la patente de funcionamiento del Herbario ICAI de la PUCE - SEDE IBARRA.</description>
+        <author>mflopez2@pucesi.edu.ec (María Fernanda López Flores)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=herbario_icai</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=herbario_icai</ipt:dwca>
+        <pubDate>Wed, 28 Sep 2022 17:38:08 +0000</pubDate>
+        <guid isPermaLink="false">20f5fec8-51d0-4cd5-aebf-65482ebb4ad9/v1.0</guid>
+      </item>
+      <item>
+        <title>Diversidad genética de la colección nacional de maní (Arachis hypogaea L.) del Banco Nacional de Germoplasma del INIAP - Version 1.12</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mani-iniap</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se hace pública la versión</description>
+        <author>ricardo.andrade@ambiente.gob.ec (Ricardo Andrade)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mani-iniap</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mani-iniap</ipt:dwca>
+        <pubDate>Wed, 21 Sep 2022 21:43:34 +0000</pubDate>
+        <guid isPermaLink="false">fc69725a-6b8e-4776-a324-7c94e73cf5b5/v1.12</guid>
+      </item>
+      <item>
+        <title>Ocurrencia del canto de ballenas jorobadas en la REMAPE - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=acust_jorob_remape</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>[La ballena jorobada o yubarta (Megaptera novaeangliae, Borowski, 1781), es la única especie de su género (Clapham &amp; Mead, 1999); pertenece a la familia Balaenopteridae y al suborden Mysticeti que engloba a los cetáceos barbados. Tiene una distribución cosmopolita en todos los océanos, además de un comportamiento altamente migratorio, exceptuando la población residente del mar Arábigo Papastavrou &amp; Van Waerebeek, 1998; Rodríguez, 2004). En el verano y parte del otoño habitan latitudes altas (sobre los 40º), en zonas de elevada productividad y en invierno y parte de la primavera ocupan aguas tropicales y subtropicales de ambos hemisferios (Flórez-González et al., 2006)., Las poblaciones del Norte y Sur se encuentran aisladas reproductivamente probablemente asociado al desfase en la cronología migratoria aunque hay nuevas evidencias de que la ocupación de la población del Pacífico Sudeste en la costa occidental de Panamá y sur de Costa Rica coincide con la época reproductiva de las poblaciones del hemisferio norte (Rasmussen et al., 2004). Sabiendo que existen sub unidades que presentan un ámbito geográfico diferente, se identifica a la población del Pacífico Sudeste como una unidad reproductiva separada con características biológicas propias que habita a lo largo de la costa occidental de Sudamérica, Panamá y la región occidental de la Península Antártica, definida como stock G., El Ecuador, al igual que otras zonas de Sudamérica y Centroamérica, constituye un área de reproducción para la especie (Scheidat et al., 2000), durante el período comprendido entre mayo y  octubre se las observa cerca de la costa (Scheidat et al., 2000; Félix &amp; Haase, 2001a). Se presume que los primeros en llegar son individuos inmaduros y hembras grávidas, seguidos por machos adultos (Scheidat et al., 2000), los mismos que destacan por su complejo repertorio de sonidos que parece más común en áreas reproductivas (Payne &amp; McVey, 1971), sin embargo las características acústicas de estas canciones permanecen desconocidas en algunas áreas reproductivas e incluso las funciones de estos sonidos no han sido esclarecidas y existen diferentes hipótesis entre los investigadores., El estudio de la acústica de este grupo en áreas reproductivas ha permitido establecer diferencias geográficas entre poblaciones. Los datos sugieren que los cantantes de un área cantan la misma canción en un momento dado, aunque puede cambiar significativamente en el tiempo (Payne &amp; Payne, 1985), mientras que poblaciones que ocupan cuencas oceánicas diferentes tienen cantos diferentes (Winn et al., 1981; Helweg et al., 1998)., En el Ecuador son pocos los estudios que han investigado la acústica de esta especie, entre ellos se mencionan algunos en el Parque Nacional Machalilla y en la provincia de Esmeraldas (e.g. Intriago, 2015; Narváez 2015). Por otro lado, la contaminación acústica producida por las actividades humanas están en aumento y se presume que esto puede causar interferencias en los procesos naturales de la especie en donde los sonidos son importantes para la comunicación (Rolland et al., 2012).]</description>
+        <author>azulprofundo55@hotmail.com (Robert Medina)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=acust_jorob_remape</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=acust_jorob_remape</ipt:dwca>
+        <pubDate>Mon, 15 Aug 2022 20:37:04 +0000</pubDate>
+        <guid isPermaLink="false">6178f62f-a28e-4af0-aa20-b95bb3876217/v1.1</guid>
+      </item>
+      <item>
+        <title>Colección de Vertebrados Estación Científica Charles Darwin - Version 1.4</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=vccdrs</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización de información base</description>
+        <author>francisco.martinez@fcdarwin.org.ec (Francisco Martínez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=vccdrs</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=vccdrs</ipt:dwca>
+        <pubDate>Mon, 08 Aug 2022 22:36:08 +0000</pubDate>
+        <guid isPermaLink="false">b4a78882-33d0-4fce-b31e-5167aa16424f/v1.4</guid>
+      </item>
+      <item>
+        <title>Colección Marina Estación Científica Charles Darwin - Version 1.3</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mccdrs</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Actualización de información base</description>
+        <author>francisco.martinez@fcdarwin.org.ec (Francisco Martínez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=mccdrs</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mccdrs</ipt:dwca>
+        <pubDate>Mon, 08 Aug 2022 22:35:54 +0000</pubDate>
+        <guid isPermaLink="false">1795fd0f-3f2f-481c-96cd-b635df4c9a48/v1.3</guid>
+      </item>
+      <item>
+        <title>Banco de Vida/ CJ Museum/ Amphibian collection - Version 1.8</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=cj_bancovida_museo</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se corrige la asignación del GUI-CNOB a taxonID</description>
+        <author>coloma.l@gmail.com (Luis A. Coloma R.)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=cj_bancovida_museo</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=cj_bancovida_museo</ipt:dwca>
+        <pubDate>Tue, 02 Mar 2021 15:19:56 +0000</pubDate>
+        <guid isPermaLink="false">884de5ad-81d2-40e0-a454-171c2d246708/v1.8</guid>
+      </item>
+      <item>
+        <title>Información florística del Proyecto Mapa de Vegetación para la Clasificación de Ecosistemas del Ecuador Continental - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=bndv_proyectomapavegetacion_mae</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>In Review by Partners, v3</description>
+        <author>naacosta@gmail.com (Néstor A. Acosta-Buenaño)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=bndv_proyectomapavegetacion_mae</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=bndv_proyectomapavegetacion_mae</ipt:dwca>
+        <pubDate>Thu, 27 Dec 2018 20:54:21 +0000</pubDate>
+        <guid isPermaLink="false">9bbdb0ea-b792-4047-be06-c4285ad47f3f/v1.2</guid>
+      </item>
+      <item>
+        <title>MONITOREO DE BIODIVERSIDAD DEL INTERMAREAL ROCOSO Reservas Marinas: El Pelado, Bajo Copé y Cantagallo – Machalilla - Version 1.0</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-remape-pnm-bc</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Se publica de acuerdo a información proporcionada por NAZCA</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=monitoreo-remape-pnm-bc</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=monitoreo-remape-pnm-bc</ipt:dwca>
+        <pubDate>Tue, 24 May 2022 20:38:58 +0000</pubDate>
+        <guid isPermaLink="false">6cb184d1-d1bc-4a43-93cb-6afb41ab4377/v1.0</guid>
+      </item>
+      <item>
+        <title>HERBARIO WILLIAM KIRBY INSTITUTO SUPERIOR TECNOLOGICO SUDAMERICANO - Version 1.7</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario_ists</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Primera edición de la colección de plantas del Herbario William Kirby Instituto Superior Tecnologico Sudamericano</description>
+        <author>lcchamba@tecnologicosudamericano.edu.ec (Lorena Cecibel Chamba)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=herbario_ists</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=herbario_ists</ipt:dwca>
+        <pubDate>Thu, 19 May 2022 17:00:44 +0000</pubDate>
+        <guid isPermaLink="false">http://patrimonio.ambiente.gob.ec/iptmae/resource?id=herbario_ists/v1.7</guid>
+      </item>
+      <item>
+        <title>MUSEO ENTOMOLOGICO WILLIAM KIRBY INSTITUTO SUPERIOR TECNOLOGICO SUDAMERICANO - Version 1.6</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ists_insectos</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Primera edición de la colección de insectos de la biblioteca entomológica William Kirby Instituto Superior Tecnologico Sudamericano</description>
+        <author>lcchamba@tecnologicosudamericano.edu.ec (Lorena Cecibel Chamba)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=ists_insectos</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=ists_insectos</ipt:dwca>
+        <pubDate>Thu, 19 May 2022 16:53:23 +0000</pubDate>
+        <guid isPermaLink="false">http://patrimonio.ambiente.gob.ec/iptmae/resource?id=ists_insectos/v1.6</guid>
+      </item>
+      <item>
+        <title>Monitoreo de aves en el Refugio de Vida Silvestre Pambilar - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=aves-pambilar</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Corrección en mapeo de campos</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=aves-pambilar</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=aves-pambilar</ipt:dwca>
+        <pubDate>Fri, 17 Dec 2021 21:06:07 +0000</pubDate>
+        <guid isPermaLink="false">7482c011-1692-412d-a87c-220a579ccfd2/v1.1</guid>
+      </item>
+      <item>
+        <title>Monitoreo de señales y huellas de fauna mediante senderos en el Refugio de Vida Silvestre Pambilar - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=huellas-mamiferos-pambilar</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Versión 1.</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=huellas-mamiferos-pambilar</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=huellas-mamiferos-pambilar</ipt:dwca>
+        <pubDate>Fri, 17 Dec 2021 21:02:13 +0000</pubDate>
+        <guid isPermaLink="false">b7700738-3e8b-4b9a-a105-3a2109555109/v1.1</guid>
+      </item>
+      <item>
+        <title>Monitoreo de anidación de la tortuga verde (Chelonia mydas) en las Islas Galápagos - Version 1.2</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=monitoreo-tortuga-verde-galapagos</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Registro de datos del Monitoreo de anidación de la tortuga verde (Chelonia mydas) en las Islas Galápagos. Versión 1</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=monitoreo-tortuga-verde-galapagos</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=monitoreo-tortuga-verde-galapagos</ipt:dwca>
+        <pubDate>Thu, 11 Nov 2021 19:52:55 +0000</pubDate>
+        <guid isPermaLink="false">9664f2b1-6b39-4905-9b40-302eb50348c1/v1.2</guid>
+      </item>
+      <item>
+        <title>Monitoreo de anidación de aves marinas en la Isla de la Plata dentro del Parque Nacional Machalilla, Manabí -  Ecuador - Version 1.1</title>
+        <link>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=aves-isla-plata</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Datos levantados del Monitoreo de anidación de aves marinas en la Isla de la Plata dentro del Parque Nacional Machalilla, Manabí - Ecuador. Versión 1</description>
+        <author>victor.chocho@ambiente.gob.ec (Víctor Chocho Sánchez)</author>
+        <ipt:eml>http://patrimonio.ambiente.gob.ec/iptmae/eml.do?r=aves-isla-plata</ipt:eml>
+        <ipt:dwca>http://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=aves-isla-plata</ipt:dwca>
+        <pubDate>Thu, 11 Nov 2021 19:50:09 +0000</pubDate>
+        <guid isPermaLink="false">e36b1b46-7b49-49eb-ac01-2c41eb0dcbaf/v1.1</guid>
+      </item>
+  </channel>
+</rss>

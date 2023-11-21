@@ -1,0 +1,444 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maate-arsfc-2022-2517/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/uov8oy</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maate-arsfc-2022-2517</alternateIdentifier>
+                <title xml:lang="spa">Conservación ex-situ de plantas de bosque nublado en el Jardín Botánico de Quito</title>
+                    <creator>
+            <individualName>
+                    <givenName>Ricardo</givenName>
+                <surName>Zambrano-Cevallos</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Director Técnico</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>rzambrano913@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6198-2728</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ariatna Jose</givenName>
+                <surName>Villarreal Jaramillo</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Jefa de mantenimiento de cultivos</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ariatnavillarreal@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-1515-2053</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>María Eugenia</givenName>
+                <surName>Sulen Burgos</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Coordinadora de base de datos</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>msulen96@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-5031-2606</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Ricardo</givenName>
+                <surName>Zambrano-Cevallos</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Director Técnico</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>rzambrano913@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6198-2728</userId>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Ariatna Jose</givenName>
+                <surName>Villarreal Jaramillo</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Jefa de mantenimiento de cultivos</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ariatnavillarreal@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-1515-2053</userId>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>María Eugenia</givenName>
+                <surName>Sulen Burgos</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Coordinadora de base de datos</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>msulen96@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-5031-2606</userId>
+                    </metadataProvider>
+            <pubDate>
+                    2023-10-18
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Con este proyecto deseamos aportar a la conservación del territorio natural, enfocándonos en conservar y educar sobre las plantas del ecosistema de bosque nublado.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://www.jardinbotanicoquito.com/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Reserva Natural de Mashpi</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-81.541</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-74.883</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.648</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.157</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                            <singleDateTime>
+                                                <calendarDate>2023-08-24</calendarDate>
+                                            </singleDateTime>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>Todas las plantas fueron identificadas a nivel de familia, género o especie</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium alluriquinense</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Anthurium</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium obtusilobum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium boosianum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Rhodospatha endesaensis</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Philodendron</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Stenospermation</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Syngonium</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Monstera</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Rhodospatha</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium citrifolium</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium alatisulcatum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium esmeraldense</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Dieffenbachia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Spathiphyllum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium panduriforme</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Philodendron lynnhannoniae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Philodendron verrucosum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Xanthosoma</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>genus</taxonRankName>
+                                            <taxonRankValue>Heteropsis</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium draconopterum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium truncicola</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium ovatifolium</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium argyrostachyum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Chlorospatha atropurpurea</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium aristatum</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Philodendron melanoneuron</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>species</taxonRankName>
+                                            <taxonRankValue>Anthurium mindense</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Ricardo</givenName>
+                <surName>Zambrano-Cevallos</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Director Técnico</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>rzambrano913@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6198-2728</userId>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>Ariatna Jose</givenName>
+                <surName>Villarreal Jaramillo</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Jefa de mantenimiento de cultivos</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ariatnavillarreal@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-1515-2053</userId>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>María Eugenia</givenName>
+                <surName>Sulen Burgos</surName>
+            </individualName>
+            <organizationName>Jardín Botánico de Quito</organizationName>
+            <positionName>Coordinadora de base de datos</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>msulen96@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-5031-2606</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Materiales y equipos:&lt;br&gt;
+●	Tijeras podadoras manuales&lt;br&gt;
+●	Tijeras podadoras aéreas &lt;br&gt;
+●	Cuchillo&lt;br&gt;
+●	Bolsas plásticas de 30 x 40 cm&lt;br&gt;
+●	Papel periódico&lt;br&gt;
+●	Cuerda plástica&lt;br&gt;
+●	Bolsas tipo Ziploc&lt;br&gt;
+●	Receptores GPS&lt;br&gt;
+●	Binoculares&lt;br&gt;
+●	Cámara de fotos&lt;br&gt;
+●	Libreta de campo&lt;br&gt;
+●	Marcadores, esferográficos y lápices&lt;br&gt;
+●	Tubos plásticos&lt;br&gt;
+●	Frascos de vidrio&lt;br&gt;
+●	Costales&lt;br&gt;
+●	Palas&lt;br&gt;
+●	Macetas y contendores&lt;br&gt;</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Protocolos específicos &lt;br&gt;
+Recolecta en campo &lt;br&gt;
+Los protocolos son definidos para colecciones de plantas enteras o porciones vegetativas de material botánico vivo. &lt;br&gt;
+Recolección de plantas enteras &lt;br&gt;
+Epífitas (Protocolo aplicable principalmente para plantas de las familias Bromeliaceae, Orchidaceae, Araceae y otros grupos de plantas como Pteridofitas) &lt;br&gt;
+•	Al definir la planta a recolectar, se le tomaron varias fotografías in-situ. &lt;br&gt;
+•	Posteriormente las plantas enteras fueron retiradas con cuidado del sustrato donde se encontraban, usualmente este es: corteza externa de árboles, ramas caídas o inclusive postes de madera. Se evitó realizar trepas.  &lt;br&gt;
+•	Con un cuchillo se levantó con mucho cuidado a las plantas desde sus raíces, consecutivamente se procedió a etiquetarlas con etiquetas plásticas indicando: &lt;br&gt;
+&lt;b&gt;Nombre de la especie:&lt;/b&gt; Nombre científico o común. No se anotaron los nombres de las plantas no identificadas, su nombre fue definido posteriormente con la ayuda de expertos. &lt;br&gt;
+&lt;b&gt;Determinado por y Fecha:&lt;/b&gt; Se anotó el nombre de la persona que identificó la planta (nombre científico de la planta) y la fecha.&lt;br&gt;
+&lt;b&gt;Localidad:&lt;/b&gt; Se ingresó la ubicación (país, provincia, cantón, nombre de la reserva) en detalle. Además de las coordenadas GPS respectivas. &lt;br&gt;
+&lt;b&gt;Hábitat y altitud:&lt;/b&gt; Se anotó el tipo de hábitat y la altitud.  &lt;br&gt;
+&lt;b&gt;Fecha:&lt;/b&gt; Se ingresó la fecha como &quot;15 de abril de 2023&quot; o &quot;15-IV-2023&quot;, para que pueda ser leída por cualquier persona posteriormente.&lt;br&gt;
+&lt;b&gt;Nombre del coleccionista y número de ejemplar:&lt;/b&gt; Se anotó el nombre del coleccionista. El número de espécimen se usó como referencia y permitió administrar y registrar los especímenes en la base de datos del JBQ. En el caso de si se realizaron varias muestras o si se duplicaron muestras de un organismo individual, se asignó el mismo número de muestra. &lt;br&gt;
+&lt;b&gt;Notas:&lt;/b&gt; Al recolectar una planta, se incluyó en la etiqueta información adicional sobre el espécimen, como por ejemplo sobre qué sustrato fue recolectada, temperatura y humedad ambiental, etc. Esta información fue de importancia ya que pudo ayudar a su posterior aclimatación. &lt;br&gt;
+•	Finalmente, las plantas fueron almacenadas en fundas plásticas rociadas con agua para garantizar su correcta hidratación hasta llegar a su lugar de cuidado en el JBQ. &lt;br&gt;
+Terrestres (Protocolo aplicable principalmente para plantas herbáceas)&lt;br&gt;
+•	Al definir la planta a recolectar, se le tomaron varias fotografías in-situ. &lt;br&gt;
+•	Con cuidado de no dañar el sistema radicular, las plantas fueron retiradas, ejecutando una excavación de hasta 20 cm de profundidad. Ya que no se recolectaron plantas leñosas como árboles o arbustos, el ancho de la excavación no sobrepasó los 20 cm de diámetro. Estas excavaciones fueron manuales y no se utilizó ningún tipo de maquinaria que atente en contra del ecosistema o el suelo nativo.  &lt;br&gt;
+•	Las plantas extraídas del suelo fueron colocadas en macetas o en telas de arpillera donde la humedad se pudo mantener constante. &lt;br&gt;
+•	Posteriormente se procedió a etiquetarlas con etiquetas plásticas y a lápiz que contenían las mismas indicaciones del punto anterior.  &lt;br&gt;
+•	Finalmente, las plantas fueron rociadas con agua para garantizar su correcta hidratación hasta llegar a su lugar de cuidado en el JBQ evitando así la perdida de agua por la sustracción de parte del sistema radicular.  &lt;br&gt;
+</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Recolección de porciones vegetativas&lt;br&gt;
+La propagación asexual o vegetativa es la reproducción de plantas completas a partir de las partes vegetativas de la planta original. Estos incluyen colección de pedazos de tallos, rizomas y raíces, tubérculos, cormos, bulbos, hojas o raíces.&lt;br&gt;
+Pedazos de tallos &lt;br&gt;
+•	Existen representantes de varias familias de plantas, como la familia Araceae, cuyos tallos son la principal forma de propagación. Esta técnica evita el retiro total del espécimen de su hábitat y crea un clon del mismo con las características similares a las de su parental.&lt;br&gt;
+•	Al definir la planta a recolectar, se tomaron varias fotografías in-situ de la planta a ser dividida.&lt;br&gt;
+•	Posteriormente, con un cuchillo o tijera podadora desinfectada con alcohol al 70% se procedió a realizar varios cortes asegurando la presencia de yemas que puedan favorecer un posterior crecimiento de la nueva planta. No se comprometió más de un tercio de la planta madre.&lt;br&gt;
+•	Estos cortes fueron guardados en fundas tipo ziploc y rociados con agua para asegurar la supervivencia de los cortes. Dentro de la funda se colocó además una etiqueta con toda la información previamente detallada. &lt;br&gt;
+Rizomas y raíces&lt;br&gt;
+•	Estas estructuras son los principales medios de propagación de Pteridofitas y algunas plantas como las Piperáceas. Esta técnica evita el retiro total del espécimen de su hábitat y crea un clon del mismo con las características similares a las de su parental.&lt;br&gt;
+•	Al definir la planta a recolectar, se tomaron varias fotografías in-situ de la planta a ser dividida.&lt;br&gt;
+•	Posteriormente, con un cuchillo o tijera podadora desinfectada con alcohol al 70% se realizaron varios cortes asegurando la presencia de material radicular sano que pueda favorecer un posterior crecimiento de la nueva planta.&lt;br&gt;
+•	Estos cortes fueron guardados en fundas tipo ziploc, con un poco del sustrato donde se encontraban y fueron rociados con agua para asegurar la supervivencia de los cortes. Dentro de la funda se colocó además una etiqueta con toda la información previamente detallada. &lt;br&gt;
+Tubérculos, cormos y bulbos &lt;br&gt;
+•	Existen numerosas plantas cuyos principales medios de reproducción son estructuras subterráneas que, durante periodos poco favorables, almacenan recursos y posteriormente se activan para generar estructuras foliares.&lt;br&gt;
+•	Al definir la planta a recolectar, se tomaron varias fotografías in-situ de la planta a ser dividida.&lt;br&gt;
+•	Posteriormente, con una pala pequeña se procedió a cavar pequeños hoyos superficiales y se extrajeron estas estructuras con cuidado. &lt;br&gt;
+•	Estas estructuras fueron guardadas en fundas tipo ziploc, con un poco del sustrato donde se encontraban y fueron rociados con agua para asegurar la supervivencia de los cortes. Dentro de la funda se colocó además una etiqueta con toda la información previamente detallada. &lt;br&gt;
+Identificación y Numeración &lt;br&gt;
+•	Todas las plantas recolectadas fueron identificadas en campo a nivel de Familia.&lt;br&gt;
+•	Ya que existen varias consideraciones para identificar plantas, no se realizaron identificaciones sin la asesoría de un experto o sin el uso de claves de identificación taxonómica. En campo, y principalmente en ecosistemas mega diversos como los bosques nublados, es muy difícil identificar plantas hasta llegar el epíteto específico de especie. &lt;br&gt;
+•	Las plantas identificadas fueron ingresadas en la base de datos del Jardín Botánico de Quito, siguiendo la numeración ordinal establecida en el plan de manejo de la institución junto con toda la información adquirida en campo.&lt;br&gt;
+•	Esta información está siendo debidamente registrada y entregada a la autoridad designada por el MAATE a través del presente informe.&lt;br&gt;
+Posterior al proceso de colección en campo se procedió a adecuar las plantas en los diferentes invernaderos del JBQ, dependiendo de sus necesidades específicas. Los protocolos se describen brevemente a continuación:&lt;br&gt;
+Registro de siembra y propagación.&lt;br&gt;
+•	Una vez que las plantas fueron llevadas al JBQ, se realizó el respectivo control de siembra y tipo de propagación dentro de nuestros invernaderos que cuentan con todo lo necesario para asegurar la supervivencia de los especímenes. Este formato incluye: información del colector, propagador, fecha de colección, fecha de siembra y notas generales sobre cultivo.&lt;br&gt;
+•	La siembra se ejecutó en macetas y en sustratos especiales que incluyen: tierra preparada, sustrato de pino, sustrato de coco, turba y perlita.&lt;br&gt;
+•	La aclimatación de las plantas fue gradual y ya que el éxito de propagación depende de las condiciones de colección y el ritmo biológico de cada planta se guardó reserva en la supervivencia de los especímenes recolectados hasta que estos mostraron señales de adaptación.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>La colección de muestras se realizó en la provincia de Pichincha, cantón Quito, parroquia Pacto, específicamente en la Reserva Natural de Mashpi.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>La metodología utilizada fue la estandarizada por varios Jardines Botánicos alrededor del mundo para recolectar y preservar especímenes vivos. &lt;br&gt;
+Recolección de plantas enteras: Al definir la planta a recolectar, se le tomaron varias fotografías in-situ. Posteriormente las plantas enteras fueron retiradas con cuidado del sustrato donde se encontraban. Con un cuchillo se levantó con mucho cuidado a las plantas desde sus raíces, consecutivamente se procedió a etiquetarlas con etiquetas plásticas. &lt;br&gt;
+Recolección de porciones vegetativas: La propagación asexual o vegetativa es la reproducción de plantas completas a partir de las partes vegetativas de la planta madre. Estos incluyen colección de pedazos de tallos, rizomas y raíces, tubérculos, cormos, bulbos, hojas o raíces. Con un cuchillo o tijera podadora desinfectada con alcohol al 70% se realizaron varios cortes asegurando la presencia de material radicular sano que favorezca un posterior crecimiento de la nueva planta. Todas las plantas fueron transportadas en fundas plásticas o macetas, conservando la humedad constantemente, garantizando la supervivencia de cada una.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="maate-arsfc-2022-2517">
+                    <title>Conservación ex-situ de plantas de bosque nublado en el Jardín Botánico de Quito</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Ricardo</givenName>
+                                <surName>Zambrano-Cevallos</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0002-6198-2728</userId>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Ariatna Jose</givenName>
+                                <surName>Villarreal Jaramillo</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0002-1515-2053</userId>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>María Eugenia</givenName>
+                                <surName>Sulen Burgos</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0002-5031-2606</userId>
+                            <role>author</role>
+                        </personnel>
+                        <abstract>
+                            <para>Con este proyecto deseamos aportar a la conservación del territorio natural, enfocándonos en conservar y educar sobre las plantas del ecosistema de bosque nublado.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>La colección de muestras se realizó en la provincia de Pichincha, cantón Quito, parroquia Pacto, específicamente en la Reserva Natural de Mashpi, situada entre los 500 y 1400 msnm. Esta reserva se encuentra ubicada en las estribaciones occidentales de la cordillera de los Andes y ocupa alrededor de 2500 hectáreas de bosque húmedo premontano de la Reserva de la Biósfera del Chocó Andino. El área se caracteriza por su alta nubosidad y humedad, con un promedio de precipitación anual de 3000 mm y temperaturas entre los 18°C y 25°C.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-10-17T20:57:40.012+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/uov8oy">Zambrano-Cevallos R, Villarreal Jaramillo A J, Sulen Burgos M E (2023). Conservación ex-situ de plantas de bosque nublado en el Jardín Botánico de Quito. Version 1.0. Jardín Botánico de Quito. Occurrence dataset. https://doi.org/10.60545/uov8oy</citation>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

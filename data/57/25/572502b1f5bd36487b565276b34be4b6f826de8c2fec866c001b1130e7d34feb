@@ -1,0 +1,307 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=acust_jorob_remape/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=acust_jorob_remape</alternateIdentifier>
+  <title xml:lang="spa">Ocurrencia del canto de ballenas jorobadas en la REMAPE</title>
+      <creator>
+    <individualName>
+        <givenName>Michelle</givenName>
+      <surName>Vela</surName>
+    </individualName>
+    <organizationName>Fundación ME</organizationName>
+    <positionName>Investigadora</positionName>
+    <address>
+        <deliveryPoint>Ayangue</deliveryPoint>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>+593987013940</phone>
+    <electronicMailAddress>mvela_torres@hotmail.com</electronicMailAddress>
+    <onlineUrl>https://www.linkedin.com/in/michelle-vela-a5596222a/</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Jodie</givenName>
+      <surName>Darquea</surName>
+    </individualName>
+    <organizationName>Fundación Ecuador Mundo Ecológico</organizationName>
+    <positionName>Directora</positionName>
+    <address>
+        <deliveryPoint>La Libertad</deliveryPoint>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>jodied_77@hotmail.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Michelle</givenName>
+      <surName>Vela</surName>
+    </individualName>
+    <organizationName>Fundación ME</organizationName>
+    <positionName>Investigadora</positionName>
+    <address>
+        <deliveryPoint>Ayangue</deliveryPoint>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>+593987013940</phone>
+    <electronicMailAddress>mvela_torres@hotmail.com</electronicMailAddress>
+    <onlineUrl>https://www.linkedin.com/in/michelle-vela-a5596222a/</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Javier</givenName>
+      <surName>Oña</surName>
+    </individualName>
+    <organizationName>Universidad San Francisco de Quito</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>Cumbayá</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>ecujavier10@gmail.com</electronicMailAddress>
+    <role></role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Sebastián</givenName>
+      <surName>Alvarado</surName>
+    </individualName>
+    <organizationName>MAATE</organizationName>
+    <positionName>Administrador Reserva Marina el Pelado</positionName>
+    <address>
+        <deliveryPoint>Valdivia</deliveryPoint>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>demetrio.alvarado@ambiente.gob.ec</electronicMailAddress>
+    <role></role>
+      </associatedParty>
+  <pubDate>
+      2022-08-15
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>La ballena jorobada o yubarta (Megaptera novaeangliae, Borowski, 1781), es la única especie de su género (Clapham &amp; Mead, 1999); pertenece a la familia Balaenopteridae y al suborden Mysticeti que engloba a los cetáceos barbados. Tiene una distribución cosmopolita en todos los océanos, además de un comportamiento altamente migratorio, exceptuando la población residente del mar Arábigo Papastavrou &amp; Van Waerebeek, 1998; Rodríguez, 2004). En el verano y parte del otoño habitan latitudes altas (sobre los 40º), en zonas de elevada productividad y en invierno y parte de la primavera ocupan aguas tropicales y subtropicales de ambos hemisferios (Flórez-González et al., 2006).</para>
+    <para>Las poblaciones del Norte y Sur se encuentran aisladas reproductivamente probablemente asociado al desfase en la cronología migratoria aunque hay nuevas evidencias de que la ocupación de la población del Pacífico Sudeste en la costa occidental de Panamá y sur de Costa Rica coincide con la época reproductiva de las poblaciones del hemisferio norte (Rasmussen et al., 2004). Sabiendo que existen sub unidades que presentan un ámbito geográfico diferente, se identifica a la población del Pacífico Sudeste como una unidad reproductiva separada con características biológicas propias que habita a lo largo de la costa occidental de Sudamérica, Panamá y la región occidental de la Península Antártica, definida como stock G.</para>
+    <para>El Ecuador, al igual que otras zonas de Sudamérica y Centroamérica, constituye un área de reproducción para la especie (Scheidat et al., 2000), durante el período comprendido entre mayo y  octubre se las observa cerca de la costa (Scheidat et al., 2000; Félix &amp; Haase, 2001a). Se presume que los primeros en llegar son individuos inmaduros y hembras grávidas, seguidos por machos adultos (Scheidat et al., 2000), los mismos que destacan por su complejo repertorio de sonidos que parece más común en áreas reproductivas (Payne &amp; McVey, 1971), sin embargo las características acústicas de estas canciones permanecen desconocidas en algunas áreas reproductivas e incluso las funciones de estos sonidos no han sido esclarecidas y existen diferentes hipótesis entre los investigadores.</para>
+    <para>El estudio de la acústica de este grupo en áreas reproductivas ha permitido establecer diferencias geográficas entre poblaciones. Los datos sugieren que los cantantes de un área cantan la misma canción en un momento dado, aunque puede cambiar significativamente en el tiempo (Payne &amp; Payne, 1985), mientras que poblaciones que ocupan cuencas oceánicas diferentes tienen cantos diferentes (Winn et al., 1981; Helweg et al., 1998).</para>
+    <para>En el Ecuador son pocos los estudios que han investigado la acústica de esta especie, entre ellos se mencionan algunos en el Parque Nacional Machalilla y en la provincia de Esmeraldas (e.g. Intriago, 2015; Narváez 2015). Por otro lado, la contaminación acústica producida por las actividades humanas están en aumento y se presume que esto puede causar interferencias en los procesos naturales de la especie en donde los sonidos son importantes para la comunicación (Rolland et al., 2012).</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Ballenas Jorobadas</keyword>
+            <keyword>acústica</keyword>
+            <keyword>canciones</keyword>
+            <keyword>REMAPE</keyword>
+        <keywordThesaurus>Fundación Ecuador Mundo Ecológico</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Samplingevent</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>La Reserva Marina El Pelado, REMAPE, se encuentra ubicada en el perfil costero frente a las poblaciones de Valdivia, San Pedro, Ayangue y Palmar en la provincia de Santa Elena. Cubre una extensión de 96 hectáreas terrestres y 13.005 hectáreas marinas en donde se encuentra un islote que lleva el mismo nombre. El área circundante a éste, se caracteriza por un fondo rocoso que brinda refugio y alimento a gran diversidad de invertebrados, peces y aves; además brinda refugio a una colonia de lobos marinos (Flia Otaridae).
+La REMAPE constituye un área en donde se realizan actividades económicas como pesca artesanal y diferentes formas de turismo incluyendo turismo de buceo (SCUBA y buceo libre), snorkel, avistamiento de aves y lobos, avistamiento de ballenas jorobadas, paseos de bahía, además de otros usos como balnearios, de forma que existe una gran diversidad de usos, que en su mayoría implica navegaciones y converge en un elevado tráfico marítimo.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-80.891</westBoundingCoordinate>
+          <eastBoundingCoordinate>-80.724</eastBoundingCoordinate>
+          <northBoundingCoordinate>-1.897</northBoundingCoordinate>
+          <southBoundingCoordinate>-2.059</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2021-10-21</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-10-21</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2021-10-22</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-10-22</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2021-10-23</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-10-23</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2021-10-24</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-10-24</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Esta investigación estuvo focalizado en una única especie, la ballena Jorobada, Megaptera novaeangliae, identificada fácilmente a través de los sonidos.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Megaptera novaeangliae</taxonRankValue>
+                  <commonName>Ballena Jorobada</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Michelle</givenName>
+      <surName>Vela</surName>
+    </individualName>
+    <organizationName>Fundación ME</organizationName>
+    <positionName>Investigadora</positionName>
+    <address>
+        <deliveryPoint>Ayangue</deliveryPoint>
+        <city>Santa Elena</city>
+        <administrativeArea>Santa Elena</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>+593987013940</phone>
+    <electronicMailAddress>mvela_torres@hotmail.com</electronicMailAddress>
+    <onlineUrl>https://www.linkedin.com/in/michelle-vela-a5596222a/</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Navegación y búsqueda de ballenas jorobadas en el área de estudio</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Inmersión del equipo de monitoreo acústico y grabación submarina</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Registro de la posición geográfica y variables ambientales</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Instalación de sonda para el registro de datos de batimetría</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Se cubrió gran parte del área perteneciente a la Reserva Marina el Pelado que abarca 13.005 hectáreas marinas y se realizaron 4 viajes de 3 horas de duración en promedio.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Muestreos visuales y acústicas de ballenas jorobadas
+Se realizaron muestreos acústicos y visuales a través del uso de un hidrófono omnidireccional modelo SQ26-08 con un rango de frecuencia de 0.020 hasta 50 kHz de la marca Cetacean Research, una grabadora digital marca Zoom modelo H1 y una cámara fotográfica con fines de foto identificación a través de los patrones de coloración de la aleta caudal. 
+Las estaciones acústicas fueron distribuidas aleatoriamente en diferentes puntos dentro del área protegida o cerca de un grupo de ballenas identificadas visualmente durante el mes de octubre, 2021. Durante cada grabación se recolectó información relacionada a condiciones climáticas,  posición geográfica, tamaño del grupo y presencia de crías. Con ayuda de un sonar marca Garmin modelo GT20-TM se recolectaron datos sobre profundidad, corriente y tipo de sustrato.
+Las canciones fueron reconocidas por la presencia de sonidos armónicos típicos de la especie, con repetición contante y de larga duración (Payne y McVay 1971). Éstos se diferencian de los sonidos sociales por ser estos últimos, sonidos cortos y de alta frecuencia (Dunlop et al., 2007).
+Análisis acústicos
+Los cantos de alta calidad fueron exploradas visual y acústicamente a través del software Raven Pro 1.6.3 a nivel de temas por lo que no se podrá determinar otros parámetros cuantitativos de variables acústicas, sin embargo se recalca que este trabajo se realizará en un futuro con una muestra más amplia de grabaciones de mejor calidad. Los espectrogramas obtenidos del canto se ajustaron a 5008 puntos de tamaño muestral, usando la transformación rápida de Fourier (FFT) con ventana Hann, resolución de frecuencia de 8192 Hz, resolución de tiempo de 26,1 ms y superposición de 50%.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Las estaciones de monitoreo acústico fueron ubicadas alejadas de arrecifes rocosos poco profundos para reducir ruido en la grabación.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>OCURRENCIA DEL CANTO Y CULTURA DE LAS BALLENAS JOROBADAS QUE SE REPRODUCEN EN LA REMAPE</title>
+      <personnel>
+        <individualName>
+            <givenName>Michelle</givenName>
+          <surName>Vela</surName>
+        </individualName>
+        <role></role>
+      </personnel>
+      <abstract>
+        <para>Se desarrolló una investigación sobre la bioacústica enfocada a los cantos de las ballenas jorobadas con el fin de conocer su ocurrencia y caracterizar el repertorio de la población reproductiva que visita el área de la Reserva Marina El Pelado en la costa ecuatoriana durante el año 2021. Para esto, se obtuvieron muestras de canciones mediante el uso de un hidrófono omnidireccional durante navegaciones aleatorias en el área de estudio, las mismas que fueron posteriormente calificadas de acuerdo a la calidad del sonido y analizadas con ayuda de herramientas acústicas especializadas. Se establecieron un total de 11 estaciones acústicas, de las cuales 10 registraron la ocurrencia de cantos de calidades variables y se identificó la presencia de 6 temas de duración variable entre 00:02:30 y 00:03:00. La ocurrencia del canto en esta zona de la costa de Santa Elena es congruente con la estacionalidad y patrones migratorios de la especie, quien utiliza las zonas costeras del Ecuador con fines reproductivos. Esta investigación preliminar se alinea con los intereses de manejo del Área Protegida con miras a profundizar en el entendimiento sobre la ocurrencia de este proceso ecológico como es la comunicación social a través de los cantos en respuesta a variables espaciales y temporales a través de monitoreos a largo plazo.</para>
+      </abstract>
+      <funding>
+        <para>Autogestión y apoyo de la administración de la Marina el Pelado</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>La Reserva Marina El Pelado con sus siglas REMAPE, se encuentra ubicada en el perfil costero frente a las poblaciones de Valdivia, San Pedro, Ayangue y Palmar en la provincia de Santa Elena. Cubre una extensión de 96 hectáreas terrestres y 13.005 hectáreas marinas en donde se encuentra un islote que lleva el mismo nombre. El área circundante a éste, se caracteriza por un fondo rocoso que brinda refugio y alimento a gran diversidad de invertebrados, peces y aves; además brinda refugio a una colonia de lobos marinos (Flia Otaridae).
+La REMAPE constituye un área en donde se realizan actividades económicas como pesca artesanal y diferentes formas de turismo incluyendo turismo de buceo (SCUBA y buceo libre), snorkel, avistamiento de aves y lobos, avistamiento de ballenas jorobadas, paseos de bahía, además de otros usos como balnearios, de forma que existe una gran diversidad de usos, que en su mayoría implica navegaciones y converge en un elevado tráfico marítimo.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Se realizaron muestreos acústicos y visuales a través del uso de un hidrófono omnidireccional modelo SQ26-08 con un rango de frecuencia de 0.020 hasta 50 kHz de la marca Cetacean Research, una grabadora digital marca Zoom modelo H1 y una cámara fotográfica con fines de foto identificación a través de los patrones de coloración de la aleta caudal. 
+Las estaciones acústicas fueron distribuidas aleatoriamente en diferentes puntos dentro del área protegida o cerca de un grupo de ballenas identificadas visualmente durante el mes de octubre, 2021. Durante cada grabación se recolectó información relacionada a condiciones climáticas, posición geográfica, tamaño del grupo y presencia de crías. Con ayuda de un sonar marca Garmin modelo GT20-TM se recolectaron datos sobre profundidad, corriente y tipo de sustrato.
+Las canciones fueron reconocidas por la presencia de sonidos armónicos típicos de la especie, con repetición contante y de larga duración (Payne &amp; McVay, 1971) que se diferencian de los sonidos sociales por ser estos últimos, sonidos cortos y de alta frecuencia (Dunlop et al., 2007).
+Los cantos de alta calidad fueron exploradas visual y acústicamente a través del software Raven Pro 1.6.3 a nivel de temas por lo que no se podrá determinar otros parámetros cuantitativos de variables acústicas, sin embargo, se recalca que este trabajo se realizará en un futuro con una muestra más amplia de grabaciones de mejor calidad. Los espectrogramas obtenidos del canto se ajustaron a 5008 puntos de tamaño muestral, usando la transformación rápida de Fourier (FFT) con ventana Hann, resolución de frecuencia de 8192 Hz, resolución de tiempo de 26,1 ms y superposición de 50%.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-08-10T02:22:15.472+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Vela M, Darquea J (2022): Ocurrencia del canto de ballenas jorobadas en la REMAPE. v1.0. No organisation. Dataset/Samplingevent. http://patrimonio.ambiente.gob.ec/iptmae_test/resource?r=acust_jorob_remape&amp;v=1.0</citation>
+          <bibliography>
+                <citation identifier="https://repositorio.usfq.edu.ec/handle/23000/6401">Buitrón-Suárez, A. 2017. El impacto de terremotos al comportamiento acústico de Ballenas Jorobadas, Megaptera novaeangliae, en la Costa Ecuatoriana Proyecto de investigación presentado como requisito para la obtención del título de Licenciada Bióloga con especialización en Ecología Marina. Universidad San Francisco de Quito.</citation>
+                <citation identifier="10.1006/anbe.2001.1747">Cerchio, S., Jacobsen, J., &amp; Norris, T. 2001. Temporal and geographical variation in songs of humpback whales, Megaptera novaeangliae: Synchronous change in Hawaiian and Mexican breeding assemblages. Anim. Behav. 62:313–329.</citation>
+                <citation identifier="10.1098/rspb.2004.2699">Clark, C., &amp; Clapham, P. 2004. Acoustic monitoring on a humpback whale (Megaptera novaeangliae) feeding ground shows continual singing into late spring. Proc. R. Soc. B Biol. Sci. 271:1051–1057.</citation>
+                <citation identifier="10.1111/j.1748-7692.2005.tb01249.x">Darling, J., &amp; Sousa-Lima, RS. 2005. Songs indicate interaction between humpback whale (Megaptera novaeangliae) populations in the western and eastern South Atlantic Ocean. Mar. Mammal Sci. 21:557–566.</citation>
+                <citation identifier="10.1121/1.2783115">Dunlop, R. A., Noad, M. J., Cato, D. H., and Stokes, D. 2007. The social vocalization repertoire of east Australian migrating humpback whales (Megaptera novaeangliae). The Journal of the Acoustical Society of America. 122. 2893-905.</citation>
+          </bibliography>
+            <physical>
+              <objectName></objectName>
+              <characterEncoding></characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName></formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download"></url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>http://ecuadormundoecologico.org/wp-content/uploads/2022/03/logo_eme.png</resourceLogoUrl>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=acust_jorob_remape/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,247 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=iccdrs/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=iccdrs</alternateIdentifier>
+  <title xml:lang="spa">Colección de Invertebrados Terrestres Estación Científica Charles Darwin</title>
+      <creator>
+    <individualName>
+        <givenName>Lenyn</givenName>
+      <surName>Betancourt</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Curador Colección de Invertebrados Terrestres</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+    </address>
+    <electronicMailAddress>lenyn.betancourt@fcdarwin.org.ec</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Francisco</givenName>
+      <surName>Martínez</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Coordinador IT</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 52526146</phone>
+    <electronicMailAddress>francisco.martinez@fcdarwin.org.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-1548-6835</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Lenyn</givenName>
+      <surName>Betancourt</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Curador Colección de Invertebrados Terrestres</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>francisco.martinez@fcdarwin.org.ec</electronicMailAddress>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Crístian</givenName>
+      <surName>Jitala</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Desarrollador IID</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>cristian.jitala@fcdarwin.org.ec</electronicMailAddress>
+    <role>programmer</role>
+      </associatedParty>
+  <pubDate>
+      2023-02-14
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La Colección de Invertebrados Terrestres (ICCDRS por sus siglas en inglés), es el repositorio de invertebrados terrestres de Galápagos más completo del mundo, seguido únicamente por la Colección Entomológica de la Academia de Ciencias de California (EEUU). Nuestra colección contiene más de 40,000 especímenes preservados en seco y en fluido, e información de especies endémicas, nativas e introducidas en el archipiélago de Galápagos.</para>
+    <para>La ICCDRS incluye especímenes provenientes de varias expediciones científicas y preserva más de 600 especímenes tipo (Holotipos, Lectotipos, Neotipos, Paratipos). El cuidado curatorial que realizamos garantiza la preservación de este material y permite que los especímenes conserven sus características como su color, formas y estructuras a través del tiempo.</para>
+    <para>Los insectos constituyen una parte importante de la diversidad biológica del planeta. En la naturaleza, de cada 10 seres vivos más de 5 son insectos. En el caso de Galápagos, los invertebrados terrestres son el grupo más abundante y su endemismo es superior al 56%. La información que la ICCDRS almacena es necesaria para:
+&lt;br&gt;
+i) Realizar identificaciones taxonómicas de invertebrados terrestres.
+ii) Conocer su historia natural y distribución en Galápagos.
+iii) Comparar los registros de presencia-ausencia y abundancia a través del tiempo
+iv) Documentar nuevos registros en Galápagos o nuevas especies para la ciencia.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Insecta</keyword>
+            <keyword>Arachnida</keyword>
+            <keyword>Myriapoda</keyword>
+            <keyword>Branchiopoda</keyword>
+            <keyword>Insecta</keyword>
+            <keyword>Gastropoda</keyword>
+            <keyword>Clitellata</keyword>
+            <keyword>Amphipoda</keyword>
+            <keyword>Isopoda</keyword>
+        <keywordThesaurus>n/a Taxonomía</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Insectos</keyword>
+            <keyword>Arácnidos</keyword>
+            <keyword>Miriápodos</keyword>
+            <keyword>Branquiópodos</keyword>
+            <keyword>Gasterópodos</keyword>
+            <keyword>Clitelados
+Anfípodos</keyword>
+            <keyword>Isópodos</keyword>
+        <keywordThesaurus>n/a Nombres comunes</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.darwinfoundation.org/es/nosotros/eccd/colecciones</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Islas Galápagos</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-92.009</westBoundingCoordinate>
+          <eastBoundingCoordinate>-89.244</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.682</northBoundingCoordinate>
+          <southBoundingCoordinate>-1.413</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1905-02-07</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2022-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Invertebrados terrestres</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Clitellata</taxonRankValue>
+                  <commonName>clitelados</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Arachnida</taxonRankValue>
+                  <commonName>arácnidos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Branchiopoda</taxonRankValue>
+                  <commonName>branquiópodos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subphylum</taxonRankName>
+                <taxonRankValue>Myriapoda</taxonRankValue>
+                  <commonName>miriápodos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Insecta</taxonRankValue>
+                  <commonName>Insectos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Gastropoda</taxonRankValue>
+                  <commonName>gasterópodos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                <taxonRankValue>Collembola</taxonRankValue>
+                  <commonName>colémbolos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Onychophora</taxonRankValue>
+                  <commonName>onicóforos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Amphipoda</taxonRankValue>
+                  <commonName>anfípodos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>order</taxonRankName>
+                <taxonRankValue>Isopoda</taxonRankValue>
+                  <commonName>isópodos</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Miguel</givenName>
+      <surName>Pinto</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Coordinador de Colecciones</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>miguel.pinto@fcdarwin.org.ec</electronicMailAddress>
+      </contact>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-01-12T06:51:56.379+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="http://patrimonio.ambiente.gob.ec/iptmae/resource?r=iccdrs&amp;amp;v=1.1">Charles Darwin Foundation (2023): Colección de Invertebrados Terrestres Estación Científica Charles Darwin. v1.1. Charles Darwin Research Station. Dataset/Occurrence.
+http://patrimonio.ambiente.gob.ec/iptmae/resource?r=iccdrs&amp;amp;v=1.2</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=iccdrs</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>http://grscicoll.org/institutional-collection/terrestrial-invertebrate-collection-charles-darwin-foundation</collectionIdentifier>
+                <collectionName>Colección Invertebrados Terrestres ECCD - ICCDRS</collectionName>
+              </collection>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                <specimenPreservationMethod>mounted</specimenPreservationMethod>
+                <specimenPreservationMethod>pinned</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=iccdrs/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

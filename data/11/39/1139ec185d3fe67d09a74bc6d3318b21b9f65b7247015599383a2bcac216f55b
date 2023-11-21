@@ -1,0 +1,474 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="9f23be2d-ee86-4d72-892a-f8d0d4dc27e7/v1.4" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>9f23be2d-ee86-4d72-892a-f8d0d4dc27e7</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=qpls-plantae</alternateIdentifier>
+                <title xml:lang="spa">Colección de plantas del Herbario Padre Luis Sodiro (QPLS)</title>
+                    <creator>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Espinel-Ortiz</surName>
+            </individualName>
+            <organizationName>QPLS-BEAEP</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>david.espinel.ortiz@gmail.com</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?user=OTrOCE8AAAAJ&amp;hl=es&amp;oi=ao</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Rosero</surName>
+            </individualName>
+            <organizationName>BEAEP</organizationName>
+            <positionName>Administrador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>coordinacion@beaep.ec</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">N/A</userId>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Espinel-Ortiz</surName>
+            </individualName>
+            <organizationName>QPLS-BEAEP</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>david.espinel.ortiz@gmail.com</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?user=OTrOCE8AAAAJ&amp;hl=es&amp;oi=ao</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Rosero</surName>
+            </individualName>
+            <organizationName>BEAEP</organizationName>
+            <positionName>Administrador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>coordinacion@beaep.ec</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">N/A</userId>
+            <role></role>
+                    </associatedParty>
+                    <associatedParty>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Espinel-Ortiz</surName>
+            </individualName>
+            <organizationName>QPLS-BEAEP</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>david.espinel.ortiz@gmail.com</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?user=OTrOCE8AAAAJ&amp;hl=es&amp;oi=ao</userId>
+            <role></role>
+                    </associatedParty>
+            <pubDate>
+                    2023-07-21
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>El Herbario Padre Luis Sodiro (QPLS) es una colección histórica que contiene alrededor de 13500 muestras botánicas recolectadas entre 1856 y 1956. Aproximadamente, el 87% de las muestras proceden de Ecuador, principalmente de la región interandina, costa, noroccidente del país y del ingreso a la Amazonía hasta Cuyuja; y el 13% restante son de otros países. La mayor parte de las muestras fueron recolectadas por el padre Luis Sodiro, S.J. (1836-1909), y también hay muestras de otros padres jesuitas, como A. Mille, S.J., y P.J. Verleysen, S.J.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Ecuador</keyword>
+                                    <keyword>espécimen</keyword>
+                                    <keyword>ocurrencia</keyword>
+                                    <keyword>QPLS</keyword>
+                            <keywordThesaurus>N/A</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Las muestras del Herbario Padre Luis Sodiro (QPLS) fueron recolectadas principalmente de la región interandina, costa, noroccidente del país y del ingreso a la Amazonía hasta Cuyuja entre 1856 y 1956. Lamentablemente, al ser muestras antiguas, se carece de coordenadas geográficas para las mismas.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-81.475</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.103</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.582</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.003</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>1856-01-01</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>1986-07-16</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dicksoniaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Polypodiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Liliopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Rosales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Piperales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Alismatales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dryopteridaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Magnoliopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Aspleniaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Piperaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Alstroemeriaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Tracheophyta</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Polypodiopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Alstroemericaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Cyatheales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Araceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Liliales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Rosaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Polypodiales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Plantae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Rosero</surName>
+            </individualName>
+            <organizationName>BEAEP</organizationName>
+            <positionName>Administrador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>coordinacion@beaep.ec</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">N/A</userId>
+                    </contact>
+                    <contact>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Espinel-Ortiz</surName>
+            </individualName>
+            <organizationName>QPLS-BEAEP</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                    <deliveryPoint>José Nogales n69-22 y Francisco Arcos</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170301</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>(02) 2 491 156</phone>
+            <electronicMailAddress>david.espinel.ortiz@gmail.com</electronicMailAddress>
+                    <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?user=OTrOCE8AAAAJ&amp;hl=es&amp;oi=ao</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Procesamiento de ejemplares botánicos&lt;/b&gt;&lt;br&gt;
+Considerando que el Herbario QPLS no tiene investigadores activos que realicen recolecciones frecuentemente, no es necesaria la recepción de un Permiso de Investigación Biológica/Contrato Marco de Accesos a Recursos Genéticos y las guías de movilización respectivas. En caso de que esto aplicase, primero se verificará la validez de los permisos y guías y el de las muestras entregadas. Todas las muestras botánicas que se encuentran/llegan al Herbario QPLS ya deben estar adecuadamente secas y prensadas para realiza el siguiente proceso de evaluación:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Verificar que cada muestra tenga su etiqueta de información, y que está tenga material fértil, no esté rota. En caso de donaciones, verificar el oficio de donación para su notificación al Ministerio de Ambiente, Agua y Transición Ecológica.&lt;/li&gt;
+&lt;li&gt;Montaje de la muestra en un pliego de cartulina, según el protocolo descrito en este documento. Almacenamiento de cada muestra (mismo número de colección) en una carpeta café de papel empaque.&lt;/li&gt;
+&lt;li&gt;Verificación de posibles duplicados o partes de las muestras. Se considera duplicado cuando poseen la misma etiqueta, y la misma información en la muestra. Por ejemplo, dos pliegos con la misma etiqueta, y ambos pliegos con flores. Se considera parte de una muestra, cuando tienen la misma etiqueta, pero los pliegos tienen información botánica distinta. Por ejemplo, hay dos pliegos con la misma etiqueta, la primera tiene flores, la segunda frutos. En este caso, son consideradas partes de un mismo espécimen. Los duplicados serán utilizados en la exhibición de Ciencias Naturales del BEAEP. En caso de existir muchos duplicados (más de cinco) se considerará realizar intercambios botánicos con otros herbarios ecuatorianos previo acuerdo entre las partes interesadas.&lt;/li&gt;
+&lt;li&gt;Verificación de la determinación taxonómica en bases de datos especializadas (Tropicos.org e IPNI.org), y actualización en las muestras de ser el caso.&lt;/li&gt;
+&lt;li&gt;Verificación/ingreso/actualización de las muestras en la base de datos de ser el caso.&lt;/li&gt;
+&lt;li&gt;Adición del código de barras a cada muestra, en la cartulina café de papel empaque, y al pliego de cartulina.&lt;/li&gt;
+&lt;li&gt;Adición de etiqueta de identificación a la cartulina café de papel empaque.&lt;/li&gt;
+&lt;li&gt;Almacenamiento de las muestras en la colección.&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;
+De igual manera se revisarán las muestras dentro de la colección, por si estas requieren restauración. El proceso de manejo será idéntico al mencionado anteriormente.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Prensado y secado&lt;/b&gt;&lt;br&gt;
+El Herbario QPLS sólo maneja muestras recolectadas por los padres A. Sodiro, S.J., A. Mille, S.J. y P.J. Verleysen que ya se encuentran prensadas y secadas. Adicionalmente, no hay investigadores que se dediquen a la recolección de muestras botánicas en QPLS. Por tal razón, no se necesita del prensado o secado de muestras. En el caso de que esto sea necesario, se lo realizará en las instalaciones de alguno de los herbarios de Quito, previo la autorización respectiva.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Montaje&lt;/b&gt;&lt;br&gt;
+El proceso de montaje puede tardar entre 10 a 30 minutos por pliego, según su complejidad. Habitualmente, las muestras cosidas (leñosas o herbáceas gruesas) tardan más tiempo de aquellas que sólo necesitan papel engomado blanco (herbáceas delgadas o pequeñas). El protocolo de montaje es el siguiente:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubicar en un pliego de cartulina, del lado opaco, en la esquina superior derecha el sello del Herbario QPLS.
+&lt;li&gt;Adherir con pegamento la etiqueta de la muestra a la esquina inferior derecha, procurando ubicar el pegamento, únicamente, en el borde derecho de la etiqueta.
+&lt;li&gt;Ubicar la muestra en la cartulina, de tal manera que toda la muestra se ubique sobre la misma. En caso de ser muy grande, esta se puede cortar y montar en pliegos distintos, pero manteniendo la misma etiqueta, pues se tratan como distintas partes de una misma muestra.
+&lt;li&gt;Asegurarse que en la muestra se puedan observar detalles taxonómicos relevantes, como estípula, haz y envés de la hoja, el cáliz y la corola de la flor, frutos. Y que los mismos no estén cubiertos por muchas hojas, o que sean montados al revés (especialmente si hay pocas estructuras).&lt;/li&gt;
+&lt;li&gt;Con el papel engomado, blanco de distinto tamaño, adherir a la cartulina las hojas, ramas, tallos, flores y frutos delgados.&lt;/li&gt; &lt;li&gt;Asegurar que los papeles se hayan adherido a la cartulina. En caso de que se liberen, reemplazar con otro papel pegante.&lt;/li&gt; 
+&lt;li&gt;Una vez se ha adherido la muestra, en caso de que presente estructuras muy gruesas, coserlas a la cartulina con ayuda de una aguja y dos hebras del hilo chillo. Asegurarse de realizar un nudo en el anverso de la cartulina, y que la muestra esté bien ajustada.&lt;/li&gt; 
+&lt;li&gt;En caso de que se haya cosido, ubicar el papel Kraft engomado, café cubriendo los nudos de cada puntada.&lt;/li&gt; 
+&lt;li&gt;Pegar el sobre blanco a la esquina inferior izquierda y ubicar aquí las estructuras que se hayan caído durante el montaje, o que se encontraban desprendidas previa a este. En caso de que no haya espacio en la esquina inferior izquierda, ubicar el sobre en la esquina superior izquierda. &lt;/li&gt; 
+&lt;li&gt;Asegurarse por última vez que todo se encuentre bien con la muestra. Es decir, que no haya estructuras que se separen mucho de la cartulina, que se encuentre el sello, etiqueta y sobre en la cartulina, y que el papel Kraft cubra las puntadas en el anverso de la cartulina.&lt;/li&gt; 
+&lt;li&gt;Entregar el material para su pre-archivo y archivo.
+&lt;/ul&gt;</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Sellado y numeración de cartulinas de herbario&lt;/b&gt;&lt;br&gt;
+Cada muestra ingresada a la base de datos adquiere un número único de identificación que recibe el nombre de código de barras. Las muestras serán numeradas según el código de barras (por ejemplo, QPLS6847) de la siguiente manera:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Sellado del código de barras en la esquina inferior izquierda de la carpeta café de papel empaque.&lt;/li&gt;
+&lt;li&gt;Impresión del código de barras en papel bond.&lt;/li&gt;
+&lt;li&gt;Adición del código de barras impreso en el centro superior de la carpeta café de papel empaque.&lt;/li&gt;
+&lt;li&gt;Adición del código de barras en el centro inferior del pliego botánico, o cerca del sobre de papel bond del pliego, de ser el caso.&lt;/li&gt;
+&lt;li&gt;Archivo de las muestras.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+Es necesaria la adición de este número a cada muestra para: &lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Evitar confusiones si las muestras son separadas de la colección&lt;/li&gt;
+&lt;li&gt;Identificar si hay o no pérdida de muestras&lt;/li&gt;
+&lt;li&gt;Evitar ingresar información duplicada de una misma muestra a la base de datos&lt;/li&gt;
+&lt;li&gt;Evitar confusiones de las muestras, con referencia a la base de datos, si un investigador separa a la muestra de su respectiva carpeta café de papel empaque.&lt;/li&gt;
+&lt;/ul&gt;</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Pre-archivo y archivo de las muestras&lt;/b&gt;&lt;br&gt;
+Las muestras que ya han sido montadas o restauradas regresan a la base de datos donde se realiza una revisión del mismo de la siguiente manera:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Revisión del nombre científico en Tropicos.org e IPNI.org, portales constantemente actualizados, que contienen los nombres científicos aceptados de la mayor parte de plantas vasculares del mundo, así como de sinónimos, e información de endemismo. Se actualizan los nombres reconocidos de ser el caso, en la base de datos y en el espécimen, tanto en la carpeta de papel empaque, como el pliego de cartulina.&lt;/li&gt;
+&lt;li&gt;En caso de que toda la información esté bien, se le agrega un sello con el código de barras a la carpeta de papel empaque (en caso de que no lo haya tenido). Si la información de la muestra estuviese incompleta en la base de datos, se complementa esta información y se procede con el sellado del código de barras.&lt;/li&gt;
+&lt;li&gt;Las muestras que ya tienen su sello de código de barras son enviadas a una sección para ubicar el código de barras impreso. En caso de que ya tenga este código, en la carpeta y en el pliego, se lo envía a archivo.&lt;/li&gt;
+&lt;li&gt;Se adhiere el código de barras impreso a la carpeta de papel empaque y a la muestra montada en el pliego de cartulina.&lt;/li&gt;
+&lt;li&gt;Las muestras con código de barras son enviadas para su archivo respectivo. Es decir, son intercaladas en la colección QPLS según su identificación taxonómica, buscando mantener el orden alfabético descendente respectivo.&lt;/li&gt;
+&lt;/ul&gt;</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Cuarentena de las muestras&lt;/b&gt;&lt;br&gt;
+Todas las muestras que ingresen a la colección son depositadas inmediatamente en la congeladora, aproximadamente entre 2ºC a -20ºC, por al menos 48 horas. Posteriormente, son aisladas a temperatura ambiente en un armario en la zona trasera de las instalaciones, dónde permanecerán hasta su procesamiento respectivo. &lt;br&gt;
+En caso de encontrarse una muestra que tenga hongos, esta es inmediatamente separada de la colección. Se limpia el hongo con alcohol al 70 % y un pincel hasta que la parte visible del hongo desaparezca. Finalmente, se la ubica en una funda plástica en congelación por al menos siete días. Posteriormente, se evalúa si el hongo vuelve a crecer dejando reposar a la muestra en una esquina del Herbario QPLS. Si el hongo no vuelve a crecer, se la devuelve a la colección. Caso contrario, se repite este procedimiento otra vez. Adicionalmente, se revisará las muestras que hayan reposado con la muestra infectada en búsqueda de otras posibles contaminaciones.&lt;br&gt;
+En caso de hallar insectos, se los sacrificará y todo el paquete de muestras reposará directamente en congelación por cinco días. Tras pasar este tiempo, si no se encuentran insectos entre las muestras, estas serán devueltas a la colección.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Almacenamiento y arreglo de los pliegos botánicos&lt;/b&gt;&lt;br&gt;
+Todas las muestras montadas en un pliego de cartulina se almacenan en la colección principal, en compactadores, de manera alfabética, en orden descendente según su clasificación taxonómica. Primero se las ordena por familia, en cada familia por género, y en cada género por especie. Las muestras cuya identificación esté incompleta se almacenan al final de cada sección. Por ejemplo, una muestra identificada como Rubus sp. se ubica al final de la última especie del género Rubus. De igual manera, una muestra cuya identificación final sea Rosaceae se almacena al final de la última especie, del último género de la familia Rosaceae.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Determinación taxonómica y estándares de curaduría taxonómica&lt;/b&gt;&lt;br&gt;
+La identificación de las muestras es realizada por especialistas botánicos que visitan el Herbario QPLS. Además, continuamente se realiza una revisión de la identificación taxonómica de las especies en bases de datos especializadas, como Tropicos.org o IPNI.org, para actualizar los nombres en casos de sinonimia. También se revisan artículo científicos y libros dónde se citen las muestras para actualizarlas adecuadamente.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Índice de salud de las colecciones&lt;/b&gt;&lt;br&gt;
+La evaluación de la salud de las colecciones, así como sus soluciones, se realiza de acuerdo a la siguiente tabla elaborada a partir de la información provista por (Castaño-Ramírez y Ramírez-Chaves, 2018). &lt;br&gt;
+0 – Ausente, en mal estado – Muestra sin etiqueta, separada del pliego botánico, sin identificación en la carpeta café, ni código de barras – Buscar posible etiqueta, verificando especímenes de otros herbarios. Verificar si necesita restauración. Agregar/corregir la información en la base de datos. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+1 – Ausente, en buen estado – Muestra sin etiqueta, montada en un nuevo pliego botánico, con identificación en la carpeta café, con código de barras – Buscar posible etiqueta, verificando especímenes de otros herbarios. Agregar/corregir la información en la base de datos.&lt;br&gt;
+2 – Rezago de información – Muestra botánica, con información desactualizada en base de datos – Verificar si necesita restauración. Agregar/corregir la información en la base de datos. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+3 – Sin identificación inaccesibles – Muestras indeterminadas fuera de la colección y/o base de datos – Verificar si necesita restauración. Agregar/corregir la información en la base de datos. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+4 – Sin identificación accesibles – Muestras indeterminadas en la colección y/o base de datos – Verificar si necesita restauración. Agregar/corregir la información en la base de datos. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+5 – Archivo incompleto – Muestra cuya información está en la base de datos, sin código de barras en la muestra, con/sin identificación en la carpeta – Verificar si necesita restauración. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+6 – Archivo completo – Muestra cuya información está en la base de datos, con código de barras en la muestra, e identificación en la carpeta – Verificar si necesita restauración. No es necesaria ninguna solución.&lt;br&gt;
+7 – Curado e identificación inaccesible – Muestras con una identificación taxonómica adecuada, pero fuera de la colección y/o base de datos – Agregar a la base de datos. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+8 – Curación incompleta – Muestras con una identificación taxonómica adecuada, dentro/fuera de la base de datos, muestras bien montadas en nueva cartulina, con/sin código de barras y etiqueta de identificación en la carpeta – Agregar/corregir la información en la base de datos. Agregar código de barras y etiqueta de identificación de ser el caso.&lt;br&gt;
+9 – Curación completa – Muestras con una identificación taxonómica adecuada, dentro de la base de datos, muestras bien montadas en nueva cartulina, con código de barras y etiqueta de identificación en la carpeta – No es necesaria ninguna solución.&lt;br&gt;
+10 – “Full working” – Material en buen estado (nuevo pliego, etiqueta de identificación en la carpeta, con código de barras), con identificaciones por especialistas y/o en publicaciones – No es necesaria ninguna solución, sólo revisar que la publicación esté referida en la base de datos, y que esté disponible física o electrónicamente en la base de datos.&lt;br&gt;
+Referencias:&lt;br&gt;
+Castaño-Ramírez, N. D., &amp; Ramírez-Chaves, H. E. (2018). Sistematización y estimación del índice de salud de la Colección de Mamíferos (Mammalia) del Museo de Historia Natural de la Universidad de Caldas, Colombia. Boletín Científico. Centro de Museos. Museo de Historia Natural, 22(2), 90-103.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>&lt;b&gt;Remoción y eliminación de ejemplares&lt;/b&gt;&lt;br&gt;
+Según el nivel de salud de la muestra, constantemente se realizan restauraciones de las mismas en nuevos pliegos de cartulina. Hasta el momento no se han encontrado muestras completamente destruidas, a tal punto, que sean inservibles. De igual manera, el proceso de remoción de ejemplares de ser el caso, procederá de la siguiente manera:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluación de afectación de la muestra. Si se han perdido características botánicas relevantes, como hojas, estípulas, flores y frutos, se puede considerar su remoción&lt;/li&gt;
+&lt;li&gt;Búsqueda de posibles duplicados dentro de la colección. En caso de que exista un duplicado de la muestra a ser removida, el duplicado tomará el lugar de la muestra principal.&lt;/li&gt;
+&lt;li&gt;Modificación y actualización en la base de datos. Considerando que cada muestra tiene un código de barras específico, en caso de no existir un duplicado, se realizará una anotación para la muestra eliminada, señalando lo sucedido. En caso de existir un duplicado, se ubicará en este el código de barras de la muestra principal. Además, en este último caso se realizará la anotación en la base de datos, de que se ha eliminado una muestra.&lt;/li&gt;
+&lt;li&gt;Finalmente, para evitar la pérdida de información, se considerará la digitalización de los especímenes de la colección, a fin de tener al menos una imagen de la muestra antes de que esta se dañe y sea eliminada.&lt;/li&gt;
+&lt;/ul&gt;</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>El Herbario Padre Luis Sodiro (QPLS) contiene muestras recolectadas en el noroccidente de Ecuador, la región interandina y la entrada a la Amazonía hasta Cuyuja. Estas muestras fueron recolectadas por A. Sodiro, S.J., A. Mille, S.J., y P.J. Verleysen, S.J. a finales de los 1800, y comienzos de los 1900.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Los padres jesuitas que se encargarón de la recolección de muestras, lo hacían cerca de los poblados que visitaban, o en los que vivían. También lo hacían en localidades cercanas a caminos, cuando se movilizaban de una ciudad a otra.</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>Se considera a las muestras adecuadas cuando estas poseen una etiqueta, en la que se escriba una noción de la localidad en latín, así como el recolector y su identificación. Muchas de las muestras carecen de una fecha de recolección, provincia dónde fue recolectada. Sin embargo, los especímenes se encuentran en óptimas condiciones, muchas de ellas con flores y/o frutos. Una vez en el Herbario QPLS, las muestras son procesadas de acuerdo a los protocolos mencionados a continuación</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+                <project id="QPLS">
+                    <title>Colección de plantas del Herbario Padre Luis Sodiro (QPLS)</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Pablo</givenName>
+                                <surName>Rosero</surName>
+                            </individualName>
+                                        <userId directory="http://scholar.google.com/citations?user=">N/A</userId>
+                            <role>pointOfContact</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>David</givenName>
+                                <surName>Espinel-Ortiz</surName>
+                            </individualName>
+                                        <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com/citations?user=OTrOCE8AAAAJ&amp;hl=es&amp;oi=ao</userId>
+                            <role>author</role>
+                        </personnel>
+                        <abstract>
+                            <para>El Herbario Padre Luis Sodiro (QPLS) es una colección histórica que contiene alrededor de 13500 muestras botánicas recolectadas entre 1856 y 1956. Aproximadamente, el 87% de las muestras proceden de Ecuador, principalmente de la región interandina, costa, noroccidente del país y del ingreso a la Amazonía hasta Cuyuja; y el 13% restante son de otros países. La mayor parte de las muestras fueron recolectadas por el padre Luis Sodiro, S.J. (1836-1909), y también hay muestras de otros padres jesuitas, como A. Mille, S.J., y P.J. Verleysen, S.J. Las colecciones de este herbario son de gran importancia porque provienen de áreas que han perdido sus recursos por la colonización, ampliación de la frontera agrícola, o cuya vegetación se vio alterada por desastres naturales.</para>
+                        </abstract>
+                        <funding>
+                            <para>El financiamiento del Herbario Padre Luis Sodiro (QPLS) proviene de los fondos asignados al Centro Cultural Biblioteca Aurelio Espinos Pólit (BEAEP) por parte del Ministerio de Cultura. Cabe recalcar, que el BEAEP es una institución privada cuyo financiamiento proviene de fondos públicos.</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Las muestras del Herbario Padre Luis Sodiro (QPLS) fueron recolectadas principalmente de la región interandina, costa, noroccidente del país y del ingreso a la Amazonía hasta Cuyuja entre 1856 y 1956.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-04-28T13:50:53.462+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Espinel-Ortiz D, Rosero P (2023). Colección de plantas del Herbario Padre Luis Sodiro (QPLS). Version 1.4. Herbario Padre Luis Sodiro. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=qpls-plantae&amp;v=1.4</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=coleccion-plantas-qpls</resourceLogoUrl>
+                                    <collection>
+                                            <parentCollectionIdentifier>Herbario Padre Luis Sodiro (QPLS), Centro Cultural Biblioteca Aurelio Espinosa Pólit</parentCollectionIdentifier>
+                                            <collectionIdentifier>QPLS</collectionIdentifier>
+                                        <collectionName>Colección de plantas del Herbario Padre Luis Sodiro (QPLS)</collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+                                    <specimenPreservationMethod>mounted</specimenPreservationMethod>
+                                <jgtiCuratorialUnit>
+                                        <jgtiUnitType>Individual sample</jgtiUnitType>
+                                        <jgtiUnits
+                                                uncertaintyMeasure="0">114</jgtiUnits>
+                                </jgtiCuratorialUnit>
+                            <dc:replaces>9f23be2d-ee86-4d72-892a-f8d0d4dc27e7/v1.4.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

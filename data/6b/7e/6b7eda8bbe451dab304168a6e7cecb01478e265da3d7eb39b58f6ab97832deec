@@ -1,0 +1,250 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mccdrs/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mccdrs</alternateIdentifier>
+  <title xml:lang="spa">Colección Marina Estación Científica Charles Darwin</title>
+      <creator>
+    <individualName>
+        <givenName>Nathalia</givenName>
+      <surName>Tirado-Sanchez</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Curadora MCCDRS</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>nathalia.tirado@fcdarwin.org.ec</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Francisco</givenName>
+      <surName>Martínez</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Coordinador IT</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>francisco.martinez@fcdarwin.org.ec</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Nathalia</givenName>
+      <surName>Tirado-Sánchez</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Curadora MCCDRS</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>nathalia.tirado@fcdarwin.org.ec</electronicMailAddress>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Cristian</givenName>
+      <surName>Jitala</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Desa</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+    </address>
+    <electronicMailAddress>cristian.jitala@fcdarwin.org.ec</electronicMailAddress>
+    <role>programmer</role>
+      </associatedParty>
+  <pubDate>
+      2022-08-08
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>La Colección de Invertebrados Marinos de la Estación Científica Charles Darwin (MCCDRS), fue instaurada con el propósito de proveer el soporte científico para estudios de biodiversidad nativa, endémica e introducida de la Reserva Marina de Galápagos (RMG). Actualmente, la colección custodia alrededor de 10.000 especímenes pertenecientes a los grupos de invertebrados marinos (Mollusca, Arthropoda, Cnidaria, Porifera, Equinodermata, Chordata, Annelida y Bryozoa) y peces.</para>
+    <para>La colección Marina es producto del aporte de investigación llevadas a cabo en la RMG desde los años 70s, que a lo largo del tiempo nos han permitido evidenciar la diversidad taxonómica y tener un referente geográfico de su distribución; esta colección se incrementa a través del constante aporte de las investigaciones, entre los proyectos más recientes que aportan al crecimiento de la MCCDRS son Especies Invasoras Marinas y Ecosistemas Marinos de Profundidad –Montañas Submarinas (MS) &amp; Fuentes Hidrotermales (FH)-, de estos últimos se destaca la inclusión de 53 especies introducidas de la RMG y la posibilidad de albergar nuevas especies para la ciencia provenientes de los hábitats profundos ya que son entornos poco estudiados.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Mollusca</keyword>
+            <keyword>Arthropoda</keyword>
+            <keyword>Cnidaria</keyword>
+            <keyword>Porifera</keyword>
+            <keyword>Equinodermata</keyword>
+            <keyword>Chordata</keyword>
+            <keyword>Annelida</keyword>
+            <keyword>Bryozoa</keyword>
+            <keyword>Actinopterygii</keyword>
+            <keyword>Chondrychthyes</keyword>
+        <keywordThesaurus>Taxonomia</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.darwinfoundation.org/es/nosotros/eccd/colecciones</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Islas Galápagos y Reserva Marina de Galápagos</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-92.683</westBoundingCoordinate>
+          <eastBoundingCoordinate>-88.575</eastBoundingCoordinate>
+          <northBoundingCoordinate>2.35</northBoundingCoordinate>
+          <southBoundingCoordinate>-2.075</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1962-09-02</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2021-10-18</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Invertebrados marinos: Mollusca, Arthropoda, Cnidaria, Porifera, Equinodermata, Chordata, Annelida, Bryozoa.
+
+Peces óseos. Peces cartilaginosos: Tiburones, rayas y quimeras.
+</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Actinopterygii</taxonRankValue>
+                  <commonName>Peces óseos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Chondrychthyes</taxonRankValue>
+                  <commonName>Peces cartilaginosos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Annelida</taxonRankValue>
+                  <commonName>Anélidos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>subphylum</taxonRankName>
+                <taxonRankValue>Crustacea</taxonRankValue>
+                  <commonName>Crustáceos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Chaetognatha</taxonRankValue>
+                  <commonName>Gusanos flecha</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Cnidaria</taxonRankValue>
+                  <commonName>Nidarios</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Echinodermata</taxonRankValue>
+                  <commonName>Equinodermos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Mollusca</taxonRankValue>
+                  <commonName>Moluscos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Nemertea</taxonRankValue>
+                  <commonName>Gusanos cinta</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Platyhelminthes</taxonRankValue>
+                  <commonName>Gusanos planos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Porifera</taxonRankValue>
+                  <commonName>Esponjas de mar</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Arthopoda</taxonRankValue>
+                  <commonName>Artropodos</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Briozoa</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Ascidia</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Miguel</givenName>
+      <surName>Pinto</surName>
+    </individualName>
+    <organizationName>Fundación Charles Darwin</organizationName>
+    <positionName>Coordinador de Colecciones</positionName>
+    <address>
+        <deliveryPoint>Av. Charles Darwin s/n  ECCD</deliveryPoint>
+        <city>Puerto Ayora</city>
+        <administrativeArea>Galápagos</administrativeArea>
+        <postalCode>200105</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>miguel.pinto@fcdarwin.org.ec</electronicMailAddress>
+      </contact>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-06-30T04:58:33.469+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Charles Darwin Foundation (2022): Colección Marina Estación Científica Charles Darwin. v1.2. Charles Darwin Research Station. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mccdrs&amp;amp;v=1.2</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mccdrs</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>http://grscicoll.org/institutional-collection/marine-collection-charles-darwin-foundation</collectionIdentifier>
+                <collectionName>Colección Marina ECCD - MCCDRS</collectionName>
+              </collection>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                <specimenPreservationMethod>formalin</specimenPreservationMethod>
+                <specimenPreservationMethod>dried</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mccdrs/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

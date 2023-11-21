@@ -1,0 +1,105 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maate-arsfc-2022-2763/v2.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/8ovkjv</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maate-arsfc-2022-2763</alternateIdentifier>
+                <title xml:lang="spa">Distribución nictemeral del zooplancton en la zona costera de la Isla de la Plata, Pto. López - Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Edgar</givenName>
+                <surName>Posligua</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Península de Santa Elena</organizationName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>suaresposli@gmail.com</electronicMailAddress>
+                    </creator>
+                    <associatedParty>
+            <organizationName>Universidad Estatal Península de Santa Elena</organizationName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <role>custodianSteward</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-08-29
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Los estudios del zooplancton en los últimos 25-30 años han permitido comprender procesos ecológicos, análisis de la diversidad marina con criterios morfológicos y moleculares, la estructura comunitaria, las relaciones tróficas y los cambios poblacionales. Por ende, este trabajo tuvo como objetivo principal evaluar la distribución nictemeral del zooplancton mediante arrastres superficiales considerando factores físicos y químicos en la influencia de diversidad y abundancia de la zona costera de la Isla de Plata.</para>
+                            <para>La metodología utilizada para el proyecto tuvo dos la fase; fase campo donde se utilizó una embarcación para los muestreos, mismo que se realizaron con el uso de una red cónica de 335 con un diámetro de boca de 35 cm, la muestras fueron extraídas de día y noche, almacenadas en frascos de 250 ml con formol al 4%, para la fase laboratorio se utilizó el Manuel de planctonologie Méditerranéenne de Maurice Rose para la identificación de zooplancton, la observación se realizó mediante un estereoscopio y conteo mediante una cámara de bogorov.</para>
+                            <para>El uso de programas bioestadístico ayudó para poder tener los resultados donde se determinó la abundancia de los tres meses, noviembre 22 la densidad poblacional registró un total de 737807 ind. siendo el mes de menor abundancia, mientras que para diciembre 22 se obtuvo un registro de 975002 ind. presentado la mayor abundancia, para el mes de enero 23 una población de 869935 ind. presentado una asimetría negativa, para los índices ecológicos de los tres meses, Shannon reveló una mayor diversidad por la noche, para Simpson, la dominancia se presentó en los copépodos calanoides y Pieulo, la equidad se mantuvo en ausencia de uniformidad tanto el día como la noche. La correlación de Pearson se usó para relacionar la abundancia y los parámetros donde se presentó el R2 como relación nula durante los tres meses de muestro.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://repositorio.upse.edu.ec/handle/46000/9660</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Zona costera de la Isla de la Plata</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Edgar</givenName>
+                <surName>Posligua</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Península de Santa Elena</organizationName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>suaresposli@gmail.com</electronicMailAddress>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+                <project id="MAAE-ARSFC-2022-2763">
+                    <title>DISTRIBUCIÓN NICTEMERAL DEL ZOOPLANCTON EN LA ZONA COSTERA ISLA DE LA PLATA, PUERTO LOPEZ – ECUADOR</title>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-08-29T17:12:58.175+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/8ovkjv">Posligua E (2023). Distribución nictemeral del zooplancton en la zona costera de la Isla de la Plata, Pto. López - Ecuador. Version 2.0. Universidad Estatal Península de Santa Elena. Samplingevent dataset. https://doi.org/10.60545/8ovkjv</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=maate-arsfc-2022-2763</resourceLogoUrl>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maate-arsfc-2022-2763/v2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

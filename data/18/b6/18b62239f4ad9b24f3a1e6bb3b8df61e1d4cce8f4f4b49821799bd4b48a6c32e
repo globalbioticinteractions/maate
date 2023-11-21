@@ -1,0 +1,405 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mani-iniap/v1.12" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mani-iniap</alternateIdentifier>
+  <title xml:lang="spa">Diversidad genética de la colección nacional de maní (Arachis hypogaea L.) del Banco Nacional de Germoplasma del INIAP</title>
+      <creator>
+    <individualName>
+        <givenName>Marcelo</givenName>
+      <surName>Tacán</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Investigador auxiliar 1</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>0985450335</phone>
+    <electronicMailAddress>marcelo.tacan@iniap.gob.ec</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Eduardo</givenName>
+      <surName>Ordóñez</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Investigador agropecuario 1</positionName>
+    <address>
+        <city>Cuenca</city>
+        <administrativeArea>Azuay</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593)991223336</phone>
+    <electronicMailAddress>hilton.ordonez@iniap.gob.ec</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>César</givenName>
+      <surName>Tapia</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Líder del Departamento Nacional de Recursos Fitogenéticos (DENAREF)</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593) 992521219</phone>
+    <electronicMailAddress>cesar.tapia@iniap.gob.ec</electronicMailAddress>
+          <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/cesar-tapia-72406134</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Álvaro</givenName>
+      <surName>Monteros</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Investigador agropecuario 3</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593)996763609</phone>
+    <electronicMailAddress>alvaro.monteros@ambiente.gob.ec</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Alberto</givenName>
+      <surName>Roura</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Investigador auxiliar 1</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593)995859603</phone>
+    <electronicMailAddress>alberto.roura@ambiente.gob.ec</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Ricardo</givenName>
+      <surName>Andrade</surName>
+    </individualName>
+    <organizationName>MAATE</organizationName>
+    <positionName>Especialista en recursos genéticos 2</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593)980284925</phone>
+    <electronicMailAddress>ricardo.andrade@ambiente.gob.ec</electronicMailAddress>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Robinson</givenName>
+      <surName>Guanotoa</surName>
+    </individualName>
+    <organizationName>INSPI</organizationName>
+    <positionName>Técnico de campo</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+    </address>
+    <phone>(593)961818700</phone>
+    <electronicMailAddress>robin_alex@hotmial.com</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Eduardo</givenName>
+      <surName>Ordónez</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Investigador agropecuario 1</positionName>
+    <address>
+        <city>Cuenca</city>
+        <administrativeArea>Azuay</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593)(02)3006089</phone>
+    <electronicMailAddress>hilton.ordonez@iniap.gob.ec</electronicMailAddress>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Marcelo</givenName>
+      <surName>Tacán</surName>
+    </individualName>
+    <organizationName>INIAP</organizationName>
+    <positionName>Investigador auxiliar 1</positionName>
+    <electronicMailAddress>marcelo.tacan@iniap.gob.ec</electronicMailAddress>
+      </metadataProvider>
+  <pubDate>
+      2022-09-21
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El maní (Arachis hypogaea L.) es una leguminosa muy valorada a nivel mundial que está presente en la dieta de la población ya que contiene una alta concentración de lípidos y proteínas, mientras que el contenido de carbohidratos y cenizas es bajo. Los constituyentes grasos y no grasos están casi equilibrados, su proporción depende del cultivar y la calidad de semillas. Muchos de los constituyentes grasos están concentrados en los cotiledones, algunos están en el germen y pequeñas cantidades están generalmente en la testa (Bellido, 2002; Zapata et al., 2012).</para>
+    <para>Esta especie presenta las siguientes características botánicas (Ceballos, 2002).
+</para>
+    <para>1.Un sistema radicular constituido por una raíz pivotante central que origina un gran número de raíces secundarias y terciarias. Presenta nódulos por la presencia de bacterias nitrificantes.
+</para>
+    <para>2.Su tallo puede ser erecto o rastrero, con una altura que va desde los 15 hasta los 70 cm. Con ramas ligeramente pubescentes, de color verde o púrpura en algunas variedades; son de sección angulosa en su juventud y se torna cilíndricas al envejecer. 
+</para>
+    <para>3.Las hojas son pinnado-compuestas con dos pares de foliolos ovalados, obtusos o ligeramente puntiagudos, con márgenes lisos, de 4 a 8 cm de largo. Tienen en la base del pecíolo dos estípulas angostas. Alargadas y puntiagudas. Pueden tener uno, dos, tres o cinco foliolos con estomas en ambas caras y comprenden un mesófilo esponjoso. 
+</para>
+    <para>4.Las inflorescencias se presentan como unas espigas de tres a cinco flore, nacen en las ramillas vegetativas en la axila de una hoja completa o rudimentaria, que tiene a su vez una hoja rudimentaria la que a menudo puede ser bífida. 
+</para>
+    <para>5.Las flores autógamas que se presentan en pequeños racimos de tres o cinco flores; solo una o dos alcanzan la madurez; son amarillas y de 0.9 a 1.4 cm de diámetro, formadas por un estandarte grande, frecuentemente con manchas moradas, y alas grandes que la quilla que es puntiaguda. Tienen nueve estambres diadelfos y en algunos casos monoadelfo. Los estambres están alrededor del ovario alargado. Después de la fertilización, el peciolo de la flor se alarga llegando a alcanzar de 5 a 20 cm respondiendo a un fenómeno de geotropismo positivo; se entierra el ovario fecundado para completar su desarrollo y se inicia la formación de fruto. 
+</para>
+    <para>6.Su fruto es una vaina indehiscente de forma cilíndrica irregular de 2 a 7 cm de largo con dos o cuatro semillas. Se encuentra enterradas en el suelo a 3-25 cm de profundidad. Sus vainas son abultadas, de color café amarillento, con bordes prominentes reticulados, más o menos estrechos entre las semillas. De la cantidad total de flores formadas, solo el 70% produce ginóforos y estos solo alrededor del 30 a 40% producen fruto. 
+</para>
+    <para>7.Las semillas son ligeramente redondas a ovalo-alargadas, con hilum puntiagudo, tiene una testa más o menos gruesa algo reticulada y posee dos cotiledones blancos de aspecto aceitoso, pueden llegar a medir hasta dos centímetros de largo y un centímetro de ancho. Su peso puede oscilar entre 0.2 y 2 g; las semillas constituyen el elemento económicamente importante por su riqueza en aceite y proteínas (Jarvis et al., 2003).</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Arachis</keyword>
+            <keyword>maní</keyword>
+            <keyword>INIAP</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>La pérdida de la diversidad en Ecuador se ha evidenciado durante las colectas de germoplasma de maní, ya que en algunos casos no se encuentran variedades nativas en sitios de colectas anteriores o es muy difícil encontrarlas. 
+
+Las razones son varias, entre ellas, el cambio de hábitos alimenticios, desconocimiento de las cualidades nutricionales, alimenticias o medicinales, cambio climático, destrucción de los ecosistemas naturales, la sustitución de variedades nativas por mejoradas, desastres naturales, las exigencias de los mercados, entre otros.
+
+El propósito del INIAP como instituto público de investigación agropecuaria, es liderar la conservación de la diversidad genética de los recursos fitogenéticos para la agricultura y la alimentación que se encuentren en territorio nacional y ha formado el banco de germoplasma más grande del país. 
+
+El INIAP conserva ex situ la agrobiodiversidad utilizando diferentes metodologías en cámara refrigerada, cultivo in vitro y colecciones de campo.</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Muestras de maní recolectadas en 18 provincias del Ecuador como se detalla a continuación: Pichincha, Sucumbíos, Loja, Orellana, Napo, Pastaza, Morona Santiago, Zamora Chinchipe, El Oro, Manabí, Imbabura, Carchi, Esmeraldas, Santo Domingo de los Tsáchilas, Guayas, Los Ríos, Cotopaxi y Cañar.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.387</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.103</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.318</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.069</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>La especie Arachis hypogaea, L pertenece al género Arachis, orden Fabales, familia Papilionaceae (Fabaceae), la más reciente clasificación taxonómica realizada por Krapovickas y Gregory en 1994 divide a Arachis hypogaea en dos subespecies, hypogaea y fastigiata, la clasificación de estas subespecies se encuentra basada por la presencia (subsp. fastigiata) o ausencia (subsp. hypogaea) de flores en el axis principal (Krapovickas &amp; Gregory, 1994), además de que Arachis hypogaea subespecie hypogaea tiene una duración de largo a mediano plazo y usualmente presenta dormancia, mientras que Arachis hypogaea subespecie fastigiata es generalmente de corta duración y no tiene dormancia. 
+                                                                                                         Las dos subespecies presentan seis variedades botánicas, basándose su clasificación por hábitos morfológicos y de crecimiento (Krapovickas y Gregory, 1994). Arachis hypogaea subsp. hypogaea está dividida en dos variedades hypogaea y hirsuta, mientras que la subsp. fastigiata tiene cuatro variedades fastigiata, vulgaris, peruviana y aequatoriana. Estas dos últimas variedades presentan su centro de diversidad en Perú y Ecuador respectivamente.                                                                                                 
+
+La subsp. hypogaea var. hypogaea, se caracteriza por la presencia de 2 a 3 semillas por vaina, ciclo vegetativo largo, forma de crecimiento rastrero, muchas ramificaciones, dormancia pronunciada de 30 a 180 días, resistencia regular contra Cercospora- enfermedad de manchas en las hojas. En el mercado se la conoce como la variedad Virginia y tiene su centro de diversidad en el noreste de Brasil.                                                   
+
+La subsp. hypogaea var. hirsuta es una variedad muy distintiva, de gran tamaño, presencia de vellosidades en tallo y hojas, vainas que contienen de 3 a 4 semillas; su centro de diversidad se presenta en Perú y se encuentra dispersa a partir de ahí hacia Indonesia, China y Madagascar.  La subsp. fastigiata var. fastigiata, conocida también como Valencia, es generalmente erguida con 3 a 4 semillas por vaina, ciclo vegetativo corto, forma de crecimiento corto, con tallos más gruesos y menos ramificados. Se encuentra ampliamente distribuida en América del Sur y predomina en cinco de los 7 centros de diversidad.                                                                
+
+La var. vulgaris o Español, es igualmente erguida como la var. fastigiata, presenta 2 semillas por vaina; su centro de variación es en la región guaraní.  
+                                                                                                             Las variedades peruviana y aequatoriana tienen sus centros de diversidad en Perú y Ecuador, respectivamente; la var. peruviana, se distingue de la var. fastigiata por presentar frutos con reticulación marcada. La var. aequatoriana se caracteriza por presentar follaje con vellosidades, ramas largas y fuertes, vainas que contienen de 3 a 5 semillas de colores.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>genus</taxonRankName>
+                <taxonRankValue>Arachis hypogaea</taxonRankValue>
+                  <commonName>Maní</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>César</givenName>
+      <surName>Tapia</surName>
+    </individualName>
+    <organizationName>INIAP- DENAREF</organizationName>
+    <positionName>Líder del Departamento Nacional de Recursos Fitogenéticos (DENAREF)</positionName>
+    <address>
+        <deliveryPoint>Panamericana Km1</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>(593)(02)3006089</phone>
+    <electronicMailAddress>cesar.tapia@iniap.gob.ec</electronicMailAddress>
+    <onlineUrl>http://tecnologia.iniap.gob.ec/index.php/estaciones/meecat/mdepeecat</onlineUrl>
+          <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/cesar-tapia-72406134</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Metodología para conservación de semillas (Monteros et al, 2018): La adquisición de germoplasma en el DENAREF se ha dado principalmente a través de colecta, pero en el caso de ingresar germoplasma por otras fuentes externas tal como intercambio de germoplasma, se deben seguir procedimientos cuarentenarios.
+
+</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>La conservación de germoplasma en cámaras refrigeradas se da cuando la especie a ser conservada tiene semillas de comportamiento ortodoxo y subortoxo (es decir tolera baja temperatura a baja humedad interna, sin perder viabilidad). Para esto se requiere que las muestras de semillas conservadas mantengan la integridad genética y la viabilidad al más alto nivel posible, durante períodos prolongados. 
+
+</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Para determinar si una especie tiene semilla ortodoxa, recalcitrante o intermedia se debe referir a Hong y Ellis (1996).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Secamiento de semillas ortodoxas: Previamente al secado, a las muestras de semillas ortodoxas y subortodoxas colectadas se les debe limpiar de impurezas (piedras o restos de material vegetal como hojas, pedúnculos, etc.) y eliminar las semillas amorfas o con enfermedades y plagas. </para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Luego de la limpieza se determina el contenido de humedad. En el DENAREF se utilizan determinadores de humedad portátiles. Luego las semillas son acondicionadas en cuartos de secamiento, para esto la FAO (2014) recomienda condiciones de: 5-20 °C, y 10-25% humedad relativa HR; en el DENAREF se acondicionan en ambientes a 20 °C y 30-40% HR. El secamiento de semillas oleaginosas se da hasta porcentajes de entre 3 y 8% de humedad interna (HI) como el caso de la soya,  y entre 5 y 11% de HI para especies de semillas con contenido de almidón, como por ejemplo, maíz, trigo, etc. (Engels y Visser 2003). 
+</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>En el DENAREF se utilizan determinadores de humedad portátiles fabricados para semilla comercial para controlar el contenido de humedad durante el proceso de secado. En el caso de semillas de comportamiento subortoxo ó intermedio ej. Maní, café y Carica sp. el porcentaje de HI no puede bajar del 5% y no se puede almacenar por debajo de los 5ºC. Para este tipo de semillas, se deben usar métodos alternativos de conservación como colecciones de campo o cultivo in vitro.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>En el primer semestre del 2022, con el propósito mantener en óptimas condiciones las accesiones conservadas en el banco, se procedió al monitorear la viabilidad de la colección nacional de maní (Arachis hypogaea L.). 
+
+Como primera actividad se efectuó las respectivas pruebas de germinación de una muestra representativa de 44 accesiones con el siguiente protocolo: 
+
+1.- Cámara de germinación 12 horas de luz al 60% con temperatura de 28º C,  12 horas sin luz (oscuridad) con temperatura de 25º C, y humedad del 70%. 
+2.- Semillas desinfección con Vitavax (Carboxin + captan) dosis 500 gr de vitavax en 100 l de agua (1.25 gr/ 250 ml de agua destilada) dejar sumergir la semilla por 2 minutos,  posteriormente colocar en cajas petri hidratar y sellar con parafina los bordes de la caja.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>De las pruebas de germinación realizadas a 44 accesiones de maní (Arachis hypogaea L.) se tuvo como resultado un promedio del 75% de germinación de las accesiones evaluadas, parámetro considerado bajo para procesos de conservación de semilla en cámaras frías a largo plazo. 
+
+Tambien se obtuvieron los siguientes resultados: con un 20 % de germinación cuatro accesiones (ECU-11838, ECU-11470, ECU-12467, ECU-12483) y con una germinación del 60% nueve accesiones (ECU-11406,  ECU-11518, ECU-12441, ECU-16508, ECU-16466, ECU-11452, ECU-16497, ECU-16527, ECU-16537). 
+
+En tal sentido, con dicha información se procederá generar el plan de refrescamiento de la colección nacional de maní, para aumentar el porcentaje de viabilidad sobre el 85%.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Inventario de los Bancos Base y Activo: En este proceso se revisa la presencia física de las accesiones conservadas en cámaras frías tanto en el banco base como en el banco activo, se observa el estado de los sobres que no tengan rasgaduras que permitan el ingreso de humedad, revisión de las etiquetas para corroborar que los códigos este correctamente escritos y visibles; también se revisa el peso y se coloca en la base de datos la correcta ubicación dentro de los bancos. 
+
+Monitoreo de accesiones: Esta actividad permite evaluar la viabilidad de las accesiones, para lo cual se pone a germinar un grupo de semillas de cada accesión en las condiciones óptimas de germinación de acuerdo a cada especie (temperatura, humedad y fotoperiodo), esto se lo realiza cada 5 años aproximadamente, luego de este proceso se analiza el porcentaje de germinación, si esta sobre el 85%, se considera que la conservación es adecuada, pero si esa bajo ese valor, se debe considerar hacer un refrescamiento de la accesión en campo. 
+
+Refrescamiento: Si los valores del porcentaje de germinación están bajo el 85% el curador del banco determina que accesiones deben ser refrescadas, para lo cual se saca una proporción de las semillas de cada accesión y se las envía a las estaciones experimentales que cuenten con las condiciones para cultivar la accesión de acuerdo a la especie y a las condiciones que requiera, luego de este proceso las semillas obtenidas, pasan por el proceso de deshidratación y evaluación de viabilidad para ser ingresadas al banco activo. 
+
+Curación de Datos: Este proceso implica una revisión minuciosa de los datos pasaporte, porcentaje de humedad, peso, porcentaje de germinación, ubicación en los bancos. Para lo cual se utilizan herramientas online y offline.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Monitoreo de semillas conservadas en el banco de germoplasma INIAP para seleccionar seis especies en situación crítica, estudiar su diversidad genética e identificar patógenos asociados</title>
+      <personnel>
+        <individualName>
+            <givenName>Edwin</givenName>
+          <surName>Borja</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>César</givenName>
+          <surName>Tapia</surName>
+        </individualName>
+              <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/cesar-tapia-72406134</userId>
+        <role>pointOfContact</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Álvaro</givenName>
+          <surName>Monteros</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Marcelo</givenName>
+          <surName>Tacán</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <abstract>
+        <para>Actividad: Caracterizar morfoagronómica de 244 accesiones de maní (Arachis hypogaea L.).                                                                                 
+
+Objetivos: Monitorear la viabilidad y cantidad de las semillas ortodoxas de cultivos conservados en el banco de germoplasma de INIAP para seleccionar seis especies con bajo número de semillas o bajo porcentaje de germinación.                                                                                      
+
+Caracterizar y evaluar mediante la aplicación de descriptores morfológicos, agronómicos y moleculares a las especies priorizadas para determinar colecciones nucleares para fomentar su uso.                   
+
+Identificar los patógenos asociados con la semilla tanto en almacenamiento, que pueden tener posibles efectos en la viabilidad de la semilla, como los que se transmiten por semilla, se conservan en almacenamiento y podrían ser inóculo potencialmente negativo.</para>
+      </abstract>
+      <funding>
+        <para>Aporte Fondos CEREPS (USD): 247.500                                                               
+
+INIAP (USD): 27.500</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Características del sitio experimental: La fase de campo se llevó a cabo en Tumbatú perteneciente a la parroquía San Vicente de Pusir, provincia de Imbabura.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Tratamientos: 244 accesiones de maní (Colección del INIAP).           
+
+Unidad Experimental: cada hilera de 10 m de largo y 1 m de ancho, se sembró a una distancia de  0,50 m resultando un área total por accesión de 10 m2, de las que se elimanará por efecto de borde, dos plantas a cada extremo. El área del ensayo fue de 5000 m2. El área neta del cultivo fue 3088 m2.
+                                                                                           Análisis estadístico: se utilizó el análisis multivariado (Matriz de similitud (Distancia de Gower ; Análisis de agrupamiento (Método de Ward); Análisis canónico; Determinación de variables discriminantes entre grupos; Definición de duplicados y morfotipos existentes.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-05-19T03:15:04.712+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Tacán M, Ordóñez E, Tapia C, Monteros Á, Roura A, Andrade R, Guanotoa R (2022): Diversidad genética de la colección nacional de maní (Arachis hypogaea L.) del Banco Nacional de Germoplasma del INIAP. v1.12. Instituto Nacional de Investigaciones Agropecuarias. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mani-iniap&amp;v=1.12</citation>
+          <bibliography>
+                <citation>Bellido, L. 2002. Cultivos Industriales. Ediciones Mundi-Prensa, Madrid, pp. 512-521.
+
+</citation>
+                <citation>Ceballos, M. (2002). Caracterización morfológica y fenológica de la colección guatemalteca de maní (Arachis hypogaea L.) en la aldea El Conacaste, Sanarate.</citation>
+                <citation identifier="https://www.bioversityinternational.org/fileadmin/_migrated/uploads/tx_news/A_guide_to_effective_management_of_germplasm_collections_899.pdf">Engels, J., &amp; Visser, L. (2003). A Guide to effective management of germplasm collections. Handbook for Genebanks, 6, 172. https://www.bioversityinternational.org/fileadmin/_migrated/uploads/tx_news/A_guide_to_effective_management_of_germplasm_collections_899.pdf</citation>
+                <citation>FAO. (2004). Base de datos de la Organización de las Naciones Unidas para la Agricultura y la Alimentación. FAOSTAT.</citation>
+                <citation>Hong, T. D., &amp; Ellis, R. H. (1996). A protocol to determine seed storage behaviour. In IPGRI Technical Bulletin (Issue 1). IPGRI.
+
+</citation>
+                <citation>Jarvis, A., Ferguson, M.E., Williams, D., Guarino, L., Jones, P.G., Stalker, H.T., Valls, M., Pittman, R.N., Simpson, C.E., Bramel, P. (2003). Biogeography of wild Arachis: assessing conservation status and setting future priorities. Crop Science 43:1100-1108. 
+
+</citation>
+                <citation identifier="https://doi.org/10.30972/bon.160158">Krapovickas, A., &amp; Gregory, W. C. (2007). Taxonomía del género Arachis (Leguminosae). Bonplandia, 16(0), 1. https://doi.org/10.30972/bon.160158</citation>
+                <citation identifier="https://repositorio.iniap.gob.ec/handle/41000/4889">Monteros-Altamirano, Á., Tacán, M., Peña, G., Tapia, C., Paredes, N., y Lima, L. (2018). Guía para el manejo y conservación de recursos fitogenéticos en Ecuador. Instituto Nacional de Investigaciones Agropecuarias INIAP, March, 104. https://repositorio.iniap.gob.ec/handle/41000/4889</citation>
+                <citation identifier="http://biblioteca.usac.edu.gt/tesis/01/01_2371.pdf ">Progreso. Tesis Ing. Agr. Guatemala, USAC. 51 p. Disponible en: http://biblioteca.usac.edu.gt/tesis/01/01_2371.pdf</citation>
+                <citation identifier="https://dx.doi.org/10.4067/S0718-34292012000300006">Zapata, N., Vargas, M., y Vera, F. (2012). Crecimiento y productividad de dos genotipos de maní (Arachis hypogaea L.) según densidad poblacional establecidos en Ñuble, Chile. Idesia (Arica), 30(3), 47-54. https://dx.doi.org/10.4067/S0718-34292012000300006</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mani-iniap</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>ECU</collectionIdentifier>
+                <collectionName>Colección de maní</collectionName>
+              </collection>
+                <specimenPreservationMethod>refrigerated</specimenPreservationMethod>
+              <livingTimePeriod>1977-1999</livingTimePeriod>
+            <jgtiCuratorialUnit>
+                <jgtiUnitType>seed</jgtiUnitType>
+                <jgtiUnits
+                        uncertaintyMeasure="2000">10</jgtiUnits>
+            </jgtiCuratorialUnit>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mani-iniap/v1.12.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,266 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=utn-2022/v1.1" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=utn-2022</alternateIdentifier>
+  <title xml:lang="spa">Colección de plantas vasculares del Herbario de la Universidad Técnica del Norte</title>
+      <creator>
+    <individualName>
+        <givenName>Hugo</givenName>
+      <surName>Paredes</surName>
+    </individualName>
+    <organizationName>UTN-FICAYA</organizationName>
+    <positionName>Docente responsable del Herbario UTN</positionName>
+    <address>
+        <deliveryPoint>Av 17 de Julio y Gral. José María Córdova sector el Olivo</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100108</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0997038712</phone>
+    <electronicMailAddress>hoparedes@utn.edu.ec</electronicMailAddress>
+    <onlineUrl>http://www.utn.edu.ec</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5880-1607</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Guillermo</givenName>
+      <surName>Varela</surName>
+    </individualName>
+    <organizationName>UTN-FICAYA</organizationName>
+    <positionName>Técnico responsable del Herbario UTN</positionName>
+    <address>
+        <deliveryPoint>Av 17 de Julio y Gral. José María Córdova sector el Olivo</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100108</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0996570902</phone>
+    <electronicMailAddress>gdvarelaj@utn.edu.ec</electronicMailAddress>
+    <onlineUrl>http://www.utn.edu.ec</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-4070-8201</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Hugo</givenName>
+      <surName>Paredes</surName>
+    </individualName>
+    <organizationName>UTN-FICAYA</organizationName>
+    <positionName>Docente responsable del Herbario UTN</positionName>
+    <address>
+        <deliveryPoint>Av 17 de Julio y Gral. José María Córdova sector el Olivo</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100108</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>062997800</phone>
+    <electronicMailAddress>hoparedes@utn.edu.ec</electronicMailAddress>
+    <onlineUrl>http://www.utn.edu.ec</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5880-1607</userId>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Hugo Orlando</givenName>
+      <surName>Paredes</surName>
+    </individualName>
+    <organizationName>UTN</organizationName>
+    <positionName>Docente Facultad de Ingeniería en Ciencias Agropecuarias y Ambientales</positionName>
+    <address>
+        <deliveryPoint>Campus Yuyucocha</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100108</postalCode>
+    </address>
+    <phone>0997038712</phone>
+    <electronicMailAddress>hoparedes@utn.edu.ec</electronicMailAddress>
+    <onlineUrl>http://www.utn.edu.ec</onlineUrl>
+          <userId directory="http://orcid.org/">0000-0002-5880-1607</userId>
+    <role>curator</role>
+      </associatedParty>
+  <pubDate>
+      2023-02-10
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El Herbario de la Universidad Técnica del Norte (HUTN) se inició en 1989 con colecciones hechas en la provincia del Carchi como parte de una tesis de grado. A partir de entonces, este laboratorio ha recibido especímenes donados por el Herbario Nacional del Ecuador QCNE, de docentes y estudiantes de la Universidad.</para>
+    <para>El propósito inicial fue reforzar el proceso de enseñanza aprendizaje, en especial en las carreras de Ingeniería Forestal y de recursos Naturales. Por esta razón, no se puso mucho énfasis en la información que acompaña a los especímenes, pues lo que importaba era contar con los especímenes para uso didáctico. Sin embargo, con la donación de especímenes hecha por el Herbario Nacional y el depósito de especímenes de investigadores, docentes y estudiantes se empezó a conformar una colección científica que sirve como base para investigaciones donde la identificación correcta de especies es clave.</para>
+    <para>Es así como el 18 de diciembre del 2017, el Ministerio del Ambiente otorgó la patente de funcionamiento al HUTN, cumpliendo con las normas específicas se realizó la renovación de dicha patente hasta noviembre del 2020 y actualmente, la renovación para el 2022, se encuentra en proceso.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Familias</keyword>
+            <keyword>herbario</keyword>
+            <keyword>UTN</keyword>
+            <keyword>Plantas vasculares</keyword>
+            <keyword>especies arbóreas</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>La UTN se ha convertido en una de las Universidades referentes de la flora en el Norte del Ecuador; aquí se forman profesionales de la Carrera de Ingeniería Forestal y de Recursos Naturales, quienes usan los laboratorios en su formación y capacitación.</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://www.utn.edu.ec/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>La colección botánica provienen de las diferentes provincias del Ecuador, y con mayor énfasis en la zona norte del Ecuador, pocos especímenes han sido donados de Brasil.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-81.65</westBoundingCoordinate>
+          <eastBoundingCoordinate>-74.751</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.758</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.485</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1945-05-28</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2014-01-17</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Familias que se han ingresado en la base de datos, estos se irán alimentando en el transcurso del año.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Acanthaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Achariaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Actinidaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Adoxaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Alstroemeriaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Amaranthaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Anacardiaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Annonaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Apiaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Apocynaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Aquifoliaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Araceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Araliaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Bignoniaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Boraginaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Caprifoliaceae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chloranthaceae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>El Ingeniero Forestal graduado en la Carrera de Ingeniería Forestal de la Universidad Técnica del Norte, es un profesional competente con sólidos conocimientos en el establecimiento, el manejo, el aprovechamiento y la restauración de los recursos forestales, con el fin de ofrecer bienes y servicios para el buen vivir de la sociedad ecuatoriana. El futuro Ingeniero Forestal en base a sus habilidades, destrezas y conocimientos podrá desarrollar emprendimientos, ofrecer servicios profesionales a empresas públicas, privadas, sociales y comunitarias; además de asesorar y brindar consultorías a diferentes iniciativas, proyectos y programas, y ser un ente proactivo en la política forestal y ambiental del país, para lo que debe cumplir con: Practica la honestidad, puntualidad y responsabilidad. Promueve el diálogo de saberes a través de procesos de extensión, capacitación, recuperación, innovación y promoción. Busca la justicia, equidad y sustentabilidad en el uso, manejo y distribución de los recursos y servicios forestales. Respeta leyes, normas, principios y los conocimientos ancestrales en su accionar profesional.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>El mantenimiento de la base de datos es periódica y constante.</para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Hugo</givenName>
+      <surName>Paredes</surName>
+    </individualName>
+    <organizationName>UTN-FICAYA</organizationName>
+    <positionName>Docente de la Facultad de Ingenieria en Ciencias Agropecuarias y Ambientales</positionName>
+    <address>
+        <deliveryPoint>Av 17 de Julio y Gral. José María Córdova sector el Olivo</deliveryPoint>
+        <city>Ibarra</city>
+        <administrativeArea>Imbabura</administrativeArea>
+        <postalCode>100108</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>0997038712</phone>
+    <electronicMailAddress>hoparedes@utn.edu.ec</electronicMailAddress>
+    <onlineUrl>http://www.utn.edu.ec</onlineUrl>
+          <userId directory="http://orcid.org/">000-0002-5880-1607</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-02-03T02:29:48.438+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Paredes H, Varela G (2022): Colección de plantas vasculares del Herbario de la Universidad Técnica del Norte. v1.1. UNIVERSIDAD TECNICA DEL NORTE-HERBARIO UTN. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=utn-2022&amp;v=1.1</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=utn-2022</resourceLogoUrl>
+              <collection>
+                  <collectionIdentifier>364b49db-1344-4231-822f-38c0d76c7732</collectionIdentifier>
+                <collectionName>Plantas vasculares, arbóreas; flora menor.</collectionName>
+              </collection>
+                <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+                <specimenPreservationMethod>mounted</specimenPreservationMethod>
+                <specimenPreservationMethod>other</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=utn-2022/v1.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,250 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="a7e9fdfd-ea09-4969-94f1-d8574ada4508/v1.9" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>a7e9fdfd-ea09-4969-94f1-d8574ada4508</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-bats-bpcb</alternateIdentifier>
+                <title xml:lang="eng">Diversity and abundance of bats in the rainy season in Bosque Protector Cerro Blanco, Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Silvia</givenName>
+                <surName>Vela</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-6847-2720</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Manuel</givenName>
+                <surName>Chiquito</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59398183434</phone>
+                    <userId directory="https://orcid.org/">0000-0001-5379-6784</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Pamela</givenName>
+                <surName>León</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-3253-0156</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Daniela</givenName>
+                <surName>Guamán</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.20</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Abel</givenName>
+                <surName>Gallo-Pérez</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0003-1338-0068</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.20</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>090204</postalCode>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-9205-5396</userId>
+                    </creator>
+            <pubDate>
+                    2023-07-17
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>Monitoring was carried out on 32 effective sampling days in the Cerro Blanco BP, during the rainy season of 2022.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                                    <keyword>Sampling event</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Sampling will be carried out in the following localities: Condor stream, Guitar stream, Pigío upper part, Pigío lower part, Canoa stream, Cusumbo top and Cerro 507.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.1</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.974</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.13</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.181</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>0018-10-13</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>0032-11-11</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Phyllostomidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Chiroptera</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>ANIMALIA</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Vespertilionidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Mammalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>For the capture of flying micromammals, 10 mist nets of 12m by 3m were used, located every 20m in an approximate transect of 200m (Rizo, 2015).</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>In four study areas within the forest, 8 effective days for each area.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>For the capture of flying micromammals, 10 mist nets of 12m by 3m were used, located every 20m in an approximate transect of 200m (Rizo, 2015). Sampling will be conducted over eight nights, from 18h00 to 23h00 (eight days/five hours/ten nets), achieving a total sampling effort of 1600 hours/net for the 4 study sub-areas.&lt;br&gt;
+Nets will be checked in time periods of 15 to 30 minutes depending on the catch intensity. When the catch intensity drops, the nets will be moved to a different sampling site.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project >
+                    <title>Diversity and abundance of bats in the rainy season in Bosque Protector Cerro Blanco, Ecuador</title>
+                        <abstract>
+                            <para>Monitoring was carried out on 32 effective sampling days in the Cerro Blanco BP, during the rainy season of 2022.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Sampling will be carried out in the following localities: Condor stream, Guitar stream, Pigío upper part, Pigío lower part, Canoa stream, Cusumbo top and Cerro 507.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>For the capture of flying micromammals, 10 mist nets of 12m by 3m were used, located every 20m in an approximate transect of 200m (Rizo, 2015). Sampling will be conducted over eight nights, from 18h00 to 23h00 (eight days/five hours/ten nets), achieving a total sampling effort of 1600 hours/net for the 4 study sub-areas. Nets will be checked in time periods of 15 to 30 minutes depending on the catch intensity. When the catch intensity drops, the nets will be moved to a different sampling site.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-10T00:19:44.363+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/jj0qht">Vela S, Chiquito M, León P, Guamán D, Gallo-Pérez A, Barros-Diaz C, Pérez-Correa J (2023). Diversity and abundance of bats in the rainy season in Bosque Protector Cerro Blanco, Ecuador. Version 1.9. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/jj0qht</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=murcielagos-bpcb</resourceLogoUrl>
+                            <dc:replaces>a7e9fdfd-ea09-4969-94f1-d8574ada4508/v1.9.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

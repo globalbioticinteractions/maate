@@ -1,0 +1,101 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=arboles_patrimoniales/v2.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/mjbccf</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=arboles_patrimoniales</alternateIdentifier>
+                <title xml:lang="spa">Arboles Patrimoniales del Distrito Metropolitano de Quito</title>
+                    <creator>
+            <individualName>
+                    <givenName>Marcia </givenName>
+                <surName>Peñafiel</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <positionName>Analista de Gestión de Información</positionName>
+            <address>
+                    <deliveryPoint>Av. Río Coca E6-115 e Isla Fernandina</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170501</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+5932441592</phone>
+            <electronicMailAddress>marcia.penafiel@biodiversidad.gob.ec</electronicMailAddress>
+                    </creator>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <electronicMailAddress>pablo.sanchez@biodiversidad.gob.ec</electronicMailAddress>
+            <role>user</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-05-29
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Arboles Patrimoniales del Distrito Metropolitano de Quito 2020.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Distrito Metropolitano de Quito - Ecuador</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Pablo</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <organizationName>Instituto Nacional de Biodiversidad</organizationName>
+            <address>
+                    <deliveryPoint>Pje. Rumipamba N. 341 y Av. de los Shyris (Parque La Carolina)</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170135</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59322449824</phone>
+            <electronicMailAddress>pablo.sanchez@biodiversidad.gob.ec</electronicMailAddress>
+                    </contact>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-05-29T16:30:24.620+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/mjbccf">Peñafiel M (2023). Arboles Patrimoniales del Distrito Metropolitano de Quito. Version 2.0. Instituto Nacional de Biodiversidad. Occurrence dataset. https://doi.org/10.60545/mjbccf</citation>
+                            <resourceLogoUrl>https://upload.wikimedia.org/wikipedia/commons/2/20/Logo-inabio.jpg</resourceLogoUrl>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=arboles_patrimoniales/v2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

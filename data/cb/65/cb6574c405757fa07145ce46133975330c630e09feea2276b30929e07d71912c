@@ -1,0 +1,222 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=aves-redlist/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/mrbohl</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=aves-redlist</alternateIdentifier>
+                <title xml:lang="spa">Lista Roja de las Aves de Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Juan F.</givenName>
+                <surName>Freile</surName>
+            </individualName>
+            <organizationName>Comité Ecuatoriano de Registros Ornitológicos</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Tatiana</givenName>
+                <surName>Santander</surName>
+            </individualName>
+            <organizationName>Aves y Conservación</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Gustavo</givenName>
+                <surName>Jiménez-Uzcátegui</surName>
+            </individualName>
+            <organizationName>Fundación Charles Darwin</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Luis</givenName>
+                <surName>Carrasco</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Cisneros-Heredia</surName>
+            </individualName>
+            <organizationName>Universidad San Francisco de Quito</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Esteban</givenName>
+                <surName>Guevera</surName>
+            </individualName>
+            <organizationName>Aves y Conservación</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Manuel</givenName>
+                <surName>Sánchez-Nivicela</surName>
+            </individualName>
+            <organizationName>Comité Ecuatoriano de Registros Ornitológicos</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Boris</givenName>
+                <surName>Tinoco</surName>
+            </individualName>
+            <organizationName>Universidad del Azuay</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho</surName>
+            </individualName>
+            <organizationName>Ministerio de Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+            <role>pointOfContact</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-06-13
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Las listas rojas regionales son reconocidas como una herramienta que permite determinar prioridades de conservación de especies en escalas no globales (Warren et al. 1997, Gändenfors et al. 2001). Si bien la UICN actualiza periódicamente la lista de especies amenazadas a nivel global (UICN 2018), las regionales permiten comprender el riesgo de extinción de las especies en territorios geográficos restringidos.</para>
+                            <para>Debido a la desactualización de la lista roja de aves del Ecuador y a los cambios ambientales recientes, se identificó como prioritaria la revisión del riesgo actual de extinción de las aves ecuatorianas. Este proceso, iniciado en 2014, concluyó con la nueva lista roja de aves del Ecuador.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Checklist</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Inventorythematic</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Ecuador, incluye continente y galápagos.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-93.604</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-74.971</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.582</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.529</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Galliformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Aves</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Tinamidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Anseriformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Anhimidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cracidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Anatidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Tinamiformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Juan F.</givenName>
+                <surName>Freile</surName>
+            </individualName>
+            <organizationName>Comité Ecuatoriano de Registros Ornitológicos</organizationName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+                <project id="Proyecto Paisajes – Vida Silvestre">
+                    <title>Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial</title>
+                        <abstract>
+                            <para>El proyecto “Desarrollo de Enfoques de Manejo de Paisajes en el Sistema Nacional de Áreas Protegidas del Ecuador para mejorar la Conservación de la Vida Silvestre en Peligro de Extinción Mundial” (i.e. Proyecto Paisajes – Vida Silvestre) propuso a través de diferentes iniciativas, cambiar el paradigma de conservación, integrando las áreas protegidas en la matriz circundante y viceversa. El enfoque de paisajes se desarrolla a través de la planificación de estrategias de conservación y gestión territorial dentro de paisajes predefinidos, reconocidos como áreas espacialmente heterogéneas, con grandes extensiones que incluyen la presencia de especies silvestres, áreas naturales y el desarrollo de actividades humanas diferentes a la conservación (Sanderson et al. 2002; Plumptre et al. 2007). De esta manera, el Proyecto Paisajes – Vida Silvestre busca integrar los requerimientos biológicos espacio-temporales de especies paisaje priorizadas, a través de la conectividad funcional para articular la conservación de la vida silvestre con actividades productivas sostenibles y la consecuente reducción de amenazas y presiones antropogénicas.</para>
+                        </abstract>
+                        <funding>
+                            <para>Este proyecto fue financiado por el Fondo para el Medio Ambiente Mundial (GEF)</para>
+                        </funding>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-06-13T15:26:24.147+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/mrbohl">Freile J F, Santander T, Jiménez-Uzcátegui G, Carrasco L, Cisneros-Heredia D, Guevera E, Sánchez-Nivicela M, Tinoco B (2023). Lista Roja de las Aves de Ecuador. Version 1.0. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Checklist dataset. https://doi.org/10.60545/mrbohl</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=aves-redlist</resourceLogoUrl>
+                                <formationPeriod>2018</formationPeriod>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

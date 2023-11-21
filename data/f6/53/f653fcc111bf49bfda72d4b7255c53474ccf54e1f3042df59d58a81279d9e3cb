@@ -1,0 +1,363 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=ists_insectos/v1.6" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=ists_insectos</alternateIdentifier>
+  <title xml:lang="spa">MUSEO ENTOMOLOGICO WILLIAM KIRBY INSTITUTO SUPERIOR TECNOLOGICO SUDAMERICANO</title>
+      <creator>
+    <individualName>
+        <givenName>Cristian Fabián</givenName>
+      <surName>Prieto Merino</surName>
+    </individualName>
+    <organizationName>Instituto Superior Tecnológico Sudamericano</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Loja</city>
+        <country>EC</country>
+    </address>
+    <phone>0959725988</phone>
+    <electronicMailAddress>cfprieto@tecnologicosudamericano.edu.ec</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Lorena Cecibel</givenName>
+      <surName>Chamba Sánchez</surName>
+    </individualName>
+    <organizationName>Instituto Superior Tecnológico Sudamericano</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Loja</city>
+        <country>EC</country>
+    </address>
+    <phone>0997663082</phone>
+    <electronicMailAddress>lcchamba@tecnologicosudamericano.edu.ec</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Lorena Cecibel</givenName>
+      <surName>Chamba Sánchez</surName>
+    </individualName>
+    <organizationName>INSTITUTO SUPERIOR TECNOLÓGICO SUDAMERICANO</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Loja</city>
+    </address>
+    <phone>0997663082</phone>
+    <electronicMailAddress>lcchamba@tecnologicosudamericano.edu.ec</electronicMailAddress>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2022-05-19
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El museo entomológico del Instituto Superior Tecnológico Sudamericano cuenta con  92 especímenes, los cuales se recolectaron en el año 2015 por estudiantes de la carrera de Desarrollo Ambiental del ISTS. La biblioteca entomológica se ha creado con la finalidad de incentivar la investigación y generar conocimiento, para lo cual es necesario una correcta difusión y acondicionamiento, cuidando y conservando los elementos constitutivos que se encuentran dentro de la misma, donde los beneficiarios directos son los estudiantes del ISTS y la sociedad en general.
+Los especímenes se mantienen en cajas de madera y cristal para su conservación, la recolección de insectos se la realizo en la Zona sur del Ecuador, esto comprende  la provincia de Zamora Chinchipe y Loja, el museo cuenta con especies como: Aranéa, Escorpiones, Orthóptera, Coleóptera, Blatodea, Odonata, Himenóptera, Lepidóptera, Hemíptera, Lepidóptera, Miriápodos, Fásmidos</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Arañas</keyword>
+            <keyword>alacranes</keyword>
+            <keyword>ciempies</keyword>
+            <keyword>cucarachas</keyword>
+            <keyword>escarabajos</keyword>
+            <keyword>cigarra</keyword>
+            <keyword>abejorro</keyword>
+            <keyword>mariposas</keyword>
+            <keyword>polillas</keyword>
+            <keyword>libelulas</keyword>
+            <keyword>chinches</keyword>
+            <keyword>grillos y saltamontes</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Las colecciones de insectos provienen de Loja y Zamora.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-80.541</westBoundingCoordinate>
+          <eastBoundingCoordinate>-78.646</eastBoundingCoordinate>
+          <northBoundingCoordinate>-3.711</northBoundingCoordinate>
+          <southBoundingCoordinate>-4.746</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2015-04-03</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2015-08-04</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Acrididae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Aranidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Blattidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Buthidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cicadidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Coenagrionidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Coreidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Curculionidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Leptohyphidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lithobiidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lycosidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Micrathenae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Noctuidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Nymphalidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Papilionidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Romaleidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Scolopendridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Syrphidae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+          <taxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Tityus ecuadorensis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Argiope argentata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Ascalapha odorata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Battus polydamas</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Danaus plexippus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Doxocopa laurentia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Dryas iulia</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Enallagma cyathigerum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Eristalis tenax</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Haplohyphes dominguezi</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Historis odius</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Japygidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Jivarus pictifrons</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Leptoglossus zonatus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Lithobius forficatus</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Lycosa erythrognatha</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Micrathena schreibersi</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Otostigmus insignis</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Periplaneta americana</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Rhynchophorus palmarum</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Titanacris albipes</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Tropidacris cristata</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Zammara smaragdina</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>La biblioteca entomológica se ha creado con la finalidad de incentivar la investigación y generar conocimiento, para lo cual es necesario una correcta difusión y acondicionamiento, cuidando y conservando los elementos constitutivos que se encuentran dentro de la misma, donde los beneficiarios directos son los estudiantes del ISTS y la sociedad en general.</para>
+  </purpose>
+  <maintenance>
+    <description>
+      <para>Ingreso a la Colección;
+
+Los ejemplares que ingresaron presentan características claras para su identificación taxonómica como la localidad donde fueron recolectados, fecha y nombre del recolector, todos los ejemplares fueron sometidos a una revisión previa con la finalidad de controlar la proliferación de agentes biodeteriorantes en las muestras, para ello se utilizó la preservación en seco aprovechando la rigidez  del exoesqueleto quitinoso como es el caso de la mayoría de los artrópodos, estos varían en su estructura y su tamaño por ello se utilizó el montaje en alfileres y naftalina para su conservación 
+
+Normas Generales. 
+- Todos los especímenes que ingresen al museo del ISTS deberán ser registrados en el inventario.
+- Se deberá realizar un inventario exhaustivo cada cuatro años. 
+- Se realizarán inventarios no previstos en caso de pérdida o traspaso de custodia. 
+- Si el inventario es periódico éste será responsabilidad del personal de la carrera de Desarrollo Ambiental. 
+
+Se realiza la conservación preventiva
+En la preservación de insectos se lucha contra factores abióticos y bióticos. Entre los factores abióticos que se deben controlar están los golpes a los especímenes, la exposición prolongada a la luz (la radiación ultravioleta los decolora), el excesivo calor, humedad y el fuego., la luz actúa negativamente sobre los pigmentos de los lepidópteros y otros insectos, por lo que deben ser conservados en armarios oscuros, la humedad superior al 50-60 % es perjudicial para las colecciones, ya que facilita la proliferación de mohos, y posteriormente la aparición de parásitos, es por ello que se deben   secar completamente antes de colocarlos en las cajas entomológicas.</para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Lorena Cecibel</givenName>
+      <surName>Chamba Sánchez</surName>
+    </individualName>
+    <organizationName>Instituto Superior Tecnológico Sudamericano</organizationName>
+    <positionName>Docente</positionName>
+    <address>
+        <city>Loja</city>
+        <country>EC</country>
+    </address>
+    <phone>0997663082</phone>
+    <electronicMailAddress>lcchamba@tecnologicosudamericano.edu.ec</electronicMailAddress>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para></para>
+          </description>
+        </methodStep>
+  </methods>
+  <project id="Fabiola Martinez">
+    <title>Recolección de insectos representantivos de la zona 7</title>
+      <personnel>
+        <individualName>
+            <givenName>Lorena Cecibel</givenName>
+          <surName>Chamba Sánchez</surName>
+        </individualName>
+        <role>publisher</role>
+      </personnel>
+      <abstract>
+        <para>La biblioteca entomológica se ha creado con la finalidad de incentivar la investigación y generar conocimiento, para lo cual es necesario una correcta difusión y acondicionamiento, cuidando y conservando los elementos constitutivos que se encuentran dentro de la misma, donde los beneficiarios directos son los estudiantes del ISTS y la sociedad en general.</para>
+      </abstract>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Las muestras de insectos fueron colectadas en la zona Sur del País, específicamente en la provincia de Zamora y Loja, en diferentes tipos de ecosistemas que pertenecen a diferentes zonas de vida o formaciones vegetales encontradas en la provincia Zamora, Nangaritza y el Pangui en los cuales la mayoría son denominados por bosques montanos, una pequeña franja de bosque húmedo tropical en la cuenca baja de los ríos Zamora, Nangaritza y Yacuambi, en Loja en el valle de Vilcabamba en los remanentes de bosque seco espinescente.</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Objetivo General
+•	Contribuir con la academia para investigación en el Museo entomológico del Instituto Superior Tecnológico Sudamericano para la conservación de los especímenes. 
+
+Objetivos específicos 
+
+•	Conservar el museo entomológico, para el fomento de la investigación y generación de conocimientos, sobre taxonomía y estado de conservación de los invertebrados, del sur del Ecuador.
+•	Elaborar manuales de las especies recolectadas en la biblioteca entomológica, del ITSS. 
+•	Diseñar e implementar un sistema de registros para el control de las especies colectadas en la biblioteca entomológica.
+•	Fomentar el conocimiento e interés de la comunidad estudiantil y ciudadanía en general por la conservación.</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-04-21T05:11:42.102+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="Cristian Fabián Prieto Merino">Prieto Merino C F (2022): MUSEO ENTOMOLOGICO WILLIAM KIRBY INSTITUTO SUPERIOR TECNOLOGICO SUDAMERICANO. v1. No organisation. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae_test/resource?r=ists_insectos&amp;amp;v=1.0</citation>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=ists_insectos</resourceLogoUrl>
+              <collection>
+                <collectionName>Colección de insectos</collectionName>
+              </collection>
+                <specimenPreservationMethod>mounted</specimenPreservationMethod>
+                <specimenPreservationMethod>pinned</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=ists_insectos/v1.6.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

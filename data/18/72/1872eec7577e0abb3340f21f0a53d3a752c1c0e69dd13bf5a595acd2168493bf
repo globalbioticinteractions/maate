@@ -1,0 +1,252 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=fungario_qcam/v1.3" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=fungario_qcam</alternateIdentifier>
+  <title xml:lang="spa">Fungario QCAM</title>
+      <creator>
+    <individualName>
+        <givenName>Erika</givenName>
+      <surName>Caicedo</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>ecaicedo203@puce.edu.ec</electronicMailAddress>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Erika</givenName>
+      <surName>Caicedo</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>ecaicedo203@puce.edu.ec</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Erika</givenName>
+      <surName>Caicedo</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <deliveryPoint>Av. 12 de octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>ecaicedo203@puce.edu.ec</electronicMailAddress>
+    <role>curator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Susana</givenName>
+      <surName>León</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Av. 12 de octubre 1076 y Roca</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>ecaicedo203@puce.edu.ec</electronicMailAddress>
+    <role>principalInvestigator</role>
+      </associatedParty>
+  <pubDate>
+      2023-03-20
+  </pubDate>
+  <language>spa</language>
+  <abstract>
+    <para>El Fungario QCAM forma parte de un grupo importante de museos y colecciones biológicas de la PUCE albergadas dentro de la Escuela de Ciencias Biológicas. La colección de hongos actualmente cuenta con cerca de 7700 especímenes casi exclusivamente ecuatorianos, representantes de varias localidades del país, haciendo a ésta la colección más grande de hongos del Ecuador.  También cuenta con colecciones vivas de cultivos de hongos y una colección de fitopatógenos criopreservados, las cuales constituyen un banco de genoma de invaluable importancia.  
+Los hongos ecuatorianos muestran gran diversidad que apenas se ha empezado a catalogar, y que es indispensable conocer para proteger y conservar los ecosistemas.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>PUCE</keyword>
+            <keyword>Fungario QCAM</keyword>
+            <keyword>Fungi</keyword>
+            <keyword>Ecuador</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">https://bioweb.bio/fungiweb/home</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Diversidad fúngica del Ecuador</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-82.617</westBoundingCoordinate>
+          <eastBoundingCoordinate>-75.059</eastBoundingCoordinate>
+          <northBoundingCoordinate>1.055</northBoundingCoordinate>
+          <southBoundingCoordinate>-5.441</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+                <singleDateTime>
+                  <calendarDate>2000-01-01</calendarDate>
+                </singleDateTime>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Principalmente macrohongos, pero también se incluyen colecciones de fitopatógenos y mixomicetes.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Fungi</taxonRankValue>
+                  <commonName>Mushrooms</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>kingdom</taxonRankName>
+                <taxonRankValue>Chromista</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Protostelea</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>class</taxonRankName>
+                <taxonRankValue>Myxogastrea</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Erika</givenName>
+      <surName>Caicedo</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Curator</positionName>
+    <address>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <country>EC</country>
+    </address>
+    <phone>022991700</phone>
+    <electronicMailAddress>ecaicedo203@puce.edu.ec</electronicMailAddress>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Susana</givenName>
+      <surName>León-Yánez</surName>
+    </individualName>
+    <organizationName>PUCE</organizationName>
+    <positionName>Investigator</positionName>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>1. Registro fotográfico de material fresco 
+2. Recolección de material en campo. 
+3. Identificación de muestras. 
+4. Secado
+5. Congelado
+6. Análisis microscópicos
+7. Identificación taxonómica
+8. Ingreso a la colección</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Ecuador</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Los especímenes que ingresan al Fungario QCAM son producto de proyectos, investigaciones científicas, donaciones o transferencias con otros museos. La colección es propiedad del estado ecuatoriano (artículo 408 de la constitución). El Fungario tiene la obligación legal y ética de ser custodio de este patrimonio y proveer a los especímenes
+de un apropiado almacenamiento, cuidado y administración de acuerdo a la patente de manejo de vida silvestre.
+
+Previo a la colecta de especímenes en campo se realiza un registro fotográfico del espécimen en su habitat, enfatizando sus características morfológicas. El procedimiento de colecta comprende la extracción de la muestra conservando parte del sustrato. La muestra debe ser representativa y estar completa y en buen estado (i.e. estípite completo no
+cortado y de ser posible contener más de un cuerpo fructífero completo y maduro). Se registrará todos los datos de colecta del espécimen: fecha de colección, localidad, coordenadas, colector y datos ecológicos. Se designa un código de campo a cada muestra individual, este código debe contener dos letras y números consecutivos. Se puede utilizar cualquier código aunque se recomienda que las letras elegidas correspondan al nombre y apellido del colector. Este código debe ser único y no repetirse entre muestras.
+
+Se realiza el proceso de descripción morfológica macroscópica en campo con muestras frescas. Previo al secado se extrae un pequeño pedazo de tejido del hongo, preferiblemente del especímen maduro en buen estado y se lo guarda en tubos eppendorf en etanol al 70%. Este tubo se mantiene en congelación hasta su uso para análisis moleculares. Opcionalmente, se puede guardar pedazos de tejido u muestras de hongos diminutos o frágiles en tubos eppendorf conteniendo glicerol de grado técnico para preservalos durante largos periodos de tiempo en congelación.
+
+Se seca y congela la muestra para eliminar insectos y microorganismos contaminantes.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Diversidad micológica ecuatoriana. Colección, descripción e identificación de especies de hongos en el Ecuador</title>
+      <personnel>
+        <individualName>
+            <givenName>Erika</givenName>
+          <surName>Caicedo</surName>
+        </individualName>
+        <role>curator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+            <givenName>Susana</givenName>
+          <surName>León</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <abstract>
+        <para>El Ecuador está entre las regiones megadiversas y de prioridad de conservación del mundo, sin embargo, en el cálculo de la diversidad de especies que se reportan no se considera al reino de los hongos. El conocimiento acerca de la diversidad micológica del Ecuador es escaso. Su estudio es bastante relegado comparado con el conocimiento de la diversidad otros grupos.
+
+El presente proyecto busca continuar con el inventario de las especies de hongos presentes en el Ecuador, mediante su identificación y clasificación. Se busca también aumentar constantemente el número de colecciones albergadas en el Fungario y mantener una línea base de datos científicos en hongos que permita su conservación y/o uso sostenible.</para>
+      </abstract>
+      <funding>
+        <para>PUCE</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Ecuador</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Proyecto continuo</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2023-02-27T09:01:17.738+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Caicedo E (2023): Fungario QCAM. v1.3. No organisation. Dataset/Occurrence. http://patrimonio.ambiente.gob.ec/iptmae_test/resource?r=fungario_qcam&amp;v=1.3</citation>
+          <bibliography>
+                <citation>Ordoñez, M. E. 2018. Fungi del Ecuador. Versión 2018.0. Fungario QCAM, Pontificia Universidad Católica del Ecuador. &lt;https:bioweb.bio/fungiweb&gt;</citation>
+          </bibliography>
+          <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=fungario_qcam</resourceLogoUrl>
+              <collection>
+                  <parentCollectionIdentifier>https://www.gbif.org/es/grscicoll/collection/917f4ae5-87f7-489c-af0f-d56af6f77241</parentCollectionIdentifier>
+                  <collectionIdentifier>QCAM</collectionIdentifier>
+                <collectionName>Colección de hongos del Fungario QCAM</collectionName>
+              </collection>
+                <specimenPreservationMethod>dried</specimenPreservationMethod>
+                <specimenPreservationMethod>glycerin</specimenPreservationMethod>
+                <specimenPreservationMethod>deepFrozen</specimenPreservationMethod>
+                <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=fungario_qcam/v1.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

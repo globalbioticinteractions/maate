@@ -1,0 +1,434 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="d9a71bab-ca20-45ca-ae55-f1e006a573b0/v1.1" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/4fm6gm</alternateIdentifier>
+                <alternateIdentifier>d9a71bab-ca20-45ca-ae55-f1e006a573b0</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=005-17-ic-fau-dpse-ma</alternateIdentifier>
+                <title xml:lang="spa">Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Metagenómica para su uso en salud humana y animal</title>
+                    <creator>
+            <individualName>
+                    <givenName>Gabriela</givenName>
+                <surName>Agurto Rodríguez</surName>
+            </individualName>
+            <positionName>Analista de Laboratorio de Investigación</positionName>
+            <address>
+                    <deliveryPoint>Parroquia Manglaralto, Comuna San Pedro</deliveryPoint>
+                    <city>Santa Elena</city>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <postalCode>EC240110</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0999534525</phone>
+            <electronicMailAddress>agurtor@espol.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-9547-8020</userId>
+                    </creator>
+            <pubDate>
+                    2023-08-02
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Datos de observación de Invertebrados marinos en la Reserva Marina El Pelado (REMAPE), bajo el permiso de investigación N°005-17 IC-FAU-DPSE/MA.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Sampling Event</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>REMAPE</keyword>
+                            <keywordThesaurus>RESERVA MARINA EL PELADO</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">http://www.cenaim.espol.edu.ec/biodiversidad_REMAPE</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>La Reserva Marina el Pelado (REMAPE) forma parte del sistema nacional de áreas protegidas del Ecuador. La REMAPE comprende un área marina formada por un arrecife rocoso de 13 bajos submarinos con parches coralinos y el islote El Pelado, dos zonas de Manglar y los poblados costeros de Palmar, Ayangue, San Pedro y Valdivia.
+(Reserva marina El Pelado. (2022, 28 de julio). Wikipedia, La enciclopedia libre. Fecha de consulta: 18:56, septiembre 20, 2022 desde https://es.wikipedia.org/w/index.php?title=Reserva_marina_El_Pelado&amp;oldid=145031544.)</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.792</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-80.737</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-1.931</northBoundingCoordinate>
+                                <southBoundingCoordinate>-1.984</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2015-10-22</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2018-08-30</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Holothuroidea</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Plakobranchidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Diadematidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Mollusca</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Scleractinia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Arthropoda</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Mytilida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Mytilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Ophiurida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Decapoda</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Arcidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Neogastropoda</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Ostreida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Oreasteridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cidaridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cucumariidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Dendrochirotida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Rhizangiidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Balanidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Ophiocomidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Venerida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Hexanauplia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pteriidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Echinometridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Ophidiasteridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Valvatida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Cidaroida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dendrophylliidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Aspidochirotida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Diadematoida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Chamidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Bivalvia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Sessilia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Conidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Echinoidea</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Sacoglossa</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Holothuriidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Anthozoa</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Turbinellidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pocilloporidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Caryophyliidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Fasciolariidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Ophiuroidea</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Palinuridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Malacostraca</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Camarodonta</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Stichopodidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Muricidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Asteroidea</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Gastropoda</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Cnidaria</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Arcida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Echinodermata</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Jenny</givenName>
+                <surName>Rodríguez León</surName>
+            </individualName>
+            <organizationName>ESPOL</organizationName>
+            <positionName>Investigadora/Profesor</positionName>
+            <address>
+                    <deliveryPoint>Santa Elena, Parroquia Manglaralto, Comuna San Pedro, en el CENAIM</deliveryPoint>
+                    <city>Santa Elena</city>
+                    <postalCode>070250</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>0993069228</phone>
+            <electronicMailAddress>jenrodri@espol.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-4773-0700</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Información a detalle en 
+http://www.cenaim.espol.edu.ec/sites/cenaim.espol.edu.ec/files/manual%20biodiversidad.pdf</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Reserva Marina El Pelado.&lt;br&gt;
+Área marina que está conformada por un arrecife rocoso y bajos submarinos nombrados como: La Pared, Acuario, Bajo Tello, Laberinto, Rabo del viejo, Zona protegida, Bajo 40, La Reina, El Planchon, La Viejita y San Ignacio los cuales tienen parches coralinos y el islote El Pelado, dos zonas de Manglar y los poblados costeros de Palmar, Ayangue, San Pedro y Valdivia.&lt;br&gt;
+Se extiende aproximadamente 5 km en dirección oeste desde Punta Brava cerca Ayangue y abarca 13.005 ha de hábitats marinos y 96 ha de áreas terrestres (Gobierno de Ecuador 2016) (Área entre -80.7326 y -80.8233 latitud y entre -1.8993 y -2.0258 de longitud).</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Transectos realizados en el día, a través de Diva Scuba.&lt;br&gt;
+Basados en cuantificación in situ de invertebrados, y debido a la demanda de tiempo que implica, se realizó además video y foto transectos, con el objetivo de maximizar la información recopilada por buceo. Transectos de video individuales que cubren 20 m y series de fotos transectos compuestos por 20 imágenes.&lt;br&gt;
+Mayor detalle de la metodología trabajada en http://www.cenaim.espol.edu.ec/sites/cenaim.espol.edu.ec/files/manual%20biodiversidad.pdf</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="005-17-ic-fau-dpse-ma">
+                    <title>Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Metagenómica para su uso en salud humana y animal</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Sascha</givenName>
+                                <surName>Steiner</surName>
+                            </individualName>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Antonella</givenName>
+                                <surName>Lavorato</surName>
+                            </individualName>
+                            <role></role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Karla</givenName>
+                                <surName>Jaramillo</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0002-2547-4152</userId>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Taynara</givenName>
+                                <surName>Louzada</surName>
+                            </individualName>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>María José</givenName>
+                                <surName>Brito</surName>
+                            </individualName>
+                                        <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-brito-vera-882792102/</userId>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Rubén</givenName>
+                                <surName>Abad</surName>
+                            </individualName>
+                                        <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/rub%C3%A9n-dar%C3%ADo-abad-godoy-67730313b/</userId>
+                            <role>author</role>
+                        </personnel>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Gabriela</givenName>
+                                <surName>Agurto Rodríguez</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">0000-0001-9547-8020</userId>
+                            <role>author</role>
+                        </personnel>
+                        <abstract>
+                            <para>Los datos generados y subidos pertenecen a organismos marinos observados en transectos, que se desarrollaron en la Reserva Marina El Pelado.</para>
+                        </abstract>
+                        <funding>
+                            <para>SENESCYT</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>La Reserva Marina el Pelado (REMAPE) forma parte del sistema nacional de áreas protegidas del Ecuador. Se encuentra formada por un arrecife rocoso de 13 bajos submarinos con parches coralinos y el islote El Pelado, dos zonas de Manglar y los poblados costeros de Palmar, Ayangue, San Pedro y Valdivia.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Varios sitios alrededor del “Islote El Pelado” y otros a lo largo de la costa de la reserva &quot;REMAPE&quot; fueron usados para el estudio. La selección de los sitios fue al cumplir con los criterios:
+profundidad máxima de 16 m, sustrato rocoso, exposiciones distintas
+(barlovento vs. sotavento) y facilidad de acceso. 
+Encontramos algunos sitios costeros con sustratos rocosos, en su mayoría cerca
+Ayangue.
+ http://www.cenaim.espol.edu.ec/sites/cenaim.espol.edu.ec/files/manual%20biodiversidad.pdf</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-08-02T18:42:58.703+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/4fm6gm">Agurto Rodríguez G (2023). Caracterización de la Biodiversidad Microbiológica y de Invertebrados de la Reserva Marina &quot;El Pelado&quot; a escala Taxonómica, Metabolómica y Metagenómica para su uso en salud humana y animal. Version 1.1. Escuela Superior Politecnica del Litoral. Occurrence dataset. https://doi.org/10.60545/4fm6gm</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=obsbiocenaim</resourceLogoUrl>
+                            <dc:replaces>d9a71bab-ca20-45ca-ae55-f1e006a573b0/v1.1.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

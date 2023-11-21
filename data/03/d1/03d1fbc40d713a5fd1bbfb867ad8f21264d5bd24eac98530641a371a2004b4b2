@@ -1,0 +1,428 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=birds_jdls/v1.6" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=birds_jdls</alternateIdentifier>
+  <title xml:lang="eng">Bird checklist of the Jardín de los Sueños Reserve, in the ecuadorian Chocó</title>
+      <creator>
+    <individualName>
+        <givenName>Jordi</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb), Universidad Indoamérica</organizationName>
+    <positionName>Technical assistent</positionName>
+    <address>
+        <deliveryPoint>Diego de Brieda E16-89</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170516</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 995004694</phone>
+    <electronicMailAddress>jordi.riveraa17@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3167-9602</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Ibon</givenName>
+      <surName>Tobes</surName>
+    </individualName>
+    <organizationName>Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb), Universidad Indoamérica</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170301</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+34669283055</phone>
+    <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">000-0001-5343-5014</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Nora</givenName>
+      <surName>Escribano</surName>
+    </individualName>
+    <organizationName>Universidad de Navarra, Instituto de Biodiversidad y Medioambiente BIOMA</organizationName>
+    <positionName>Assistant Professor</positionName>
+    <address>
+        <country>ES</country>
+    </address>
+    <electronicMailAddress>nescribano@unav.es</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-7863-4463</userId>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Christophe</givenName>
+      <surName>Pellet</surName>
+    </individualName>
+    <organizationName>Bosque Privado Jardín de los Sueños</organizationName>
+    <positionName>Owner</positionName>
+    <address>
+        <deliveryPoint>Vía Pucayacu s/n</deliveryPoint>
+        <city>La Mana</city>
+        <administrativeArea>Cotopaxi</administrativeArea>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>bosqueprotectorjdls@gmail.com</electronicMailAddress>
+    <onlineUrl>https://www.jardin-de-los-suenos.com</onlineUrl>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Imanol</givenName>
+      <surName>Miqueleiz</surName>
+    </individualName>
+    <organizationName>Department of Natural Resources and the Environment, Cornell University</organizationName>
+    <positionName>Post-Doc Student</positionName>
+    <electronicMailAddress>imiqueleiz@alumni.unav.es</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0002-1827-3977</userId>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jordi</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb), Universidad Indoamérica</organizationName>
+    <positionName>Technical assistent</positionName>
+    <address>
+        <deliveryPoint>Diego de Brieda E16-89</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170516</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 995004694</phone>
+    <electronicMailAddress>jordi.riveraa17@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3167-9602</userId>
+      </metadataProvider>
+      <metadataProvider>
+    <individualName>
+        <givenName>Ibon</givenName>
+      <surName>Tobes</surName>
+    </individualName>
+    <organizationName>Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb), Universidad Indoamérica</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170301</postalCode>
+        <country>EC</country>
+    </address>
+    <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">000-0001-5343-5014</userId>
+      </metadataProvider>
+  <pubDate>
+      2022-11-25
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>We present the first report of bird observations in El Jardín de los Sueños, a private reserve in the Chocó region. This reserve hosts 14% (i.e 246 spp.) of Ecuadorian birds in just over 100 hectares, including several threatened species. It is also the only protected area in a region where native forest has been replaced by farmland. Additionally, in this dataset, we highlight the species recorded breeding in the reserve through the observation of nests and juveniles. </para>
+  </abstract>
+      <keywordSet>
+            <keyword>Birds</keyword>
+            <keyword>Tropical Andes</keyword>
+            <keyword>Private Protected Area</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>“El Jardín de los Sueños&quot; Private Reserve is located in the parish of Guasaganda, Cantón La Mana, in the subtropical zone of the province of Cotopaxi, Ecuador, on the Pacific versant of the country. The reserve encompasses 107 hectares ranging between 420 and 690 m.a.s.l. in a transition zone between the ecoregions of lowland Chocó moist forests and the western Andean montane forests.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.21</westBoundingCoordinate>
+          <eastBoundingCoordinate>-79.2</eastBoundingCoordinate>
+          <northBoundingCoordinate>-0.832</northBoundingCoordinate>
+          <southBoundingCoordinate>-0.839</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>A total of 246 species from 192 genera belonging to 43 different families have been reported in the reserve. Species distribution within the families is uneven, as nearly half of the species belong to five families. The most diverse family is Tyrannidae, with 25 genera and 31 species. Another species-rich family is Thraupidae, with 17 genera and 29 species; this family contains the most diverse genus in the reserve, Tangara, with nine species recorded. The remaining three families are: Trochilidae, with 12 genera and 17 species; and Furnariidae, with 14 genera and 15 species and Thamnophilidae, with 12 genera and 13 species.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Accipitridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Alcedinidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Apodidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Ardeidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Bucconidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Capitonidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Caprimulgidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cardinalidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cathartidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Columbidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cotingidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cracidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cuculidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Falconidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Formicariidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Fringillidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Furnariidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Furnariidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Galbulidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hirundinidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Icteridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Mitrospingidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Momotidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Nyctibiidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Odontophoridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Parulidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Passerellidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Picidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Pipridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Polioptilidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Psittacidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Rallidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Ramphastidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Strigidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Thamnophilidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Thraupidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Tinamidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Tityridae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Trochilidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Troglodytidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Trogonidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Turdidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Tyrannidae</taxonRankValue>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Vireonidae</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jordi</givenName>
+      <surName>Rivera</surName>
+    </individualName>
+    <organizationName>Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb), Universidad Indoamérica</organizationName>
+    <positionName>Technical assistent</positionName>
+    <address>
+        <deliveryPoint>Diego de Brieda E16-89</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170516</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+593 995004694</phone>
+    <electronicMailAddress>jordi.riveraa17@gmail.com</electronicMailAddress>
+          <userId directory="http://orcid.org/">0000-0003-3167-9602</userId>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Ibon</givenName>
+      <surName>Tobes</surName>
+    </individualName>
+    <organizationName>Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb), Universidad Indoamérica</organizationName>
+    <positionName>Professor</positionName>
+    <address>
+        <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+        <city>Quito</city>
+        <administrativeArea>Pichincha</administrativeArea>
+        <postalCode>170301</postalCode>
+        <country>EC</country>
+    </address>
+    <phone>+34669283055</phone>
+    <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+          <userId directory="http://orcid.org/">000-0001-5343-5014</userId>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Observations of the avifauna present in the reserve made by ornithologists and nature photographers were compiled in a database.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>We curated the database and used BirdLife nomenclature for the scientific names.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Create a taxon core file (http://rs.gbif.org/core/dwc_taxon.xml).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Create a species distribution extension file (http://rs.gbif.org/core/dwc_taxon.xml).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Create a vernacular name extension file (https://rs.gbif.org/extension/gbif/1.0/vernacularname.xml)</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Private Reserve Jardín de los Sueños</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>This list of species is the result of observations made by Ecuadorian and foreign ornithologists, nature photographers and visitors of the reserve from October 2011 to Jun 2022.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Records were obtained through direct encounters, observations from two bird hides, use of camera traps and recognition of bird&apos;s vocalizations. Species identification was done consulting experts and following bird guides for Ecuador as Birds of Ecuador (Ridgely &amp; Greenfield, 2006) and Fieldbook of the Birds of Ecuador (McMullan &amp; Navarrete, 2017).</para>
+        </description>
+      </qualityControl>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2022-09-06T10:27:50.433+00:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Rivera-Albuja J, Tobes I, Escribano N, Pellet C, Miqueleiz I (2022): Bird checklist of the Jardín de los Sueños Reserve, in the ecuadorian Chocó. v1.3. No organisation. Dataset/Checklist. http://patrimonio.ambiente.gob.ec/iptmae_test/resource?r=aves_jdls&amp;v=1.3</citation>
+            <formationPeriod>2011-current</formationPeriod>
+          <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=birds_jdls/v1.6.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,365 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=japu-ornito-bpcb/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/thalyw</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-ornito-bpcb</alternateIdentifier>
+                <title xml:lang="eng">Birds of Cerro Blanco: new records and richness update</title>
+                    <creator>
+            <individualName>
+                    <givenName>Denis</givenName>
+                <surName>Mosquera-Muñoz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <phone>+593960676451</phone>
+            <electronicMailAddress>dmosquera_m@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0001-8772-0155</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Rebeca</givenName>
+                <surName>Rivas</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+            <phone>+593996757091</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0009-0008-6332-4279</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Frecia</givenName>
+                <surName>Pinguil</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Carlos</givenName>
+                <surName>Coello-Payne</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">https://orcid.org/0009-0008-0340-7144</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Francisco</givenName>
+                <surName>Hérnandez-Baquero</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Hellen</givenName>
+                <surName>Bravo</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">https://orcid.org/0009-0002-0303-1702</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Maria</givenName>
+                <surName>Eduarda-Vásquez</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">https://orcid.org/0009-0003-0263-8067</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0002-9205-5396</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0727-7996</userId>
+                    </creator>
+            <pubDate>
+                    2023-07-26
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>&lt;b&gt;Dry season: &lt;/b&gt;A total of 146 species, belonging to 37 families, were recorded, comprising 89% of the expected species. Twelve new records were found for the Cerro Blanco Protected Forest in accordance with the published lists. Of the total number of species, 62% (90) belonged to the order Passeriformes. The most abundant families were Tyrannidae (18%), Accipitridae (9%), Thraupidae (8%), Furnaridae (5%), the remaining families (32) had percentages between 4 and 1% each. Of the species found, 32 are endemic to the Tumbeisina region and 10 are migratory species (austral or boreal). At the Jaguar sampling site, 111 species (26 endemic) were found, followed by Zona 507 with 105 species (25 endemic), Turismo with 103 species (24 endemic) and Pigío with 90 species (22 endemic).</para>
+                            <para>&lt;b&gt;Rainy season: &lt;/b&gt;a total of 159 species were recorded, belonging to 45 families. Of the total number of species, 55% (88 species) belonged to the order Passeriformes. The most abundant families were Tyrannidae (15%), Thraupidae (12%), Accipitridae (7%), Columbidae and Furnariidae (9% each). The remaining families (40) had percentages between 7 and 1%. The bird sample showed 34 species endemic to the Tumbesian region, representing 23% of the total. A total of 11 endemic species reported are in some category of threat and a total of 7 migratory species. The reported species were assigned to 5 trophic groups. The most representative trophic group was Insectivore with 66 species in total, followed by Omnivore (33), Carnivore (29), Frugivore (20), Granivore (11). According to the published lists, 15 new records were found for BPCB during the wet season. This shows the need to produce new comprehensive standardised lists of BPCB avifauna and to intensify wet season monitoring in order to assess avian diversity adequately and comprehensively.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Since 15 April bird inventories have been carried out by means of point counts, a popular technique for bird censuses (Petit et al., 1993; Greenberg et al., 1997).In total we established 107 points at 4 sampling sites (Jaguar site with 34 points, Pigío site with 27 points, Turismo site with 20 points and 507 site with 26 points), in the Cerro Blanco Protected Forest (BPCB).The total area monitored was 42 hectares.Each point was located at least 150m away from the next point.The count points serve as a form of stratified random sampling.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.093</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.976</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.126</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.184</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-09-27</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2022-05-22</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Fringillidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Psittacidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Columbiformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Momotidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>ANIMALIA</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Troglodytidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Parulidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Polioptilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cathartidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Tyrannidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Trogoniformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Trochilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Vireonidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cardinalidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Accipitridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Columbidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Strigidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Furnariidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Thamnophilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Coraciformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Thraupidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Falconidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Turdidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Strigiformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Icteridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Trogonidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Craciformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Falconiformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cracidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>passeriformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Accipitriformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+                <project >
+                    <title>Ornithofauna of the Bosque Protector Cerro Blanco</title>
+                        <abstract>
+                            <para>&lt;b&gt;Dry season: &lt;/b&gt;A total of 146 species, belonging to 37 families, were recorded, comprising 89% of the expected species. Twelve new records were found for the Cerro Blanco Protected Forest in accordance with the published lists. Of the total number of species, 62% (90) belonged to the order Passeriformes. The most abundant families were Tyrannidae (18%), Accipitridae (9%), Thraupidae (8%), Furnaridae (5%), the remaining families (32) had percentages between 4 and 1% each. Of the species found, 32 are endemic to the Tumbeisina region and 10 are migratory species (austral or boreal). At the Jaguar sampling site, 111 species (26 endemic) were found, followed by Zona 507 with 105 species (25 endemic), Turismo with 103 species (24 endemic) and Pigío with 90 species (22 endemic).
+&lt;br&gt;
+&lt;b&gt;Rainy season: &lt;/b&gt;a total of 159 species were recorded, belonging to 45 families. Of the total number of species, 55% (88 species) belonged to the order Passeriformes. The most abundant families were Tyrannidae (15%), Thraupidae (12%), Accipitridae (7%), Columbidae and Furnariidae (9% each). The remaining families (40) had percentages between 7 and 1%. The bird sample showed 34 species endemic to the Tumbesian region, representing 23% of the total. A total of 11 endemic species reported are in some category of threat and a total of 7 migratory species. The reported species were assigned to 5 trophic groups. The most representative trophic group was Insectivore with 66 species in total, followed by Omnivore (33), Carnivore (29), Frugivore (20), Granivore (11). According to the published lists, 15 new records were found for BPCB during the wet season. This shows the need to produce new comprehensive standardised lists of BPCB avifauna and to intensify wet season monitoring in order to assess avian diversity adequately and comprehensively.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Since 15 April bird inventories have been carried out by means of point counts, a popular technique for bird censuses (Petit et al., 1993; Greenberg et al., 1997).In total we established 107 points at 4 sampling sites (Jaguar site with 34 points, Pigío site with 27 points, Turismo site with 20 points and 507 site with 26 points), in the Cerro Blanco Protected Forest (BPCB).The total area monitored was 42 hectares.Each point was located at least 150m away from the next point.The count points serve as a form of stratified random sampling.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Since 15 April bird inventories have been carried out by means of point counts, a popular technique for bird censuses (Petit et al., 1993; Greenberg et al., 1997).In total we established 107 points at 4 sampling sites (Jaguar site with 34 points, Pigío site with 27 points, Turismo site with 20 points and 507 site with 26 points), in the Cerro Blanco Protected Forest (BPCB).The total area monitored was 42 hectares.Each point was located at least 150m away from the next point.The count points serve as a form of stratified random sampling.
+&lt;br&gt;
+Bird identification was conducted for 5 minutes per point between 6:30am and 15:00 pm. Updated identification guides and checklists for birds of the equator were used (Ridgely &amp; Greenfield, 2006; Freile et al., 2020). Each bird detected was recorded along with the species name (field sheets), type of record (visual or auditory) and estimated distance of detection (in metres). For the observations, the visual record was made with 10x42 binoculars and photographs were taken if necessary, and for the auditory records, recordings were made with a Tascan recorder.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-25T21:44:44.462+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/thalyw">Mosquera-Muñoz D, Rivas R, Pinguil F, Coello-Payne C, Hérnandez-Baquero F, Bravo H, Eduarda-Vásquez M, Pérez-Correa J, Barros-Diaz C (2023). Birds of Cerro Blanco: new records and richness update. Version 1.0. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/thalyw</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=ornitofauna-cb</resourceLogoUrl>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

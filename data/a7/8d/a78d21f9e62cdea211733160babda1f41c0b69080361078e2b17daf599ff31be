@@ -1,0 +1,247 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="011e5fe1-3026-45ef-9b1f-c7adf03ac050/v1.2" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>011e5fe1-3026-45ef-9b1f-c7adf03ac050</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=moluscos_mhngov</alternateIdentifier>
+                <title xml:lang="spa">Moluscos terrestres del Museo de Historia Natural &quot;Gustavo Orcés V.&quot;</title>
+                    <creator>
+            <individualName>
+                    <givenName>Vladimir</givenName>
+                <surName>Carvajal</surName>
+            </individualName>
+            <organizationName>Escuela Politécnica Nacional</organizationName>
+            <positionName>Entomólogo</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>vladimir.carvajal@epn.edu.ec</electronicMailAddress>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Valentina</givenName>
+                <surName>Posse</surName>
+            </individualName>
+            <organizationName>Escuela Politécnica Nacional</organizationName>
+            <positionName>Administrador de Museo</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>valentina.posse@epn.edu.ec</electronicMailAddress>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Valentina</givenName>
+                <surName>Posse</surName>
+            </individualName>
+            <organizationName>Escuela Politécnica Nacional</organizationName>
+            <positionName>Administrador de Museo</positionName>
+            <electronicMailAddress>valentina.posse@epn.edu.ec</electronicMailAddress>
+            <role>metadataProvider</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-04-20
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Moluscos terrestres del Ecuador y colección de Weyrauch de Perú. Contempla moluscos de la década de los 50 hasta la actualidad. Los moluscos corresponden a distintas expediciones y proyectos de investigación llevados a cabo por el Departamento de Biología de la Escuela Politécnica Nacional.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Moluscos Terrestres</keyword>
+                                    <keyword>Ecuador</keyword>
+                                    <keyword>Perú</keyword>
+                                    <keyword>Pulmonata</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                                    <keyword>Ecuador</keyword>
+                                    <keyword>Peru</keyword>
+                                    <keyword>Pulmonata</keyword>
+                                    <keyword>Terrestrial molluscs</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Los moluscos terrestres corresponden a especímenes de ambos lados de la cordillera de los Andes y del callejón interandino de Ecuador y Perú. Así también, especímenes provenientes de intercambio con el especialista de Perú, Wolfgang Weyrauch. También se cuenta con unos pocos especímenes de Galápagos.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-92.549</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-68.643</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.758</northBoundingCoordinate>
+                                <southBoundingCoordinate>-15.961</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>1947</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2016</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Achatinidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Amphibulimidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Bulimulidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Camaenidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Charopidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Clausiliidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cochliopidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Epiphragmophoridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Helicinidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Labyrinthidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Megaspiridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Neocyclotidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Orthalicidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Physidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Planorbidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pupillidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Scolodontiidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Solaropsidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Spiraxidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Strophocheilidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Succineidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Vallonidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Vladimir</givenName>
+                <surName>Carvajal</surName>
+            </individualName>
+            <organizationName>Escuela Politécnica Nacional</organizationName>
+            <positionName>Entomólogo</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>vladimir.carvajal@epn.edu.ec</electronicMailAddress>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Los especímenes pasan por un proceso de limpieza, verificación de información anexa, toma de fotografías, corroboración con literatura disponible, verificación en bases de datos internacionales y consulta a especialistas.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Los moluscos terrestres corresponden a muestras de ambos lados de la cordillera de los Andes y el callejón interandino de Ecuador y Perú. Además, se mantiene algunas muestras de Galápagos.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Muestras proporcionadas por colectores profesionales y especialistas. La mayoría de especímenes provienen de las décadas de los 50 y 60, por lo que se desconoce el método de muestreo.</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>Se han realizado tres cambios y verificaciones taxonómicas de la base de datos. La última considerando a Mollusca Base como referencia. De igual manera, se ha realizado confrontación de las localidades geográficas mencionadas en la información adjunta de los especímenes.</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-03-27T04:03:03.446+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Carvajal V, Posse V (2023). Moluscos terrestres del Museo de Historia Natural &quot;Gustavo Orcés V.&quot;. Version 1.2. Museo de Historia Natural &quot;Gustavo Orcés V.&quot;. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=moluscos_mhngov&amp;v=1.2</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=moluscos_mhngov</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>https://www.gbif.org/grscicoll/collection/914603d1-c523-42ef-84d4-82b9b246216a</collectionIdentifier>
+                                        <collectionName>Colección de Invertebrados del Museo de Historia Natural &quot;Gustavo Orcés V.&quot;</collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>other</specimenPreservationMethod>
+                            <dc:replaces>011e5fe1-3026-45ef-9b1f-c7adf03ac050/v1.2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

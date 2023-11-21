@@ -1,0 +1,252 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="30bbf3e1-e335-4e94-b028-bb1403aa1c85/v1.4" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/vcm5ob</alternateIdentifier>
+                <alternateIdentifier>30bbf3e1-e335-4e94-b028-bb1403aa1c85</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-tortugas</alternateIdentifier>
+                <title xml:lang="eng">Monitoring turtle nesting in Las Tunas and influences of biotic and anthropological anthropological factors on the hatching success of Lepidochelys olivacea</title>
+                    <creator>
+            <individualName>
+                    <givenName>Daniela</givenName>
+                <surName>Guaman</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Domenica</givenName>
+                <surName>Loor-Cunalata</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olim</deliveryPoint>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Abel</givenName>
+                <surName>Gallo-Pérez</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Byron</givenName>
+                <surName>Delgado</surName>
+            </individualName>
+            <organizationName>Fundación Jocotoco</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olim</deliveryPoint>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>René</givenName>
+                <surName>Zambrano</surName>
+            </individualName>
+            <organizationName>Fundación Jocotoco</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Michael</givenName>
+                <surName>Delgado</surName>
+            </individualName>
+            <organizationName>Fundación Jocotoco</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Verónica</givenName>
+                <surName>Chang</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.2</deliveryPoint>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Denis</givenName>
+                <surName>Mosquera</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <country>EC</country>
+            </address>
+                    </creator>
+            <pubDate>
+                    2023-07-18
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>Monitoring was carried out from November 2021 to February 2022.Diurnal monitoring was carried out, where traces of footprints of the nesting female allowed the registration of each nest; then the presence of eggs in the nest chamber was confirmed, the location of each egg was recorded by GPS and a sign was placed with the nest description (code, date of registration and estimated date of hatching, species).Following the recommendations of García Garduño, 2021, the beaches were categorised into three zones. - Zone 1 or Infralitoral, is the wet zone due to the high risk to the nests that will be affected by the sea. - Zone 2 or Mesolitoral, is the zone starting from the last high tide line, close to the vegetation. - Zone 3 or Supralittoral, is the upper area of the beach that usually has vegetation.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>The study was carried out on two beaches, located in the areas: Las Tunas (1°39́ 00,00 ́ S; 80° 49 ́14,88 ́ ́W), Puerto Rico (1°37 ́00,01 ́S; 80° 49 ́58,88 ́ ́W) and Ayampe (1°40 ́00.01 ́ S; 80° 49 ́00.12 ́ ́O).All the areas are bordered to the east by the Cordillera Chongón Colonche mountain range to the east and the Pacific Ocean to the west (Higuera et al., 2007). These sites are considered to be places of great ecological importance, due to their that they comprise terrestrial, estuarine and coastal marine environments.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.836</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-80.822</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-1.631</northBoundingCoordinate>
+                                <southBoundingCoordinate>-1.656</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-08-28</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2022-10-30</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Testudines</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>ANIMALIA</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Reptilia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cheloniidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Observation</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>The study was carried out on two beaches, located in the following areas: Las Tunas (1°39́ 00,00 ́ S; 80° 49 ́14,88 ́ ́W), Puerto Rico (1°37 ́00,01 ́S; 80° 49 ́58,88 ́ ́O) and Ayampe (1°40 ́00,01 ́ S; 80° 49 ́00,12 ́ ́W). All areas are bordered to the east by the Cordillera Chongón Colonche mountain range, and to the west by the Pacific Ocean (Higuera et al., 2007). These sites are considered to be places of great ecological importance, due to their that they comprise terrestrial, estuarine and coastal marine environments.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Monitoring was carried out from November 2021 to February 2022. 2022. Diurnal monitoring was carried out, where the traces of the nesting female&apos;s footprints allowed the recording of each nest. nesting female allowed the recording of each nest; then the presence of eggs in the nest chamber was confirmed. the presence of eggs in the nest chamber, the location of each nest was recorded by GPS and a sign with the description of the nest was The location of each nest was recorded by GPS and a sign was placed with the nest description (code, date of recording and estimated date of hatching, species estimated hatching date, species).</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project >
+                    <title>Influences of biotic and anthropological anthropological factors on the hatching success of Lepisdochelys olivacea</title>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>The study was carried out on two beaches, located in the following areas: Las Tunas (1°39́ 00,00 ́ S; 80° 49 ́14,88 ́ ́W), Puerto Rico (1°37 ́00,01 ́S; 80° 49 ́58,88 ́ ́O) and Ayampe (1°40 ́00,01 ́ S; 80° 49 ́00,12 ́ ́W). All areas are bordered to the east by the Cordillera Chongón Colonche mountain range, and to the west by the Pacific Ocean (Higuera et al., 2007). These sites are considered to be places of great ecological importance, due to their that they comprise terrestrial, estuarine and coastal marine environments.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Field phase Monitoring was carried out from November 2021 to February 2022. Diurnal monitoring was carried out, where the traces of footprints of the nesting female allowed the registration of each nest; then the presence of eggs in the nest chamber was confirmed, the location of each nest was recorded by GPS and a sign was placed with the nest description (code, date of registration and estimated hatching date, species). Following the recommendations of García Garduño, 2021, the beaches were categorised into three zones. 
+&lt;br&gt;
+- Zone 1 or Infralitoral, is the wet zone due to the high risk to the nests that will be affected by the sea. 
+&lt;br&gt;
+- Zone 2 or Mesolitoral, is the zone starting from the last high tide line, close to the vegetation. - Zone 3 or Supralittoral, is the upper area of the beach which is generally vegetated. 
+&lt;br&gt;
+&lt;b&gt;2.2.1 Relocation of nests &lt;/b&gt;
+&lt;br&gt;For the analysis of hatching success in relation to the type of nest management, in situ and relocated nests were considered. All relocated nests were located in zone 3, as this area is considered suitable for the development of nesting and is far from tidal influence zones. For the relocation of nests, the eggs were extracted manually, avoiding agitation and sudden movements in order to avoid losses due to handling, and then they were counted and placed in a clean plastic bag. Handling was done with latex gloves, avoiding contact with chemicals or substances that may be harmful to the eggs (Gilcar, 2021). The research permit MAAE-ARSFC-2021-1815 was used for this purpose. 
+&lt;br&gt;
+&lt;b&gt;2.2.2 Biotic and abiotic factors. &lt;/b&gt;
+&lt;br&gt;The influence of some biotic (vegetation, predation) and abiotic (temperature) factors on hatching success was analysed. Temperature and vegetation were analysed according to nest management. &lt;br&gt;
+&lt;b&gt;2.2.2.1 Temperature&lt;/b&gt;
+&lt;br&gt; Nest surface (sand) temperature was recorded in zones 2 and 3 (zone 1 discarded due to relocation to zone 3) using a ScanMed digital infrared thermometer, during three times of the day: at 06:00am, 12:00pm and 06:00pm. The equipment used was a non-contact thermometer for nest sand temperature and ambient temperature. &lt;br&gt;
+&lt;b&gt;2.2.2.2.2 Vegetation &lt;/b&gt;
+&lt;br&gt;Vegetation cover was assessed between certain study zones (zone 2 and 3) for each nest (in situ or relocated). The percentage of vegetation cover was taken, according to the following scheme: The grid established for each nest was 1m x 1m, which consisted of 49 quadrants representing 100%. &lt;br&gt;
+&lt;b&gt;2.2.2.3 Predators &lt;/b&gt;
+&lt;br&gt;To estimate the incidence of predators that disturb or destroy the nests (insects and mammals), whether introduced or native species, afternoon and evening monitoring was carried out three times a week. This monitoring was in addition to the daily diurnal monitoring. 
+&lt;br&gt;Each predation factor (dogs, crabs, fly larvae, mites, ants) was identified by their presence or absence in the nests through direct observations, footprints or evidence of their activity (digging, egg hollow, absence of soft parts in hatchlings).
+&lt;br&gt;Due to the high presence of fly larvae in the nests, van someren-rydon traps were placed near the surface of the nests in order to trap the diptera present for later identification. The collected specimens (diptera) were taken to the microscopy laboratory of the Faculty of Natural Sciences, their taxonomic identification was carried out using a stereomicroscope, using the dichotomous keys of: Carvalho and Mello-Patiu (2008) and Buenaventura et al., (2009). 
+&lt;br&gt;The specimens collected were deposited in the collection of the Museo de Zoología Pontifica Universidad Católica del Ecuador under research permit MAAE-ARSFC-2021-1304. 
+&lt;br&gt;
+&lt;b&gt;2.2.3 Nest exhumation process&lt;/b&gt;
+&lt;br&gt;
+Exhumations were carried out after the incubation process in situ was finished, waiting three to seven days after the first hatching, the purpose of this process is to analyse the state of the eggs inside the nest. Eggs were classified into: empty shells, dead hatchlings, live hatchlings, term embryos, unhatched eggs (undeveloped eggs and developed eggs) and depredated eggs (Miller, 2000). Developing eggs were classified according to Chacón et al. (2007) as: &quot;Embryo covers 0% to 25% of the egg amniotic cavity (Stage I), embryo covers 26% to 50% of the egg amniotic cavity (Stage ll), embryo covers 51% to 75% of the egg amniotic cavity (Stage lll) and embryo covers 76% to 100% of the egg amniotic cavity (Stage lv). After establishing the embryonic stage of each egg with apparent development, the presence of ants, roots, flies (larvae, adults), etc.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-17T00:07:11.497+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/vcm5ob">Guaman D, Loor-Cunalata D, Gallo-Pérez A, Delgado B, Zambrano R, Delgado M, Chang V, Mosquera D (2023). Monitoring turtle nesting in Las Tunas and influences of biotic and anthropological anthropological factors on the hatching success of Lepidochelys olivacea. Version 1.4. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/vcm5ob</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=tortugas-lastunas</resourceLogoUrl>
+                            <dc:replaces>30bbf3e1-e335-4e94-b028-bb1403aa1c85/v1.4.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

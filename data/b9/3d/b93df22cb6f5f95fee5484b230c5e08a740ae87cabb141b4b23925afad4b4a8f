@@ -1,0 +1,386 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=herbario-upec/v1.2" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario-upec</alternateIdentifier>
+                <title xml:lang="spa">Herbario MAT de la Universidad Politécnica Estatal del Carchi</title>
+                    <creator>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>UPEC</organizationName>
+            <positionName>Docente</positionName>
+            <address>
+                    <deliveryPoint>Av. Universitaria</deliveryPoint>
+                    <city>Tulcán</city>
+                    <administrativeArea>Carchi</administrativeArea>
+                    <postalCode>040102</postalCode>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>diego.caicedo@upec.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4422-5845</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>UPEC</organizationName>
+            <positionName>Docente</positionName>
+            <address>
+                    <deliveryPoint>Av. Universitaria</deliveryPoint>
+                    <city>Tulcán</city>
+                    <administrativeArea>Carchi</administrativeArea>
+                    <postalCode>040102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>2 984435</phone>
+            <electronicMailAddress>diego.caicedo@upec.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4422-5845</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>UPEC</organizationName>
+            <positionName>Docente</positionName>
+            <address>
+                    <deliveryPoint>Av. Universitaria</deliveryPoint>
+                    <city>Tulcán</city>
+                    <administrativeArea>Carchi</administrativeArea>
+                    <postalCode>040102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>062 984435</phone>
+            <electronicMailAddress>diego.caicedo@upec.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.upec.edu.ec/</onlineUrl>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4422-5845</userId>
+            <role>pointOfContact</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-05-04
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Colección de especies vegetales que usan las comunidades de la zona norte del Ecuador, las cuales tienen importancia alimenticia</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Metadata</keyword>
+                                    <keyword>herbario</keyword>
+                                    <keyword>UPEC</keyword>
+                                    <keyword>especies vegetales</keyword>
+                                    <keyword>Esmeraldas</keyword>
+                                    <keyword>Carchi</keyword>
+                                    <keyword>Imbabura</keyword>
+                                    <keyword>Sucumbíos</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Metadata</keyword>
+                                    <keyword>herbario</keyword>
+                                    <keyword>UPEC</keyword>
+                                    <keyword>especies vegetales</keyword>
+                                    <keyword>Esmeraldas</keyword>
+                                    <keyword>Carchi</keyword>
+                                    <keyword>Imbabura</keyword>
+                                    <keyword>Sucumbíos</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://www.upec.edu.ec/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Especies colectadas en la actualidad de las provincias de Carchi, Esmeraldas, Imbabura, Sucumbíos. A futuro se podrían realizar colectas de todo el Ecuador</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-92.197</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.146</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.582</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.135</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2021</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Calophyllaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Liliopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Malvales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Poaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Malvaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Boraginales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Caricaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Oxalidaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Fabaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lamiales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Myrtaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Urticaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Tracheophyta</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Lauraceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Moraceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cordiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Plantae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Arecales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Rutaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Ericales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Rosales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Fabales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Arecaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Magnoliopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Brassicales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Bignoniaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Sapotaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Sapindales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Laurales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Magnoliales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Poales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Malpighiales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Oxalidales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Musaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Anacardiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Myrtales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Annonaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Passifloraceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Zingiberales</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>Almacenar especies vegetales disecadas para fines educativos</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>Se hará inspecciones y mantenimiento del herbario cada semestre</para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Guillermo</givenName>
+                <surName>Jácome</surName>
+            </individualName>
+            <organizationName>UPEC</organizationName>
+            <positionName>Docente</positionName>
+            <address>
+                    <deliveryPoint>Av. Universitaria</deliveryPoint>
+                    <city>Tulcán</city>
+                    <administrativeArea>Carchi</administrativeArea>
+                    <postalCode>040102</postalCode>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>guillermo.jacome@upec.edu.ec</electronicMailAddress>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Se hizo la desinfección de las muestras con alcohol; se colocaron en papel y prensas para su transporte; se procedió a la deshidratación en secadores controlados; se procedió a montar en cartulinas especiales cumpliendo los estándares, se colocó las etiquetas con la información requerida, y se las coloca las muestras sobre carpetas en estanterías para su resguardo</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Carchi, Esmeraldas, Imbabura, Sucumbíos</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>El muestreo se realizó en las fincas de los miembros de las comunidades Afro y Awa, los cuales permitieron realizar las colectas de las especies vegetales con importancia alimenticia</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>Se hizo la preservación de las muestras colectadas con alcohol</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+                <project id="UPEC">
+                    <title>Herbario UPEC-Programa Mundial de Alimentos</title>
+                        <personnel>
+                            <individualName>
+                                    <givenName>Diego</givenName>
+                                <surName>Caicedo</surName>
+                            </individualName>
+                                        <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4422-5845</userId>
+                            <role>pointOfContact</role>
+                        </personnel>
+                        <abstract>
+                            <para>Herbario con colectas de la zona norte del Ecuador. Las colecciones se basan en aquellas que tienen una importancia alimenticia.</para>
+                        </abstract>
+                        <funding>
+                            <para>Estatal, y el apoyo del Programa Mundial de Alimentos</para>
+                        </funding>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Zona norte del Ecuador; Provincias de Carchi, Esmeraldas, Imbabura, Sucumbíos</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>El herbario se encuentra en la finca experimental Alonso Tadeo, propiedad de la Univeridad Politécnica Estatal del Carchi</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-04-06T09:25:47.580+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Caicedo D (2023). Herbario MAT de la Universidad Politécnica Estatal del Carchi. Version 1.2. Herbario MAT de la Universidad Politécnica Estatal del Carchi. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=herbario-upec&amp;v=1.2</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=herbario-upec</resourceLogoUrl>
+                                    <collection>
+                                            <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                                            <collectionIdentifier>https://www.gbif.org/es/grscicoll/collection/3a5d53d3-6fde-4285-a3c9-5cca768f4a54</collectionIdentifier>
+                                        <collectionName>Herbario MAT</collectionName>
+                                    </collection>
+                                    <specimenPreservationMethod>mounted</specimenPreservationMethod>
+                                    <specimenPreservationMethod>driedAndPressed</specimenPreservationMethod>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=herbario-upec/v1.2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

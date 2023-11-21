@@ -1,0 +1,274 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=japu-herpeto-hum/v1.0" system="http://gbif.org" scope="system"
+    xml:lang="eng">
+
+        <dataset>
+                <alternateIdentifier>10.60545/et8tdr</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-herpeto-hum</alternateIdentifier>
+                <title xml:lang="eng">Herpetofauna of the protective forest Cerro blanco during the rainy season</title>
+                    <creator>
+            <individualName>
+                    <givenName>Keyko</givenName>
+                <surName>Cruz-García</surName>
+            </individualName>
+            <organizationName>Universidad San Francisco de Quito</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0001-6480-2756</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Nadia</givenName>
+                <surName>Chauca</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Natalia</givenName>
+                <surName>Zapata-Salvatierra</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Enrique</givenName>
+                <surName>Cedeño</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Lisbeth</givenName>
+                <surName>Pluas</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+            <phone>+59398183434</phone>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0002-9205-5396</userId>
+                    </creator>
+            <pubDate>
+                    2023-07-18
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>40 species and 3078 individuals were found, distributed in two classes, four orders (two suborders), and 18 families (five subfamilies) in the 24 days of sampling. For the class Amphibia a total of 14 species were recorded, grouped into two orders: Anura (4 families, 9 genera and 13 spp.) and Gymnophiona (1 spp.). For the class Reptilia a total of 26 species were recorded, grouped into two orders: Squamata (lizards and snakes) and Testudines (turtles). The order Squamata was organised into two orders Sauria (lizards with 6 families, 10 genera and 12 spp.) and Serpentes (snakes with 4 families, 11 genera and 13 spp.). 
+</para>
+                            <para>In addition, the order Testudines (1 family, 1 genus, 1 spp.). Of the amphibian species found, according to the IUCN, one is in the Vulnerable category, one in the Near Threatened category, eight in the Least Concern category. On the other hand, in the red list of amphibians of Ecuador, three species are in the threat category, one is Endangered and two are Vulnerable. </para>
+                            <para>On the other hand, of the 26 reptile species, according to the IUCN, 14 are in the category of Least Concern and only one is in the Near Threatened category. On the other hand, according to the red list of reptiles of Ecuador, one species is Endangered, three species are Vulnerable, six species are Near Threatened, and 10 spp. are in the category of Least Concern.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>52 sampling points were carried out in the Cerro Blanco Protected Forest in the same way as in the previous phase of the project. These sampling points were divided into 4 sites (Caseta Jaguar, Caseta Pigío, Zona Turística and 507); and at each site 13 sampling points were carried out; 8 PMH: herpetofauna sampling points (quantitative) and 5 POH: herpetofauna observation points (qualitative). These sampling points had different ecosystem types to cover as many ecosystems as possible. These samplings were carried out for 6 days at each sampling site.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.087</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.975</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.128</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.182</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-05-22</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2022-05-25</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animal</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Reptilia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Leptodactylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Anura</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Squamata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Amphibia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dendrobatidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Colubridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>President</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Records by visual encounters (REV), Auditory Inspections (AI) and Observation and free walking tours</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>52 sampling points were carried out in the Cerro Blanco Protected Forest in the same way as in the previous phase of the project. These sampling points were divided into 4 sites (Caseta Jaguar, Caseta Pigío, Zona Turística and 507); and at each site 13 sampling points were carried out; 8 PMH: herpetofauna sampling points (quantitative) and 5 POH: herpetofauna observation points (qualitative). These sampling points had different ecosystem types to cover as many ecosystems as possible. These samplings were carried out for 6 days at each sampling site.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>The methodology used has been successfully employed in similar herpetological studies in the Ecuadorian Amazon and tropical rainforests (Duellman, 1978; Jaeger and Inger, 1994; Duellman &amp; Mendelson, 1995; Pearman, 1997); however, it has been modified in accordance with that proposed by Heyer and collaborators (1994).</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project >
+                    <title>Herpetofauna of the protective forest Cerro blanco during the rainy season</title>
+                        <abstract>
+                            <para>40 species and 3078 individuals were found, distributed in two classes, four orders (two suborders), and 18 families (five subfamilies) in the 24 days of sampling. For the class Amphibia a total of 14 species were recorded, grouped into two orders: Anura (4 families, 9 genera and 13 spp.) and Gymnophiona (1 spp.). For the class Reptilia a total of 26 species were recorded, grouped into two orders: Squamata (lizards and snakes) and Testudines (turtles). The order Squamata was organised into two orders Sauria (lizards with 6 families, 10 genera and 12 spp.) and Serpentes (snakes with 4 families, 11 genera and 13 spp.). 
+&lt;br&gt;
+In addition, the order Testudines (1 family, 1 genus, 1 spp.). Of the amphibian species found, according to the IUCN, one is in the Vulnerable category, one in the Near Threatened category, eight in the Least Concern category. On the other hand, in the red list of amphibians of Ecuador, three species are in the threat category, one is Endangered and two are Vulnerable. On the other hand, of the 26 reptile species, according to the IUCN, 14 are in the category of Least Concern and only one is in the Near Threatened category. 
+&lt;br&gt;
+On the other hand, according to the red list of reptiles of Ecuador, one species is Endangered, three species are Vulnerable, six species are Near Threatened, and 10 spp. are in the category of Least Concern.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>52 sampling points were carried out in the Cerro Blanco Protected Forest in the same way as in the previous phase of the project. These sampling points were divided into 4 sites (Caseta Jaguar, Caseta Pigío, Zona Turística and 507); and at each site 13 sampling points were carried out; 8 PMH: herpetofauna sampling points (quantitative) and 5 POH: herpetofauna observation points (qualitative). These sampling points had different ecosystem types to cover as many ecosystems as possible. These samplings were carried out for 6 days at each sampling site.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>The methodology used has been successfully employed in similar herpetological studies in the Ecuadorian Amazon and tropical rainforests (Duellman, 1978; Jaeger and Inger, 1994; Duellman &amp; Mendelson, 1995; Pearman, 1997); however, it has been modified in accordance with that proposed by Heyer and collaborators (1994). For this purpose, it was carried out:
+&lt;br&gt;
+&lt;b&gt;Records by visual encounters (REV)&lt;/b&gt;.
+&lt;br&gt;
+This is one of the most commonly used inventory techniques as it can be used to measure species composition, estimate relative abundance, habitat association and daily activity (Lips et al., 2001). This technique allows as many species as possible to be recorded in a short period of time. Transects were selected according to habitat in order to obtain as many records as possible. 
+&lt;br&gt;
+During this period, all active or visible herpetofauna was captured within each REV, which was observed from ground level to approximately three metres in height, both in the herbaceous vegetation and in the undergrowth, and four metres in a band, i.e. two metres on each side. 
+&lt;br&gt;
+The sampling unit is defined as a 60-minute walk, equivalent to one hour, along each of the line transects (8 transects per sampling site) with a length of approximately 150 metres in an assessment area of approximately 600 m2. The REVs were conducted in two periods, in the morning between 08:00 and 12:00 hours and in the evening between 19:00 and 23:00 hours.
+&lt;br&gt;
+The transects were delimited with tapes every 150 metres, which helped to record specific information on each individual and its activity, coordinate, time, location on the transect, height from the ground, substrate, behaviour and in situ photography. This technique was carried out with two researchers for each transect. 
+&lt;br&gt;
+To avoid species recounting, all active fauna were temporarily captured during the sampling and kept in plastic bags for amphibians and cloth bags for reptiles and taken to the camp. This also made it easier for the species to be photographed and correctly identified. After identification and at the end of sampling at each point, the individuals were returned to the place where they were found.
+&lt;br&gt;
+&lt;b&gt;Auditory Inspections (AI)&lt;/b&gt;
+&lt;br&gt;
+Simultaneously during the REVs, the technique of auditory inspections (AI) was carried out, which consisted of detecting the vocalisations of male frogs. This method can be effective for rapid estimation of frog and toad richness and abundance, as the observer does not have to waste time searching for individuals (Lips et al., 2001), is very useful for species that live in the canopy or depend on water for breeding and hide well to vocalise on the edges of marshes or in floodplains. Vocalisations that could not be identified in the field were recorded on digital audio recorders for later identification using the frog and toad song guides of Read (2000) and Ron et al. (2021). Surveys were conducted in two periods, in the morning between 08:00 and 12:00 hours and in the evening between 19:00 and 23:00 hours.
+&lt;br&gt;
+&lt;b&gt;Observation and free roaming&lt;/b&gt;
+&lt;br&gt;
+This is the most effective method for obtaining the greatest number of species in the shortest time; it consists of walks during the day or at night, in search of amphibians and reptiles, but without major rules for exploration (except for thoroughly checking all available microhabitats) (Angulo et al., 2006), these walks provide additional information on the richness, reproduction and ethology of the amphibians and reptiles present. The walks were conducted in two periods, in the morning, between 10:00 and 16:00 hours, and in the evening, between 19:00 and 23:00 hours.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-18T17:13:09.881+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/et8tdr">Cruz-García K, Chauca N, Zapata-Salvatierra N, Cedeño E, Pluas L, Barros-Diaz C, Pérez-Correa J (2023). Herpetofauna of the protective forest Cerro blanco during the rainy season. Version 1.0. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/et8tdr</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=herpeto-epocahumeda-cb</resourceLogoUrl>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

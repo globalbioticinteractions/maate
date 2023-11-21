@@ -1,0 +1,213 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mzuti-inv/v1.8" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-inv</alternateIdentifier>
+                <title xml:lang="spa">Museo de Ictiología de la Universidad Tecnológica Indoamérica (MZUTI)</title>
+                    <creator>
+            <individualName>
+                    <givenName>Ibon</givenName>
+                <surName>Tobes</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Curador de colección Ictiológica</positionName>
+            <address>
+                    <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+            <onlineUrl>http://www.uti.edu.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0001-5343-5014</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jordi</givenName>
+                <surName>Rivera</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Asistente técnico colección ictiológica del MZUTI</positionName>
+            <address>
+                    <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha </administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jordi.riveraa17@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.uti.edu.ec</onlineUrl>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Ibon</givenName>
+                <surName>Tobes</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Curador de colección Ictiológica</positionName>
+            <address>
+                    <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+            <onlineUrl>http://www.uti.edu.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0001-5343-5014</userId>
+                    </metadataProvider>
+                    <associatedParty>
+            <organizationName>Universidad Tecnológica Indoamérica</organizationName>
+            <address>
+                    <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha </administrativeArea>
+            </address>
+            <electronicMailAddress>lab_mzuti@outlook.com</electronicMailAddress>
+            <onlineUrl>http://www.uti.edu.ec</onlineUrl>
+                    <userId directory="http://www.wikidata.org/entity/">Q6156697</userId>
+            <role>custodianSteward</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-04-21
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>El objetivo del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI) es desarrollar y fomentar la investigación y conservación de la biodiversidad, en base al estudio de especímenes preservados, así como promover y facilitar la difusión de la información biológica en el ámbito científico, educativo y del público general.
+</para>
+                            <para>En la actualidad la colección ictiológica del MZUTI cuenta con más de 600 registros catalogados y sistematizados. Del total de especímenes preservados en la colección 86% están determinados taxonómicamente hasta nivel de especie y 14% hasta el nivel de género. </para>
+                            <para>En este recurso se comparte todos los registros de la colección de peces de agua dulce custodiados por el MZUTI.</para>
+                            <para>Los registros se encuentran distribuidos en 8 órdenes, 24 familias, 50 géneros y 71 especies identificadas.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Peces
+Ecuador
+Pichincha
+Cotopaxi
+Napo
+Pastaza
+Manabí
+Carchi</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Todos los registros biológicos son en Ecuador, siendo Pichincha, la provincia con mayor cantidad de registros  Museo (41,6% del total; 276 especímenes), seguida de la providencia de Napo (34,2%; 227 especímenes) y Cotopaxi (11,3%; 75 especímenes). Por otra parte, también otras provincias con registros son las provincias  son Pastaza, Imbabura, Manabí y Carchi, con un total de 86 especímenes que representan el 13% de los especímenes conservados en la colección.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.176</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-77.685</eastBoundingCoordinate>
+                                <northBoundingCoordinate>0.827</northBoundingCoordinate>
+                                <southBoundingCoordinate>-1.25</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Chordata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Actinopterygii</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Astroblepidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Siluriformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Ibon</givenName>
+                <surName>Tobes</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Curador de colección Ictiológica</positionName>
+            <address>
+                    <deliveryPoint>Machala y Sabanilla</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ibontobes@uti.edu.ec</electronicMailAddress>
+            <onlineUrl>http://www.uti.edu.ec</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0001-5343-5014</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Los especímenes fijados se almacenan en una solución de etanol al 70% y los datos asociados a cada muestra son sistematizados en una base de datos. La identificación taxonómica la realizan expertos de peces y son aceptadas por el curador de la colección.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Antes de ingresar a la colección permanente todas las muestras pasan por un período de cuarentena para evitar contaminación de agentes biológicos.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Los registros biológicos en la presente base de datos pertenecen a cuerpos de agua dulce del Ecuador.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>La colección del museo se mantiene con procedimientos estándar para el mantenimiento de especímenes de peces húmedos. Los especímenes se recolectan, se sacrifican y se montan en el campo para ingresar a la colección. En el laboratorio, los individuos son identificados y conservados en alcohol al 75% en recipientes de vidrio junto con una etiqueta con información de identificación taxonómica y un número de identificación asignado. La información asociada a los ejemplares como taxonomía, coordenadas, altitud, fecha de colecta y observaciones se recopila en una base de datos del MZUTI-Peces.te.</para>
+                            </samplingDescription>
+                        </sampling>
+                        <qualityControl>
+                            <description>
+                                <para>Los datos fueron validados y depurados con las herramientas informáticas recomendadas por el SiB Ecuador para comprobar la calidad de los datos.
+Los datos taxonómicos se actualizaron teniendo en cuenta Global Biodiversity Information Facility (GBIF) y FISHBASE: Sistema de información global de peces (http://www.fishbase.org/).</para>
+                            </description>
+                        </qualityControl>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-01-27T03:07:29.443+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>Tobes I, Rivera J (2023). Museo de Ictiología de la Universidad Tecnológica Indoamérica (MZUTI). Version 1.8. Museo de Zoología, Universidad Tecnológica Indoamérica (MZUTI). Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-inv&amp;v=1.8</citation>
+                                    <collection>
+                                            <collectionIdentifier>https://www.gbif.org/grscicoll/collection/d54fe1c7-2c7e-4d1c-b28e-e472084791fa</collectionIdentifier>
+                                        <collectionName>Colección Ictiológica del Museo MZUTI</collectionName>
+                                    </collection>
+                                <formationPeriod>2015 - Presente</formationPeriod>
+                                    <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mzuti-inv/v1.8.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

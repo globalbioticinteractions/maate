@@ -1,0 +1,303 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="61869cac-fb09-4ddf-89a7-f916b86b28ab/v1.3" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/9gjo1p</alternateIdentifier>
+                <alternateIdentifier>61869cac-fb09-4ddf-89a7-f916b86b28ab</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=japu-ento-bpcb</alternateIdentifier>
+                <title xml:lang="spa">Diversity and abundance of the entomofauna of the Bosque Protector Cerro Blanco, Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Andrea E.</givenName>
+                <surName>Narváez</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-5953-9233</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Anthony</givenName>
+                <surName>Albán</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ángel</givenName>
+                <surName>Bacilio</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Gabriel</givenName>
+                <surName>Brito</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Marissa</givenName>
+                <surName>Barreno</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Mauricio</givenName>
+                <surName>Macias</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                    <city>Guayaquil</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Julian</givenName>
+                <surName>Pérez-Correa</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                    <deliveryPoint>Cdla. Amazonas Mz.5 V.20</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>090204</postalCode>
+                    <country>EC</country>
+            </address>
+                    <userId directory="https://orcid.org/">0000-0002-9205-5396</userId>
+                    </creator>
+            <pubDate>
+                    2023-07-17
+            </pubDate>
+            <language>eng</language>
+                <abstract>
+                            <para>Dry season
+&lt;br&gt;
+A total of 4910 specimens were collected in the four areas sampled, corresponding to 97 species from three orders and 37 families. In the case of the order Coleoptera, 4664 specimens of 53 species belonging to 25 families were collected. Of the order Lepidoptera, 242 specimens were collected from 40 species classified in 9 families. From the order Odonata we collected 4 specimens of 4 species classified in 3 families). Two species of beetles were found in high abundance, Nitidulidae sp. in three zones: Caseta Jaguar, Caseta Pigio and Zona Turística; while Canthon subhyalinus was highly representative in Caseta Jaguar, Caseta Pigio and sector 507 and less abundant in Zona Turística.
+
+</para>
+                            <para>Rainy season
+&lt;br&gt;
+A total of 4726 specimens were collected, corresponding to 53 species of two orders and 12 families (8 families of Coleoptera and four families of Lepidoptera). In the case of the order Coleoptera, 4660 specimens were collected from 25 morphospecies and 9 species and 23 morphospecies. Of the order Lepidoptera, 61 specimens were collected, classified into 21 species. Canthon delicatulus and Canthon fuligidus were the two beetle species with the highest representation in all the areas sampled, 50% and 33% respectively of the samples obtained. The most abundant beetle families were Scarabaeidae, followed by Staphylinidae and Nitidulidae. Only two studies have evaluated the diversity of Coleoptera in the BPCB, so most of the species of the order are new records for the locality, with the exception of Scarabaeidae. In the case of the order Lipidoptera during the rainy season, six new records have been added (Hamadryas februa, Anthanassa sp, Taygetis sp, Ascia monuste, Automeris sp and aff Antigonus sp).</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>The present monitoring corresponds to the rainy season; 16 sampling points were established to monitor the Cerro Blanco Protected Forest. These sampling points were divided into four zones: Caseta Jaguar (9-13 April 2022) and Turismo (23-27 April 2022), 507 (6-10 May 2022) and Caseta Pigio (24-28 May 2022). In each zone, two sub-zones (replicas) were established, with two 500 m transects per sub-zone, selected according to the level of anthropic disturbance within the determined perimeter and classified as disturbed or conserved. To establish this criterion, the methodology implemented in the monitoring carried out during the dry season was taken into consideration. Three transects were established (conserved, disturbed and moderately disturbed), where no representative differences in abundance and composition of entomofauna were found between the sites with different levels of disturbance.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.092</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-79.973</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-2.126</northBoundingCoordinate>
+                                <southBoundingCoordinate>-2.181</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <temporalCoverage>
+                                        <rangeOfDates>
+                                                <beginDate>
+                                                    <calendarDate>2021-09-29</calendarDate>
+                                                </beginDate>
+                                            <endDate>
+                                                <calendarDate>2022-05-27</calendarDate>
+                                            </endDate>
+                                        </rangeOfDates>
+                                </temporalCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Coleoptera</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Arthropoda</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Insecta</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Nymphalidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Hesperiidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Erotylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Monotomidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Curculionidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pieridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Chrysomelidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Ononata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lepidoptera</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Coenagrionidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Cristian</givenName>
+                <surName>Barros-Diaz</surName>
+            </individualName>
+            <organizationName>Fundación para la Conservación e Investigación JaPu</organizationName>
+            <positionName>Coordinator</positionName>
+            <address>
+                    <deliveryPoint>Ciudad Olimpo</deliveryPoint>
+                    <city>Guayaquil</city>
+                    <postalCode>EC090150</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593981834342</phone>
+            <electronicMailAddress>diaz.cri@hotmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-0727-7996</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+                <project >
+                    <title>Diversity and abundance of the entomofauna of the Bosque Protector Cerro Blanco, Ecuador</title>
+                        <abstract>
+                            <para>Dry season
+&lt;br&gt;
+A total of 4910 specimens were collected in the four areas sampled, corresponding to 97 species from three orders and 37 families. In the case of the order Coleoptera, 4664 specimens of 53 species belonging to 25 families were collected. Of the order Lepidoptera, 242 specimens were collected from 40 species classified in 9 families. From the order Odonata we collected 4 specimens of 4 species classified in 3 families). Two species of beetles were found in high abundance, Nitidulidae sp. in three zones: Caseta Jaguar, Caseta Pigio and Zona Turística; while Canthon subhyalinus was highly representative in Caseta Jaguar, Caseta Pigio and sector 507 and less abundant in Zona Turística.
+&lt;br&gt;
+
+Rainy season
+&lt;br&gt;
+
+A total of 4726 specimens were collected, corresponding to 53 species of two orders and 12 families (8 families of Coleoptera and four families of Lepidoptera). In the case of the order Coleoptera, 4660 specimens were collected from 25 morphospecies and 9 species and 23 morphospecies. Of the order Lepidoptera, 61 specimens were collected, classified into 21 species. Canthon delicatulus and Canthon fuligidus were the two beetle species with the highest representation in all the areas sampled, 50% and 33% respectively of the samples obtained. The most abundant beetle families were Scarabaeidae, followed by Staphylinidae and Nitidulidae. Only two studies have evaluated the diversity of Coleoptera in the BPCB, so most of the species of the order are new records for the locality, with the exception of Scarabaeidae. In the case of the order Lipidoptera during the rainy season, six new records have been added (Hamadryas februa, Anthanassa sp, Taygetis sp, Ascia monuste, Automeris sp and aff Antigonus sp).</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>The present monitoring corresponds to the rainy season; 16 sampling points were established to monitor the Cerro Blanco Protected Forest. These sampling points were divided into four zones: Caseta Jaguar (9-13 April 2022) and Turismo (23-27 April 2022), 507 (6-10 May 2022) and Caseta Pigio (24-28 May 2022) (Figure 6.1). In each zone, two sub-zones (replicas) were established, with two 500 m transects per sub-zone, selected according to the level of anthropic disturbance within the determined perimeter and classified as disturbed or conserved. To establish this criterion, the methodology implemented in the monitoring carried out during the dry season was taken into consideration. Three transects were established (conserved, disturbed and moderately disturbed), where no representative differences in abundance and composition of entomofauna were found between the sites with different levels of disturbance.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Collection methods
+&lt;br&gt;
+
+The following quantitative methods were used to collect information on the entomofauna component: pitfall traps, Malaise traps and Van Someren-Rydon traps. For qualitative sampling, sweeps, foliage shaking and random hand trapping were used for each transect. The transects were placed at least 100 m apart, where 10 pitfall traps were placed, interspersed with pitfall traps with bait (decomposing shrimp) and trap plates (blue and yellow), at a distance of approximately 50 m between containers; soapy water was added to capture terrestrial insects, mainly beetles. In the tourist area, Sector 507 and Caseta Pigio, five pitfall traps without bait were added to maintain the number of traps established during the dry season.
+&lt;br&gt;
+
+One Malaise trap, with two collection bottles with ethyl acetate, was installed for each sub-zone and two Van Someren-Rydon traps with fruit and yeast bait; for each transect, one trap was placed in the canopy and one in the understorey (Devries et al., 1997). These traps were aimed at capturing flying insects, mainly Lepidoptera. The bait is aimed at fruit-eating organisms (Devries et al., 1997; Checa et al., 2009). The collected samples were transferred to paper envelopes for storage. Lepidoptera and scale-winged insects were dry preserved in tissue paper triangles.
+&lt;br&gt;
+
+Complementary sweeps were made to collect flying species, mainly Lepidoptera and Odonata. For occasional encounters and to capture arboreal and shrub species, foliage shaking was carried out along the transect. The last mentioned methods are only part of the diversity reports. Additionally, one light trap monitoring station was set up per site, this trap remained active for at least 1 hour.
+&lt;br&gt;
+
+Cabinet Phase&lt;br&gt;
+
+Laboratory and taxonomic identifications&lt;br&gt;
+
+Three focal groups are considered in this report: Coleoptera, Lepidoptera and Odonata. The collected individuals are morphotyped in a preliminary identification, which will be compared and validated at the most specific taxonomic level possible with specimens from museum collections. A Koolertron 4.3 inch Full Colour LCD Digital stereo microscope and group-specific taxonomic keys are used. Several specimens are mounted with entomological pins and placed in entomological boxes. Three specimens per morphospecies are prepared for the dry collection and the remaining individuals are preserved in 90% alcohol for the wet collection. Specimens were collected under permit MAE-SUIA-0437-CI and will be deposited in the INABIO entomology collection.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-07-14T03:36:21.662+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/9gjo1p">Narváez A E, Albán A, Bacilio Á, Brito G, Barreno M, Macias M, Barros-Diaz C, Pérez-Correa J (2023). Diversity and abundance of the entomofauna of the Bosque Protector Cerro Blanco, Ecuador. Version 1.3. Fundación para la Conservación e Investigación JaPu. Occurrence dataset. https://doi.org/10.60545/9gjo1p</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=entomofauna-bpcb</resourceLogoUrl>
+                            <dc:replaces>61869cac-fb09-4ddf-89a7-f916b86b28ab/v1.3.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,143 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="13974c14-21ea-4ca9-b3ab-a450e292a978/v1.2" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/ywvf8p</alternateIdentifier>
+                <alternateIdentifier>13974c14-21ea-4ca9-b3ab-a450e292a978</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2022-2764</alternateIdentifier>
+                <title xml:lang="spa">Composición florística del componente leñoso del bosque siempreverde montano bajo, del Refugio de Vida Silvestre El Zarza</title>
+                    <creator>
+            <individualName>
+                    <givenName>Karen</givenName>
+                <surName>Saritama Maldonado</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <address>
+                    <city>El Pangui</city>
+                    <administrativeArea>Zamora Chinchipe</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>http://www.uea.edu.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Yorly</givenName>
+                <surName>Paqui Poma</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <address>
+                    <city>El Pangui</city>
+                    <administrativeArea>Zamora Chinchipe</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>http://www.uea.edu.ec</onlineUrl>
+                    </creator>
+            <pubDate>
+                    2023-06-26
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>El Refugio de Vida Silvestre El Zarza tiene gran importancia biológica ya que cuenta con características ecológicas exclusivas y ambientes específicos que benefician la vida silvestre, sin embargo, la deforestación y las actividades mineras que se desarrollan en la
+zona de amortiguamiento de la reserva ha conllevado a que se genere la modificación del hábitat y la disminución de las poblaciones de muchas especies vegetales (Neill, 2005).</para>
+                            <para>El presente set de datos es parte del estudio de la diversidad y composición florística del componente leñoso del bosque siempreverde montano bajo del refugio, el cual fue realizado con el propósito de conocer el estado actual de la flora en la reserva, y fue elaborado mediante la autorización MAAE-ARSFC-2022-2764</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Samplingevent</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>montane forest</keyword>
+                                    <keyword>floristic composition</keyword>
+                                    <keyword>structural parameters</keyword>
+                                    <keyword>forest structure</keyword>
+                                    <keyword>structural profiles</keyword>
+                            <keywordThesaurus>UEA</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Refugio de Vida Silvestre El Zarza</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-78.772</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-78.442</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-3.65</northBoundingCoordinate>
+                                <southBoundingCoordinate>-4.16</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Karen</givenName>
+                <surName>Saritama Maldonado</surName>
+            </individualName>
+            <organizationName>Universidad Estatal Amazónica</organizationName>
+            <address>
+                    <city>El Pangui</city>
+                    <administrativeArea>Zamora Chinchipe</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>http://www.uea.edu.ec</onlineUrl>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+                <project id="MAAE-AESFC-2022-2764">
+                    <title>Composición florística del componente leñoso del bosque siempreverde montano bajo, del Refugio de Vida Silvestre El Zarza</title>
+                        <abstract>
+                            <para>La Amazonia ecuatoriana representa el 30% del territorio del país, contando con una privilegiada diversidad de flora y fauna. Los bosques ubicados en la provincia de Zamora Chinchipe, son ecosistemas muy diversos y valiosos por las funciones que cumplen, por lo tanto, es necesario caracterizar sus recursos para su manejo.
+&lt;br&gt;
+El presente trabajo tiene como objetivo determinar la diversidad y composición florística del bosque montano del Refugio de Vida Silvestre El Zarza. Se instalaron dos parcelas permanentes, cada una de 50 x 50m (2500 m2); se registró el diámetro (1.30) y altura de todos los individuos ≥ 10 cm. Se determinó el índice de Shannon-Weaver y Simpson, la densidad relativa (DR), dominancia relativa (DmR), frecuencia relativa (FR) e índice de valor de importancia (IVI); también se calculó el área basal y la estructura diamétrica. Se registraron 75 especies, pertenecientes a 34 géneros y 22 familias en 0,25 ha. 
+&lt;br&gt;
+Según el índice de Shannon, la diversidad para el bosque estudiado es alta (3,81). Las especies con mayor área basal son: Inga marginata (0,1 m²/ha), Alchornea floribunda (0,18 m²/ha), Protium sp (0,32 m²/ha), Sarcaulus vestitus (0,16 m²/ha) y Brosimum alicastrum (0,13 m²/ha). Con mayor volumen total tenemos a la especie Alchornea floribunda (2,71 m²/ha). Las especies con mayor IVI son: Wettinia aequatorialis, Nectandra sp y Nectandra cissiflora. La mayor cantidad de individuos se agruparon en las dos primeras clases diamétricas, reflejando una “J” invertida, característica de bosques en recuperación. El bosque montano estudiado es una muestra representativa de la diversidad florística de este tipo de bosque, y justifica su conservación bajo la categoría de manejo de refugio de vida silvestre.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>Refugio de Vida Silvestre El Zarza</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-06-21T17:48:31.700+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/ywvf8p">Saritama Maldonado K, Paqui Poma Y (2023). Composición florística del componente leñoso del bosque siempreverde montano bajo, del Refugio de Vida Silvestre El Zarza. Version 1.2. Universidad Estatal Amazónica. Samplingevent dataset. https://doi.org/10.60545/ywvf8p</citation>
+                                <physical>
+                                    <objectName>Composición florística del componente leñoso del bosque siempreverde montano bajo, del Refugio de Vida Silvestre El Zarza</objectName>
+                                    <characterEncoding>UTF-8</characterEncoding>
+                                    <dataFormat>
+                                        <externallyDefinedFormat>
+                                            <formatName>PDF</formatName>
+                                        </externallyDefinedFormat>
+                                    </dataFormat>
+                                    <distribution>
+                                        <online>
+                                            <url function="download">http://www.uea.edu.ec</url>
+                                        </online>
+                                    </distribution>
+                                </physical>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=maae-arsfc-2022-2764</resourceLogoUrl>
+                            <dc:replaces>13974c14-21ea-4ca9-b3ab-a450e292a978/v1.2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

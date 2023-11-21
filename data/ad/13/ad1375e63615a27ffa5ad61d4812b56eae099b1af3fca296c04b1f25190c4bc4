@@ -1,0 +1,143 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maae-arsfc-2023-2907/v2.2" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/cedaq2</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=maae-arsfc-2023-2907</alternateIdentifier>
+                <title xml:lang="spa">Riqueza y Abundancia de Reptiles Ofidios y Saurios en Bosque Protector Pablo López Oglán Alto Pastaza Ecuador</title>
+                    <creator>
+            <individualName>
+                    <givenName>Karen</givenName>
+                <surName>Padilla</surName>
+            </individualName>
+            <organizationName>Universidad Central del Ecuador</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+                    </creator>
+            <pubDate>
+                    2023-11-08
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>En el presente proyecto fueron registrados 60 individuos entre serpientes y saurios, pertenecientes a 9 familias, 18 géneros y 23 especies. Este recurso es parte del informe final del permiso &quot;MAAE-ARSFC-2023-2907&quot; del Ministerio del Ambiente Agua  y Transición Ecológica.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Checklist</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Derivedfromoccurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Reptiles</keyword>
+                                    <keyword>serpientes</keyword>
+                                    <keyword>lagartijas</keyword>
+                                    <keyword>bosque protector</keyword>
+                            <keywordThesaurus>UCE</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Bosque Protector Pablo López de Oglán Alto, Pastaza-Ecuador.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Karen</givenName>
+                <surName>Padilla</surName>
+            </individualName>
+            <organizationName>Universidad Central del Ecuador</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                    <city>Quito</city>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>klpadillab1@uce.edu.ec</electronicMailAddress>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Se establecieron 15 transectos de banda de 250 metros por 2 metros.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Se buscó especies de serpientes y lagartijas entre la hojarasca, bajo piedras, troncos, entre otros sustratos.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Cada individuo observado fue fotografiado dorso y/o lateralmente, a una distancia prudente de cada individuo.</para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Cada individuo fue registrado en una guía de campo.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>El Bosque Protector Pablo López de Oglán Alto, se encuentra ubicado en el cantón Arajuno, provincia de Pastaza, y cuenta con una extensión de 3.344 hectáreas de bosque primario.</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Se realizaron 15 transectos de banda de 250 metros por 2 metros, estos fueron separados entre sí por 50 metros. &lt;br&gt;
+Cada transecto fue recorrido por el centro, buscando especies de serpientes y lagartijas entre la hojarasca, bajo piedras, troncos, entre otros sustratos.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+                <project id="MAAE-ARSFC-2023-2907">
+                    <title>Riqueza y Abundancia de Reptiles Ofidios y Saurios en Bosque Protector Pablo López Oglán Alto Pastaza Ecuador</title>
+                        <abstract>
+                            <para>Los datos que se presentan aquí, son parte del proyecto de Titulación: &quot;Riqueza y Abundancia de Reptiles Ofidios y Saurios en Bosque Protector Pablo López Oglán Alto Pastaza Ecuador&quot;, como requisito para la obtención del Título de Bióloga de la Universidad Central del Ecuador. &lt;br&gt;
+Las observaciones descritas en este proyecto, fueron parte de una salida de campo de 30 días al Bosque Protector Pablo López de Oglán Alto, en los meses de abril y mayo de 2023. Se realizaron 15 transectos de banda de 250 metros por 2 metros de ancho.</para>
+                        </abstract>
+                        <studyAreaDescription>
+                            <descriptor name="generic"
+                                        citableClassificationSystem="false">
+                                <descriptorValue>El Bosque Protector Pablo López de Oglán Alto es un bosque simpreverde de tierras bajas.</descriptorValue>
+                            </descriptor>
+                        </studyAreaDescription>
+                        <designDescription>
+                            <description>
+                                <para>Es un estudio observacional.</para>
+                            </description>
+                        </designDescription>
+                </project>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2023-11-01T16:54:27.086+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/cedaq2">Padilla K (2023). Riqueza y Abundancia de Reptiles Ofidios y Saurios en Bosque Protector Pablo López Oglán Alto Pastaza Ecuador. Version 2.2. Universidad Central del Ecuador. Occurrence dataset. https://doi.org/10.60545/cedaq2</citation>
+                            <resourceLogoUrl>https://upload.wikimedia.org/wikipedia/commons/4/41/Escudo_de_la_Universidad_Central_del_Ecuador_-_Andr%C3%A9s_Agual.png</resourceLogoUrl>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=maae-arsfc-2023-2907/v2.2.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

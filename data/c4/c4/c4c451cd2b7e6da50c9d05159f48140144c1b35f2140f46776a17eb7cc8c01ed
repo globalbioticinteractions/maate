@@ -1,0 +1,216 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mzuti-herpetos/v1.3" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/9kckur</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzuti-herpetos</alternateIdentifier>
+                <title xml:lang="spa">Colección de Herpetología del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI)</title>
+                    <creator>
+            <individualName>
+                    <givenName>Diego</givenName>
+                <surName>Quirola</surName>
+            </individualName>
+            <organizationName>Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Asistente curatorial y de investigación</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>diegorquirola@gmail.com</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0001-9856-9585</userId>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>Mónica</givenName>
+                <surName>Páez-Vacas</surName>
+            </individualName>
+            <organizationName>Universidad Tecnológica Indoamérica</organizationName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>monicapaez@uti.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0003-2259-9619</userId>
+                    </metadataProvider>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Salazar-Valenzuela</surName>
+            </individualName>
+            <organizationName>Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Curador Herpetología</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>davidsalazar@uti.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-3874-7690</userId>
+                    </metadataProvider>
+            <pubDate>
+                    2023-05-31
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>El Museo de Herpetología de la Universidad Tecnológica Indoamérica (MZUTI) actualmente cuenta con más de 6000 especímenes catalogados y sistematizados.
+&lt;br&gt;
+Esta colección cuenta con una buena representatividad de especies colectadas en todas las provincias continentales del Ecuador.
+&lt;br&gt;
+En la colección se almacenan: Especímenes enteros en etanol 75%, Tejidos en etanol 96% y en RNAlater (criopreservados), huevos y renacuajos en formol 10%.
+&lt;br&gt;
+Las colecciones científicas del Museo de Herpetología de la Universidad Tecnológica Indoamérica (MZUTI) se encuentran disponibles con fines de investigación y están abiertas a investigadores tanto nacionales como internacionales.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Ecuador</keyword>
+                                    <keyword>Herpetología</keyword>
+                                    <keyword>Reptiles</keyword>
+                                    <keyword>Anfibios</keyword>
+                                    <keyword>Biodiversidad</keyword>
+                                    <keyword>Universidad Tecnológica Indoamérica</keyword>
+                                    <keyword>Universidad Indoamérica
+BIOCAMB</keyword>
+                            <keywordThesaurus>MZUTI</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://indoamerica.edu.ec/</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Los proyectos de investigación dentro del Museo de Herpetología de la Universidad Tecnológica Indoamérica (MZUTI) tienen un alcance nacional. Por lo que cuenta con muestras de especímenes de todo el país. Sin embargo, se han realizado un mayor número de colectas en las provincias de Pichincha, Napo, Azuay, Esmeraldas, El Oro, Cotopaxi, Loja, Pastaza, Sucumbíos, Morona Santiago y Zamora Chinchipe.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.947</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.146</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.362</northBoundingCoordinate>
+                                <southBoundingCoordinate>-4.916</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>La totalidad de los registros biológicos se encuentran clasificados en 1 filo, 2 clases, 2 órdenes, 10 familias, 28 géneros y 50 especies  diferentes.</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Aniliidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Colubridae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dendrobatidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Elapidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Hylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Leptodactylidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Plethodontidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Strabomantidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Teiidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Viperidae</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Salazar-Valenzuela</surName>
+            </individualName>
+            <organizationName>Universidad Tecnológica Indoamérica</organizationName>
+            <positionName>Curador Herpetología</positionName>
+            <address>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>davidsalazar@uti.edu.ec</electronicMailAddress>
+                    <userId directory="https://orcid.org/">0000-0002-3874-7690</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para>Búsqueda de individuos, o poblaciones, para cada especie de interés. Captura manual o con ganchos herpetológicos. </para>
+                                </description>
+                            </methodStep>
+                            <methodStep>
+                                <description>
+                                    <para>Los especímenes colectados son preservados en alcohol al 75%, tejidos preservados en alcohol al 95% para su posterior análisis molecular.</para>
+                                </description>
+                            </methodStep>
+                        <sampling>
+                            <studyExtent>
+                                <description>
+                                    <para>Ecuador continental</para>
+                                </description>
+                            </studyExtent>
+                            <samplingDescription>
+                                <para>Búsqueda de individuos, o poblaciones, para cada especie de interés. Captura manual o con ganchos herpetológicos.</para>
+                            </samplingDescription>
+                        </sampling>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-01-27T04:34:55.417+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/9kckur">Quirola D, Páez-Vacas M, Salazar-Valenzuela D (2023). Colección de Herpetología del Museo de Zoología de la Universidad Tecnológica Indoamérica (MZUTI). Version 1.3. Museo de Zoología, Universidad Tecnológica Indoamérica (MZUTI). Occurrence dataset. https://doi.org/10.60545/9kckur</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=mzuti-herpetos</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>19515b90-e326-468a-9efa-2ffb1a066a92</collectionIdentifier>
+                                        <collectionName>Herpetología de MZUTI</collectionName>
+                                    </collection>
+                                <formationPeriod>2018-Actualidad</formationPeriod>
+                                    <specimenPreservationMethod>alcohol</specimenPreservationMethod>
+                            <dc:replaces>http://patrimonio.ambiente.gob.ec/iptmae/resource?id=mzuti-herpetos/v1.3.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

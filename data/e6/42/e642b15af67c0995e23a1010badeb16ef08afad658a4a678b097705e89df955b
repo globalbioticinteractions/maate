@@ -1,0 +1,412 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="2fbc9433-5d8e-4c5b-a3a5-2cb85a6ba56d/v1.6" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>2fbc9433-5d8e-4c5b-a3a5-2cb85a6ba56d</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=plantas_jbre</alternateIdentifier>
+                <title xml:lang="spa">Plantas del Jardín Botánico Reinaldo Espinosa de la Universidad Nacional de Loja</title>
+                    <creator>
+            <individualName>
+                    <givenName>ANGEL MARCELO</givenName>
+                <surName>GUTIÉRREZ RIOFRIO</surName>
+            </individualName>
+            <organizationName>JARDÍN BOTÁNICO REINALDO ESPINOSA</organizationName>
+            <positionName>TECNICO</positionName>
+            <address>
+                    <deliveryPoint>KM 5 VIA A VILCABAMBA</deliveryPoint>
+                    <city>LOJA</city>
+                    <administrativeArea>LOJA</administrativeArea>
+                    <postalCode>110102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59397466829</phone>
+            <electronicMailAddress>angel.gutierrez@unl.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.unl.edu.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>ZHOFRE HUBERTO</givenName>
+                <surName>AGUIRRE MENDOZA</surName>
+            </individualName>
+            <organizationName>JARDÍN BOTÁNICO REINALDO ESPINOSA</organizationName>
+            <positionName>DIRECTOR</positionName>
+            <address>
+                    <deliveryPoint>KM 5 VIA A VILCABAMBA</deliveryPoint>
+                    <city>LOJA</city>
+                    <administrativeArea>LOJA</administrativeArea>
+                    <postalCode>110102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593986167048</phone>
+            <electronicMailAddress>zhofre.aguirre@unl.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.unl.edu.ec/</onlineUrl>
+                    </creator>
+                    <metadataProvider>
+            <individualName>
+                    <givenName>ANGEL MARCELO</givenName>
+                <surName>GUTIÉRREZ RIOFRIO</surName>
+            </individualName>
+            <organizationName>JARDÍN BOTÁNICO REINALDO ESPINOSA</organizationName>
+            <positionName>TÉCNICO</positionName>
+            <address>
+                    <deliveryPoint>KM 5 VIA A VILCABAMBA</deliveryPoint>
+                    <city>LOJA</city>
+                    <administrativeArea>LOJA</administrativeArea>
+                    <postalCode>110102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59397466829</phone>
+            <electronicMailAddress>angel.gutierrez@unl.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.unl.edu.ec/</onlineUrl>
+                    </metadataProvider>
+                    <associatedParty>
+            <individualName>
+                    <givenName>ZHOFRE HUBERTO</givenName>
+                <surName>AGUIRRE MENDOZA</surName>
+            </individualName>
+            <organizationName>JARDIN BOTANICO REINALDO ESPINOSA</organizationName>
+            <positionName>DIRECTOR</positionName>
+            <address>
+                    <deliveryPoint>kM 5 VÍA A VILCABAMBA</deliveryPoint>
+                    <city>LOJA</city>
+                    <administrativeArea>LOJA</administrativeArea>
+                    <postalCode>110102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593986167048</phone>
+            <electronicMailAddress>zhofre.aguirre@unl.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.unl.edu.ec/</onlineUrl>
+            <role>user</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-04-20
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>Plantas que se conservan en el Jardín Botánico Reinaldo Espinosa de la Universidad Nacional de Loja.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Plantas</keyword>
+                                    <keyword>Jardín</keyword>
+                                    <keyword>Botánico</keyword>
+                                    <keyword>Universidad</keyword>
+                                    <keyword>Loja</keyword>
+                            <keywordThesaurus>n/a</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Specimen</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                <additionalInfo>
+                    <para>Para los inicios del Jardín Botánico en la enseñanza se elaboró el inventario de las plantas, posteriormente y con medios digitales establecimos la Base de datos digital del JBRE, los mismos que han sido utilizados en numerosas investigaciones de trabajos de Pre y Post Grado y en la publicación de algunos artículos científicos.</para>
+                </additionalInfo>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">https://unl.edu.ec/investigacion/herbario-reinaldo-espinosa</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Las Plantas que se conservan en el Jardín Botánico en su gran mayoría provienen del Ecuador, existen algunas plantas de otros Países e incluso otros continentes que han llegado en condición de donaciones. Pero al ser una colección con más de 70 años de establecimiento no se tiene datos de información geográfica de las mismas, razón por la cual solo seleccionamos el espacio del Jardín Botánico Reinaldo Espinosa.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-80.991</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.103</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.801</northBoundingCoordinate>
+                                <southBoundingCoordinate>-5.135</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Bryophyta</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Boletaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Bryopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Ginkgoopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Pezizales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Pezizomicetes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Polytrichales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cladoniaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Tracheophyta</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Pinopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cycadaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Plantae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Equisetaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Salviniaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Blechnales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dennstaedtiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Polypodiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Morchellaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cupressaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Agaricaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pinaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Polypodiopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Ascomycota</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Pteridaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Polypodiales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Zingiberales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lecanorales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Fungi</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Liliopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Polytrichaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Dryopteridaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Cycadales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Parmeliaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Nephrolepidaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Araucariaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Agaricomycetes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Poliporales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Lycopodiales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Basidiomycota</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Equisetales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Boletales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Lycopodiaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Cycadopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Ginkgoaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Agaricales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Cyatheaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Pinales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Fomitopsidaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Cyatheales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Coniferopsida</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>family</taxonRankName>
+                                            <taxonRankValue>Zingiberaceae</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Salviniales</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Ginkgoales</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>- Faciltar las condiciones de un laboratorio natural para complementar la formación académica de los estudiantes de la Universidad Nacional de Loja.
+- Desarrollar programas de educación ambiental que despierten e impulsen el interés colectivo por la conservación de los recursos naturales.
+- Generar información mediante investigaciones para impulsar el manejo y conservación de la flora nativa y endémica de la región sur del Ecuador.
+-Mantener colecciones ex situ y quasi in situ de las especies nativas y endémicas amenazadas y que permitan su conservación.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para></para>
+                    </description>
+                    <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>ZHOFRE HUBERTO</givenName>
+                <surName>AGUIRRE MENDOZA</surName>
+            </individualName>
+            <organizationName>JARDÍN BOTÁNICO REINALDO ESPINOSA</organizationName>
+            <positionName>DIRECTOR</positionName>
+            <address>
+                    <deliveryPoint>KM 5 VIA A VILCABAMBA</deliveryPoint>
+                    <city>LOJA</city>
+                    <administrativeArea>LOJA</administrativeArea>
+                    <postalCode>110102</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+593986167048</phone>
+            <electronicMailAddress>zhofre.aguirre@unl.edu.ec</electronicMailAddress>
+            <onlineUrl>https://www.unl.edu.ec/</onlineUrl>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2022-03-14T09:34:58.760+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation>GUTIÉRREZ RIOFRIO A M, AGUIRRE MENDOZA Z H (2023). Plantas del Jardín Botánico Reinaldo Espinosa de la Universidad Nacional de Loja. Version 1.6. Jardín Botánico Reinaldo Espinosa UNL. Occurrence dataset. http://patrimonio.ambiente.gob.ec/iptmae/resource?r=plantas_jbre&amp;v=1.6</citation>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=plantas-jbre-unl</resourceLogoUrl>
+                                    <collection>
+                                            <collectionIdentifier>https://www.gbif.org/grscicoll/collection/a40a2b59-90b6-4268-bf91-335fe7690570</collectionIdentifier>
+                                        <collectionName>Plantas del Jardín Botánico Reinaldo Espinosa de la Universidad Nacional de Loja  </collectionName>
+                                    </collection>
+                                <formationPeriod>1949-PRESENTE</formationPeriod>
+                            <dc:replaces>2fbc9433-5d8e-4c5b-a3a5-2cb85a6ba56d/v1.6.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>

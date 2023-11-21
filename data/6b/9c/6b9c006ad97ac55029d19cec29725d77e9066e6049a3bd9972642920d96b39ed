@@ -1,0 +1,709 @@
+    <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+             xmlns:dc="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+             packageId="cc6854e9-f045-4dab-ab7b-75fbf2e98717/v2.10" system="http://gbif.org" scope="system"
+    xml:lang="spa">
+
+        <dataset>
+                <alternateIdentifier>10.60545/atqlo9</alternateIdentifier>
+                <alternateIdentifier>cc6854e9-f045-4dab-ab7b-75fbf2e98717</alternateIdentifier>
+                <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=varamientos-ecuador</alternateIdentifier>
+                <title xml:lang="spa">Registro de varamientos de megafauna marina en Ecuador continental</title>
+                    <creator>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho Sánchez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico, Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid 1159 y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59323987600</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-6430-1422</userId>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Leonardo</givenName>
+                <surName>Alonzo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>leonardo.alonzo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Yolanda</givenName>
+                <surName>Bazurto</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>yolanda.bazurto@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Raúl</givenName>
+                <surName>Coronel</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>alexis.coronel@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Sayli</givenName>
+                <surName>Hernández</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>saily.hernandez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ángel</givenName>
+                <surName>López</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>angel.lopez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jhonny</givenName>
+                <surName>Martínez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jhonny.martinez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Jennifer</givenName>
+                <surName>Montoya</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jennifer.montoya@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>José</givenName>
+                <surName>Murillo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>jose.murillo@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Miguel</givenName>
+                <surName>Pilay</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>miguel.pilay@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ronald</givenName>
+                <surName>Pincay</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ronald.pincay@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Orlin</givenName>
+                <surName>Quinde</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>orlin.quinde@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Nadia</givenName>
+                <surName>Quintero</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>nadia.quintero@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Héctor</givenName>
+                <surName>Rodríguez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>hector.rodriguez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Roberto</givenName>
+                <surName>Rosado</surName>
+            </individualName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>roberto.rosado@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Andrés</givenName>
+                <surName>Taffur</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>gustavo.taffur@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Beatriz</givenName>
+                <surName>Ladines</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Administrador de Área Protegida, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>beatriz.ladines@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Iliana</givenName>
+                <surName>Solorzano</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Administrador de Área Protegida, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+            </address>
+            <electronicMailAddress>iliana.solorzano@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Carlos</givenName>
+                <surName>Mendez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Administrador de Área Protegida, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+            </address>
+            <electronicMailAddress>carlos.mendez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Esther</givenName>
+                <surName>Palomino</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Administrador, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>esther.palomino@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Sebastián</givenName>
+                <surName>Alvarado</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Administrador, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>demetrio.alvarado@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Verónica</givenName>
+                <surName>Chipe</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>veronica.chipe@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Joel</givenName>
+                <surName>Ruano Nazareno</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>cesar.ruano@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Maria</givenName>
+                <surName>Fernández Correa</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y Otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>concepcion.fernandez@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Billy</givenName>
+                <surName>Soto</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>johnny.soto@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Pedro</givenName>
+                <surName>Cañola Angulo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>pedro.canola@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Ana</givenName>
+                <surName>Semisterra Lugo</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>ana.semisterra@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Carlos</givenName>
+                <surName>Cano</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico, Dirección Zonal 4</positionName>
+            <address>
+                    <administrativeArea>Manabí</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <electronicMailAddress>carlos.cano@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Solange</givenName>
+                <surName>Bolaños</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+            <onlineUrl>http://www.ambiente.gob.ec</onlineUrl>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Alex</givenName>
+                <surName>Borbor</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Cesar</givenName>
+                <surName>Soledispa</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Uvaldo</givenName>
+                <surName>Figueroa</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <city>Playas</city>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Sandro</givenName>
+                <surName>Obando</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Viviana</givenName>
+                <surName>Medina</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>David</givenName>
+                <surName>Ortíz</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Santa Elena</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Andrea</givenName>
+                <surName>Sosa</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Raul</givenName>
+                <surName>Pinargote</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Esmeraldas</administrativeArea>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Antonio</givenName>
+                <surName>Ampuño</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <creator>
+            <individualName>
+                    <givenName>Lilibeth</givenName>
+                <surName>Otero</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Guardaparque, Dirección de Áreas Protegidas y otras Formas de Conservación</positionName>
+            <address>
+                    <administrativeArea>Guayas</administrativeArea>
+                    <country>EC</country>
+            </address>
+                    </creator>
+                    <associatedParty>
+            <individualName>
+                <surName>Ministerio del Ambiente, Agua y Transición Ecológica</surName>
+            </individualName>
+            <organizationName>Autoridad Ambiental Nacional</organizationName>
+            <positionName>Subsecretaría de Patrimonio Natural</positionName>
+            <address>
+                    <deliveryPoint>Madrid 1159 y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59323987600</phone>
+            <electronicMailAddress>biodiversidad@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+            <role>owner</role>
+                    </associatedParty>
+            <pubDate>
+                    2023-09-06
+            </pubDate>
+            <language>spa</language>
+                <abstract>
+                            <para>En el año 2018, la Autoridad Ambiental Nacional de Ecuador oficializó el Protocolo de Respuesta a Varamientos de Especies Marinas, este documento fue elaborado con la finalidad de dar recomendaciones científico – técnicas específicas a cada situación que se presente en un varamiento localizado en zonas marino – costeras; en virtud, de que las situaciones son distintas dependiendo de la especie, condiciones de marea, lugar de varamiento, personal, medios disponibles, entre otros.</para>
+                            <para>Este dataset permite compartir la información recopilada de estos eventos por el personal en territorio para su uso en la generación de políticas públicas y toma de desiciones.</para>
+                            <para>Este set de datos recoge la información proporcionada desde el año 2015.</para>
+                </abstract>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                                    <keyword>Registro biológico</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                                    <keyword>Observación</keyword>
+                                    <keyword>varamientos</keyword>
+                                    <keyword>strandings</keyword>
+                                    <keyword>Océano Pacífico</keyword>
+                                    <keyword>pacific ocean</keyword>
+                                    <keyword>enmallamiento</keyword>
+                                    <keyword>megafauna marina</keyword>
+                                    <keyword>tortugas marinas</keyword>
+                                    <keyword>mamíferos marinos</keyword>
+                            <keywordThesaurus>Ministerio del Ambiente, Agua y Transición Ecológica</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Observation</keyword>
+                            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                        </keywordSet>
+                        <keywordSet>
+                                    <keyword>Occurrence</keyword>
+                            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                        </keywordSet>
+                <additionalInfo>
+                    <para>Existe información adicional correspondiente a datos morfométricos para ciertas ocurrencias disponibles bajo solicitud. 
+
+Esta información adicional no ha sido curada y no ha sido trasladada al estándar DwC.</para>
+                </additionalInfo>
+                <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+                </intellectualRights>
+                <distribution scope="document">
+                    <online>
+                        <url function="information">http://www.ambiente.gob.ec</url>
+                    </online>
+                </distribution>
+                <coverage>
+                        <geographicCoverage>
+                                <geographicDescription>Comprende las playas de la costa de Ecuador continental dónde se registran los eventos de varamiento.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-81.079</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-78.791</eastBoundingCoordinate>
+                                <northBoundingCoordinate>1.469</northBoundingCoordinate>
+                                <southBoundingCoordinate>-3.449</southBoundingCoordinate>
+                            </boundingCoordinates>
+                        </geographicCoverage>
+                                <taxonomicCoverage>
+                                        <generalTaxonomicCoverage>Se describen los taxones reportados a nivel de orden.</generalTaxonomicCoverage>
+                                        <taxonomicClassification>
+                                                <taxonRankName>kingdom</taxonRankName>
+                                            <taxonRankValue>Animalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>phylum</taxonRankName>
+                                            <taxonRankValue>Chordata</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Reptilia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Chondrichthyes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>class</taxonRankName>
+                                            <taxonRankValue>Mammalia</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Testudines</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Orectolobiformes</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Artiodactyla</taxonRankValue>
+                                        </taxonomicClassification>
+                                        <taxonomicClassification>
+                                                <taxonRankName>order</taxonRankName>
+                                            <taxonRankValue>Carnivora</taxonRankValue>
+                                        </taxonomicClassification>
+                                </taxonomicCoverage>
+                </coverage>
+                <purpose>
+                    <para>Este conjunto de datos se genera con la finalidad de compartir la información de fauna marina y marino-costera que ha sufrido eventos de varamientos o enmallamientos y han sido atendidos por el personal del Ministerio del Ambiente, Agua y Transición Ecológica en la costa de Ecuador continental.</para>
+                </purpose>
+                <maintenance>
+                    <description>
+                        <para>El conjunto de datos será actualizado periódicamente conforme se cuente con la información enviada desde terrotio.</para>
+                    </description>
+                    <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+                </maintenance>
+
+                    <contact>
+            <individualName>
+                    <givenName>Victor</givenName>
+                <surName>Chocho Sánchez</surName>
+            </individualName>
+            <organizationName>Ministerio del Ambiente, Agua y Transición Ecológica</organizationName>
+            <positionName>Técnico, Dirección de Biodiversidad</positionName>
+            <address>
+                    <deliveryPoint>Madrid 1159 y Andalucía</deliveryPoint>
+                    <city>Quito</city>
+                    <administrativeArea>Pichincha</administrativeArea>
+                    <postalCode>170525</postalCode>
+                    <country>EC</country>
+            </address>
+            <phone>+59323987600</phone>
+            <electronicMailAddress>victor.chocho@ambiente.gob.ec</electronicMailAddress>
+            <onlineUrl>https://www.ambiente.gob.ec/</onlineUrl>
+                    <userId directory="https://orcid.org/">0000-0002-6430-1422</userId>
+                    </contact>
+                <methods>
+                            <methodStep>
+                                <description>
+                                    <para></para>
+                                </description>
+                            </methodStep>
+                </methods>
+        </dataset>
+            <additionalMetadata>
+                <metadata>
+                    <gbif>
+                            <dateStamp>2021-06-18T01:53:33.178+00:00</dateStamp>
+                            <hierarchyLevel>dataset</hierarchyLevel>
+                                <citation identifier="https://doi.org/10.60545/atqlo9">Chocho Sánchez V, Alonzo L, Bazurto Y, Coronel R, Hernández S, López Á, Martínez J, Montoya J, Murillo J, Pilay M, Pincay R, Quinde O, Quintero N, Rodríguez H, Rosado R, Taffur A, Ladines B, Solorzano I, Mendez C, Palomino E, Alvarado S, Chipe V, Ruano Nazareno J, Fernández Correa M, Soto B, Cañola Angulo P, Semisterra Lugo A, Cano C, Bolaños S, Borbor A, Soledispa C, Figueroa U, Obando S, Medina V, Ortíz D, Sosa A, Pinargote R, Ampuño A, Otero L (2023). Registro de varamientos de megafauna marina en Ecuador continental. Version 2.10. Ministerio del Ambiente, Agua y Transición Ecológica - Ecuador. Occurrence dataset. https://doi.org/10.60545/atqlo9</citation>
+                            <bibliography>
+                                        <citation identifier="https://www.researchgate.net/publication/336722056_PROTOCOLO_DE_RESPUESTA_A_VARAMIENTOS_DE_ESPECIES_MARINAS_EN_ECUADOR">Ministerio del Ambiente. 2018. Protocolo de Respuesta a Varamientos de Especies Marinas (Cetáceos, Pinnípedos, Tortugas Marinas, Tiburones Ballena y Mantarrayas). Deutsche Gesellschaft für Internationale Zusammenarbeit – GIZ Ecuador. Quito: Ministerio del Ambiente.</citation>
+                                        <citation identifier="https://www.researchgate.net/publication/337063301_GUIA_PRACTICA_PROTOCOLO_DE_RESPUESTA_A_VARAMIENTOS_DE_ESPECIES_MARINAS_Cetaceos_Pinnipedos_Tortugas_Marinas_Tiburones_Ballena_y_Manta_rayas">MAE. 2019. Guía Práctica: “Protocolo de Respuesta a Varamientos de Especies Marinas (Cetáceos, Pinnípedos, Tortugas Marinas, Tiburones Ballena y Manta Rayas)”. Ministerio del Ambiente. Deutsche Gesellschaft für Internationale Zusammenarbeit – GIZ Ecuador. Guayaquil – Ecuador</citation>
+                            </bibliography>
+                            <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae/logo.do?r=monitoreo-tortugas-2020-2021</resourceLogoUrl>
+                                <formationPeriod>2015 - presente</formationPeriod>
+                            <dc:replaces>cc6854e9-f045-4dab-ab7b-75fbf2e98717/v2.1.xml</dc:replaces>
+                    </gbif>
+                </metadata>
+            </additionalMetadata>
+    </eml:eml>
